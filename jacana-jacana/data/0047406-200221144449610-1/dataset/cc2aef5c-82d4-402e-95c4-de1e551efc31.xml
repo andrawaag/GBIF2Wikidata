@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="cc2aef5c-82d4-402e-95c4-de1e551efc31"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/7h9xob</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=jacanidaenarosky</alternateIdentifier>
+        <alternateIdentifier>cc2aef5c-82d4-402e-95c4-de1e551efc31</alternateIdentifier>
+    <title>Aves Argentinas / Asociación Ornitológica del Plata - Colección de registros observacionales de aves silvestres argentinas - Lista Narosky: familia Jacanidae</title>
+    <creator>
+    <individualName>
+<givenName>Cecilia</givenName>          <surName>Maqueda</surName>
+    </individualName>
+<organizationName>Aves Argentinas - Asociación Ornitológica del Plata</organizationName><positionName>Voluntaria</positionName>    <address>
+<deliveryPoint>Matheu 1246</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><country>ARGENTINA</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ramiro Santiago</givenName>          <surName>Arrieta</surName>
+    </individualName>
+<organizationName>Aves Argentinas - Asociación Ornitológica del Plata</organizationName><positionName>Bibliotecario</positionName>    <address>
+<deliveryPoint>Matheu 1246</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><country>ARGENTINA</country>    </address>
+<phone>541149437216</phone><electronicMailAddress>biblioteca@avesargentinas.org.ar</electronicMailAddress><onlineUrl>http://www.avesargentinas.org.ar</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2015-07-22
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Lista de especies observadas de la familia Jacanidae por Tito Narosky.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Buenos Aires,Chaco,Córdoba,Corrientes,Entre Ríos,Formosa,Jujuy,Misiones,Salta y Santa Fe</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-67.66</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-52.58</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-24.34</northBoundingCoordinate>
+                      <southBoundingCoordinate>-39.8</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1967-11-05
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1991-10-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <contact>
+    <individualName>
+<givenName>Adrián</givenName>          <surName>Di Giacomo</surName>
+    </individualName>
+<organizationName>Aves Argentinas - Asociación Ornitológica del Plata</organizationName><positionName>Director científico</positionName>    <address>
+<deliveryPoint>Matheu 1246</deliveryPoint><city>Ciudad Autónoma de Buenos Aires</city><country>ARGENTINA</country>    </address>
+<phone>541149437216</phone><electronicMailAddress>digiacomo@avesargentinas.org.ar</electronicMailAddress><onlineUrl>http://www.avesargentinas.org.ar</onlineUrl>      </contact>
+
+      <project >
+          <title>Digitalización de datos de observaciones de aves silvestres de Argentina</title>
+          <personnel>
+    <individualName>
+<givenName>Adrián</givenName>          <surName>Di Giacomo</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation>Maqueda C, Arrieta R S (2015). Aves Argentinas / Asociación Ornitológica del Plata - Colección de registros observacionales de aves silvestres argentinas - Lista Narosky: familia Jacanidae. Version 1.1. Aves Argentinas. Occurrence dataset https://doi.org/10.15468/7h9xob accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

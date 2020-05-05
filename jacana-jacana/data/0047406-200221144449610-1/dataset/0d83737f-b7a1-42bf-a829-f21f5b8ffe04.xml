@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0d83737f-b7a1-42bf-a829-f21f5b8ffe04"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/y4zwb3</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=aves_</alternateIdentifier>
+    <title>Inventario y monitoreo de aves silvestres en tres humedales del departamento de Córdoba</title>
+    <creator>
+    <individualName>
+<givenName>Gina</givenName>          <surName>Nuñez Zabala</surName>
+    </individualName>
+<organizationName>CVS</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+<phone>7890609 etx. 218</phone><electronicMailAddress>gina.nunez@cvs.gov.co</electronicMailAddress><onlineUrl>http://www,cvs.gov.co</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Martinez</surName>
+    </individualName>
+<organizationName>CVS</organizationName><positionName>Funcionario</positionName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Martinez</surName>
+    </individualName>
+<organizationName>CVS</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>gina.nunez@cvs.gov.co</electronicMailAddress><onlineUrl>http://cvs.gov.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Martinez</surName>
+    </individualName>
+<organizationName>CVS</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+<phone>7890609 ext. 218</phone><electronicMailAddress>gina.nunez@cvs.gov.co</electronicMailAddress><onlineUrl>http://www.cvs.gov.co</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Martinez</surName>
+    </individualName>
+<organizationName>CVS</organizationName><positionName>Funcionario</positionName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+<phone>7890609 ext. 218</phone><electronicMailAddress>jorge.martinez@cvs.gov.co</electronicMailAddress><onlineUrl>http://www.cvs.gov.co</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-09
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Estos datos son producto de la elaboración del inventario y monitoreo para la detección temprana de la influenza aviar en aves silvestres en tres humedales priorizados del departamento de Córdoba.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Influenza</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Córdoba</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Monitoreo</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Humedales</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área de estudio se concentró en el departamento de Córdoba, donde se priorizaron tres humedales: Cispatá, Ayapel y Bañó, los cuales se encuentran al norte, sur y centro del departamento, respectivamente.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.333</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.773</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.411</northBoundingCoordinate>
+                      <southBoundingCoordinate>7.998</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-02-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-04-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Esta información será usada con fines académicos y/o investigativos, que permitan la generación y fomento del conocimiento y la toma de decisiones.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Martinez</surName>
+    </individualName>
+<organizationName>CVS</organizationName>    <address>
+<deliveryPoint>Cra 6 N° 61-25</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>00023</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jorge.martinez@cvs.gov.co</electronicMailAddress><onlineUrl>http://www.cvs.gov.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Con el fin de monitorear el virus de la influenza en aves, se eligieron sitios de muestreo en cada humedal priorizado, teniendo en cuenta los siguientes criterios:
+→ Especie priorizada para el monitoreo 
+→ Unidad de paisaje utilizada por las especies 
+→ Esfuerzo y método de muestreo para el conjunto de aves a muestrear 
+→ Calidad de la muestra acceso al sitio y cadena de frio de soporte a la muestra
+Este trabajo constituye una línea base para establecer la metodología y puntos de muestreo a utilizarse en un monitoreo futuro, que cubra las diferentes épocas climáticas y las temporadas de migración.
+La metodología seguida para este censo es la de puntos de conteo (Ralph et al., 1996), que consiste en buscar puntos en los humedales en los cuales se estacionan los equipos de conteo, y se realiza un barrido con binoculares y telescopio para determinar las especies y abundancias observadas dentro de un rango específico. 
+En cada una de las localidades se escogieron al menos cinco puntos de monitoreo
+distribuidos en un transecto cada 500 metros, o cuando las condiciones del humedal no lo permitían, separados por varios kilómetros, pero que mantuvieran las unidades de paisaje usadas por las especies priorizadas para este tipo de estudio.
+En cada uno de los puntos de conteo, se realizó un barrido circular durante 15 minutos, identificando y contando cada una de las especies al alcance de los binoculares, utilizando el telescopio cuando fue necesario para corroborar la identidad del espécimen.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio comprende tres humedales ubicados en el departamento de Córdoba: Cispatá, Ayapel y Bañó, los cuales se encuentran al norte, sur y centro del departamento, respectivamente, por lo que se cubre casi en su totalidad el área geográfica.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Con el fin de monitorear el virus de la influenza en aves, se eligieron sitios de muestreo en cada humedal priorizado, teniendo en cuenta los siguientes criterios:
+→ Especie priorizada para el monitoreo 
+→ Unidad de paisaje utilizada por las especies 
+→ Esfuerzo y método de muestreo para el conjunto de aves a muestrear 
+→ Calidad de la muestra acceso al sitio y cadena de frio de soporte a la muestra
+Este trabajo constituye una línea base para establecer la metodología y puntos de muestreo a utilizarse en un monitoreo futuro, que cubra las diferentes épocas climáticas y las temporadas de migración.
+La metodología seguida para este censo es la de puntos de conteo (Ralph et al., 1996), que consiste en buscar puntos en los humedales en los cuales se estacionan los equipos de conteo, y se realiza un barrido con binoculares y telescopio para determinar las especies y abundancias observadas dentro de un rango específico. 
+En cada una de las localidades se escogieron al menos cinco puntos de monitoreo
+distribuidos en un transecto cada 500 metros, o cuando las condiciones del humedal no lo permitían, separados por varios kilómetros, pero que mantuvieran las unidades de paisaje usadas por las especies priorizadas para este tipo de estudio.
+En cada uno de los puntos de conteo, se realizó un barrido circular durante 15 minutos, identificando y contando cada una de las especies al alcance de los binoculares, utilizando el telescopio cuando fue necesario para corroborar la identidad del espécimen.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Mientras se establecía la cantidad e identificación, se permanecía anotando cada uno de los registros, como soporte adicional se utilizó la grabadora de sonidos para grabar cada una de las sesiones de monitoreo por si surgía alguna duda o era necesario corroborar algún dato. Después se tomaban evidencias adicionales de los registros, y se hacía una pequeña práctica rápida de identificación con el ayudante para luego continuar hacia el otro punto de monitoreo.
+En cuanto al tamaño de la muestra, y para determinar el tamaño adecuado para el estudio, se estableció que para una confianza igual o mayor al 95% y
+prevalencias de 1,5, el tamaño ideal de la muestra debe ser de 200 individuos en el
+muestreo. Y para prevalencias de 0,1, el tamaño debe ascender a 3 000 individuos,
+algo difícil de conseguir en la práctica por el esfuerzo muestreal y el tiempo y recursos necesarios.
+En este estudio se hizo un muestreo al azar estratificado, que es preferible al muestreo
+al azar simple por que el ambiente a muestrear es heterogéneo y la probabilidad de
+encontrar individuos es diferente en las distintas partes del hábitat (Martella et al.,
+2012), y al conocer el comportamiento de muchas de las aves priorizadas, se pueden
+seleccionar aquellas unidades de paisaje donde son más frecuentes</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="Convenio 031- 2015">
+          <title>Inventario y el monitoreo de aves silvestres para la prevención de la influenza aviar en tres humedales del departamento de Córdoba</title>
+          <personnel>
+    <individualName>
+<givenName>Fundacion</givenName>          <surName>Omacha</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Este estudio tuvo como objetivo principal la elaboración de inventario y monitoreo para la detección temprana de la influenza aviar en aves silvestres en tres humedales priorizados del departamento de Córdoba (Ciénaga de Bañó, Bahía de Cispatá y Ciénaga de Ayapel).</para>
+          </abstract>
+          <funding>
+              <para>Convenio 031 de 2015 celebrado entre la Corporación Autónoma Regional de los Valles del Sinú y del San Jorge CVS y la Fundación Omacha.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio comprende tres humedales ubicados en el departamento de Córdoba: Cispatá, Ayapel y Bañó, los cuales se encuentran al norte, sur y centro del departamento, respectivamente, por lo que se cubre casi en su totalidad el área geográfica.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Con el fin de monitorear el virus de la influenza, se eligieron sitios de muestreo en cada humedal priorizado, teniendo en cuenta los siguientes criterios:
+→ Especie priorizada para el monitoreo 
+→ Unidad de paisaje utilizada por las especies 
+→ Esfuerzo y método de muestreo para el conjunto de aves a muestrear 
+→ Calidad de la muestra acceso al sitio y cadena de frio de soporte a la muestra
+Este trabajo constituye una línea base para establecer la metodología y puntos de
+muestreo a utilizarse en un monitoreo futuro, que cubra las diferentes épocas climáticas y las temporadas de migración.
+La metodología seguida para este censo es la de puntos de conteo (Ralph et al., 1996), que consiste en buscar puntos en los humedales en los cuales se estacionan los equipos de conteo, y se realiza un barrido con binoculares y telescopio para determinar las especies y abundancias observadas dentro de un rango específico. 
+En cada una de las localidades se escogieron al menos cinco puntos de monitoreo
+distribuidos en un transecto cada 500 metros, o cuando las condiciones del humedal no lo permitían, separados por varios kilómetros, pero que mantuvieran las unidades de paisaje usadas por las especies priorizadas para este tipo de estudio.
+En cada uno de los puntos de conteo, se realizó un barrido circular durante 15 minutos, identificando y contando cada una de las especies al alcance de los binoculares, utilizando el telescopio cuando fue necesario para corroborar la identidad del espécimen.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:49Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/y4zwb3">Nuñez Zabala G, Martinez J (2018). Inventario y monitoreo de aves silvestres en tres humedales del departamento de Córdoba. CVS - Corporación Autónoma Regional de los Valles del Sinú y del San Jorge-. Occurrence dataset https://doi.org/10.15472/y4zwb3 accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-cvs.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d87e8fe8-0746-479c-bdfb-3db6857ab24b"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/0w6g9f</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=czut-or</alternateIdentifier>
+        <alternateIdentifier>10.15468/pmried</alternateIdentifier>
+        <alternateIdentifier>d87e8fe8-0746-479c-bdfb-3db6857ab24b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=czut-or</alternateIdentifier>
+    <title>Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología</title>
+    <creator>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Losada Prado</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta Bloque 13</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>0382771212 Ext 9343</phone><electronicMailAddress>slosada@ut.edu.co</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Jessica Nathalia</givenName>          <surName>Sanchéz Guzmán</surName>
+    </individualName>
+<organizationName>Universidad  del Tolima</organizationName><positionName>Estudiante de maestría</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta Bloque 13</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>0382771212 Ext 9343</phone><electronicMailAddress>jnsanchez@ut.edu.co</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Cristhian David</givenName>          <surName>Gaitán García</surName>
+    </individualName>
+<organizationName>Universidad  del Tolima</organizationName><positionName>Estudiante de maestría</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta Bloque 13</deliveryPoint><city>Ibagué</city><country>COLOMBIA</country>    </address>
+<phone>0382771212 Ext 9343</phone><electronicMailAddress>cdgg89@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Losada Prado</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta Bloque 13</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>0382771212 Ext 9343</phone><electronicMailAddress>slosada@ut.edu.co</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-08-14
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La Colección Ornitológica de la Universidad del Tolima inicio en el año 2004 a través de diversos proyectos, albergando de esta manera ejemplares representativos del Alto Valle del Magdalena y en menor medida ejemplares provenientes de otras regiones de Colombia.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>Ornitología</keyword>
+              <keyword>Alto Valle del Magdalena</keyword>
+              <keyword>Tolima.</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>CZUT-OR cuenta con ejemplares colectados principalmente en el Alto Valle del Magdalena y en otras localidades del país tales como Antioquia, Boyacá, Nariño, Vichada, Meta, Valle del Cauca, Caldas, Risaralda y Magdalena.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-78.205</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-68.141</eastBoundingCoordinate>
+                      <northBoundingCoordinate>7.852</northBoundingCoordinate>
+                      <southBoundingCoordinate>1.104</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2003-03-14
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-01-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La CZUT-OR esta representada por 21 órdenes de aves, 52 familias y 381 especies. A continuación se relaciona los órdenes de aves registrados en la CZUT-OR</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podicipediformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Steatornithiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Losada Prado</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta Bloque 13</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>0382771212 Ext 9343</phone><electronicMailAddress>slosada@ut.edu.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los individuos son colectados en las redes de niebla, estas aves colectadas se les realizaron una preparación de piel redonda en campo para su conservación a través de técnicas de taxidermia, registrando los atributos de peso, sexo, tamaño de las gónadas, coloración de las gónadas, porcentaje de osificación craneal, número de colector, número de catálogo y comentarios. 
+La preparación de una piel para estudio es el tipo de montaje de especímenes más utilizado en ornitología, representando la base de casi toda la taxonomía a nivel de género, especie y subespecie. Un ejemplar debidamente montado permite realizar en el casi todas las medidas morfológicas que son importantes en taxonomía y ecología, preservando sus colores con el debido cuidado, garantizando la calidad de los datos que acompañen al espécimen. 
+Al colectar un espécimen y previo a su preparación es necesario registrar los colores de las partes blandas (iris, pico, tarsos, partes de piel desnuda) y su biometría (culmen, rictus, cuerda alar, longitud de los tarsos, longitud de las rectrices, longitud total y peso) y condición física (desgaste de vuelo, protuberancia cloacal, muda, osificación, edad y sexo). Si deja pasar tiempo, los colores de las partes blandas cambian en el tiempo, perdiendo atributos particulares en un ejemplar. Posteriormente, los individuos preparados son catalogados en el libro de colección y se elabora etiqueta para el ejemplar, con los datos de la localidad donde fue colectado, el colector, el hábitat, la fecha de colecta, colores de las partes blandas, la biometría, condición física y otros datos obtenidos del ejemplar.
+Para preparar una piel de estudio no es necesario tener muchas herramientas. Sin embargo, para una preparación adecuada es necesario contar con los siguientes materiales: una hoja de bisturí, tijeras grandes y pequeñas, pinzas, hilo de material resistente, agujas para coser, un rollo de algodón, una vara o palo delgado y resistente. Por lo anterior, una buena preparación se lleva a cabo de la siguiente forma:
+•	La preparación de las pieles se lleva a cabo a través de la separación de las plumas del vientre para despejar la quilla y la zona cloacal. Se realiza una incisión no muy profunda por toda la quilla hasta la cloaca. Retirar la piel cuidadosamente en diferentes partes del cuerpo usando la cánula o unas pinzas. Durante este proceso se cortará la coyuntura entre el fémur y la tibia, limpiado el músculo de la tibia hasta la coyuntura del tarso. Al seguir separando la piel, se corta la unión del húmero y del cúbito-radio, retirando tejido muscular del cúbito-radio. Para desprender la piel, por último, se realiza un corte en la parte caudal, por encima de las glándulas uropigiales, esto con el fin de evitar que se desprendan las plumas de las rectrices sin olvidar que hay que retirar tejido muscular sobrante, liberando en su totalidad el cuerpo de la piel.
+•	Después se separa la piel del cráneo con cuidado justo delante de la unión de la mandíbula con el cráneo. Con la piel liberada del cráneo, se procede retirar los globos oculares de la cavidad craneal sin romperlos y así evitar que las plumas o el cráneo se mojen con el humor vítreo. Después se retira la lengua tomándola desde la parte trasera y halándola hacia atrás. Se corta la articulación paralela a los maxilares del cráneo con unas tijeras, sin dañar la integridad de la unión de la mandíbula con el cráneo, liberando el cráneo definitivamente. Sin embargo, es necesario quitar restos de músculo de las mandíbulas y el cerebro para evitar que descompongan la piel y la deterioren, con un algodón limpie los restos de sangre y demás tejido para tener finalmente el cráneo limpio.
+
+•	Antes de devolver la piel, se hace dos bolas de algodón de tamaño similar a los ojos del ave para introducirlos en las cavidades oculares. Ahora es tiempo de devolver la piel por encima del cráneo para cubrirlo en su posición inicial, hay que tener en cuenta si la piel esta seca antes de devolverla, tomar un algodón humedecido y humectar la piel para que sea manipulable y devuelva sin dificultad a la posición inicial. Una vez que tenga devuelta la piel sobre el cráneo, avance hasta que sea visible el pico y tomarlo con firmeza y halarlo hasta devolver completamente la piel y arreglando las bolas de algodón de los globos oculares en su sitio.
+•	El siguiente paso es amarrar una cuerda entre los huesos (cúbito-radio) en las dos extremidades, procurando que quede a la distancia entre las escapulas del ave, con el fin que queden en una posición lo más “natural” posible. Ahora con un palo delgado se realiza el cuerpo del ave con algodón, similar al original. Es necesario introducir el cuerpo de algodón dentro de la piel del ave utilizando la cánula como guía e insertar el palo en la base interna del cráneo al nivel del nacimiento de la maxila, enterrándolo firmemente en su sitio, sin salir del cráneo ni atravesar el pico.
+•	Acomodar la piel restante del ave por encima del cuerpo de algodón y empezar a coser la piel con puntadas en zigzag hasta llegar a la cloaca y procurando que la piel quede totalmente cerrada. Cuando llegue a este punto hacer una o dos puntadas por encima del pigostilo y por debajo del palo para sostener firmemente la cola del ave.
+•	Finalmente arreglar el plumaje del ave para que tenga la apariencia natural, acomodando las alas por encima de las rectrices, esto permite hacer en el futuro hacer mediciones o estudios taxonómicos en la piel. Se procede hacer una camisa de algodón desde la cabeza hasta la parte media del cuerpo para que el plumaje quede “alisado”. Finalmente se amarran los tarsos cruzados alrededor del palo y con la respectiva etiqueta amarrada algunos de los tarsos, procediendo a llevarlo a una estufa para secar el ejemplar preparado y quedar listo para ser ingresado a la colección.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Departamentos Como Tolima, Huila, Antioquia, Boyacá, Caldas, Magdalena, Meta, Nariño, Risaralda, Valle del Cauca, Vichada.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se realizaron la instalación de redes de niebla (12x2.5 m, 32 mm de ojo de malla), sostenidas por varillas de aluminio; las redes se abrieron en línea, operándolas durante una sesión de 7 horas (06:00 -11:00 horas y 15:30-17:30 horas).  Los individuos capturados son depositados en bolsas de tela y posteriormente se determinan hasta el nivel de especie, registrando los datos en fichas de campo con los siguientes atributos: localidad, coordenadas, altitud, fecha, número de captura, determinación taxonómica, coloración de las partes blandas (iris, patas, pico, partes de piel desnuda), sexo, edad, estado reproductivo, cantidad de grasa en la fúrcula y flancos, y estado del plumaje. Además, se registran las medidas morfométricas de peso, culmen, rictus, longitud de la cola, longitud del tarso y longitud del ala y longitud total.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="CZUT-OR">
+          <title>Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología</title>
+          <personnel>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Losada</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:48Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/0w6g9f">Losada Prado S, Sanchéz Guzmán J N, Gaitán García C D (2019). Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología. Version 2.2. Universidad del Tolima. Occurrence dataset https://doi.org/10.15472/0w6g9f accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/IPT/img/logos/ut.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>CZUT</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones: 156</collectionIdentifier>
+                <collectionName>Colección Zoológica de la Universidad del Tolima (CZUT)-Ornitología</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Individuo</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>1,504</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

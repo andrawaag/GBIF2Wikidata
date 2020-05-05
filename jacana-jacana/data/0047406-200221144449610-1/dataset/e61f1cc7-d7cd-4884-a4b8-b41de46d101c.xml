@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e61f1cc7-d7cd-4884-a4b8-b41de46d101c"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/bh7clv</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=cuencariocalamar</alternateIdentifier>
+    <title>Caracterización de Flora y Fauna en la cuenca del río Calamar, municipios de Bolívar y Trujillo, Valle del Cauca</title>
+    <creator>
+    <individualName>
+<givenName>Karolina</givenName>          <surName>Fierro Calderon</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora del proyecto</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>karofica@gmail.com</electronicMailAddress><onlineUrl>https://calidris.org.co/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Karolina</givenName>          <surName>Fierro Calderon</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora del proyecto</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>karofica@gmail.com</electronicMailAddress><onlineUrl>https://calidris.org.co/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Karolina</givenName>          <surName>Fierro Calderon</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora del proyecto</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>karofica@gmail.com</electronicMailAddress><onlineUrl>https://calidris.org.co/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Marlyn Gineth</givenName>          <surName>Zuluaga Egas</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Bióloga encargada de la caracterización de mamíferos</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>marzuluaga1493@gmail.com</electronicMailAddress><onlineUrl>http://calidris.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mauricio Alberto</givenName>          <surName>Correa Salazar</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Biólogo encargado de la caracterización de herpetos</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>maocorrea11@gmail.com</electronicMailAddress><onlineUrl>http://calidris.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Teresa</givenName>          <surName>Cano</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Bióloga encargada de la caracterización de flora</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>tecapa27@gmail.com</electronicMailAddress><onlineUrl>http://calidris.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sandra</givenName>          <surName>Giraldo</surName>
+    </individualName>
+<organizationName>Corporación Ecofuturo</organizationName><positionName>Coordinadora del proyecto</positionName>    <address>
+<city>Bolívar</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3122938782</phone><electronicMailAddress>ecofuturo.ecofuturo@gmail.com</electronicMailAddress>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-22
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Entre febrero y marzo del 2018 se llevaron a cabo las salidas de campo del convenio N° 001-2018 entre la Corporación Ecofuturo y la Asociación Calidris, con el objetivo de caracterizar las especies de fauna y flora presentes en la cuenca del río Calamar. Durante dichas salidas de campo se registraron todas las especies de mamíferos, aves, anfibios y reptiles capturados y observados. Esta base de datos es la consolidación de todos los listados en cinco localidades en las veredas Cedrales, Punta Larga, Guacas, La Soledad y San Isidro, municipios de Bolívar y Trujillo. Además se colectaron e identificaron especies vegetales en tres localidades (Guacas, Punta Larga y Cedrales)</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El municipio de Bolívar, se encuentra ubicado en la región Centro-Norte del Valle del Cauca, limita al Norte con los municipios El Dovio y Roldanillo, al Sur con el municipio de Trujillo, por el Oriente con los municipios de Bugalagrande y Zarzal y al Occidente con el departamento del Chocó. Las veredas visitadas están ubicadas en un gradiente altitudinal entre los 1465 y los 2087 msnm, que corresponde a bosque subandino</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.329</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.252</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.33</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.266</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-02-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-03-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El conjunto de datos contiene información de 20 especies de mamíferos, 184 especies de aves, 15 especies de herpetos y 491 de flora</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                          <commonName>Mono aullador</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Karolina</givenName>          <surName>Fierro Calderon</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora del proyecto</positionName>    <address>
+<deliveryPoint>Cra 24 No. 4-20 Miraflores</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>karofica@gmail.com</electronicMailAddress><onlineUrl>https://calidris.org.co/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Durante las salidas de campo se utilizaron tres metodologías para el registro de mamíferos. Se instalaron 10 cámaras trampa, dos por cada localidad y se dejaron funcionando las 24 horas durante un mes aproximadamente. Se abrieron seis redes de niebla durante dos noches por cada localidad, desde las 17:00 hasta las 24:00 revisando cada hora las redes, lo que se capturaba se identificaba y se liberaban posteriormente. Por último, se hicieron recorridos diurnos durante cinco días, de aproximadamente dos horas y durante los 10 días del muestreo con redes de niebla, se hacian observaciones entre las revisiones.
+Herpetos: Se realizó una campaña de muestreo entre los días 3 al 14 de febrero del 2018 en 6 localidades de la cuenca del río Calamar. Para el registro de la hepetofauna, se realizaron trayectos de libre movilización modulados por el tiempo. Se realizaron un total de 13 trayectos en los cueles fueron empleados 4 horas/hombre, entre las 7 y las 11 pm y fueron visitados diferentes elementos del paisaje como interior y borde de bosque, cañada y zonas de potreros. A cada individuo capturado se tomaron datos como la hora del encuentro, el sustrato, la altura con respecto al suelo (Ranas posadas en hojas), tipo de vegetación, y elemento del paisaje.
+Aves: seleccionamos seis localidades con 10 sitios o puntos de muestreo que incluyeron diferentes elementos del paisaje, como potreros con rastrojo, fragmentos de bosques y bosques de cañada. Los sitios o puntos de muestreo estuvieron separados por un mínimo de 150 m y abarcaron un radio de 50 m. En estos puntos hicimos grabaciones de cantos y llamadas de las aves por 10 min durante dos días consecutivos, así como también registros visuales. Calculamos un total de 200 min de grabaciones por cada localidad, además de las observaciones directas realizadas desde las 6 am hasta las 11 am.
+Flora: seguimos el método propuesto por Gentry en 1982. El método consiste en realizar transectos que incluyen 10 parcelas de 2 x 50 m, distanciadas por lo menos 20 m una de otra. Dentro de estas parcelas se registran todos los individuos (arbustos, árboles, lianas e hierbas) con un diámetro a la altura del pecho (DAP) superior a 2,5 cm. De esta manera, seleccionamos los fragmentos de bosque de mayor tamaño en cada localidad ubicados a diferentes elevaciones y en cada localidad realizamos tres transectos de muestreo. Así, logramos una muestra representativa de la zona de interés. Adicionalmente, hicimos recorridos en diferentes fragmentos de bosque, bordes de carretera y árboles aislados en potreros, aledaños a cada sitio de muestreo, donde realizamos colectas libres principalmente de orquídeas, romelias, hierbas y árboles fértiles para complementar el muestreo.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se visitaron las siguientes localidades en la vertiente oriental de la cordillera Occidental en los municipios de Bolívar y Trujillo, Valle del Cauca: 1) El bosque El Vergel ubicado en la vereda Cedrales, corregimiento Dos Quebradas, Trujillo. 2) El bosque La Esmeralda ubicado en la vereda Punta Larga, corregimiento Cerro Azul, Bolívar. 3) El bosque El Indio ubicado en la vereda La Soledad, corregimiento Cerro Azul. 4) El bosque de la finca La Morelia, vereda San Isidro, corregimiento Cerro Azul. 5) El bosque del embalse Sara Brut, ubicado en la vereda Guacas, corregimiento La Primavera, Bolívar. Para fauna, se realizaron dos visitas en cada localidad durante el mes de febrero 2018</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para aves usamos transectos con puntos de muestreo separados 150 m donde se registraban todas las especies observadas y escuchadas. Para herpetos se hicieron recorridos libres identificando todas las especies encontradas. Para mamíferos se instalaron cámaras trampa, se hicieron entrevistas y se realizaron recorridos de observación. Para flora, se siguió el método de parcelas de Gentry con algunos ajustes.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para la identificación de mamíferos en campo se utilizó la Guía Neotropical Rainforest Mammals (Emmons, 1999) y la Clave de Identificación de los Murciélagos de Sudamérica (Díaz et al 2016). Para la actualización taxonómica usaron Naturalista (http://naturalista.biodiversidad.co/), la clasificación de la IUCN y el estudio de Solari et al (2013) sobre la Riqueza, Endemismo y Conservación de los Mamíferos de Colombia. Este es el Checklist más actualizado de mamíferos para el país.
+Para la actualización taxonómica de herpetos uso la base de datos en linea de Batrachia, Amphibian Species of the World, Serpentario Nacional de Colombia y AmphibiaWeb.
+Los cantos de aves fueron confirmados e identificados usando el programa Syrinx y la página web www.xeno-canto.org. Además seguimos la nomenclatura de Remsen y colaboradores (2018) y la distribución de especies sugerida por Hilty y Brown 1986 y Ayerbe 2018. 
+La organización y/o listado de las especies de flora se determinó de acuerdo con la clasificación taxonómica del APG IV (Angiosperm Phylogeny Group). La actualización y validación de los nombres científicos se realizó según las páginas web www.theplantlist.com y www.tropicos.org.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="CVC:ECOFUTURO:CALIDRIS:CONV127DE2017">
+          <title>Aunar esfuerzos técnicos, humanos y recursos económicos para aplicar participativamente la ruta metodológica de un área protegida de carácter público en los municipios de Bolívar y Trujillo</title>
+          <personnel>
+    <individualName>
+<givenName>Karolina</givenName>          <surName>Fierro Calderon</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>El objetivo de la caracterización de flora y fauna en la subcuenca del río Calamar fue identificar especies de importancia para la región (endémicas y amenazadas) que ayudaran a sustentar y validar la declaratoria de un área protegida entre los municipios de Trujillo y Bolívar, Valle</para>
+          </abstract>
+          <funding>
+              <para>Corporación Autónoma Regional del Valle del Cauca-CVC</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Visitamos cinco veredas y seis fincas en la subcuenca del río Calamar. Solo una localidad se encuentra en el municipio de Trujillo y el resto en el municipio de Bolívar. Es un área con fragmentos de bosque dispersos y los cuales se ubican principalmente a lo largo de los ríos y quebradas. Es una zona ganadera en su mayoría, pero también existen cultivos de pimentón, plátano, banano, café, granadilla, pitaya, entre otros.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/bh7clv">Fierro Calderon K (2018). Caracterización de Flora y Fauna en la cuenca del río Calamar, municipios de Bolívar y Trujillo, Valle del Cauca. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Occurrence dataset https://doi.org/10.15472/bh7clv accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-calidris.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

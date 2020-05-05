@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8be43f9b-52e7-47d4-be3e-dbcc066d70ab"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hqrtbv</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=wfvz_birds</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=wfvz_birds</alternateIdentifier>
+        <alternateIdentifier>8be43f9b-52e7-47d4-be3e-dbcc066d70ab</alternateIdentifier>
+        <alternateIdentifier>14187</alternateIdentifier>
+    <title>WFVZ Bird Collections</title>
+    <creator>
+    <individualName>
+<givenName>René</givenName>          <surName>Corado</surName>
+    </individualName>
+<organizationName>Western Foundation of Vertebrate Zoology</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>439 Calle San Pablo</deliveryPoint><city>Camarillo</city><administrativeArea>CA</administrativeArea><postalCode>93012</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 805 388 9944</phone><electronicMailAddress>rene@wfvz.org</electronicMailAddress><onlineUrl>http://www.wfvz.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Linnea</givenName>          <surName>Hall</surName>
+    </individualName>
+<organizationName>Western Foundation of Vertebrate Zoology</organizationName><positionName>Executive Director</positionName>    <address>
+<deliveryPoint>439 Calle San Pablo</deliveryPoint><city>Camarillo</city><administrativeArea>CA</administrativeArea><postalCode>93012</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 805 388 9944</phone><electronicMailAddress>linnea@wfvz.org</electronicMailAddress><onlineUrl>http://www.wfvz.org</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>University of California at Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-10
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Eggs:
+The WFVZ houses approximately 225,000 sets of eggs (equal to more than 1,000,000 individual eggs), representing at least 4,000 bird species from around the world, and collected from more than 400 individual and institutional collections. The egg collection of the WFVZ is the largest in the world.
+
+The Western Foundation’s collections have contributed to multiple scientific fields (e.g., conservation, ecology, taxonomy, and toxicology). For example, the WFVZ provided photocopies of egg records for more than 500 species, and egg measurements for more than 400 species, covered by the Birds of North America series. This information and digital pictures of these eggs and nests are now available at www.birds.cornell.edu/birdsofna.  The Foundation’s egg sets have also figured prominently in studies of eggshell thinning due to contaminants (e.g., DDT and heavy metals). Since 2000 alone, the WFVZ has contributed data to more than 200 publications. Thus, the value of the WFVZ’s collections for science, and for the conservation of bird species, continues to be evidenced.
+
+Staff of the WFVZ provide data on eggs, including measurements and digital images, to researchers. Please contact René Corado, Collections Manager, for more information, and see our list of services available to researchers.
+
+Nests: 
+The Foundation has more than 18,000 specimens from around the world, representing the largest collection of nests in North America and the world.
+
+WFVZ pictures of the nests of North American breeding bird species are available at www.birds.cornell.edu/birdsofna, or researchers can contact us for particular digital images.
+
+Skins:
+The WFVZ houses more than 56,000 study skin specimens representing over 100 countries, with the largest numbers of specimens from the United States (&amp;gt;12,900), Mexico (&amp;gt;12,600), Malaysia (&amp;gt;4,400), Costa Rica (&amp;gt;4,000), and Ecuador (&amp;gt;3,800). The skin collection is at least the 16th largest among North American collections.
+
+The primary sources for specimens currently are wildlife rehabilitation organizations; wildlife research agencies; birds killed by cats, window strikes, and car impacts; and the Foundation’s own field research projects.  Materials are consistently acquired by the Western Foundation and used by researchers, educators, scientific artists, and other museums.  In addition, materials are used in educational tours and presentations for the general public, both at the Foundation and at outside events.
+
+Skin loans are made to qualified researchers.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Specimen loan information is available at http://www.wfvz.org/cms/index.php?option=com_content&amp;task=view&amp;id=22&amp;Itemid=87.
+
+List of services available to researchers: http://www.wfvz.org/cms/images/pdf/services_provided_to_researchers_by_the_wfvz.pdf
+
+http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Linnea</givenName>          <surName>Hall</surName>
+    </individualName>
+<organizationName>Western Foundation of Vertebrate Zoology</organizationName><positionName>Executive Director</positionName>    <address>
+<deliveryPoint>439 Calle San Pablo</deliveryPoint><city>Camarillo</city><administrativeArea>CA</administrativeArea><postalCode>93012</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 805 388 9944</phone><electronicMailAddress>linnea@wfvz.org</electronicMailAddress><onlineUrl>http://www.wfvz.org</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:56Z</dateStamp>
+      <citation>Corado R, Hall L (2018). WFVZ Bird Collections. Version 19.3. Western Foundation of Vertebrate Zoology. Occurrence dataset https://doi.org/10.15468/hqrtbv accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

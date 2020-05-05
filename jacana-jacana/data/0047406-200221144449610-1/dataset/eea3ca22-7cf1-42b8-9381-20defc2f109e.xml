@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="eea3ca22-7cf1-42b8-9381-20defc2f109e"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ybz5v1</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=aves_vichada_bio</alternateIdentifier>
+        <alternateIdentifier>eea3ca22-7cf1-42b8-9381-20defc2f109e</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=aves_vichada_bio</alternateIdentifier>
+    <title>Aves de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio</title>
+    <creator>
+    <individualName>
+<givenName>Andrés</givenName>          <surName>Cuervo</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Lider Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Cra 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>578</postalCode><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>acuervo@humboldt.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin G.</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Cra 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>578</postalCode><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrés</givenName>          <surName>Cuervo</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Lider Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Cra 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>acuervo@humboldt.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Socorro</givenName>          <surName>Sierra Buitrago</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Auxiliar Investigación Colección Ornitologica</positionName>    <address>
+<deliveryPoint>Cra 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>msierra@humboldt.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Elkin</givenName>          <surName>Tenorio</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>etenorio@humboldt.org.co</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador Titular, Linea Genética de la Conservación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>magonzalez@humboldt.org.co</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Ayerbe Quiñones</surName>
+    </individualName>
+<organizationName>Wild Life Conservation Society-Colombia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Avenida 5 Norte # 22N-11</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Se presentan las especies de aves registradas y los especímenes recolectados durante una expedición biológica al Caño Terecay, cuenca del Río Tomo, municipio de Puerto Carreño, Vichada, Colombia. Esta es una de las expediciones del proyecto Colombia-BIO. Los registros presentados se derivan de detecciones visuales y auditivas realizados en recorridos diurnos y nocturnos que abarcaron diferentes hábitats dentro del área de estudio. Los listados se encuentran en la plataforma de datos ornitológicos eBird, donde pueden ser consultados y descargados, y alimentan repositorios de datos como el SiB-Colombia y GBIF.  Se obtuvieron grabaciones de audio de las aves que serán depositadas en la Colección de Sonidos Ambientales del Instituto Humboldt. Se recolectaron especímenes usando redes de niebla y escopeta neumática de balines, que están depositads y catalogados en la colección IAvH-A. Los microhábitats muestreados fueron georreferenciados con GPS</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia-Bio; Vichada; Caño Terecay; Aves; Río Tomo; Marandúa; Orinoquía; savana; morichal; mata de mont.</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>La información de los tejidos colectados se encuentra disponible en http://i2d.humboldt.org.co/ceiba/resource.do?r=tejidos_vichada_col-bio</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=aves_vichada_bio</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La zona de estudio corresponde al municipio de Puerto Carreño, en el departamento de Vichada, en la desembocadura del caño Teracay en el río Tomo.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-68.684</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-68.327</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.584</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.514</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-03-30
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-04-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se presentan registros biológicos de 296 taxones de aves. La taxonomía de las especies registradas sigue la propuesta por Remsen et al. (2018)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Realizar una evaluación biológica rápida de la biodiversidad en los ecosistemas asociados a la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador Titular, Linea Genética de la Conservación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+57 3202767</phone><electronicMailAddress>magonzalez@humboldt.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los especímenes recolectados fueron preparados como pieles de estudio y muestra de tejido (músculo pectoral y corazón), posteriormente se depositaron en la Colección Ornitológica del Instituto Alexander von Humboldt (IAvH-A) y la Colección de Tejidos y Recursos Moleculares del Instituto Alexander von Humboldt (IAvH-CT), respectivamente</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona de muestreo se encuentra localizada en un clima cálido húmedo el municipio de Puerto Carreño (Vichada). La elevación oscila entre los 100 y 121 m s. n. m. Predominan coberturas de herbazales y bosques de galería. Debido a que el muestreo se llevó a cabo al final de la época seca, se tuvo la posibilidad de acceder en aguas bajas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Detecciones visuales y auditiva en recorridos diurnos y nocturnos que abarcaron diferentes hábitats dentro del área de estudio. Los listados se encuentran en la plataforma de datos ornitológicos eBird, donde pueden ser consultados y descargados, y alimentan repositorios de datos como el SiB-Colombia y GBIF.  Se obtuvieron grabaciones de audio de las aves que serán depositadas en la Colección de Sonidos Ambientales del Instituto Humboldt. Se recolectaron especímenes usando redes de niebla y escopeta neumática de balines, que están depositados y catalogados en la colección IAvH-A</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Las capturas de aves con redes de niebla se realizaron en dos hábitats: interior de mata de monte, y en sabana arbolada (saladillo) sobre suelo de roca. Se instalaron 15 redes de niebla de 12 m (36 mm, 2,6 m). Las redes permanecían abiertas entre las 5:45-6:00 am y las 12:00- 13:00 hrs (aproximadamente 6 horas/día), durante cuatro días consecutivos en cada estación. Los recorridos abarcaron estos dos transectos, pero también otros hábitats (morichal, sabana con arbusto, bordes de bosque, hábitats ribereños), en los que se recolectaron aves con escopeta neumática y se realizaron grabaciones de audio. Las microhábitats muestreados fueron georreferenciados con GPS</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Caracterización de biodiversidad para el fortalecimiento de colecciones científicas y la generación de información genética de la biodiversidad colombiana, en el marco del programa Colombia BIO.</title>
+          <personnel>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>Gonzáles</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Colombia BIO. Convenio especial de cooperación No. FP44842-109-2016 del 2016. Aunar esfuerzos para caracterizar la biodiversidad en áreas de interés científico y con baja información biológica, para el fortalecimiento de colecciones científicas y la generación de información genética de la biodiversidad Colombiana, en el marco del programa Colombia BIO.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La zona de muestreo se encuentra localizada en un clima cálido húmedo el municipio de Puerto Carreño (Vichada). La elevación oscila entre los 100 y 121 m s. n. m. Predominan coberturas de herbazales y bosques de galería. Debido a que el muestreo se llevó a cabo al final de la época seca, se tuvo la posibilidad de acceder en aguas bajas.
+
+Durante la Expedición al Río tomo en desembocadura del caño Terecay, se abordó un área de 14925.801813 ha en 20 localidades de muestreo, en las que se lograron acceder a ocho ecosistemas que reúnen características importantes y representativas de la región oriniquense: mata de monte, río Tomo, sabana, laguna, caño, bosque de rebalse, morichal y madrevieja.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:49Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ybz5v1">Cuervo A, Borja-Acosta K G (2019). Aves de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio. Version 1.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ybz5v1 accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, S. Claramunt, A. Jaramillo, J. F. Pacheco, J. Pérez-­‐Emon, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. 2018. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A</collectionIdentifier>
+                <collectionName>Colección Ornitológica del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

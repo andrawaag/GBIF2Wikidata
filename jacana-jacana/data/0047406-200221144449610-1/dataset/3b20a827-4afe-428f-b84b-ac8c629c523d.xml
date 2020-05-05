@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3b20a827-4afe-428f-b84b-ac8c629c523d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/8kuint</alternateIdentifier>
+        <alternateIdentifier>http://ipt-benin.gbif.fr/resource?r=gangnibo</alternateIdentifier>
+    <title>Aves of wetlands and protected forests in Benin</title>
+    <creator>
+    <individualName>
+<givenName>Charles</givenName>          <surName>GANGNIBO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences. University of Abomey-Calavi</organizationName><positionName>Research assistant</positionName>    <address>
+<deliveryPoint>BP 1493 Calavi Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<electronicMailAddress>charlaco2000@yahoo.fr</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jaures Alain</givenName>          <surName>GBETOHO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences</organizationName><positionName>Research Assistant</positionName>    <address>
+<deliveryPoint>BP 1493 Calavi Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<electronicMailAddress>gljaures@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jean</givenName>          <surName>Ganglo</surName>
+    </individualName>
+<electronicMailAddress>ganglocj@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-06-23
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>This dataset holds birds species occurrences. It has been elaborated in the framework of the  project BID-AF2015-0044-SMA funded by the European Union. The information was collected mainly from littérature and some contacts with the data holders were established to give more precise data</para>
+    </abstract>
+        <keywordSet>
+              <keyword>forest</keyword>
+              <keyword>biodiversity</keyword>
+              <keyword>birds</keyword>
+              <keyword>Occurrence</keyword>
+              <keyword>Wetlands</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>This dataset holds birds species occurrences. It has been elaborated in the framework of the  project BID-AF2015-0044-SMA funded by the EurOpean Union. The information was collected mainly from littérature and some contacts with the data holders were established to give more precise data.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>1.25</westBoundingCoordinate>
+                      <eastBoundingCoordinate>3.42</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.9</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.25</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1990-01-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2011-01-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Bird</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Charles</givenName>          <surName>GANGNIBO</surName>
+    </individualName>
+<organizationName>Laboratory of Forest Sciences. University of Abomey-Calavi</organizationName><positionName>Research assistant</positionName>    <address>
+<deliveryPoint>BP 1493 Calavi Bénin</deliveryPoint><city>Calavi</city><administrativeArea>Atlantique</administrativeArea><postalCode>229</postalCode><country>BENIN</country>    </address>
+<electronicMailAddress>charlaco2000@yahoo.fr</electronicMailAddress>      </contact>
+
+      <project id="BID-AF2015-0044-SMA">
+          <title>Gathering of biodiversity data on bird species for their sustainable management in Benin</title>
+          <personnel>
+    <individualName>
+<givenName>Charles</givenName>          <surName>GANGNIBO</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>The data mobilization is focused on bird species found in Benin. The main project activities are: 
+(i)	bird species data mobilization, which includes organization of meeting session on biodiversity data importance and their use, training sessions on data digitization and publishing, and digitization and publishing of bird occurrences using the spreadsheet of GBIF; 
+(ii)	application of biodiversity data for conservation, which includes training session on ecological niches modelling of species, identification of areas relevant for bird protection in Benin, and suggestion of strategies for bird species conservation in Benin.</para>
+          </abstract>
+          <funding>
+              <para>The project is funded by the  European Union through Biodiversity Information Development (BID) Programme</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Mobilization of data on bird species found in Benin</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The project aims to contribute to the conservation of bird species in Benin through the enhancement of data availability on these species</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:45Z</dateStamp>
+      <citation>GANGNIBO C, GBETOHO J A (2017). Aves of wetlands and protected forests in Benin. Laboratory of Forest Sciences (University of Abomey-Calavi). Occurrence dataset https://doi.org/10.15468/8kuint accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Sinsin B., Djego J., Houngbo E., Houénouha R., Lougbégnon T., Orékan V., Tchintchin Q. (2010) Etude de la diversité biologique dans les périmètres de reboisement de Kilir et d&apos;Abomey appartenant à l&apos;aire d&apos;intervention du PGFTR. PGFTR, 110p						
+Natta A.K. (2000) Tree species diversity assessment in Riparian Forests using remote sensing, geographical information systems and geostatistics - Case study of Toui-Kilibo protected forest in Benin. Master of Science Thesis, International Institute for Aerospace Survey and Earth Sciences, Forest Science Division						
+CERGET-ONG (2011) Réalisation de l&apos;étude de référence sur la diversité biologique des massifs forestiers des Trois rivières, de Sota, de Goungoun, de Dogo-Kétou, de l&apos;Ouémé supérieur-N&apos;Dali, PGFTR, 139P						
+Bossou B. (2001) Contribution à l&apos;aménagement de la forêt classée de Dogo-Kétou : structure et dynamique des différents groupements végétaux et périodicité de coupe. Thèse présentée en vue de l&apos;obtention du diplôme d&apos;Ingénieur agronome, UAC-FSA, 141p						
+Tchibozo, S. &amp; Braet, Y. (2004) Note préliminaire sur les insectes de la forêt classée de la Lama et de ses alentours. Bulletin S.R.B.E/K.B.V.E. 140, 157-162						
+Kidjo, F.C. &amp; Guédou, R. (2001). Inventaire et caractérisation des écosystèmes humides des deux complexes Est et Ouest des zones humides du Sud Bénin. Rapport Groupe Faune reptilienne et mammalienne. PAZH, 14p						
+Bonou, C. &amp; Hounkpè, C. (2001) Inventaire et caractérisation des écosystèmes humides des deux complexes Est et Ouest des zones humides du Sud-Bénin. Faune aquatique, Rapport d’étude pour le PAZH, Cotonou 						
+ONAB (2011) Plan Directeur d’Aménagement et de Gestion du Noyau Central de la Forêt Classée de la Lama 2011-2020. 87p						
+Adjakpa, J.B. (2001) Etude des potentialités en espèces aviaires des sites constitutifs de réserves biologiques dans les zones humides du Sud-Bénin. MAB-UNESCO /CBRST, 18p</citation>
+              </bibliography>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

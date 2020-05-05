@@ -1,0 +1,311 @@
+
+Dataset: Provincial Museum of Alberta, Edmonton, AB, Canada. Birds (Aves)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aves MZS
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collections and observation data National Museum of Natural History Luxembourg
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collection Aves (bird skins) SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aves de la expedición en lago de Tota, Boyacá - Proyecto Boyacá BIO
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MSB Bird Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Biodiversidad de un bosque seco tropical del Valle Medio del río Magdalena: evaluación integrada a través de multitaxones
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caire-Chabrand Collection
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Nigerian Conservation Foundation (NCF) Database of Birds from Nigeria
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Questagame weekly feed
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Birds (coll. Bonnetain)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización de Flora y Fauna en la cuenca del río Calamar, municipios de Bolívar y Trujillo, Valle del Cauca
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Avifauna asociada al complejo cenagoso La Larga, Tagachí, Chocó 2012
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves de la cuenca alta y media del río Bita, (Vichada) Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: fauna_do_municipio_de_araraquara-sp
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Zoology (Museum of Evolution - Uppsala)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Avifauna around mining sites in Pará, Brazil
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterizaciones rápidas de biodiversidad en grupos biológicos de la planicie del valle del río Cauca
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves Nidos (MFA-ZV-Or-N)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Proyecto COL88611 para la conservación y uso sostenible de ecosistemas secos
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Avistamiento de Aves en la Reserva de la Sociedad Civil "El Diamante de las Aguas" Marzo 2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: HSU Wildlife Eggs and Nests
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aves of wetlands and protected forests in Benin
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima - 2017
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Tejidos de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves de los Parques Ecológicos Distritales Humedales Bogotá, D.C.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Recopilación de Información de FAUNA en la Jurisdicción de CORNARE, hasta el año 2015
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données acquises dans le cadre de l'activité du bureau d'étude BIOTOPE (1994 - 2013)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización de fauna terrestre y aves de la cuenca del Río Acacías
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Données naturalistes d'Audrey SAVOURE-SOUBELET
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Birds Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: PSM Vertebrates Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Collection Aves (spirit preserved) SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Flora y fauna asociada al hábitat del Manatí antillano en la Ciénaga de Paredes, Magdalena Medio Santandereano
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Caracterización faunística de los humedales San Ricardo, San Roque y La Argentina en el municipio de Guasca, Cundinamarca
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Collection ornithologique A. Maës
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Auckland Museum Land Vertebrates Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caracterización biológica en la Serranía de San Lucas 2015
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données naturalistes de Patrick HAFFNER
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima. 2017-B.
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caracterización biológica de la ventana Beltrán, corregimiento Paquiló, Municipio de Beltrán, Cundinamarca
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vertebrates of the Gothenburg Natural History Museum (GNM)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aves de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NZCS Vertebrates Old Collection Before 1987
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CMNH Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves Huevos (MFA-ZV-Or-Hu)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Ghent  University - Zoology Museum - Vertebrate collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventario y monitoreo de aves silvestres en tres humedales del departamento de Córdoba
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: CAREC Birds
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Caracterización de avifauna de la subcuenca del Río San Pedro, San Pedro, Valle del Cauca
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Herpetofauna y avifauna de los municipios de Villeta y Guaduas (Cundinamarca), en el contexto de la vulnerabilidad del territorio al cambio climático
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización biológica de la ventana de biodiversidad del Complejo Cenagoso de Zapatosa, Municipio de Chimichagua, Cesar, Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves de fragmentos de Bosque seco en la región del Caribe Colombiano
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves en fincas ganaderas sostenibles del Meta
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museu de Ciències Naturals de Barcelona: MCNB-Cord
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bird collection of National Museum of Nature and Science
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museo Argentino de Ciencias Naturales "Bernardino Rivadavia" (MACN). Ornithology National Collection (MACNOr)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cowan Tetrapod Collection - Birds
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ZUEC-AVE - Coleção de Aves do Museu de Zoologia da UNICAMP
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Creación de un área protegida pública local en los municipios de Roldanillo, La Unión y Toro.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización de fauna para el establecimiento de nuevas Reservas Naturales de la Sociedad Civil en Arauca
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: SDNHM Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MLZ Bird Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CSA)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves asociadas a las sabanas inundables de las cuencas de los ríos Bita, Manacacías y Cravo Sur - SULU II
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museu_Paraense_Emilio_Goeldi_Ornithology_Collection-Skin
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NHMO Bird collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Corredor neotropical de migración de aves en Colombia Temporada I-II/2016
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Bird specimens of the Yamashina Institute for Ornithology
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bird Specimens in the Museum of Nature and Human Activities, Hyogo, Japan
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Canadian Museum of Nature Bird Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Fauna y Flora de Cinaruco - 2014- 2016
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museu Paraense Emílio Goeldi - Ornithology Collection - Osteological
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museu Paraense Emílio Goeldi - Ornithology Collection -  Feathers_and_Skin
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Baillon Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Tetrápodos de Uruguay
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección Ornitológica del IADIZA-CCT CONICET Mendoza: IADIZA-COI
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: KUBI Ornithology Collection
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección de Aves Museo Universitario de la Universidad de Antioquia
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aves del municipio de Cimitarra, Santander - Proyecto Santander BIO
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: SysTax -  Zoological Collections
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Museo Provincial de Ciencias Naturales “Dr. Ángel Gallardo”, Rosario, Argentina - Colección Aves (MG-ZV-A)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: UWBM Ornithology Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Caracterización de la avifauna de las cuencas de los Ríos Cañas (Dibulla–Guajira), Garupal (Valledupar–Cesar), Arroyo Grande (San Juan de Nepomuceno–Bolívar), Aipe (Huila), Yaví (Tolima), Dagua (Valle del Cauca) como insumo para la identificación de oportunidades de conservación y de recuperación de servicios ecosistémicos del bosque seco.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DMNS Bird Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección Ornitológica de la Universidad Industrial de Santander
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Lund Museum of Zoology (MZLU)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Caracterización de fauna y flora para el establecimiento de límites funcionales de humedales en tres ventanas piloto: Ciénaga de la Virgen,  Ciénaga Zapatosa y  Complejo de humedales Paz de Ariporo - Hato Corozal
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Collection Aves (bird skeletons) SMF
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Inventario de Aves y Mamíferos en humedales del departamento de Córdoba
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Coleção de Aves do Museu Nacional / UFRJ
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves Acuáticas en el Caribe Colombiano Entre 2007 y 2009
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: IIAPPoa
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Colección Ornitológica de la Universidad del Valle
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museu Paraense Emilio Goeldi - Ornithology Collection - Eggs
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MVZ Bird Collection (Arctos)
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: CUMV Bird Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Bird Collection of Museum and Institute of Zoology PAS
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Registro de Fauna Silvestre en el Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Rapid Assessment Program (RAP) Biodiversity Survey Database
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Monitoreo de la avifauna de la ciénaga de Beté, municipio del Medio Atrato-Chocó -2018
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Données d'occurrences Espèces issues de l'inventaire des ZNIEFF
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección de Ornitología - Museo de Ciencias Naturales de La Salle
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección de aves del Museo de Historia Natural de la Pontificia Universidad Javeriana
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DMNH Birds
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: LSUMZ Bird Tissues
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: RBINS DaRWIN
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: FNJV - Fonoteca Neotropical Jacques Vielliard
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Natural History Museum (London) Collection Specimens
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Museu Paraense Emilio Goeldi - Ornithology Collection - Anatomic
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: MCP-Aves - Coleção de Aves
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Inventario de fauna presente en la jurisdicción de Corantioquia
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Avifauna Presente en la Ciénaga de Montaño, Municipio del Carmen del Darién, Chocó
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fauna y flora asociada a 18 humedales del valle geográfico del río Cauca
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Ornithology Collection Non Passeriformes - Royal Ontario Museum
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: ICN - Universidad Nacional de Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves (MFA-ZV-Or)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Naturalis Biodiversity Center (NL) - Aves
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: WFVZ Bird Collections
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A)
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Geographically tagged INSDC sequences
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LACM Vertebrate Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: MBML-Aves - Coleção de Aves MBML
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves de tres Macro Hábitats en la región de la Mojana, Sucre, Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: International Barcode of Life project (iBOL)
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Vertebrados de los humedales de La Mojana, Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Fauna y flora en áreas con cultivos de palma de aceite en el norte y oriente de Colombia
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Vertebrate Zoology Division - Ornithology, Yale Peabody Museum
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aves Playeras y Otras Aves Asociadas a Arrozales en los Departamentos de Casanare y Meta en 2009 - 2010
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: ORN
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: University of Michigan Museum of Zoology, Division of Birds
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Macaulay Library Audio and Video Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aves Argentinas / Asociación Ornitológica del Plata - Colección de registros observacionales de aves silvestres argentinas - Lista Narosky: familia Jacanidae
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: LSUMZ Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte, Villavicencio, Meta.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: AMNH Bird Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Registros biológicos  en áreas protegidas obtenidos de documentos impresos
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: CM Birds Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Alas del Arroz
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: naturgucker
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Aves laguna El Tinije
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Fauna y flora del municipio de Lipa, Arauca
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Xeno-canto - Bird sounds from around the world
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: NMNH Extant Specimen Records
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Field Museum of Natural History (Zoology) Bird Collection
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: Monitoreo de aves acuáticas en hábitats sedimentados de la Laguna de Sonso y determinación de la presencia e incidencia de influenza aviar en humedales continentales y costeros del Valle del Cauca.
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: El Censo Neotropical de Aves Acuáticas en Colombia (CNAA): 2002 - 2011
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: Aves Acuáticas de las sabanas inundables del Meta y Casanare
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: iNaturalist Research-grade Observations
+Rights as supplied: http://creativecommons.org/licenses/by-nc/4.0/legalcode
+Dataset: DATAVES
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode
+Dataset: EOD - eBird Observation Dataset
+Rights as supplied: http://creativecommons.org/publicdomain/zero/1.0/legalcode

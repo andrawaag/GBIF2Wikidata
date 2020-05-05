@@ -1,0 +1,448 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="223fd94e-c0d3-4ff1-bdea-29648e1c797a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/zqhuzx</alternateIdentifier>
+        <alternateIdentifier>10.15468/tnkwuw</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=avifauna_bosque_seco</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=avifauna_bosque_seco</alternateIdentifier>
+        <alternateIdentifier>223fd94e-c0d3-4ff1-bdea-29648e1c797a</alternateIdentifier>
+    <title>Caracterización de la avifauna de las cuencas de los Ríos Cañas (Dibulla–Guajira), Garupal (Valledupar–Cesar), Arroyo Grande (San Juan de Nepomuceno–Bolívar), Aipe (Huila), Yaví (Tolima), Dagua (Valle del Cauca) como insumo para la identificación de oportunidades de conservación y de recuperación de servicios ecosistémicos del bosque seco.</title>
+    <creator>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Ayerbe Quiñones</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigador-Ornitólogo</positionName>    <address>
+<city>Popayán</city><administrativeArea>Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3007365771</phone><electronicMailAddress>fayerbeq@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fabio</givenName>          <surName>Lozano</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Coordinador del proyecto</positionName>    <address>
+<deliveryPoint>Carrera 3 No. 17-27 oficina 213 Centro Comercial Rex</deliveryPoint><city>Santa Marta</city><administrativeArea>Magdalena</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3003782806</phone><electronicMailAddress>f.lozano@paisajesrurales.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Caycedo Rosales</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora Asociada</positionName>    <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>pcaicedo@humboldt.org.co</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Zoraida</givenName>          <surName>Fajardo</surName>
+    </individualName>
+<organizationName>Programa de las Naciones Unidas para el Desarrollo</organizationName><positionName>Coordinadora Estrategia Biodiversidad y sus Servicios Ecosistémicos en Zonas Secas</positionName>    <address>
+<deliveryPoint>Carrera 11 No. 82 - 38, Piso 3</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea>    </address>
+<phone>3212151339</phone><electronicMailAddress>zoraida.fajardo@undp.org</electronicMailAddress>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2016-04-04
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El bosque seco tropical (BST) es considerado uno de los ecosistemas más amenazados del mundo (Janzen 1983), a la vez que, es uno de los menos estudiados. En Colombia fue uno de los ecosistemas más extensos, ya que cubría gran parte de la Costa Caribe, los valles geográficos de los ríos Cauca y Magdalena y los Llanos Orientales, sin embargo, en el país se ha perdido más de 90% de este ecosistema (Pizano y García eds 2014). La avifauna de bosque seco está compuesta por lo menos de 30 especies y subespecies de rango restringido de las cuales seis son endémicas para Colombia (Gómez y Robinson 2014). Actualmente los bosques secos están inmersos en paisajes transformados. La transformación del hábitat implica una reducción del área disponible para la fauna y la flora originaria de la región y a largo plazo termina en la eliminación total de tipos de hábitat. Los paisaje rurales son un mosaico de zonas productivas y fragmentos de bosque, que se han convertido en la única alternativa de conservación de un gran número de especies y de ecosistemas que ya no se encuentran debido a la transformación de los mismos (Lozano et al. 2009).Para caracterizar la biodiversidad en los paisajes rurales, se han utilizado diferentes grupos como indicadores, por ejemplo plantas, hormigas y aves. Las aves son el grupo biológico mejor conocido, son buenas indicadoras del estado de conservación de un ecosistema y proveen una excelente oportunidad para entender la respuesta de la fauna a la fragmentación de hábitat (Cuervo y Restrepo 2007). La realización de caracterizaciones de avifauna en paisajes rurales es muy importante para determinar oportunidades de conservación de la biodiversidad (Renjifo et al 2003, Lozano et al 2009).La región Caribe comprende los bosques secos de la planicie del Caribe colombiano, las costas y el norte de Venezuela. En esta región se ha reportado la mayor documentación sobre biodiversidad de bosque seco, y el mayor número de especies endémicas de aves. Para las cuencas de interés visitadas en el Caribe no hay registros previos de aves, solamente listados generales: para el municipio de Dibulla, y en Caño Mosquito, Mingueo, se encontraron registradas 214 especies de aves; para él municipio de Valledupar 372 especies de aves; y para él municipio de San Juan de Nepomuceno 220 especies.Para los Valles interandinos del Cauca, y del Magdalena, se han realizado algunos estudios sobre aves de bosque seco en Tolima y Huila (Sánchez-Clavijo, 2005, Losada y Molina 2011, Universidad Surcolombiana 2006). Los valles del río Dagua en el Cauca y del río Chicamocha en Santander son otras dos regiones de bosque seco de importancia para Colombia. Para el caso de Dagua, se han realizado varios estudios y hay varias reservas y programas encaminados a la conservación del bosque seco y su biodiversidad (CVC y Fundación Trópico, 2004; CVC 2014).Sin embargo, no hay estudios recientes sobre la avifauna presente en paisajes rurales con ecosistemas secos. Es importante continuar realizando inventarios y caracterizaciones de avifauna como línea base para posteriores acciones de manejo del paisaje y monitoreo de las mismas. El objetivo de este trabajo es realizar la caracterización de la avifauna de las cuencas de los ríos Cañas en La Guajira; Garupal en Cesar; Arroyo Grande en Bolívar; Aipe en el Huila; Yaví en el Tolima y Dagua en el Valle del Cauca, como criterio adicional para la identificación de oportunidades de conservación y para la recuperación de servicios ecosistémicos del bosque  seco, en seis ventanas de paisaje rural priorizadas por el Programa de Naciones Unidas para el Desarrollo PNUD, en el marco del proyecto GEF de Bosque Seco.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>aves; bosque seco tropical</keyword>
+              <keyword>paisaje rural; conservación</keyword>
+              <keyword>Valle del Cauca</keyword>
+              <keyword>Observation</keyword>
+              <keyword>Bolívar; Tolima</keyword>
+              <keyword>Guajira</keyword>
+              <keyword>Huila</keyword>
+              <keyword>Cesar</keyword>
+              <keyword>servicios ecosistemicos</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado al recurso, se incorporará dentro de la Infraestructura Institucional de Datos, el informe final del proyecto.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Corporación Paisajes Rurales y Programa de Naciones Unidas, trabajaron  en seis paisajes rurales de bosque seco, ubicados en el Caribe: las cuencas de los ríos Cañas en la Guajira; Garupal en Cesar; Arroyo Grande en Bolívar. Comprende los bosques secos de la planicie del Caribe colombiano, donde la temperatura superior es de 24 C (piso térmico cálido) y las precipitaciones están entre los 700 y 2000 mm anuales, con uno o dos periodos marcados de sequía al año (IAVH 1998).Los sitios en Andes han sufrido varias transformaciones antrópicas y todavía quedan algunos parches de bosque, los sitios de interes fueron: la cuenca del río Aipe se encuentra ubicada en la vertiente occidental de la cordillera central en la parte baja hacia el río Magdalena. Está dentro  de  un  piso  térmico  de clima  cálido  muy  seco,  con  temperatura  media  anual de  26ºC;  precipitación  anual  promedio  de  1.300  mm,  caracterizada  por  dos  periodos  de lluvias  entre  los  meses  de  marzo  –  mayo  y  octubre  – diciembre  y  dos  periodos secos  o  de  menos  lluvias  en  los  meses  de enero  –  febrero  y  junio  –  septiembre. Se encuentra dentro de la zona de vida de Bosque muy seco Tropical (Bms – T) (Holdridge 1967). La cuenca del río Yaví se encuentra ubicada entre los municipios de Natagaima y Prado, Tolima, en la vertiente oriental de la cordillera central en la parte baja hacia el Río Magdalena. La temperatura media anual en Natagaima se encuentra a 28.0 °C y la precipitación de 1607 mm. En Prado la temperatura media anual es de 27.8°C y la precipitación es de 1950 mm al año. Se encuentra dentro de la zona de vida de Bosque seco Tropical (Bs – T) (Holdridge 1967).En el pacífico, la cuenca del río Dagua se encuentra ubicada en el municipio de Dagua, Valle del Cauca, en la vertiente oriental de la cordillera occidental. El trabajo se realizó en dos polígonos: uno ubicado en la zona de ampliación del Distrito de Manejo Especial de Suelos en municipio de Vijes, y el otro en el municipio de Dagua. La temperatura media entre 18ºC y 24 ºC y precipitación media entre 900 a 1.600 mm/año. Esta región posee diversos ecosistemas de gran importancia a nivel nacional, entre lo cuales se encuentra el bosque subxerofitico el cual es uno de los ecosistemas mas amenazados a nivel departamental, encontrándose actualmente en estado crítico (CVC 2014).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-77.37</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.88</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.51</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.04</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-08-13
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-05-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Para las seis cuencas, se realizaron 286 horas netas de observación, en los 230 puntos de conteo establecidos, para un total de 383 muestras y 5116 registros, Observamos 327 especies de aves, pertenecientes a 53 familias.Para las cuencas del Caribe: Se realizaron 210 horas netas de observación, en los 155 puntos de conteo establecidos, cada punto con dos repeticiones para un total de 308 muestras y 3920 registros, Observamos 261 especies de aves, pertenecientes a 49 familias.  Para las cuencas de Andes: Se realizaron 52 horas netas de observación, en los 54 puntos de conteo establecidos, cada punto con una repetición para un total de 54 muestras y 761 registros, Observamos 115 especies de aves, pertenecientes a 40 familias.  Para la cuenca del Pacífico: Se realizaron 24 horas netas de observación, en los 21 puntos de conteo establecidos, cada punto con una repetición para un total de 21 muestras y 435 registros, Observamos 106 especies de aves, pertenecientes a 35 familias.  De los 5116 registros 206 solo se pudieron identificar hasta orden, familia o género. En el resto de los registros todas las aves encontradas en los elementos del paisaje caracterizados, se identificaron hasta especie, utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2015).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bucconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprimulgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cardinalidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corvidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Estrildidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Eurypygidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fregatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fringillidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Galbulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Incertae Sedis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Momotidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pandionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pelecanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pipridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polioptilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ramphastidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strigidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tinamidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tityridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Identificar y diseñar estrategias de conservación y restauración a escala de cuenca 1:100.000 y una ventana a escala 1:5000, que oriente la priorización de las intervenciones a escala local, para la implementación de las Herramientas de Manejo del Paisaje en seis (6) cuencas en el Caribe, Andes y Pacífico, identificadas por la Corporación Paisajes Rurales y el Programa de Naciones Unidas</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Fabio</givenName>          <surName>Lozano</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Coordinador del proyecto</positionName>    <address>
+<deliveryPoint>Carrera 3 No. 17-27 oficina 213 Centro Comercial Rex</deliveryPoint><city>Santa Marta, COLOMBIA</city><administrativeArea>Magdalena</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>4307384, 3003782806</phone><electronicMailAddress>f.lozano@paisajesrurales.com</electronicMailAddress><onlineUrl>http://www.paisajesrurales.com</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Trabajo de campo: Se seleccionaron nueve elementos del paisaje en las seis cuencas entre 5 y 1415 msnm: bosque denso alto, bosque denso bajo, bosque inundable, bosque ripario, vegetación secundaria, mosaico de cultivos, arbustal denso, pastos limpios y pastos enmalezados. Se establecieron 230 puntos de radio fijo en el paisaje. En cada elemento del paisaje seleccionado para caracterizar, se realizan dos puntos de conteo con radio fijo de 50 m, es decir, se hizo distinción entre las aves que se observan y se escuchan dentro de una circunferencia con radio de 50m o fuera de esta. Esto permite concentrarse en las aves presentes en el elemento que se esté muestreando, debido a que es factible escuchar o ver aves que estén utilizando elementos vecinos. Estos puntos están separados por 200 m. El trabajo en campo se realizó entre el 13 de agosto del 2014 y 16 de mayo del 2015, entre las 6:00 a.m. a 11:00 a.m. En cada punto de conteo se realizan observaciones y grabaciones durante 15 min, por lo tanto, en cada elemento el tiempo de muestreo fue de aproximadamente 45 minutos. En las cuencas del Caribe cada punto se repitió durante dos días diferentes. Para las cuencas de Andes y Pacífico cada punto se repitió solamente un día.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trabajo de laboratorio: A las grabaciones realizadas en campo se les hicieron sonogramas. Los sonogramas son gráficos del sonido, en este caso el canto de las aves, en donde se relaciona la frecuencia del sonido con su duración en segundos (Lozano et al 2009). Este trabajo se realizó con el programa de análisis acústico RAVEN v1.4. De esta forma la identificación está apoyada tanto en la imagen como en el sonido. Para corroborar algunas identificaciones se compararon con los sonogramas de la colección de referencia de Xenocanto (http://www.xeno-canto.org/), y de la guía sonora de las aves de los Andes de Alvarez et al. (2007). Para la determinación taxonómica utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al 2015). Se realizó una colección de referencia de sonidos y sonogramas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis de la información: Mediante curvas de acumulación de especies y el uso del estimador ACE (Estimador de cobertura basado en abundancias), evaluamos el porcentaje de representatividad del muestreo (Colwell 2013), a nivel del paisaje y a nivel de elementos del paisaje. Así mismo, teniendo en cuenta que los elementos del paisaje no fueron muestreados con igual esfuerzo de muestreo, se hicieron curvas de rarefacción. Determinamos rangos de abundancia para cada especie bajo el criterio de Parker (1991), con algunas modificaciones. La abundancia relativa fue representada utilizando el gráfico de rango-abundancia o curva de Whittaker. En este trabajo medimos I) la riqueza de especies o diversidad alfa, a través del índice de Chao (Chao 1984), y el índice de Jackknife (Krebs 1989). II) Para la diversidad beta, que es el grado de cambio o reemplazo en la composición de especies entre diferentes elementos del paisaje, utilizamos el índice de Jaccard y el índice de Bray-Curtis. III) Para la diversidad gama, utilizamos el índice de Whittaker (Whittaker 1972) que describe esta diversidad a partir de la integración de las diversidades beta y alfa. Parece ser muy conveniente y robusto en sus resultados para medir el reemplazo de comunidades (Villareal et al 2006). La estructura de la comunidad la estimamos a través de índices de heterogeneidad que combinan los componentes riqueza y dominancia de especies: índice de equidad de Shannon-Wiener y el índice de diversidad de Simpson (Simpson 1949). Todos los índices fueron calculados con el paquete “VEGAN v.1.17-4” y Biodiversity-R para el programa y lenguaje de programación R-CRAN. No incluimos en los análisis a las especies nocturnas, registros de individuos en vuelo a gran altura fuera del radio de 50 metros o, fuera del muestreo (antes o después de los 15 minutos), observaciones ad libitum ni registros tanto visuales como auditivos que requieren revisión para confirmar especie o género.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Índice de valor de conservación (IVC)Se utilizó el índice de valor de conservación (IVC), para la identificación de elementos del paisaje rural con valor de conservación (priorización). Este índice recoge e integra criterios biológicos (diversidad alfa, endemismo y amenaza) de los diferentes grupos biológicos objetivos utilizados en la caracterización (Mendoza et al. 2008), en este caso las aves. Se incluyeron los siguientes criterios: No. de especies de aves, No. de especies endémicas-casi endémicas y No. de especies vulnerables a nivel local en cada réplica, elegimos especies vulnerables a nivel local, debido a que no registramos especies amenazadas. Para la priorización de especies vulnerables se tuvieron en cuenta los siguientes criterios según Morales-Rozo y Ayerbe-Quiñonez (2014):1. Distribución restringida: endémica, casi endémica; 2. Hábitat: zonas secas, bosque seco; 3. Tráfico de fauna; 4. Servicio ecosistémicos (nectarívoras, frugívoras).Para verificar el rango de distribución y obtener datos del hábitat, usamos BirdLife data zone (http://www.birdlife.org/datazone/species/search), Hilty y Brown (2001) y Chaparro et al (2013). Se construyeron rangos mediante percentiles, a partir de los datos obtenidos para cada uno de los criterios considerados. Generamos tres rangos (alto, medio y bajo) por cada criterio y les asignamos peso relativo de cinco, tres y uno respectivamente. La suma de los criterios nos da el índice de valor de conservación, para la visualización de éste, generamos un mapa con elementos de paisaje cruzando coberturas con un mapa de alturas, categorizadas en tres categorías (Alta, Media y Baja generadas por percentiles para cada cuenca). Luego se cruzó este mapa de elementos del paisaje con los puntos de muestreo con valor de conservación de aves y plantas, asignando el mayor valor de IVC encontrado en casos donde hubiese más de un punto por elemento. Finalmente clasificamos en Alto, Medio y Bajo usando la clasificación por cuantiles de ArcGIS para cada cuenca de acuerdo al IVC asignado.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Corporación Paisajes Rurales y Programa de Naciones Unidas, trabajaron en  seis paisajes rurales, ubicados en cuencas en el Caribe en los ríos Cañas en la Guajira; Garupal en Cesar y Arroyo Grande en Bolívar. Cuencas en Andes: Aipe en Huila y Yaví en Tolima y en el Pacífico la cuenca del río Dagua, desde los 5 y 1415 m.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se seleccionaron nueve elementos del paisaje en las seis cuencas entre 5 y 1415 msnm: bosque denso alto, bosque denso bajo, bosque inundable, bosque ripario, vegetación secundaria, mosaico de cultivos, arbustal denso, pastos limpios y pastos enmalezados. Se establecieron 230 puntos de radio fijo en el paisaje. En cada elemento del paisaje seleccionado para caracterizar, se realizan dos puntos de conteo con radio fijo de 50 m, es decir, se hizo distinción entre las aves que se observan y se escuchan dentro de una circunferencia con radio de 50m o fuera de esta. Esto permite concentrarse en las aves presentes en el elemento que se esté muestreando, debido a que es factible escuchar o ver aves que estén utilizando elementos vecinos. Estos puntos están separados por 200 m. El trabajo en campo se realizó entre el 13 de agosto del 2014 y 16 de mayo del 2015, entre las 6:00 a.m. a 11:00 a.m. En cada punto de conteo se realizan observaciones y grabaciones durante 15 min, por lo tanto, en cada elemento el tiempo de muestreo fue de aproximadamente 45 minutos. En las cuencas del Caribe cada punto se repitió durante dos días diferentes. Para las cuencas de Andes y Pacífico cada punto se repitió solamente un día.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos de observaciones, y grabaciones fueron revisados por ornitólogos expertos, teniendo en cuenta listados previos para el lugar y cantos de referencia, logrando identificar el 90% de los registros a nivel de especie, según la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2015)</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>“Uso sostenible y conservación de la biodiversidad en ecosistemas secos para garantizar el flujo de los servicios ecosistémicos y mitigar procesos de deforestación y desertificación</title>
+          <personnel>
+    <individualName>
+<givenName>Fabio</givenName>          <surName>Lozano</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Programa de las Naciones Unidas para el Desarrollo</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La Corporación Paisajes Rurales y Programa de Naciones Unidas, trabajaron en  seis paisajes rurales, ubicados en el Caribe en las cuencas de los ríos Cañas en la Guajira; Garupal en Cesar y Arroyo Grande en Bolívar, desde los 0 y 790 m. Comprende los bosques secos de la planicie del Caribe colombiano, donde la temperatura superior es de 24 C (piso térmico cálido) y las precipitaciones están entre los 700 y 2000 mm anuales, con uno o dos periodos marcados de sequía al año (IAVH 1998).Los sitios en Andes han sufrido varias transformaciones antrópicas y todavía quedan algunos parches de bosque, los sitios de interes fueron: la cuenca del río Aipe se encuentra ubicada en la vertiente occidental de la cordillera central en la parte baja hacia el río Magdalena. Está dentro  de  un  piso  térmico  de clima  cálido  muy  seco,  con  temperatura  media  anual de  26ºC;  precipitación  anual  promedio  de  1.300  mm,  caracterizada  por  dos  periodos  de lluvias  entre  los  meses  de  marzo  –  mayo  y  octubre  – diciembre  y  dos  periodos secos  o  de  menos  lluvias  en  los  meses  de enero  –  febrero  y  junio  –  septiembre. Se encuentra dentro de la zona de vida de Bosque muy seco Tropical (Bms – T) (Holdridge 1967). La cuenca del río Yaví se encuentra ubicada entre los municipios de Natagaima y Prado, Tolima, en la vertiente oriental de la cordillera central en la parte baja hacia el Río Magdalena. La temperatura media anual en Natagaima se encuentra a 28.0 °C y la precipitación de 1607 mm. En Prado la temperatura media anual es de 27.8°C y la precipitación es de 1950 mm al año. Se encuentra dentro de la zona de vida de Bosque seco Tropical (Bs – T) (Holdridge 1967).En el pacífico, la cuenca del río Dagua se encuentra ubicada en el municipio de Dagua, Valle del Cauca, en la vertiente oriental de la cordillera occidental. El trabajo se realizó en dos polígonos: uno ubicado en la zona de ampliación del Distrito de Manejo Especial de Suelos en municipio de Vijes, y el otro en el municipio de Dagua. La temperatura media entre 18ºC y 24 ºC y precipitación media entre 900 a 1.600 mm/año. Esta región posee diversos ecosistemas de gran importancia a nivel nacional, entre lo cuales se encuentra el bosque subxerofitico el cual es uno de los ecosistemas mas amenazados a nivel departamental, encontrándose actualmente en estado crítico (CVC 2014).</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Se realizó la caracterización de la avifauna de cuencas en el Caribe en los ríos Cañas en la Guajira; Garupal en Cesar y Arroyo Grande en Bolívar. Cuencas en Andes: Aipe en Huila y Yaví en Tolima y en el Pacífico la cuenca del río Dagua, desde los 5 y 1415 m, como insumo para la identificación de oportunidades de conservación y de recuperación de servicios ecosistémicos, a través del índice de valor de conservación que usa criterios biológicos como diversidad, endemismo y vulnerabilidad (Lozano et al., 2009). Con el fin de generar una priorización que de los elementos del paisaje con el mayor número de especies de interés para la conservación y de esta manera enfocar sobre estos elementos las herramientas de manejo del paisaje, en tres ventanas de paisaje rural priorizadas por la Corporación Paisajes Rurales en el marco del acuerdo de microcapital con el Programa de las Naciones Unidas para el Desarrollo.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/zqhuzx">Morales Rozo A (2016). Caracterización de la avifauna de las cuencas de los Ríos Cañas (Dibulla–Guajira), Garupal (Valledupar–Cesar), Arroyo Grande (San Juan de Nepomuceno–Bolívar), Aipe (Huila), Yaví (Tolima), Dagua (Valle del Cauca) como insumo para la identificación de oportunidades de conservación y de recuperación de servicios ecosistémicos del bosque seco.. Version 4.0. Corporación Paisajes Rurales. Occurrence dataset https://doi.org/10.15472/zqhuzx accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Janzen , D.H. 1983. Seasonal changes in abundance of larg nocturnal Cag-beetles (Scarabaeidae) in Costa Rica deciduous forest and adyacent horse pasture. Oikos, 41 : 274-283</citation>
+      <citation>Pizano, C y H. García (ed). 2014. El Bosque Seco Tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D.C., Colombia. 353 p.</citation>
+      <citation>Gómez, J.P. y S. Robinson. 2014. Aves del Bosque Seco Tropical de Colombia: las comunidades del valle alto del río Magdalena. En Pizano y García (ed). 2014. El Bosque Seco Tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D.C., Colombia. 353 p.</citation>
+      <citation>Lozano-Zambrano, F. H. (ed). 2009. Herramientas de manejo para la conservación de biodiversidad en paisajes rurales. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Corporación Autónoma Regional de Cundinamarca (CAR). Bogotá, D. C., Colombia. 238 p.</citation>
+      <citation>Cuervo, A. M. y C. Restrepo. 2007. Assemblage and population-level consequences of forest fragmentation on bilateral asymmetry in tropical montane birds. Biological Journal of the Linnean Society 92: 119-133.</citation>
+      <citation>Renjifo, L.M. (ed) 2003. Caracterización Biológica y Socioeconómica de la Ventana de Paisaje Rural Ganadero en el Cañón del Río Barbas (Filandia Quindío). Informe final. Instituto de investigación de recursos biológicos Alexander von Humboldt y Ministerio de Medio Ambiente. Armenia, Colombia.</citation>
+      <citation>Sánchez-Clavijo, L. M. 2005. Estudio comparativo de la avifauna en tres remanentes de bosque seco tropical en el valle del río Magdalena: efectos del tamaño, el contexto de paisaje y la estacionalidad climática. Universidad Javeriana, Bogotá D.C.</citation>
+      <citation>Losada-Prado, S., y Y. Molina-Martinez. 2011. Avifauna del bosque seco tropical en el departamento del Tolima (Colombia): análisis de la comunidad. Caldasia 33.</citation>
+      <citation>Universidad Surcolombiana. Facultad de Ingeniería. 2006. Formulación del Plan de manejo y declaratoria como Area Natural Protegida del desierto de la Tatacoa. Informe. Gobernación del Huila. 268p.</citation>
+      <citation>CVC y Fundación Trópico. 2004. Propuesta para la consolidación del enclave subxerofitico de la cuenca alta del rió Dagua como área de manejo especial. Informe final.</citation>
+      <citation>IAvH. 1998. El Bosque seco Tropical en Colombia. I. Instituto de Investigación en Recursos Biológicos Alexander von Humboldt, editor., Bogotá, Colombia.</citation>
+      <citation>Holdridge, L. R. 1967. Life Zone Ecology, Photographic supplement prepared by J.A. Tosi Jr., rev. ed. San José, Costa Rica: Tropical Science Center.</citation>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Perez-Eman, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [Julio 2015]. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.html</citation>
+      <citation>Colwell, R. K. 2013. EstimateS: Statistical estimation of species richness and shared spacies from samples. Version 7.5. Persistent URL &lt;purl.oclc.org/estimates&gt;.</citation>
+      <citation>Chao, A. 1984. &quot;Nonparametric estimation of the number of classes in a population.&quot; Scandinavian Journal of Statistics: 265-270.</citation>
+      <citation>Krebs, C. 1989. &quot;Ecological methods.&quot; Ecological methods.</citation>
+      <citation>Whittaker, R. H. 1972. &quot;Evolution and measurement of species diversity.&quot; Taxon: 213-251.</citation>
+      <citation>Villarreal H., M. Álvarez, S. Córdoba, F. Escobar, G Fagua, F Gast, H. Mendoza, M. Ospina y A.M. Umaña. Segunda edición. 2006. Manual de médodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p.</citation>
+      <citation>Hilty, S. y W. Brown. 2001. A Guide to the Birds of Colombia. Princeton University Press&apos;s.</citation>
+      <citation>Chaparro-Herrera, S.; M.A. Echeverry-Galvis; S. Córdoba-Córdoba; A. Sua-Becerra. 2013. Listado actualizado de las aves endémicas y casi-endémicas de Colombia Biota Colombiana, vol. 14, núm. 2.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/IPT/img/logos/prurales.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

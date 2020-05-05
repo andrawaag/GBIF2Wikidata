@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="86edb965-2c51-4298-b527-2fa75c2d58e4"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/rka8qz</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=abc-2009-aves</alternateIdentifier>
+        <alternateIdentifier>10.15468/agt5en</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=abc-2009-aves</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=abc-2009-aves</alternateIdentifier>
+        <alternateIdentifier>86edb965-2c51-4298-b527-2fa75c2d58e4</alternateIdentifier>
+        <alternateIdentifier>14557</alternateIdentifier>
+    <title>Aves laguna El Tinije</title>
+    <creator>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Ramírez</surName>
+    </individualName>
+<organizationName>Asociacion de Becarios de Casanare</organizationName><positionName>Directora de Investigación y Conservación de Recursos Naturales</positionName>    <address>
+<deliveryPoint>Calle 17 No. 15 - 55</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 86358938</phone><electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress><onlineUrl>http://www.abccolombia.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Ramírez</surName>
+    </individualName>
+<organizationName>Asociacion de Becarios de Casanare</organizationName><positionName>Directora de Investigación y Conservación de Recursos Naturales</positionName>    <address>
+<deliveryPoint>Calle 17 No. 15 - 55</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 86358938</phone><electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress><onlineUrl>http://www.abccolombia.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Jorge</givenName>          <surName>Parra</surName>
+    </individualName>
+<organizationName>Asociación de Becarios de Casanare</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 17 No. 15 - 55</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 86358938</phone><electronicMailAddress>contacto@abccolombia.org</electronicMailAddress><onlineUrl>http://abccolombia.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Miguel</givenName>          <surName>Ruiz</surName>
+    </individualName>
+<organizationName>Asociación de Becarios de Casanare</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 17 No. 15 - 55</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 86358938</phone><electronicMailAddress>contacto@abccolombia.org</electronicMailAddress><onlineUrl>http://abccolombia.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>Gobernación del Casanare</organizationName>    <address>
+<deliveryPoint>Carrera 19 No. 6-100</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 8635 8616</phone><onlineUrl>http://www.casanare.gov.co/</onlineUrl>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-01-15
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Esta tabla tiene 3477 registros obtenidos en muestreos Enero (estación seca) y Mayo (estación lluviosa) de 2009 en cinco unidades de muestreo, sabana inundable, bosque de tierra firma, bosque inundable, laguna El Tinije, río Unete.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>bosque inundable.</keyword>
+              <keyword>sabana inundable</keyword>
+              <keyword>muestreo</keyword>
+              <keyword>bosque de tierra firme</keyword>
+              <keyword>laguna El Tinije</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.sibcolombia.net/sib/resource.do?r=abc-2009-aves</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Departamento Casanare, municipios de Aguazul-Maní, laguna El Tinije</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-72.41</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.27</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.896</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.891</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2009-01-08
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2009-05-13
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Especies de las familias: Accipitridae, Alcedinidae, Anatidae, Anhingidae, Apodidae, Ardeidae, Bucconidae, Burhinidae, Caprimulgidae, Cathartidae, Charadriidae, Ciconiidae, Columbidae, Corvidae, Cracidae, Cuculidae, Dendrocolaptidae, Emberizidae, Eurypygidae, Falconidae, Formicariidae, Fringillidae, Furnariidae, Hirundinae, Icteridae, Jacanidae, Laridae, Mimidae, Nyctibiidae, Opisthocomidae, Phasianidae, Picidae, Pipridae, Psittacidae, Rallidae, Ramphastidae, Recurvirostridae, Rynchopidae, Scolopacidae, Strigidae, Sylviidae, Threskiornithidae, Tinamidae, Trochilidae, Troglodytidae, Trogonidae, Turdidae, Tyrannidae, Vireonidae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bucconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Burhinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprimulgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corvidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dendrocolaptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Eurypygidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Formicariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fringillidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctibiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Opisthocomidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phasianidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pipridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ramphastidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rynchopidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strigidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sylviidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tinamidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trogonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Establecimiento de la composición biológica y estructura ecológica de la laguna
+que conforma el humedal Laguna El Tinije, que permitan conocer su dinámica, estructura y funcionalidad tendiente a su postulación como área Ramsar.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Ramírez</surName>
+    </individualName>
+<organizationName>Asociacion de Becarios de Casanare</organizationName><positionName>Directora de Investigación y Conservación de Recursos Naturales</positionName>    <address>
+<deliveryPoint>Calle 17 No. 15 - 55</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+57 86358938</phone><electronicMailAddress>dir.biodiversidad@abccolombia.org</electronicMailAddress><onlineUrl>http://www.abccolombia.org/</onlineUrl>      </contact>
+
+      <project >
+          <title>Establecimiento de la composición biológica y estructura ecológica de la laguna que conforma el humedal Laguna El Tinije, que permitan conocer su dinámica, estructura y funcionalidad tendiente a su postulación como área Ramsar</title>
+          <personnel>
+    <individualName>
+<givenName>Beatriz</givenName>          <surName>Ramirez</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Gobernación de Casanare y Asociación de Becarios de Casanare. Convenio de cooperación 0126, Diciembre 2008.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Departamento Casanare, municipios de Aguazul-Maní, laguna El Tinije</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/rka8qz">Ramírez B (2018). Aves laguna El Tinije. Version 6.2. Asociación de Becarios del Casanare. Occurrence dataset https://doi.org/10.15472/rka8qz accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Ramírez, Beatriz H., Jorge E. Parra, Juan M. Ruiz. 2009. Aspectos ambientales ecológicos de la Laguna El Tinije (Aves)</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-abc.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

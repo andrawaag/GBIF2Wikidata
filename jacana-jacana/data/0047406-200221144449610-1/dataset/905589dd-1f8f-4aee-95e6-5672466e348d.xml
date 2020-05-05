@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="905589dd-1f8f-4aee-95e6-5672466e348d"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/1w791r</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=mlz_bird</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=mlz_bird</alternateIdentifier>
+        <alternateIdentifier>905589dd-1f8f-4aee-95e6-5672466e348d</alternateIdentifier>
+        <alternateIdentifier>14880</alternateIdentifier>
+    <title>MLZ Bird Collection (Arctos)</title>
+    <creator>
+    <individualName>
+<givenName>John</givenName>          <surName>McCormack</surName>
+    </individualName>
+<organizationName>Moore Laboratory of Zoology</organizationName><positionName>Director/Curator</positionName>    <address>
+<deliveryPoint>1600 Campus Road, Occidental College</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(323) 259-1352</phone><electronicMailAddress>mccormack@oxy.edu</electronicMailAddress><onlineUrl>http://faculty.oxy.edu/mccormack/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>John</givenName>          <surName>McCormack</surName>
+    </individualName>
+<organizationName>Moore Laboratory of Zoology</organizationName><positionName>Director/Curator</positionName>    <address>
+<deliveryPoint>1600 Campus Road, Occidental College</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(323) 259-1352</phone><electronicMailAddress>mccormack@oxy.edu</electronicMailAddress><onlineUrl>http://faculty.oxy.edu/mccormack/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dusty</givenName>          <surName>McDonald</surName>
+    </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>James</givenName>          <surName>Maley</surName>
+    </individualName>
+<organizationName>Moore Laboratory of Zoology</organizationName><positionName>Collections Manager</positionName>    <address>
+<deliveryPoint>1600 Campus Road, Occidental College</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(323) 259-1320</phone><electronicMailAddress>jmaley@oxy.edu</electronicMailAddress><onlineUrl>http://www.oxy.edu/moore-lab-zoology</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Moore Laboratory of Zoology is located at Occidental College. The bird collection houses over 64,000 ornithological specimens. It is the largest Mexican bird collection in the world. The vast majority of the specimens are study skins (60,677), but the MLZ also contains 1,364 skeletons and 536 sets of nests and eggs. Robert T. Moore and his wife Margaret founded the MLZ in 1950, moving Moore’s personal collection from his Pasadena home to the building at Occidental College. Prominent collectors aside from Moore include Chester C. Lamb (who worked as Moore’s primary collector for decades and collected over 40,000 of the MLZ’s specimens), the Olalla Brothers and Sons, Mario del Toro Aviles, C.F. Underwood, J.T. Wright, and W.W. Brown. The collection continues its growth today with the addition of species from the western U.S. and Mexico.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.oxy.edu/moore-lab-zoology</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The MLZ bird collection is global, with the largest holdings are from Mexico (50,000 specimens) and Ecuador (6,100 specimens). Other geographic strengths include Honduras (2,200 specimens), Guatemala (1,200 specimens), and Costa Rica (1,200 specimens). Most parts of Mexico are well-represented with the exception of Baja California and the Yucatan Peninsula.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Taxonomic strengths of the MLZ bird collection include Emberizidae (11,699), Tyrannidae (7,552), Trochilidae (6,954), Troglodytidae (2,846), Psittacidae (734), and Trogonidae (463). Robert T. Moore described nearly all the 81 bird holotypes, paratypes, and topotypes currently present.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>John</givenName>          <surName>McCormack</surName>
+    </individualName>
+<organizationName>Moore Laboratory of Zoology</organizationName><positionName>Director/Curator</positionName>    <address>
+<deliveryPoint>1600 Campus Road, Occidental College</deliveryPoint><city>Los Angeles</city><administrativeArea>CA</administrativeArea><postalCode>90041</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(323) 259-1352</phone><electronicMailAddress>mccormack@oxy.edu</electronicMailAddress><onlineUrl>http://faculty.oxy.edu/mccormack/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:51Z</dateStamp>
+      <citation>McCormack J (2020). MLZ Bird Collection (Arctos). Version 33.36. Moore Laboratory of Zoology. Occurrence dataset https://doi.org/10.15468/1w791r accessed via GBIF.org on 2020-04-22.</citation>
+              <livingTimePeriod>1830-present</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

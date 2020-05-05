@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="689385b6-a672-4919-a4cc-3365c9d5aceb"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/y7tcpn</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_zapatosa_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>689385b6-a672-4919-a4cc-3365c9d5aceb</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_zapatosa_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_zapatosa_faunaflora_2015</alternateIdentifier>
+    <title>Caracterización biológica de la ventana de biodiversidad del Complejo Cenagoso de Zapatosa, Municipio de Chimichagua, Cesar, Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Germán</givenName>          <surName>Galvis</surName>
+    </individualName>
+<organizationName>Fundación Fluvialia</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Carrera 54 # 58-28 D8 apto 402</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3118828912</phone><electronicMailAddress>ggal42@yahoo.es</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>German</givenName>          <surName>Galvis</surName>
+    </individualName>
+<organizationName>Fundación Fluvialia</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Carrera 54 # 58-28 D8 apto 402</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3118828912</phone><electronicMailAddress>ggal42@yahoo.es</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Infraestructura Institucional de Datos</givenName>          <surName>Instituto Humboldt</surName>
+    </individualName>
+<organizationName>Instuto Alexander von HUmboldt</organizationName><positionName>custodio</positionName>    <address>
+<deliveryPoint>Calle 28 # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Andrés</givenName>          <surName>Morelo</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Autor</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Emiro</givenName>          <surName>Carvajal Cogollo</surName>
+    </individualName>
+<organizationName>Universidad Nacional de Colombia</organizationName><positionName>Autor</positionName>    <address>
+<deliveryPoint>Carrera 45 Calle 30</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Magaly</givenName>          <surName>Ardila</surName>
+    </individualName>
+<organizationName>Fundación Fluvialia</organizationName><positionName>Autor</positionName>    <address>
+<deliveryPoint>Carrera 1b # 26a-21</deliveryPoint><city>Santa Marta</city><administrativeArea>Magdalena</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Hugo</givenName>          <surName>Mantilla Meluk</surName>
+    </individualName>
+<organizationName>Universidad del Quindío</organizationName><positionName>Autor</positionName>    <address>
+<deliveryPoint>Carrera 15 Calle 12 Norte</deliveryPoint><city>Armenia</city><administrativeArea>Quindío</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Conjunto de datos de flora y fauna (plantas, peces, herpetos, aves y mamíferos) de la zona de Chimichagua Cesar, Complejo Cenagoso de Zapatosa, con el que se busca identificar sistemas prioritarios para la conservación mediante una aproximación biogeográfica, ecológica y de planeación estratégica sectorial en las áreas operativas de Ecopetrol, así como definir lineamientos para su conservación e incorporarlos mediante la implementación de un sistema para el soporte a la toma de decisiones y consta de 1098 registros en total.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Chimichagua</keyword>
+              <keyword>Zapatosa</keyword>
+              <keyword>complejo cenagoso de Zapatosa</keyword>
+              <keyword>I2D</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociados a esta base de datos existe un registro fotográfico de las especies y un conjunto de datos de los tejidos asociados.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_zapatosa_faunaflora_2015</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Complejo Cenagoso de Zapatosa, Chimichagua Cesar</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.93</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.66</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.36</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.96</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-03-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-06-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Conjunto de datos de flora y fauna (plantas, peces, anfibios y reptiles, aves y mamíferos) de la zona de Chimichagua Cesar, Complejo Cenagoso de Zapatosa, tomados con el que se busca identificar sistemas prioritarios para la conservación mediante una aproximación biogeográfica, ecológica y de planeación estratégica sectorial en las áreas operativas de Ecopetrol, se obtuvieron 1098 registros en total</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                          <commonName>Peces</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Chondrichthyes</taxonRankValue>
+                          <commonName>Rayas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Anfibios</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Reptiles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mamíferos</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aunar esfuerzos técnicos y administrativos para caracterizar y describir los Objetos de Conservación de grano fino en la escala 1:25.000 que fueron priorizados a partir de la escala 1:100.000, grano grueso y otros emergentes y, definir lineamientos de manejo, así como los actores de conservación para el área de trabajo establecida en la ventana de trabajo del municipio de Ciénaga de Zapatosa - Cesar, del Proyecto “Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol” N° 5211478 (IAvH 12-067), suscrito entre Ecopetrol y el Instituto Humboldt.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Germán</givenName>          <surName>Corzo</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Biológicas Alexander von Humboldt</organizationName><positionName>Supervisor</positionName>    <address>
+<deliveryPoint>Calle 28 # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Botánica:
+Al finalizar cada jornada de trabajo y luego de prensar el material, se realizaron determinaciones taxonómicas preliminares de los especímenes con la ayuda de botánicos especialistas, artículos y claves taxonómicas que permitieron la categorización de ejemplares vegetales asociados a este tipo de ecosistema
+El material colectado completó su proceso en el Herbario Federico Medem del Instituto de Investigaciones Biológicas Alexander von Humboldt (IAvH),  ubicado en el de Municipio de Villa de Leyva (Boyacá), para ser ingresado a la colección de referencia, con copias a los herbarios: Herbario Universidad de Córdoba de Montería (HUC) y Herbario Joaquín Antonio Uribe de Medellín (JAUM), bajo la denominación José Aguilar Cano (JAC), seguida del número de colección respectivo (JAC-000). Se realizó una nueva verificación del material determinado en campo, con el objetivo de asegurar su correcta identificación.  
+La confirmación de los nombres científicos fue realizada por medio de la consulta  a bases de datos como: ICN: http://www.biovirtual.unal.edu.co/ICN/, Trópicos del Missouri Botanical Garden: http://www.tropicos.org/, Global Plant: http://plants.jstor.org/y The Plant List: http://www.Theplantlist.org/ e International Plant Names: http://www.ipni.org/. Catalogue of Life: 18th March 2015: http://www.catalogueoflife.org/col/.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Peces:
+Los aparejos de pesca que se usaron se mencionan a continuación.
+1.	Chinchorros o redes de playa: en áreas con fondos limpios (sin empalizadas), se utilizarán para hacer barridos en favor de la corriente, cerrando la red por uno de los extremos hacia las orillas. 
+Deberán ser de dos tipos: a) longitud 5 m con 1 mm de entrenudo y b) longitud 20 m con entrenudos de 5 mm.
+-	Esfuerzo total de pesca: cuatro horas efectivas de pesca, dos personas (el esfuerzo total incluye el tiempo invertido en los lances y separación de los peces). 
+- Caños, lagunas, madreviejas: 4 arrastres/red (a)/2 horas + 4 arrastres/red (b)/2 horas
+- Bosque inundado y charcos temporales: 8 arrastres/red (a)/2 horas. 
+
+1.1.	Chinchorro tipo a): se usará en las quebradas de las zonas montañosas con presencia de cantos rodados y rocas. Se trazará un transecto de 100 m, que se recorrerá en contra de la corriente, la red se ubicará abajo mientras una persona a una distancia de dos metros va removiendo las piedras y agitando el agua desde arriba.
+-	Esfuerzo de pesca: una hora efectiva de pesca, tres personas.
+Ríos y quebradas de piedemonte: 4 arrastres/100 m de longitud/1 hora.
+2.	Pesca eléctrica: se usará si los cauces tienen la conductividad requerida (generalmente son las aguas con conductividades mayores a 100 µS.cm-1). Se trazará un transecto de 100 metros que se recorrerá en contra de la corriente barriendo las orillas y el sector central de los ríos y quebradas. Un chinchorro de 5 m de longitud se ubicará aguas abajo para capturar los ejemplares aturdidos que no caigan en la jama electrificada.
+-	Esfuerzo de pesca: una hora efectiva de pesca, tres personas.
+Ríos y quebradas de montaña: múltiples barridos/100 m de longitud/1 hora.
+NOTA: en la zona montañosa y del piedemonte se deberá decidir entre uno de los dos métodos expuestos arriba, chinchorro tipo a) o pesca eléctrica.
+3.	Salabardos: se utilizaran para barrer la vegetación marginal y flotante, y la hojarasca de las orillas. El entrenudo variará de 1 a 5 mm como máximo.
+-	Esfuerzo de pesca: una hora efectiva de pesca, una persona
+Caños, lagunas, bosque inundado, ríos y quebradas: múltiples barridos/100 m de longitud/1 hora.
+4.	Atarraya: para ser usada en áreas donde hayan pozas amplias o cauces lo suficientemente amplios, en donde el fondo no presente empalizadas o cantos rodados; se recorrerán las orillas haciendo lances desde estas, para el caso de lagunas grandes se podrá usar un bote para hacer recorridos hacia el centro y desde allí obtener información de otros biotopos.
+5.	Trasmallo o red de ahorque: esta red de pesca estacionaria se pondrá en lugares con poca corriente (áreas marginales o cauces lentos). Se pondrá al final de la tarde hasta el amanecer (18:00 a 06:00) y se revisará cada cuatro horas por lo menos. Podrá ser mono y multifilamento de 2,5 a 3,5 cm de entrenudo.
+6.	Espinel o palangre pelágico: se amarrará en la orilla y se dejará derivar hacia la mitad del cauce. El número de anzuelos usados variará de acuerdo al drenaje.
+7.	Búsqueda en troncos sumergidos: se deben llevar a la orilla y sobre una red se golpearán para que los organismos que vivan en ellos salgan y puedan ser colectados. También se puede verter formol diluido en los huecos para forzar la salida.
+8.	Arponeo: principalmente para rayas, además de otras especies. Se realizará en recorridos nocturnos y diurnos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Herpetos:
+Los registros de reptiles se hicieron teniendo en cuenta la siguiente división de hábitat:
+
+a. Acuáticos: cuerpos de agua lóticos (quebradas, riachuelos, caños) o lénticos (ciénaga, jagüey, charcas temporales y/o permanentes).
+
+b. Terrestres: bosque que incluye todas las áreas boscosas no asociadas a cuerpos de agua; vegetación de ribera, arbustiva y herbácea (por lo general altamente alteradas) y áreas totalmente transformadas como cultivos, rastrojos, potreros, construcciones humanas, carreteras y cercas vivas. 
+
+Para los  muestreos se realizó un diseño de transectos (caminatas) replicados a lo largo de los sitios de muestreos. La búsqueda de reptiles se llevó a cabo por la técnica de  inspección por encuentro visual-VES, cada día de muestreo abarcó un esfuerzo de 8 horas/hombre, dividido en dos jornadas (diurna y nocturna), en la que participó un investigador. El esfuerzo de muestreo total aplicado fue de 64 horas/hombre. Se revisaron minuciosamente los microhábitats posibles en el área: hojarasca, hojas, troncos caídos, ramas, agua, hierba, suelo desnudo y techos y paredes de habitaciones humanas. Adicionalmente se obtuvieron resultados de las trampas de caída, que consistían de baldes enterrados a ras de piso con corredores de arrastre que interconectaban un balde con otro, cabe anotar que estos conjuntos de trampas fueron dispuestas para pequeños mamíferos, pero mostraron efectividad para los anfibios y reptiles.
+
+Con la mayoría de las especies registradas se hizo una colección de referencia que se depositó en la colección de reptiles y anfibios del Instituto de Recursos Biológicos Alexander von Humboldt (IAvH).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves:
+Recorridos libres
+
+Entre el 3 y el 10 de marzo de 2015 se realizaron muestreos diurnos y nocturnos, recorriendo en cada sitio transectos paralelos de 500 m y con puntos discretos de observación de mínimo 10 minutos en cada uno de los sitios de influencia de ciénaga. El esfuerzo de muestreo fue de 64 horas/hombre en total. El tipo de registro fue visual y auditivo, recorriendo diariamente desde las 06:00-10:00 y 16:30-18:30 horas. Dichas observaciones se realizaron empleando binoculares Bushnell 8x42 y 10x50
+
+Adicionalmente, se realizaron recorridos en lancha sobre el espejo de agua y sus orillas recorriendo la mayor cantidad de sitios en la ciénaga procurando abarcar diferentes coberturas de vegetación y de esta manera obtener registros con una mayor representatividad de especies para la localidad. Las especies identificadas fueron clasificadas de acuerdo a su estatus de residencia o migración para Colombia, y se efectuaron anotaciones sobre comportamientos específicos y hábitos alimenticios al momento de ser registradas. En los muestreos se hicieron conteos de individuos en cada punto de observación y se tomaron los siguientes datos:
+•	Tipo de registro (captura, visual o auditivo)
+•	Identificación del individuo
+•	Sexo 
+•	Comportamiento (alimentación, descanso, vuelo, caza, actividad reproductiva, etc.)
+•	Número de individuos registrados por especie
+
+
+Redes de niebla
+Se utilizaron 13 redes de niebla tipo ATX 12 de 9 (9 redes) y 4 m (6 redes) de largo por 2.6 m de ancho y con ojo de malla extendida de 30 a 36 mm. Fueron colocadas en cuatro sitios distribuidos equitativamente entre las unidades de muestreo. Las redes fueron abiertas en cada sitio de muestreo durante dos días consecutivos y fueron abiertas entre las 6:00 y 11:00 horas y entre las 15:00 y 18:00 con una periodicidad mínima de 30 minutos de revisión (Figura 5). Se tuvo un esfuerzo de muestreo de 140 horas-red.
+
+Para las aves capturadas se registraron los datos: información del colector/es y de la captura, nombre  de la especie, peso, sexo, edad, estado reproductivo, culmen total, ancho del pico, altura del pico, longitud de la cola, longitud del tarso, longitud del ala y comentarios adicionales. Todas las capturas fueron marcadas mediante el corte de una de las plumas de la cola para reconocer los ejemplares recapturados. Así mismo, se obtuvo registro fotográfico de los individuos colectados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos:
+El tipo de preparación describe la manera en la que los especímenes han sido preservados.
+Las opciones estandarizadas recomendadas son: “piel y cráneo”,
+consistente en pieles secadas con cráneos removidos y limpiados, con la carcasa remanente
+preservada en fluido; “fluido o líquido”, animales enteros fijados en formol y preservados en
+alcohol; “esqueleto”, especímenes cuya piel ha sido removida y cuyo esqueleto es preservado
+para futura limpieza; “tejidos”, tejidos preservados en fluidos. Todos estos métodos pueden
+ser combinados y su documentación en las libretas de campo y catálogos de la colección
+deben ser consignados en concordancia (e. g., “fluido + tejido”).
+La identificación correspondió al nombre científico del animal escrito en el sistema binomial.
+La “fecha” corresponde al día de la colecta, o el día siguiente a la noche de captura.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El conjunto cenagoso de Zapatosa es el de mayor extensión en el Plano Inundable del Bajo Magdalena y contiene el cuerpo de agua dulce más grande del país. Es el principal cuerpo de agua de la ecoregión, presenta una extensión media de 36.000 has, con incremento hasta de 14.500 has, en época de máxima inundación, una profundidad promedio de 3 metros con fondo fangoso y algunos bancos de cascajo (presenta numerosas islas de los cuales se destacan: Barrancones, Grande, Las Negritas, Palomino y Punta Piedra). El clima de esta zona es regulado sobre todo por la existencia de estas grandes masas de agua, ya que facilita la ocurrencia de la evaporación y por ende de la formación de nubosidad, es la ecorregión que menos déficit hídrico presenta en el Departamento del Cesar y la que en las condiciones más desfavorables aún podría ofertar agua al medio natural.
+El sistema cenagoso de Zapatosa está ubicado en el norte de Colombia, en jurisdicción de los municipios de El Banco (Magdalena), Chimichagua, Tamalameque, Curumaní y Chiriguaná, los cuatro últimos pertenecientes al departamento del Cesar, ubicado entre las coordenadas 9º14”N-73º46”W y 9º21” N 73º49”W, cubriendo los municipios de Chimichagua y Tamalameque en el departamento de Cesar y el Banco, jurisdicción del departamento del Magdalena. El régimen de las lluvias de la zona es bimodal tetraestacional, la precipitación media anual oscila entre 1000-2600 mm, los periodos de lluvias (invierno) comprenden los meses de abril a junio y agosto a noviembre, con un máximo en el mes de octubre (160-300 mm) y un promedio de temperatura de 28 ºC y evapotranspiración potencial de 162.3 mm; mientras que los periodos secos (verano) se presentan entre diciembre a marzo y julio a principios de agosto, con un mínimo en el mes de enero (9-21 mm) y un promedio de temperatura de 26 º C y evapotranspiración potencial de 135.7 mm.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Botánica:
+Se realizaron muestreos de la flora local durante diez días del mes de Marzo, siguiendo los protocolos o metodologías recomendadas para el estudio de la vegetación en este tipo de ecosistemas. Fueron aplicados en campo dos métodos: recorridos libres, durante la salida en las diversas áreas objetos de interés, se desarrollaron caminatas intensivas y detalladas abarcando  la mayor cantidad de ecosistemas o coberturas dentro del área seleccionada en la ventana Ciénaga de Zapatosa, colectando ejemplares vegetales fértiles (flores y frutos) en lo posible y haciendo un registro de las características morfológicas, ecológicas y geográficas más importantes que permitieran su posterior identificación y verificación taxonómica. Debido a la época en que fue realizado el muestreo no se encontraron  coberturas de macrófitas en las cuales pudiesen levantarse los transectos para este grupo. Se tomaron muestras de tejido vegetal en la mayoría de ejemplares colectados. Además, se registraron datos de campo preliminares sobre estado poblacional local de la mayoría de especies de importancia a conservar.
+
+Peces:
+Se seleccionaran 15 estaciones de muestreo, en las cuales se usará una metodología estándar para poder comparar entre localidades. En las estaciones de tierra baja se pescará siguiendo la metodología propuesta por el IAvH y adaptada a las condiciones particulares de las zonas de vida particulares (apéndice 1) y se usará pesca eléctrica y métodos convencionales para zonas montañosas y del piedemonte.
+
+Herpetos:
+La evaluación de la herpetofauna se realizó mediante la metodología VES (muestreos de encuentro visual libre).
+
+Aves:
+La evaluación de la avifauna se realizó mediante dos metodologías: captura con redes de niebla y recorridos libres en los cuales se efectuarán registros visuales y auditivos.
+
+Mamíferos:
+Para la caracterización de la mastofauna en la zona, se utilizaron tres metodologías: redes de niebla para murciélagos, trampeo para capturas de mamíferos pequeños y transectos para registro de indicios o avistamientos de mamíferos medianos y grandes, en las diferentes coberturas vegetales.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol</title>
+          <personnel>
+    <individualName>
+<givenName>German</givenName>          <surName>Galvis</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Instituto Alexander Von Humboldt
+Fundación Fluvialia</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El complejo cenagoso de Zapatosa ocupa un área de 40.000 ha y alberga un volumen de por lo menos 1.000 millones de m³ de agua. La región colinda con otras zonas ecológicas como la Serranía del Perijá, el valle del río Cesar y el valle del río Magdalena.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Aunar esfuerzos técnicos, administrativos y financieros para aportar a la construcción de conocimiento nacional y regional en biodiversidad mediante el desarrollo del proyecto ”Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol”. Esta fase complementaria abarcará las demás áreas de influencia de Ecopetrol en las regiones biogeográficas Orinoquía, Norandina, Caribe, Andes occidentales, Pacífica y Amazonía</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:50Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/y7tcpn">Galvis G, Galvis G (2019). Caracterización biológica de la ventana de biodiversidad del Complejo Cenagoso de Zapatosa, Municipio de Chimichagua, Cesar, Colombia. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/y7tcpn accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Caracterización biológica de la ventana de biodiversidad del Complejo Cenagoso de Zapatosa, Municipio de Chimichagua, Cesar, Colombia</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_zapatosa_faunaflora_2015</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>FMB, IAvH-A, IAvH-AM, IAVH-M, IAvH-P, IAvH-R</collectionIdentifier>
+                <collectionName>Herbario Federico Medem, Colección de aves, anfibios, mamiferos, peces y reptiles del Instituto Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>especímenes</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1,090</beginRange>
+                          <endRange>1,100</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

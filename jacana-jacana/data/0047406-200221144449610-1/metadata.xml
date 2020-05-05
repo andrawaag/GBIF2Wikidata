@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="10.15468/dl.n9yrzy"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+        <alternateIdentifier>0047406-200221144449610</alternateIdentifier>
+    <title>GBIF Occurrence Download 10.15468/dl.n9yrzy</title>
+    <creator>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2020-04-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;TaxonKey&quot; : [ &quot;is Jacana jacana (Linnaeus, 1766)&quot; ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+1 records from Provincial Museum of Alberta, Edmonton, AB, Canada. Birds (Aves)
+1 records from Aves MZS
+1 records from Collections and observation data National Museum of Natural History Luxembourg
+1 records from Collection Aves (bird skins) SMF
+1 records from Aves de la expedición en lago de Tota, Boyacá - Proyecto Boyacá BIO
+1 records from MSB Bird Collection (Arctos)
+1 records from Biodiversidad de un bosque seco tropical del Valle Medio del río Magdalena: evaluación integrada a través de multitaxones
+1 records from Caire-Chabrand Collection
+1 records from Nigerian Conservation Foundation (NCF) Database of Birds from Nigeria
+1 records from Questagame weekly feed
+1 records from Birds (coll. Bonnetain)
+1 records from Caracterización de Flora y Fauna en la cuenca del río Calamar, municipios de Bolívar y Trujillo, Valle del Cauca
+1 records from Avifauna asociada al complejo cenagoso La Larga, Tagachí, Chocó 2012
+1 records from Aves de la cuenca alta y media del río Bita, (Vichada) Colombia
+1 records from fauna_do_municipio_de_araraquara-sp
+1 records from Zoology (Museum of Evolution - Uppsala)
+1 records from Avifauna around mining sites in Pará, Brazil
+1 records from Caracterizaciones rápidas de biodiversidad en grupos biológicos de la planicie del valle del río Cauca
+1 records from Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves Nidos (MFA-ZV-Or-N)
+1 records from Proyecto COL88611 para la conservación y uso sostenible de ecosistemas secos
+1 records from Avistamiento de Aves en la Reserva de la Sociedad Civil &quot;El Diamante de las Aguas&quot; Marzo 2017
+1 records from HSU Wildlife Eggs and Nests
+1 records from Aves of wetlands and protected forests in Benin
+1 records from Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima - 2017
+1 records from Tejidos de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio
+1 records from Aves de los Parques Ecológicos Distritales Humedales Bogotá, D.C.
+1 records from Recopilación de Información de FAUNA en la Jurisdicción de CORNARE, hasta el año 2015
+1 records from Données acquises dans le cadre de l&apos;activité du bureau d&apos;étude BIOTOPE (1994 - 2013)
+1 records from Caracterización de fauna terrestre y aves de la cuenca del Río Acacías
+1 records from Données naturalistes d&apos;Audrey SAVOURE-SOUBELET
+2 records from Birds Specimens
+2 records from PSM Vertebrates Collection
+2 records from Collection Aves (spirit preserved) SMF
+2 records from Flora y fauna asociada al hábitat del Manatí antillano en la Ciénaga de Paredes, Magdalena Medio Santandereano
+2 records from Caracterización faunística de los humedales San Ricardo, San Roque y La Argentina en el municipio de Guasca, Cundinamarca
+2 records from Collection ornithologique A. Maës
+2 records from Auckland Museum Land Vertebrates Collection
+2 records from Caracterización biológica en la Serranía de San Lucas 2015
+2 records from Données naturalistes de Patrick HAFFNER
+2 records from Colección Zoológica de la Universidad del Tolima (CZUT) - Ornitología
+2 records from Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima. 2017-B.
+2 records from Caracterización biológica de la ventana Beltrán, corregimiento Paquiló, Municipio de Beltrán, Cundinamarca
+2 records from Vertebrates of the Gothenburg Natural History Museum (GNM)
+2 records from Aves de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio
+2 records from NZCS Vertebrates Old Collection Before 1987
+2 records from CMNH Birds Collection
+2 records from Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves Huevos (MFA-ZV-Or-Hu)
+2 records from Ghent  University - Zoology Museum - Vertebrate collection
+2 records from Inventario y monitoreo de aves silvestres en tres humedales del departamento de Córdoba
+2 records from CAREC Birds
+2 records from Caracterización de avifauna de la subcuenca del Río San Pedro, San Pedro, Valle del Cauca
+2 records from Herpetofauna y avifauna de los municipios de Villeta y Guaduas (Cundinamarca), en el contexto de la vulnerabilidad del territorio al cambio climático
+2 records from Caracterización biológica de la ventana de biodiversidad del Complejo Cenagoso de Zapatosa, Municipio de Chimichagua, Cesar, Colombia
+2 records from Aves de fragmentos de Bosque seco en la región del Caribe Colombiano
+2 records from Aves en fincas ganaderas sostenibles del Meta
+2 records from Museu de Ciències Naturals de Barcelona: MCNB-Cord
+3 records from Bird collection of National Museum of Nature and Science
+3 records from Museo Argentino de Ciencias Naturales &quot;Bernardino Rivadavia&quot; (MACN). Ornithology National Collection (MACNOr)
+3 records from Cowan Tetrapod Collection - Birds
+3 records from ZUEC-AVE - Coleção de Aves do Museu de Zoologia da UNICAMP
+3 records from Creación de un área protegida pública local en los municipios de Roldanillo, La Unión y Toro.
+3 records from Caracterización de fauna para el establecimiento de nuevas Reservas Naturales de la Sociedad Civil en Arauca
+4 records from SDNHM Birds Collection
+4 records from MLZ Bird Collection (Arctos)
+4 records from Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CSA)
+4 records from Aves asociadas a las sabanas inundables de las cuencas de los ríos Bita, Manacacías y Cravo Sur - SULU II
+4 records from Museu_Paraense_Emilio_Goeldi_Ornithology_Collection-Skin
+4 records from NHMO Bird collection
+4 records from Corredor neotropical de migración de aves en Colombia Temporada I-II/2016
+4 records from Bird specimens of the Yamashina Institute for Ornithology
+4 records from Bird Specimens in the Museum of Nature and Human Activities, Hyogo, Japan
+5 records from Canadian Museum of Nature Bird Collection
+5 records from Fauna y Flora de Cinaruco - 2014- 2016
+5 records from Museu Paraense Emílio Goeldi - Ornithology Collection - Osteological
+5 records from Museu Paraense Emílio Goeldi - Ornithology Collection -  Feathers_and_Skin
+5 records from Baillon Collection
+5 records from Tetrápodos de Uruguay
+6 records from Colección Ornitológica del IADIZA-CCT CONICET Mendoza: IADIZA-COI
+6 records from Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias
+6 records from KUBI Ornithology Collection
+6 records from Colección de Aves Museo Universitario de la Universidad de Antioquia
+6 records from Aves del municipio de Cimitarra, Santander - Proyecto Santander BIO
+6 records from SysTax -  Zoological Collections
+7 records from Museo Provincial de Ciencias Naturales “Dr. Ángel Gallardo”, Rosario, Argentina - Colección Aves (MG-ZV-A)
+7 records from UWBM Ornithology Collection
+7 records from Caracterización de la avifauna de las cuencas de los Ríos Cañas (Dibulla–Guajira), Garupal (Valledupar–Cesar), Arroyo Grande (San Juan de Nepomuceno–Bolívar), Aipe (Huila), Yaví (Tolima), Dagua (Valle del Cauca) como insumo para la identificación de oportunidades de conservación y de recuperación de servicios ecosistémicos del bosque seco.
+7 records from DMNS Bird Collection (Arctos)
+7 records from Colección Ornitológica de la Universidad Industrial de Santander
+7 records from Lund Museum of Zoology (MZLU)
+8 records from Caracterización de fauna y flora para el establecimiento de límites funcionales de humedales en tres ventanas piloto: Ciénaga de la Virgen,  Ciénaga Zapatosa y  Complejo de humedales Paz de Ariporo - Hato Corozal
+8 records from Collection Aves (bird skeletons) SMF
+8 records from Inventario de Aves y Mamíferos en humedales del departamento de Córdoba
+8 records from Coleção de Aves do Museu Nacional / UFRJ
+8 records from Aves Acuáticas en el Caribe Colombiano Entre 2007 y 2009
+9 records from IIAPPoa
+9 records from Colección Ornitológica de la Universidad del Valle
+9 records from Museu Paraense Emilio Goeldi - Ornithology Collection - Eggs
+9 records from MVZ Bird Collection (Arctos)
+9 records from CUMV Bird Collection
+10 records from Bird Collection of Museum and Institute of Zoology PAS
+10 records from Registro de Fauna Silvestre en el Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú
+10 records from Rapid Assessment Program (RAP) Biodiversity Survey Database
+10 records from Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá
+10 records from Monitoreo de la avifauna de la ciénaga de Beté, municipio del Medio Atrato-Chocó -2018
+11 records from Données d&apos;occurrences Espèces issues de l&apos;inventaire des ZNIEFF
+11 records from Colección de Ornitología - Museo de Ciencias Naturales de La Salle
+12 records from Colección de aves del Museo de Historia Natural de la Pontificia Universidad Javeriana
+13 records from DMNH Birds
+13 records from LSUMZ Bird Tissues
+14 records from RBINS DaRWIN
+14 records from FNJV - Fonoteca Neotropical Jacques Vielliard
+14 records from Natural History Museum (London) Collection Specimens
+15 records from Museu Paraense Emilio Goeldi - Ornithology Collection - Anatomic
+16 records from MCP-Aves - Coleção de Aves
+16 records from Inventario de fauna presente en la jurisdicción de Corantioquia
+17 records from Avifauna Presente en la Ciénaga de Montaño, Municipio del Carmen del Darién, Chocó
+18 records from Fauna y flora asociada a 18 humedales del valle geográfico del río Cauca
+19 records from Ornithology Collection Non Passeriformes - Royal Ontario Museum
+20 records from ICN - Universidad Nacional de Colombia
+23 records from Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves (MFA-ZV-Or)
+24 records from Naturalis Biodiversity Center (NL) - Aves
+24 records from WFVZ Bird Collections
+25 records from Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)
+26 records from Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A)
+30 records from Geographically tagged INSDC sequences
+33 records from LACM Vertebrate Collection
+34 records from MBML-Aves - Coleção de Aves MBML
+34 records from Aves de tres Macro Hábitats en la región de la Mojana, Sucre, Colombia
+39 records from International Barcode of Life project (iBOL)
+39 records from Vertebrados de los humedales de La Mojana, Colombia
+41 records from Fauna y flora en áreas con cultivos de palma de aceite en el norte y oriente de Colombia
+45 records from Vertebrate Zoology Division - Ornithology, Yale Peabody Museum
+46 records from Aves Playeras y Otras Aves Asociadas a Arrozales en los Departamentos de Casanare y Meta en 2009 - 2010
+51 records from ORN
+53 records from University of Michigan Museum of Zoology, Division of Birds
+53 records from Macaulay Library Audio and Video Collection
+54 records from Aves Argentinas / Asociación Ornitológica del Plata - Colección de registros observacionales de aves silvestres argentinas - Lista Narosky: familia Jacanidae
+56 records from LSUMZ Birds Collection
+68 records from Aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte, Villavicencio, Meta.
+70 records from AMNH Bird Collection
+73 records from Registros biológicos  en áreas protegidas obtenidos de documentos impresos
+74 records from CM Birds Collection
+74 records from Alas del Arroz
+94 records from naturgucker
+101 records from Aves laguna El Tinije
+103 records from Fauna y flora del municipio de Lipa, Arauca
+115 records from Xeno-canto - Bird sounds from around the world
+168 records from NMNH Extant Specimen Records
+223 records from Field Museum of Natural History (Zoology) Bird Collection
+279 records from Monitoreo de aves acuáticas en hábitats sedimentados de la Laguna de Sonso y determinación de la presencia e incidencia de influenza aviar en humedales continentales y costeros del Valle del Cauca.
+346 records from El Censo Neotropical de Aves Acuáticas en Colombia (CNAA): 2002 - 2011
+439 records from Aves Acuáticas de las sabanas inundables del Meta y Casanare
+883 records from iNaturalist Research-grade Observations
+1684 records from DATAVES
+68563 records from EOD - eBird Observation Dataset
+</para>
+    </abstract>
+      <contact>
+    <individualName>
+          <surName>GBIF Download Service</surName>
+    </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:09:00Z</dateStamp>
+      <citation identifier="10.15468/dl.n9yrzy">GBIF Occurrence Download 10.15468/dl.n9yrzy</citation>
+              <physical>
+                  <objectName>Darwin Core Archive</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>Darwin Core Archive</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://api.gbif.org/v1/occurrence/download/request/0047406-200221144449610.zip</url>
+                      </online>
+                  </distribution>
+              </physical>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

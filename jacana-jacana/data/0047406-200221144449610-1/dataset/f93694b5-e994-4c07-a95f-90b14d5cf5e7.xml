@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f93694b5-e994-4c07-a95f-90b14d5cf5e7"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/3fnybx</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=cmnh-birds</alternateIdentifier>
+    <title>CMNH Birds Collection</title>
+    <creator>
+    <individualName>
+<givenName>Andy</givenName>          <surName>Jones</surName>
+    </individualName>
+<organizationName>Cleveland Museum of Natural History</organizationName><positionName>William A. and Nancy R. Klamm Endowed Chair and Curator of Ornithology</positionName>    <address>
+<deliveryPoint>1 Wade Oval Drive</deliveryPoint><city>Cleveland</city><administrativeArea>OH</administrativeArea><postalCode>44106</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 216-231-4600 x3332</phone><electronicMailAddress>ajones@cmnh.org</electronicMailAddress><onlineUrl>https://www.cmnh.org/ornithology/collection-database</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andy</givenName>          <surName>Jones</surName>
+    </individualName>
+<organizationName>Cleveland Museum of Natural History</organizationName><positionName>William A. and Nancy R. Klamm Endowed Chair and Curator of Ornithology</positionName>    <address>
+<deliveryPoint>1 Wade Oval Drive</deliveryPoint><city>Cleveland</city><administrativeArea>OH</administrativeArea><postalCode>44106</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 216-231-4600 x3332</phone><electronicMailAddress>ajones@cmnh.org</electronicMailAddress><onlineUrl>https://www.cmnh.org/ornithology/collection-database</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley​</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2018-04-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Department of Ornithology at the Cleveland Museum of Natural History encompasses approximately 35,000 research specimens and more than a century of ornithological exploration around the world. The department was established in 2006 through a generous bequest from William A. and Nancy R. Klamm, whose donation created an endowed chair for the curator and department head.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andy</givenName>          <surName>Jones</surName>
+    </individualName>
+<organizationName>Cleveland Museum of Natural History</organizationName><positionName>William A. and Nancy R. Klamm Endowed Chair and Curator of Ornithology</positionName>    <address>
+<deliveryPoint>1 Wade Oval Drive</deliveryPoint><city>Cleveland</city><administrativeArea>OH</administrativeArea><postalCode>44106</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 216-231-4600 x3332</phone><electronicMailAddress>ajones@cmnh.org</electronicMailAddress><onlineUrl>https://www.cmnh.org/ornithology/collection-database</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:49Z</dateStamp>
+      <citation>Jones A (2018). CMNH Birds Collection. Cleveland Museum of Natural History. Occurrence dataset https://doi.org/10.15468/3fnybx accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

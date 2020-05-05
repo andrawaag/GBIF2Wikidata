@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4ae715d1-e34b-4788-916e-f4360d078768"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/5dlerm</alternateIdentifier>
+        <alternateIdentifier>4ae715d1-e34b-4788-916e-f4360d078768</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=tejidos_colbio_vichada</alternateIdentifier>
+    <title>Tejidos de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio</title>
+    <creator>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>magonzalez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>1110231</postalCode><country>COLOMBIA</country>    </address>
+<phone>+573202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>magonzalez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Elkin</givenName>          <surName>Tenorio</surName>
+    </individualName>
+<organizationName>Instituto Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C</administrativeArea><postalCode>0000</postalCode><country>COLOMBIA</country>    </address>
+<phone>132027671166</phone><electronicMailAddress>etenorio@humboldt.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Eduardo</givenName>          <surName>Tovar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<city>Palmira</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>etovar@humbold.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-12-18
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Bajo el convenio especial de cooperación No. FP44842-109-2016 entre Colciencias y el Instituto Alexander von Humboldt se presentan los especímenes recolectados durante una expedición biológica al Caño Terecay, cuenca del Río Tomo, municipio de Puerto Carreño, Vichada, Colombia. En este recurso se presentan los resultados de las muestras de tejidos. Se obtuvo un total de 898 registros biológicos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Vichada; Caño Terecay; Río Tomo; Marandúa; Orinoquía; savana; morichal;  Colombia BIO</keyword>
+              <keyword>tejidos</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://ipt.biodiversidad.co/iavh/resource.do?r=tejidos_colbio_vichada</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La zona de estudio corresponde al municipio de Puerto Carreño, en el departamento de Vichada, en la desembocadura del caño Teracay en el río Tomo.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-68.684</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-68.498</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.889</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.514</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-03-31
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-08-10
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se obtuvo un total de 898 muestras de tejido correspondientes a individuos con diferentes niveles de identificación taxonómica. Entre los tejidos colectados se presentan 58 hongos, 310 plantas, 25 insectos, 341peces, 32 anfibios, 10 reptiles y 122 aves.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Arthropoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Ascomycota</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Basidiomycota</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Chordata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Pteridophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Myxomycetes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Realizar una evaluación biológica rápida de la biodiversidad subterránea y terrestre, así como de los ecosistemas endo (ambientes hipogeos) y exocársticos (epigeos) asociados, con miras a su conocimiento, conservación y uso sostenible.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mailyn</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>magonzalez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los tejidos vegetales se recolectaron a partir de láminas foliares jóvenes rasgadas en trozos pequeños y preservadas deshidratadas. Los tejidos de hongos se recolectaron a partir del contexto, parte interna del píleo y estípite del cuerpo fructífero y se preservaron en buffer CTAB a -20 °C. Los tejidos de insectos se recolectaron a partir de patas tomadas desde la coxa, los de peces a partir de fragmentos de escamas y aletas, los de anfibios a partir de fragmentos de hígado y patas, los de reptiles a partir de fragmentos de músculo cardíaco, los de aves a partir de fragmentos de músculo pectoral y los de mamíferos a partir de fragmentos de músculo cardíaco e hígado. Todos los tejidos animales fueron preservados en alcohol al 96 % a -20 °C.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona de muestreo se encuentra localizada en un clima cálido húmedo el municipio de Puerto Carreño (Vichada). La elevación oscila entre los 100 y 121 m s. n. m. Predominan coberturas de herbazales y bosques de galería. Debido a que el muestreo se llevó a cabo al final de la época seca, se tuvo la posibilidad de acceder en aguas bajas.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Muestreo RAP ecosistema epigeo: El muestreo se enfocó en la documentación de la diversidad de plantas, hongos, aves, peces, macroinvertebrados, coleópteros coprófagos, herpetos y mamíferos y en la descripción general de los diferentes tipos de vegetación asociados a las áreas de interés (cavernas) en la zona exocárstica y otras ventanas seleccionadas in situ que representen los diferentes tipos y formaciones vegetales.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La evaluación rápida de biodiversidad se realizó bajo metodologías estandarizadas. La identificación, curaduría y procesamiento de los ejemplares se hace bajo referencia de colecciones registradas junto con claves taxonómicas y consulta de expertos.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Caracterización de biodiversidad para el fortalecimiento de colecciones científicas y la generación de información genética de la biodiversidad colombiana, en el marco del programa Colombia BIO.</title>
+          <personnel>
+    <individualName>
+<givenName>Javier</givenName>          <surName>Barriga Bernal</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Colombia BIO. Convenio especial de cooperación No. FP44842-109-2016 del 2016.
+Aunar esfuerzos para caracterizar la biodiversidad en áreas de interés científico y con baja información biológica, para el fortalecimiento de colecciones científicas y la generación de información genética de la biodiversidad Colombiana, en el marco del programa Colombia BIO.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Desembocadura del Caño Teracay en el Río Tomo, Puerto Carreño, Vichada</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:45Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/5dlerm">González M (2018). Tejidos de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada  - Proyecto Colombia Bio. Version 1.3. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/5dlerm accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Tejidos de la desembocadura del caño Teracay en el río Tomo, Puerto Carreño, Vichada - Proyecto Colombia Bio</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>.txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=tejidos_colbio_vichada</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-CT</collectionIdentifier>
+                <collectionName>Colección de tejidos del Instituto Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

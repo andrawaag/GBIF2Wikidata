@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5a84d194-423e-44f8-9704-0f12f414d532"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/c42736</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=ornitologia</alternateIdentifier>
+    <title>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves (MFA-ZV-Or)</title>
+    <creator>
+    <individualName>
+<givenName>Leonardo Adrián</givenName>          <surName>Leiva</surName>
+    </individualName>
+<organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName><positionName>Unidad Cultural Zoología</positionName>    <address>
+<deliveryPoint>Primera Junta, 2859</deliveryPoint><city>Santa Fe</city><administrativeArea>La Capital</administrativeArea><postalCode>3000</postalCode><country>ARGENTINA</country>    </address>
+<phone>+54 342 4573730</phone><electronicMailAddress>leoleiva1811@hotmail.com</electronicMailAddress><onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Vanesa</givenName>          <surName>Faccioli</surName>
+    </individualName>
+<organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName><positionName>Servicios Educativos</positionName>    <address>
+<deliveryPoint>Primera Junta, 2859</deliveryPoint><city>Santa Fe</city><administrativeArea>La Capital</administrativeArea><postalCode>3000</postalCode><country>ARGENTINA</country>    </address>
+<phone>+54 342 4573730</phone><electronicMailAddress>vfaccioli@santafe.gov.ar</electronicMailAddress><onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>    </metadataProvider>
+      <pubDate>
+      2016-11-03
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Contiene 2860 registros de la colección de aves del Museo Florentino Ameghino, Santa Fe, Argentina. Actualmente la colección se encuentra compuesta por 2487 especímenes (pieles y elementos taxidermizados), de los cuales 1891 poseen localidad precisa de procedencia, que abarca principalmente la provincia de Santa Fe y de otras 16 provincias Argentinas, como así también, en menor medida, de ejemplares de otros países (Alemania, Australia, Brasil, Uruguay y Venezuela). En el conjunto de datos se encuentran representadas 510 especies de aves, de 82 familias y 27 órdenes. 18 ejemplares aun se encuentran sin determinar a nivel de especie.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Ornitología</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Especímen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Actualmente la colección se encuentra compuesta por 2487 especímenes (pieles y elementos taxidermizados), de los cuales 1891 poseen localidad precisa de procedencia, que abarca principalmente la provincia de Santa Fe y de otras 16 provincias Argentinas, como así también, en menor medida, de ejemplares de otros países (Alemania, Australia, Brasil, Uruguay y Venezuela).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1899-01-17
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-12-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La cobertura taxonómica de este conjunto de datos abarca 510 especies de aves, de 82 familias y 27 órdenes. 18 ejemplares aun se encuentran sin determinar a nivel de especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andrés Alberto</givenName>          <surName>Pautasso</surName>
+    </individualName>
+<organizationName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina</organizationName><positionName>Coordinador</positionName>    <address>
+<deliveryPoint>Primera Junta, 2859</deliveryPoint><city>Santa Fe</city><administrativeArea>La Capital</administrativeArea><postalCode>3000</postalCode><country>ARGENTINA</country>    </address>
+<phone>+54 342 4573730</phone><electronicMailAddress>andrespautasso@yahoo.com.ar</electronicMailAddress><onlineUrl>http://www.museoameghino.gob.ar/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:56Z</dateStamp>
+      <citation>Leiva L A, Faccioli V (2016). Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves (MFA-ZV-Or). Museo Provincial de Ciencias Naturales &quot;Florentino Ameghino&quot;. Occurrence dataset https://doi.org/10.15468/c42736 accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>http://ipt.mincyt.gob.ar/logo.do?r=ornitologia</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>urn:catalog.MFA:ZV-Or</collectionIdentifier>
+                <collectionName>Museo Provincial de Ciencias Naturales “Florentino Ameghino”, Santa Fe, Argentina - Colección Aves (MFA-ZV-Or)</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

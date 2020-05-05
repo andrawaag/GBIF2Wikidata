@@ -1,0 +1,388 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c847fb48-d604-4a6e-91c9-4df147f43e14"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/yl61kk</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=alasdelarroz</alternateIdentifier>
+    <title>Alas del Arroz</title>
+    <creator>
+    <individualName>
+<givenName>Yanira</givenName>          <surName>Cifuentes-Sarmiento</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora Alas del Arroz</positionName>    <address>
+<deliveryPoint>Carrea 24 #4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760044</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5725560455</phone><electronicMailAddress>ycifuentes@calidris.org.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Yanira</givenName>          <surName>Cifuentes-Sarmiento</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora Alas del Arroz</positionName>    <address>
+<deliveryPoint>Carrea 24 #4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760044</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5725560455</phone><electronicMailAddress>ycifuentes@calidris.org.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Yanira</givenName>          <surName>Cifuentes-Sarmiento</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora Alas del Arroz</positionName>    <address>
+<deliveryPoint>Carrea 24 #4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760044</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5725560455</phone><electronicMailAddress>ycifuentes@calidris.org.co</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-09-05
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Alas del Arroz es una iniciativa de conservación, creada en 2009 por la Asociación Calidris, que busca identificar y promover cultivos de arroz amigos de las aves. Partimos de las aves como grupo bioindicador del estado de los arrozales y promovemos buenas practicas de manejo para conservar la biodiversidad.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>valle geográfico del río Cauca</keyword>
+              <keyword>Arroz</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Desde 2016 se esta consolidando otra base de datos Alas del Arroz, en la que se incluye información de arrozales de Casanare. En 2020 se espera incluir esta base de datos en el SIB. La información de esta base de datos ha sido publicada en informes entregados a los donantes y en publicaciones como: 
+-Cifuentes-Sarmiento, Y., C. Ruiz-Guerra, L.F. Castillo Cortés &amp; J. Suarez Valbuena. 2017. Alas migratorias del arroz. Asociación Calidris &amp; Arrocera La Esmeralda S.A.S. Cali. Colombia, 20p.
+-Cifuentes-Sarmiento, Y. y L. F. Castillo Cortés. 2016. Las alas de arroz: aves acuáticas en cultivos ecoamigables del Valle del Cauca. Asociación Calidris &amp; Arrocera La Esmeralda S.A.S. Cali. Colombia, 24p.
+-Cifuentes-Sarmiento, Y., L. Neira, L.F. Castilllo-Cortés y J. Suarez Valbuena. 2014. Aves rapaces en arrozales del valle geográfico del río Cauca. Asociación Calidris &amp; Arrocera La Esmeralda S.A.S. Cali. Colombia, 12p.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos se han obtenido de cultivos de arroz ubicados en el valle geográfico del río Cauca, desde arrozales en Ansermanuevo (Valle del Cauca) hasta arrozales en Patia (Cauca)</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-77.091</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-75.969</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.779</northBoundingCoordinate>
+                      <southBoundingCoordinate>2.093</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-08-23
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-05-25
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Hemos observado y registrado 65947 individuos, pertenecientes a 164 especies de aves, de las cuales Dendrocygna autumnalis, Phimosus infuscatus y Zenaida auriculata con 4126, 4577 y 5290 individuos registrados respectivamente, son las especies más abundantes. Estos 65947 individuos pertenecen a 40 familias de aves, de las cuales, la familia de los patos (Anatidae) con once especies y 7924 individuos es la familia con mayor abundancia, mientras la familia de los atrapamoscas (Tyrannidae) presenta la mayor riqueza con 23 especies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                          <commonName>Águilas y gavilanes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                          <commonName>Martines pescador</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                          <commonName>Patos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                          <commonName>Pato aguja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                          <commonName>Vencejos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                          <commonName>Garzas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cardinalidae</taxonRankValue>
+                          <commonName>Cardenales</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                          <commonName>Gallinazos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                          <commonName>Chorlos y chorlitos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Coerebidae</taxonRankValue>
+                          <commonName>Mieleros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                          <commonName>Palomas y torcazas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cracidae</taxonRankValue>
+                          <commonName>Pavas y guacharacas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                          <commonName>Cucos y cuclillos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                          <commonName>Gorriones y afines</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Estrildidae</taxonRankValue>
+                          <commonName>Pinzones</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                          <commonName>Halcones y cernicalos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fringillidae</taxonRankValue>
+                          <commonName>Semilleros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                          <commonName>Trepatroncos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                          <commonName>Golondrinas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                          <commonName>Turpiales</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                          <commonName>Gallitos de ciénaga</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                          <commonName>Sinsontes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                          <commonName>Perdices</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pandionidae</taxonRankValue>
+                          <commonName>Águila pescadora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                          <commonName>Reinitas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                          <commonName>Carpinteros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                          <commonName>Loros y pericos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                          <commonName>Pollas de agua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                          <commonName>Cigüeñuelas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                          <commonName>Playeros y andarrios</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                          <commonName>Hormigueros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                          <commonName>Ibis</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tinamidae</taxonRankValue>
+                          <commonName>Tinamus</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                          <commonName>Colibries</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                          <commonName>Cucaracheros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                          <commonName>Mirlas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                          <commonName>Atrapamoscas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                          <commonName>Vireos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                          <commonName>Carraos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                          <commonName>Tangaras</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Se propone dar a conocer la avifauna asociada a los cultivos de arroz del valle geográfico del río Cauca.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Se realizará mantenimiento cada año</para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Yanira</givenName>          <surName>Cifuentes-Sarmiento</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Coordinadora Alas del Arroz</positionName>    <address>
+<deliveryPoint>Carrea 24 #4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760044</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5725560455</phone><electronicMailAddress>ycifuentes@calidris.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1)Reconocimiento de cada localidad arrocera: se realizó el recorrido de cada una de las localidades, identificando unidades de paisaje. En ocasiones se contó con mapas catastrales.
+2)Una vez, recorrida la localidad y georrefenciada se procedió a establecer puntos de radio fijo
+3)La metodología de número de visitas, formatos, datos a consignar y tiempo de observación en cada punto se estableció en 2009 durante el proyecto &quot;Plan de Conservación de aves playeras en Colombia. Alianzas para la conservación de especies y hábitat&quot; (NMBCA 4550).
+4)Para taxonomía se sigue y actualizan las bases de datos partiendo de Remsen et al. (2018) 
+5)Para fases del cultivo se sigue el ajuste establecido en la tesis de pregrado &quot;DIVERSIDAD DE AVES ASOCIADAS A ARROZALES TRADICIONALES Y ECOLÓGICOS EN LA ZONA SUR DE JAMUNDÍ VALLE DEL CAUCA&quot; (2011).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El Valle Geográfico del Río Cauca (VGRC) es una de las regiones de Colombia con mayor transformación debido a las actividades humanas; la falta de valoración de los humedales, la adecuación de tierras con fines agropecuarios, el vertimiento de aguas residuales (domesticas e industriales), el cambio en el uso del uso, los conflictos por tenencia de tierras, los asentamientos humanos no vigilados, la escasa participación comunitaria en proyectos y ejecución de los mismos y el mal manejo de especies invasoras son las principales causas del deterioro de los humedales en la región (Orejuela Gartner 2009). A mediados del siglo XX, el VGRC contaba con 15286 hectáreas de humedales naturales y en 2007 solo quedaban 2795 hectáreas, esta reducción de más del 80% se refleja también en extinciones locales de algunas especies clave de fauna y flora (Restrepo &amp; Naranjo 1987, Flores &amp; Mondragón 2002, Anónimo 2007a). Por otro lado, los humedales artificiales como el arroz, están incrementando su área en el Valle del Cauca, expandiéndose en las partes bajas de los municipios de Jamundí, Ginebra y Tulua y ocupando 2748 hectáreas (Fedearroz 2008).
+En esta base, se incluye información de 21 localidades arroceras pertenecientes a los municipios de Ansermanuevo, Guadalajara de Buga, Jamundí y Yotoco en el departamento del Valle del Cauca y a los municipios de Caloto, Patía y Santander de Quilichao en el departamento del Cauca.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En cada localidad arrocera se establecieron recorridos para incluir diferentes unidades de paisaje. En cada recorrido se establecieron puntos de radio fijo de 150 m. de diámetro separados entre sí 300 m, dependiendo del área del cultivo se establecieron entre dos y quince puntos de radio. 
+Cada dos meses se visitaron las localidades y se realizaron censos en los puntos de radio fijo. Cada punto de radio, en cada una de las visitas, fue censado en dos jornadas: madrugada y atardecer. Al llegar al punto se consignaba, además de fecha y hora, la fase del cultivo de arroz en la que se encontraba ese punto de radio. Consideramos las fases del cultivo: preparación (con agua o en seco), plántula, todo verde, espiga verde, espiga madura, cosecha, soka, barbecho. En cada punto de radio durante 10 minutos registramos visual y auditivamente todas las aves, considerando además de su especie, la edad, sexo, actividad y unidad de paisaje donde se encontraba: arrozal, cerco o barrera viva, guadual, bosque, etc.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos, tanto de abundancias de aves como del agroecosistema, fueron incluidos en bases de datos; las cuales se actualizaban en cada salida. La curaduria taxonómica estuvo a cargo del equipo del proyecto y supervisado por el coordinador e investigador principal.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Alas del Arroz</title>
+          <personnel>
+    <individualName>
+<givenName>Yanira</givenName>          <surName>Cifuentes-Sarmiento</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Dina Luz</givenName>          <surName>Estupiñan</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Tamayo</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Servicio de pesca y vida silvestre de los Estados Unidos (Beca NMBCA)
+Arrocera La Esmeralda S.A.S</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio corresponde a cultivos de arroz en diferentes fases de desarrollo y a bosques, guaduales, caminos, cercos y barreras vivas aledañas a estos cultivos.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Considerando diferentes manejo del cultivo de arroz: orgánico, convencional y ecoamigable, se realizaron recorridos en cada localidad y sobre estos recorridos se establecieron puntos de conteo. El cultivo de arroz como tal hace parte del agroecosistema de arrozal, considerando esto los recorridos incluían áreas naturales, áreas modificadas y el cultivo como tal.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/yl61kk">Cifuentes-Sarmiento Y (2018). Alas del Arroz. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Sampling event dataset https://doi.org/10.15472/yl61kk accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>ANÓNIMO. 2007a. Humedales del valle geográfico del río Cauca. Primera edición. Santiago de Cali. Colombia.</citation>
+      <citation>CAGUAZANGO-CASTRO, A. (2011). DIVERSIDAD DE AVES ASOCIADAS A ARROZALES TRADICIONALES Y ECOLÓGICOS EN LA ZONA SUR DE JAMUNDÍ VALLE DEL CAUCA. Tesis de pregrado. Universidad Distrital-Asociación Calidris. Bogotá, Colombia.</citation>
+      <citation>FLÓREZ, P. E. &amp; C.E. MONDRAGÓN. 2002. Lagunas y madreviejas del Departamento del Calle del Cauca. Colombia. CVC. Subdireccion del Patrimonio Ambiental. Grupo de Hidrobiología. Cali, Colombia. 48 p.</citation>
+      <citation>OREJUELA GARTNER, J. E. 2009. Aprendiendo a vivir en armonía con los humedales. en: Anónimo (2009). Capitulo 15 pp: 150-159. Humedales del valle geográfico del río Cauca: génesis, biodiversidad y conservación. Cali, Colombia, 182 p.</citation>
+      <citation>RESTREPO, C. &amp; L. G. NARANJO. 1987. Recuento histórico de la disminución de humedales y la desaparición de aves acuáticas en el valle geográfico del río Cauca, Colombia. Pp:43-45 en Memorias III Congreso de Ornitología Neotropical. Cali, Colombia. 195 p.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-calidris.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

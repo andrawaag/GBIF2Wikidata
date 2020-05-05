@@ -1,0 +1,268 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0057a720-17c9-4658-971e-9578f3577cf5"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/fljun1</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=trop-001</alternateIdentifier>
+        <alternateIdentifier>10.15468/zruasm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=trop-001</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=trop-001</alternateIdentifier>
+        <alternateIdentifier>0057a720-17c9-4658-971e-9578f3577cf5</alternateIdentifier>
+    <title>Creación de un área protegida pública local en los municipios de Roldanillo, La Unión y Toro.</title>
+    <creator>
+    <individualName>
+<givenName>Carlos Eduardo</givenName>          <surName>Burbano Yandi</surName>
+    </individualName>
+<organizationName>Fundación Trópico</organizationName><positionName>Biólogo</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>cburbano@fundaciontropico.org</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Burbano</surName>
+    </individualName>
+<organizationName>Fundación Trópico</organizationName><positionName>Biólogo</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>cburbano@fundaciontropico.org</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2018-06-01
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Se encuentran 1003 registros de Plantas, Aves, Reptiles, Anfibios y Mamíferos, registrados en el ecosistema de Arbustal y Matorral Medio Muy Seco en Montaña Fluvio-Gravitacional en los municipios de Roldanillo, La Unión y Toro.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Diversidad</keyword>
+              <keyword>Fauna</keyword>
+              <keyword>Flora</keyword>
+              <keyword>Bosque seco</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área de estudio se encuentra en el departamento del Valle del Cauca, que está localizado, al sur occidente de Colombia. Limita al Norte con los departamentos de Chocó, Risaralda y Quindío; al Sur con el departamento del Cauca, al Este con los departamentos de Quindío y Tolima y al Oeste con el Océano Pacífico. La superficie del departamento es de 20795.3 km2 lo que equivale al 1.9% del territorio nacional.
+
+La mayor parte del área se encuentra en jurisdicción de la cuenca RUT que comprende los Municipios de Roldanillo, La Unión y Toro esta cuenca limita con las cuencas Chancos por el norte; Obando, Los Micos y Las Cañas por el oriente con el Río Cauca; por el occidente con Garrapatas y por el sur con Pescador donde pertenece el resto del área.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.18</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.07</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.63</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.41</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-09-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-10-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los registros agrupan a los ejemplares de las clases Amphibia, Reptilia, Mammalia, Aves, Magnoliopsida, Monocotyledoneae,  y Liliopsidae. Por su parte, en Fauna la clase Amphibia se representa con el orden Anura, la clase Reptilia con el orden Squamata, la clase Mammalia con los ordenes Chiroptera, Didelphimorphia, Carnivora, Rodentia, Cingulata, Pilosa. La clase Aves se encuentra representada por los ordenes Apodiformes, Accipitriformes, Psittaciformes, Passeriformes, Columbiformes, Tinamiformes, Piciformes, Cuculiformes, Galliformes, Caprimulgiformes, Ciconiiformes, Cathartiformes, Strigiformes, Falconiformes, Charadriiformes, Gruiformes, Coraciiformes y Galbuliformes. En Flora, la clase Liliopsida se representa con el orden Asparagales, la clase Magnoliopsida la representan los ordenes Caryophyllales, Sapindales, Myrtales, Malpighiales, Brassicales, Rosales, Fabales, Lamiales, piperales y Ericales.  La clase Monocotyledoneae se encuentra representada por los ordenes Alismatales y Asparagales. Todos los ejemplares registrados y los que se encuentran en la colección  hasta agosto de 2014 han sido estudiados y se encuentran identificados, en su mayor parte (99%) hasta el nivel taxonómico de especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Anfibios</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Reptiles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mamíferos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                          <commonName>Plantas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Monocotyledoneae</taxonRankValue>
+                          <commonName>Plantas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                          <commonName>Plantas</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carlos Eduardo</givenName>          <surName>Burbano Yandi</surName>
+    </individualName>
+<organizationName>Fundación Trópico</organizationName><positionName>Biólogo</positionName>    <address>
+<deliveryPoint>Av 2 B 2 # 73 n Bis 98</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>cburbano@fundaciontropico.org</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Metodología Flora: Inventario general. Para esto se realizaron recorridos por las diferentes coberturas vegetales con el objetivo de completar un listado de especies que constituya una aproximación a la riqueza de especies de la zona, en el inventario se incluyen las especies registradas en las otras modalidades de muestreo. Dentro de la zona se distinguen tres tipos de cobertura los pastizales, en los que se encuentran algunos árboles aislados, los bosques maduros, que se encuentran restringidos a zonas muy pendientes en los bordes de las cañadas y las zonas de bosques secundarios en regeneración natural, que presentan un área de mayor tamaño en la falda de la montaña en terrenos usados anteriormente para ganadería.
+Zona de mayor representatividad. Para describir las zonas más representativas de las diferentes localidades de muestreo se establecieron parcelas de 10m X 10 m con 10 repeticiones por lo calidad, en las cuales se registró el número de individuos por especie y los valores de circunferencia a la altura del pecho (CAP) y altura total del individuo. Partiendo de estos datos se obtuvieron los valores de índice de valor de importancia (IVI), área basal clases diamétricas y de altura.
+Regeneración natural. En cada una de las parcelas de la fase anterior se muestrearon subcuadrantes de 2.5m X 2.5m en los cuales se registraron todos los componentes de la vegetación incluyendo herbáceas y plántulas. Para las plántulas se analizó si las especies estaban representadas en el las parcelas.
+Análisis de datos. Con los valores de altura total, CAP y número de individuos, se calculó para cada especie registrada dentro de las parcelas, el índice de valor de importancia (IVI), el área basal para la parcela. Para describir la estructura del bosque se usaron  las clases de alturas y las clases diamétricas.
+
+Metodología Aves: Observaciones. Se realizaron de forma libre en las zonas de muestreo, en un horario que varió entre 05:30 y 18:30 horas, se registraron en la libreta de campo las especies identificadas que fueron observadas o escuchadas durante los recorridos y en encuentros ocasionales. La clasificación e información ecológica de las especies, se basó inicialmente usando la Guía de Aves de Colombia y posteriormente actualizada en la base de datos siguiendo la Clasificación de Aves de Suramérica de la Unión Americana de Ornitología, versión octubre de 2013.
+
+Se instalaron redes de niebla en un promedio de 6 redes de niebla de 6 m de largo por 2,5 m de alto, con un ojo de red de 16 mm y cinco bolsas, que fueron operadas entre las 06:00 y 18:30 horas, el tiempo de apertura y revisión varió dependiendo de las condiciones climáticas como viento, lluvia o incidencia del sol directa que pudiera afectar las aves capturadas, evitando su muerte por estrés.
+
+Las aves capturadas se guardaron en bolsas de tela para procesarlas posteriormente. El proceso incluyó peso (g) cuando fue posible, medidas morfométricas (culmen (mm), tarso (mm), cola (mm), a la plana (cm), longitud total (cm)), condiciones de muda corporal (porcentaje de muda en el cuerpo) y muda de vuelo (simétrica, asimétrica, ninguna), estado de salud (sano, enfermo, muerto), estado de madurez sexual (adulto, inmaduro, juvenil), sexo (hembra, macho); datos que fueron registrados en las planillas de campo. Finalmente, fueron marcados cortando la punta de una pluma de la cola para evitar procesar individuos recapturados, se hicieron registros fotográficos de algunos individuos y fueron liberados cerca del lugar de captura. Las fotografías se utilizaron como soporte de registro, comparación y corroboración de especímenes con colegas y guías de identificación de aves de Colombia posterior a la salida de campo.
+
+Tambien, se recopiló información secundaria de informes de inventarios biológicos, planes de manejo de humedales y madre viejas del valle geográfico del río Cauca, consultas de listados y colecciones ornitológicas con registro de especies para bosques secos y muy secos (correspondiente a la clasificación como AMMMSMH) para los tres municipios evaluados.
+
+Metodología mamíferos: Redes de Niebla. El muestreo de mamíferos voladores o murciélagos se llevó a cabo mediante el uso de 4 redes de niebla de 12 metros de largo y 2,7 metros de ancho, con un ojo de red de 16 mm y cinco bolsas. Estas redes se abrieron entre las 18:00 y 24:00 horas y fueron revisadas cada  30 o 60 minutos. La ubicación de estas se realizó en puntos cardinales como a la salida de una cueva, al dado de árboles florecidos o con frutos, bordes de bosque, etc. Cuando un individuo caía en la red se procedía a liberarlos de ésta y  se colocaban en bolsas de tela para su posterior identificación, toma de medidas corporales, sexo y registro fotográfico. Posteriormente fueron liberados en los sitios de captura.
+
+Trampas Sherman y Havahart. Para realizar el muestreo de mamíferos terrestres pequeños y medianos, se utilizaron veinte trampas Sherman y veinte trampas Havahart . Estas fueron ubicadas y cebadas entre las 16:00 - 16:30 horas y revisadas al día siguiente entre las 06:00 - 07:00 aproximadamente, para evitar ahogamiento de las especies.
+Las trampas fueron ubicadas en sitios estratégicos sobre el suelo o troncos, intentando camuflarlas con hojarasca y troncos con el fin de no ser detectadas por los animales. La distancia entre ellas fue de aproximadamente 50 metros. También se realizó un marcaje junto a ellas con material visible y un mapeo de la zona con el fin de una fácil ubicación.
+Conforme al método, se utilizaron dos tipos de cebo; sardinas con cuchuco y Papaya y banano mezcladas con esencia de vainilla (las trampas fueron recebadas o en su defecto reubicadas). Para la identificación de los roedores se usaron claves taxonómicas y se compararon los especímenes colectados con los de la Colección de Mamíferos de la Universidad del Valle (CM-UV), en la sede Meléndez. Solo se realizó una colecta correspondiente a una Chucha mantequera (Marmosa robinsoni), la cual fue encontrada muerta tras el ataque de una  serpiente (Spillotes pullatus). Este espécimen fue llevado para su preparación e inclusión dentro de Colección de Mamíferos de la Universidad del Valle (CM-UV).
+Trampas Cámara. Ya que algunos mamíferos medianos y grandes son difíciles de capturar en las trampas Sherman y Havahart, se utilizaron dos trampas cámara. Estas fueron ubicadas en troncos de árboles dentro de los bosques o en partes donde fuese un paso obligado para animales. Se tuvo en cuenta que no fuese un camino concurrido por seres humanos. Las trampas cámara fueron puestas el primer o segundo día en el que se llegó al sitio de estudio y fueron retiradas el día de partida de este.
+Observaciones y búsqueda. Para complementar el muestreo de mamíferos, se realizaran recorridos diurnos y nocturnos con el fin de encontrar huellas, heces, pelos, madrigueras, etc. e incluso la vocalización de algunas de estas especies.
+
+Metodología Anfibios y Reptiles:Primero se identificó y definió los principales tipos de hábitat en el área de estudio. Estos se describieron con suficiente detalle como para permitir la identificación de hábitats similares en otros lugares o en otros estudios. Sumado a esto, se tomó registro fotográfico de las alteraciones observadas en cada hábitat y aspecto del área.
+Para la obtención de datos se utilizó la inspección por encuentro visual, conocida por sus siglas en inglés como VES. Esta técnica se llevó a cabo en trayectos lineales de aproximadamente 300 m de longitud, recorridos a velocidad constante y en un tiempo limitado de 90 minutos. En estos trayectos la captura manual de los individuos se realizó en un área de 2m a la redonda y hasta 1,60m de altura. Considerando que la herpeto-fauna responde a diferentes gradientes ambientales, especialmente la humedad, estos trayectos cruzaron diferente micro-hábitat en cada sitio de estudio.
+Riqueza de especies. Se tomó como el número de especies por cada zona muestreada y fue expresada a través de un listado de especies por sitio, esto con el propósito de visualizar en forma breve la riqueza biológica de los sitios y, además, realizar inferencias sobre su estatus de conservación, en función del tipo de especies localizadas.
+Abundancia relativa. La abundancia relativa de las especies se determinó al dividir el número de individuos colectados de cada especie (ni) sobre el número total de individuos (N) capturados en cada localidad (Pi=ni/N). Esta fue expresada en porcentajes.
+Índices de Diversidad. Los índices que se utilizaron fueron el Índice de Simpson en su forma 1-D, Equitatividad de Pielou y el de Shannon-Wiener con base  logaritmo natural.
+Curvas de Abundancia-Diversidad. Constituyen una forma gráfica de procesamiento y análisis de datos de diversidad biológica en ambientes naturales y seminaturales. Mediante estos modelos, se expresa visualmente la riqueza de especies y la abundancia de individuos por especie (los dos componentes de la diversidad biológica) de un sitio cualquiera y además se pueden realizar comparaciones entre sitios a través de la confrontación de sus vectores resultantes.
+Se revisaron los catálogos de especies de las siguientes instituciones: Museo Departamental de Ciencias Naturales Federico Carlos Lehmann Valencia y el material de herpetología de la colección de docencia de la Universidad del Valle.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Descripción por municipios.
+Municipio de Toro
+Cuenca quebrada la Chica- Finca Los Sueños y Hacienda El Rin. Los fragmentos de bosques riparios se encuentran en zonas de alta pendiente, donde no es posible la actividad agrícola ni ganadera. Allí se encuentran los arboles de gran porte, con una composición florística muy variable; la mayoría de sus elementos arbóreos tiene un patrón de distribución aleatorio y son especies propias de estadios sucesionales pioneros y secundarios tardíos. Este bosque también presenta una alta humedad que mantiene un sotobosque poblado de material vegetal en proceso de descomposición. Además de tener una estructura bastante heterogénea en la que se puede observar  entrecruzamiento de pequeños parches de guaduales que cambian completamente la fisonomía del bosque.
+En la zona del arbustal y matorral se deja ingresar vacas, pero no se observan potreros abiertos, las cañadas son profundas y los zanjones son menos numerosos. La comunidad vegetal está dominada por arbustos de altura inferior promedio de 4 m, cubiertos por espinas y con hojas pequeñas dispersas. Mientras que los matorrales dependiendo del grupo de especies más abundante, eran dominadas por cactáceas o por pastos mezclados entre plántulas de diferentes especies.
+Municipio de Roldanillo, Cuenca quebrada Cáceres, finca la Suiza y hacienda la Ciénaga.
+La zona en su parte plana correspondió a potreros de ganadería y monocultivo de caña, algunas zonas con lagunas de aproximadamente 35 m de diámetro bordeadas por pastos y pequeñas manchas vegetales formadas por la combinación de plantas de uña de gato y cactáceas.  El bosque ripario presentaba una gran cantidad de árboles de gran porte (&lt;20m) y arbustos de tamaño considerables atravesados por distintos caminos hechos por el pisoteo del ganado en busca de agua, el sotobosque era rocoso con muy pocas  especies herbáceas. 
+El matorral se extienden desde zonas planas hasta abruptamente inclinadas. En su mayoría se encuentra conformada por arbustos pequeños (1-1,50 m de altura), conformados por aglomeraciones de cactáceas, leguminosas, uñas de gatos y pencas de Furcrea sp; como esta zona encuentra su lugar en pendientes inclinadas, es muy común que se presenten  zanjas de 1 a 4 metros de profundidad, cubiertas de vegetación arbustiva, compuesta principalmente por lauráceas y el sotobosque dominado por pastos y helechos, con rocas cubiertas por múltiples musgos y líquenes. 
+La zona de la montaña presenta una estructura vegetal heterogénea debido a la combinación de árboles de gran porte con arbustos, medianos y grandes, sotobosque con bastantes herbáceas y zonas de quebrada donde la humedad aumenta y se evidencia un número mayor de epifitas, como las orquídeas.  Estas zonas vegetales albergan una gran cantidad de agua, evidenciándose un gran número de zanjones con agua en flujo constante. En estas zonas también existen potreros pero con procesos de sucesión vegetal avanzados que ha posibilitado el establecimiento de Matorrales y Arbustales bajos, pero sin cactáceas. En estas zonas, este tipo de vegetación solo ocurre por debajo de los 1000 metros.
+Municipio de La Unión, Corregimiento de San Luis, Vereda la Campesina- Zanjón Potreritos. En general se constituye principalmente de potreros con árboles muy dispersos, pequeños áreas de cultivo de uva, guayabos, aguacates y papayos. Las quebradas se encuentran secas y bastante perturbadas por el ganado. De los diferentes nacimientos de agua que fueron visitados solo uno se encontraba con agua fluyendo hacia la superficie pero era canalizado por mangueras para llenar bebederos de vacas. Otros nacimientos se encontraban también interceptados con mangueras que abastecían bebederos a cielo abierto. El interior del bosque y la zona de arbustos, se observaban bastante perturbados con numerosos caminos y zonas de potreros abiertos. 
+Los fragmentos de bosques en su interior presentan abundante hojarasca, arbustos espinosos y pencas de Furcrea  sp; distribuidas de forma dispersas. El estrato arbóreo superior presenta de 15 a 20 m de altura.  Las zonas aledañas a estos fragmentos se componen de matorrales con rastrojo alto, una vegetación arbustiva, y remanentes de bosque con arbustos y árboles esparcidos. En estos matorrales la vegetación es abierta con pastos, arbustos y matorrales dispersos de hojas pequeñas, usualmente espinosos. También presentan un gran número de cactáceas, las cuales le dan una apariencia típica.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Metodos de muestreo en Flora: La jornada de campo fue realizada entre el 7 y 21 de septiembre de 2013,  tuvo una duración de 15 días que en la que se visitaron tres localidades en los municipios de Toro, La Unión y Roldanillo. En las jornadas de campo se establecieron parcelas en las cuales se censaron individuos leñosos, las plántulas y los individuos herbáceos. Adicional a esto se recorrieron los bosques de galería y las diferentes coberturas vegetales, haciendo colectas libres, con el fin de obtener la mayor representación de la riqueza de especies vegetales presentes en las áreas evaluadas. En la semana del 23 al 27 de septiembre se secaron las plantas en el herbario CUVC y se empezó el proceso de transcripción de datos y elaboración de etiquetas para la inclusión del material.
+
+Métodos de muestreo en Aves: La jornada de campo Las jornadas de campo fueron realizadas entre las 600 a 1800 horas variando de dos a tres horas en la mañana y en la tarde de acuerdo a las condiciones climáticas y asequibilidad de los senderos. La metodología para la evaluación de avifauna varió entre observaciones de recorridos libres y el uso de redes de niebla para captura de aves con el fin de obtener la mayor representación de la riqueza de especies presentes los fragmentos evaluados. El esfuerzo efectivo de muestreo total fue de 90.5 horas repartidos en 45.5 horas de observación de aves y 45 horas de capturas en redes de niebla.
+
+Métodos de muestreo en mamíferos: Para la caracterización de los mamíferos presentes en el área de estudio, inicialmente se realizó una revisión de información secundaria sobre especies que potencialmente se encontraban en cada una de las áreas a evaluar. Se realizó la revisión de estudios previos, planes de manejo, colecciones de referencia (como la del museo de mamíferos de la Universidad del Valle) y publicaciones de la Corporación Autónoma Regional del Valle del Cauca (CVC) sobre bosque seco y muy seco de los municipios de Roldanillo, la Unión y Toro Valle. 
+Luego, se procedió a realizar el muestreo en campo entre el 7 y 27 de Septiembre de 2013. Estos muestreos directos, se llevaron a cabo siguiendo la metodología de Evaluación Ecológica Rápida (EER), buscando tener evidencias directas (Mediante capturas con redes y trampas) e indirectas (como pieles, cráneos, cornamentas producto de cacería y animales silvestres tenidos como mascotas). Además se realizó entrevistas o encuestas a habitantes locales, con el ánimo de complementar la información del área. 
+La escogencia de los sitios donde se ubicaron las trampas y se realizaron los recorridos  se hizo teniendo en cuenta principalmente la ecología de los mamíferos y la representatividad de la mayor parte de micro-hábitats y ecosistemas presentes en cada una de las localidades. Es decir, áreas típicas del Matorral Arbustal medio muy seco, bosques de galería y quebradas.
+
+Método de muestreo en Anfibios y Reptiles: El trabajo de campo fue realizado entre el 7 y 27 de septiembre de 2013, tuvo una duración de 20 días que en la que se visitaron fragmentos de bosque pertenecientes al ecosistema Arbustal matorral medio seco en montaña fluvio-gravitacional de los municipios de Toro, Roldanillo y La Unión. Las jornadas de campo fueron realizadas en seis intervalos horarios, cada uno de 90 minutos, entre las 8:00 a.m. y las 12:00 p.m. Durante estos intervalos, fue utilizada la técnica de relevamiento por encuentro visual para la captura y observación de especies, bajo un diseño de trayectos limitados por el tiempo. Estos trayectos fueron recorridos por dos personas a una misma velocidad y asumiendo igual capacidad de detección.  De esta manera el esfuerzo efectivo de muestreo logrado fue de 77 horas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se revisaron y constataron los nombres científicos actuales en las principales bases de datos, en cada grupo biológico. 
+Anfibios: Amphibian Species of the World.  http://research.amnh.org/vz/herpetology/amphibia/
+Reptiles: The Reptile Data Base:  http://www.reptile-database.org
+Aves: Birdlife Data http://www.birdlife.org/datazone/info/taxonomy
+Mamiferos: http://www.vertebrates.si.edu/msw/mswcfapp/msw/index.cfm
+Flora: Catalogue of life. http://www.catalogueoflife.org/annual-checklist/2014/</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Creación de un area protegida publica local en los municipios de Roldanillo, La Union y Toro</title>
+          <personnel>
+    <individualName>
+<givenName>Carlos Eduardo</givenName>          <surName>Burbano Yandi</surName>
+    </individualName>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenios Fondo Acción-Fundación Trópico No 042 de 2013, CVC – Fundación Trópico No 032 de 2013, Convenio 007 de 2013 Fundación Trópico- Municipio de Roldanillo, Convenio No 001 de 2013 Fundación Trópico –Municipio de Toro y Convenio No 004 de 2013 – Fundación Trópico-Municipio La Unión</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La vegetación típica de las formaciones sub-xéricas comprenden arboles pequeños y arbustos achaparrados de hojas persistentes, coriáceas y rígidas con gruesa cutícula que las pierden en verano, plantas espinosas y suculentas, gramíneas que se secan en el verano, resueltos de hojas rígidas y pequeños sufrútices. La gran mayoría de estos bosques se presentan como un matorral arbustivo a arborescente integrado de manera dominante por cactáceas y fabáceas.
+Existe aproximadamente una franja de 6.000 ha entre el Orobioma Azonal y el zonobioma alternohigrico tropical (bosque seco tropical y Subxerofítico), que va desde los sectores de Higueroncito, Higuerón o Morelia, La Seca o Santa Rita, Las Tres Cruces, El Aguacate, Bacory, Bolívar, Las Minas y Ricaurte hasta colindar con el municipio de Trujillo (quebrada El Buey).
+Para la cuenca RUT y dentro del proceso de planificación y evaluación del uso potencial del suelo, luego de evaluar variables como la pendiente, erosión y profundidad efectiva, se tiene que especialmente en la zona de ladera donde se encuentra esta formación, los usos potenciales son: áreas para Tierras Forestales para Protección. Con respecto a la cobertura vegetal actual en la cuenca RUT se encuentran bosques naturales, concentrados en los sectores de San Luís, Paramillo, El Oso y La Despensa.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El Valle del Cauca cuenta con una riqueza biodiversidad en la cual se cimenta el desarrollo del departamento, representada en ocho (8) biomas y treinta y cinco (35) ecosistemas, así como numerosas especies de flora y fauna y una gran riqueza étnica y cultural. Para el interés de este proyecto identificamos la distribución actual de los ecosistemas de bosque seco y humedales y subxerofítico (Sensu CVC 1997), hoy conocidos como los biomas Zonobioma Alternohígrico Tropical y Orobioma Azonal (CVC 2010), con relación a lo que pudo ser su distribución original sin intervención humana, revela que se ha perdido cerca del 73% de la cobertura, ubicando estos ecosistemas en un estado crítico (CVC 2007). En el Departamento del Valle del Cauca estos ecosistemas se encuentran casi desaparecidos; en la actualidad solo representan el 1% de toda la cobertura boscosa del departamento (CVC 2007). 
+	
+El área de estudio comprende parte de los Municipios de Roldanillo, La Unión y Toro que conforman la cuenca denominada RUT ; también una pequeña porción de la cuenca Pescador que pertenece al municipio de Roldanillo. En el área se encuentra específicamente el ecosistema arbustal y matorral medio muy seco en montaña fluvio-gravitacional (AMMMSMH) (Orobioma Azonal). Dicho ecosistema presenta un vacío de representatividad del 96.72%, razón por la cual ha sido priorizado en el Sistema Departamental de Áreas Protegidas, (SIDAP) Valle del Cauca. El área de trabajo que se espera declarar como protegida tiene una extensión de 10.840,48 ha.
+
+En este documento se compilan los resultados y análisis de información de los componentes físico y biológico del área de estudio, incluyendo la geología, geomorfología, suelos, hidrología, climatología, hidrografía, cobertura vegetal, uso potencial, conflicto de uso del suelo, ecosistemas y aspectos biológicos; como parte del proceso de caracterización biofísica. Igualmente los aspectos fundamentales requeridos en la caracterización socioeconómica y caracterización de actores. 
+De acuerdo al párrafo anterior se desarrolla el Componente de Diagnóstico como uno de los tres componentes que conforman el plan de manejo de un área protegida, de acuerdo a la metodología desarrollada por la CVC, en Campo et al 2007. Los componentes del Plan de Manejo son el diagnóstico, el de ordenamiento y el estratégico. Es necesario precisar que este proyecto se propuso entregar los insumos para la declaratoria del área protegida, pero además formular el plan de manejo del área, razón por la cual se desarrollan todos los componentes necesarios para un plan de manejo. Para el análisis de la información biológica se ha retomado la metodología de CVC desarrollada en Campo et al, (2007), pero igualmente se ha trabajado con la metodología de The Nature Conservancy, (TNC) denominada análisis para conservación de áreas (PCA). Igualmente en todo el proceso se sigue la ruta metodológica del SIDAP y se retoman elementos de la metodología de Parques Nacionales para declaratoria de áreas protegidas. 
+Este componente desarrolla la línea base de la información, por lo tanto, va de la mano con los ejercicios de participación en los cuales se construye el componente de ordenamiento (análisis de objetivos y objetos de conservación, viabilidad, presiones, amenazas, zonificación ambiental, análisis final de límites del área y las unidades de ordenamiento  y  la propuesta de ajuste de límites del área y sus unidades) y el componente estratégico o de acción (objetivos de manejo/gestión, estrategias, programas-perfiles de proyectos, estrategia o esquema financiero, estrategia o esquema de gestión y el sistema de tema de seguimiento. Estos componentes del Plan deberán desarrollarse en el marco de las directrices que frente al tema de categorías, zonificación y régimen de usos determina el decreto 2372 de 2010.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:51Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/fljun1">Burbano Yandi C E, Burbano C (2018). Creación de un área protegida pública local en los municipios de Roldanillo, La Unión y Toro.. Version 3.1. Fundación Trópico. Occurrence dataset https://doi.org/10.15472/fljun1 accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>ALBUJA, L., 1999.- Murciélagos del Ecuador. Quito: Cicetronic.</citation>
+      <citation>ALBERICO, M.; CADENA, A.; HERNÁNDEZ-CAMACHO, J. &amp; MUÑOZ- SABA, Y., 2000.- Mamíferos (Synapsida: Theria) de Colombia. Biota Colombiana., 1(1): 43-75.</citation>
+      <citation>MUÑOZ, J., 2001.- Murciélagos de Colombia, sistemática, distribución,
+descripción, historia natural y ecología. Editorial Universidad de Antioquia, Medellín.</citation>
+      <citation>NAGORSEN, D. W. &amp; PETERSON, R. L., 1980.- Mammal collector’s manual: a guide for collecting, documenting, and preparing mammal specimens for scientific research. Royal Ontario Museum., Toronto.</citation>
+      <citation>The International Plant Names Index (2012). Published on the Internet http://www.ipni.org [accessed 29 September 2013</citation>
+      <citation>Lynch, J.,Lista anotada y clave para las ranas del genero Eleutherodactylus. Caldasia 21 (2): 184-202</citation>
+      <citation>Salaman, Paul; Thomas Donegan &amp; David Caro (2009) Listado de Aves de Colombia 2009; Conservación Colombiana 8: 1-89. Bogotá: Fundación ProAves.</citation>
+      <citation>Uetz, P. &amp; Jirí Hošek (eds.), The Reptile Database, http://www.reptile-database.org, accessed Jan 8, 2014</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-f-tropico.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>CUVC</parentCollectionIdentifier>
+                <collectionIdentifier>Registro nacional de colecciones: 34</collectionIdentifier>
+                <collectionName>Herbario Universidad del Valle &quot;Luis Sigifredo Espinal-Tascon&quot;</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

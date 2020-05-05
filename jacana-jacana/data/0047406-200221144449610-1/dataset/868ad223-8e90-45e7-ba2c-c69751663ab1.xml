@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="868ad223-8e90-45e7-ba2c-c69751663ab1"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lzfqg2</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=aves_mzs</alternateIdentifier>
+        <alternateIdentifier>868ad223-8e90-45e7-ba2c-c69751663ab1</alternateIdentifier>
+        <alternateIdentifier>15029</alternateIdentifier>
+    <title>Aves MZS</title>
+    <creator>
+    <individualName>
+<givenName>Marie-Dominique</givenName>          <surName>Wandhammer</surName>
+    </individualName>
+<organizationName>Musée Zoologique de Strasbourg</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>29 bvd de la Victoire</deliveryPoint><city>Strasbourg</city><postalCode>F67000</postalCode><country>FRANCE</country>    </address>
+<phone>(33) 390 24 04 97</phone><electronicMailAddress>marie-dominique.wandhammer@cus-strasbourg.net</electronicMailAddress><onlineUrl>http://www.musees-strasbourg.org/F/musees/zoologique/zoo.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Marie</givenName>          <surName>Meister</surName>
+    </individualName>
+<organizationName>Musée Zoologique de Strasbourg</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>29 bvd de la Victoire</deliveryPoint><city>Strasbourg</city><postalCode>F67000</postalCode><country>FRANCE</country>    </address>
+<phone>+33(0)368850484</phone><electronicMailAddress>mf.meister@unistra.fr</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-12
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>Wordlwide fauna, collected mainly in the XIXth century.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>wordlwide fauna</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marie-Dominique</givenName>          <surName>Wandhammer</surName>
+    </individualName>
+<organizationName>Musée Zoologique de Strasbourg</organizationName><positionName>Curator</positionName>    <address>
+<deliveryPoint>29 bvd de la Victoire</deliveryPoint><city>Strasbourg</city><postalCode>F67000</postalCode><country>FRANCE</country>    </address>
+<phone>+33(0)368850497</phone><electronicMailAddress>marie-dominique.wandhammer@strasbourg.eu</electronicMailAddress><onlineUrl>http://www.musees-strasbourg.org/F/musees/zoologique/zoo.html</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Elisabeth</givenName>          <surName>Ludes-Fraulob</surName>
+    </individualName>
+<organizationName>Musée Zoologique de Strasbourg</organizationName><positionName>Collection manager</positionName>    <address>
+<deliveryPoint>29 bvd de la Victoire</deliveryPoint><city>Strasbourg</city><postalCode>F67000</postalCode><country>FRANCE</country>    </address>
+<phone>+33(0)368850493</phone><electronicMailAddress>Elisabeth.ludes-fraulob@strabourg.eu</electronicMailAddress><onlineUrl>http://www.musees-strasbourg.org/F/musees/zoologique/zoo.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:43Z</dateStamp>
+      <citation>Wandhammer M, Meister M (2018). Aves MZS. Version 3.7. Musée Zoologique de la Ville de Strasbourg. Occurrence dataset https://doi.org/10.15468/lzfqg2 accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

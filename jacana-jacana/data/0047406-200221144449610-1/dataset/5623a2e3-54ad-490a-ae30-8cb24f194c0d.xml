@@ -1,0 +1,229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="5623a2e3-54ad-490a-ae30-8cb24f194c0d"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ykscbw</alternateIdentifier>
+        <alternateIdentifier>5623a2e3-54ad-490a-ae30-8cb24f194c0d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=aves_cimitarra_santanderbio</alternateIdentifier>
+    <title>Aves del municipio de Cimitarra, Santander - Proyecto Santander BIO</title>
+    <creator>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Soto-Patiño</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>dsoto@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos - Colecciones biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Córdoba Córdoba</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador aves</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>scordoba@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Soto-Patiño</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>dsoto@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sebastián</givenName>          <surName>Pérez-Peña</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>sperez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Orlando</givenName>          <surName>Acevedo-Charry</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinador - Colección de sonidos ambientales</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>oacevedo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Bajo el convenio especial de cooperación No. 199-2017 entre el departamento de Santander, la Universidad Industrial de Santander y el Instituto Alexander von Humboldt se realizó a cabo una evaluación biológica y ecológica rápida en el municipio de Cimitarra en el departamento de Santander, se realizaron muestreos de biodiversidad de diferentes grupos biológicos, en este recurso se presentan los resultados de aves. Se obtuvo un total de 1226 registros biológicos de 241 especies.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Santander-Bio</keyword>
+              <keyword>IAvH-A</keyword>
+              <keyword>Cimitarra</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>La información de los tejidos colectados se encuentra disponible en http://ipt.biodiversidad.co/iavh/resource?r=tejidos_cimitarra_san-bio</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=aves_cimitarra_santanderbio</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Veredas El Águila. Ariza, Guinelaes, La chisposa, Las Montoya, Locación, municipio Cimitarra, Bolivar y Puerto Parra departamento de Santander.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.248</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.04</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.77</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.063</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-07-07
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-07-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se obtuvo un total de 1226 registros biológicos de 241 especies. La taxonomía de las especies registradas sigue la propuesta por Remsen et al. (2017)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aunar esfuerzos, capacidades y competencias entre el departamento de Santander, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad Industrial de Santander para la ejecución del proyecto “Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander”</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16 - 20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizaron capturas de aves con Redes de Niebla Se adecuó el lugar y se instalaron en dos estaciones de muestreo, redes de niebla de 9 y 12 metros para un total de 150 metros de redes. Estas permanecieron abiertas en la misma estación de muestreo entre las 05:30-6:00 y las 10:30-11:00 am (mas o menos 5 horas) y un esfuerzo de muestreo aproximado de 187.5 horas-red por estación de muestreo (donde una hora-red es equivalente a una red de 12 m abierta durante una hora). Al cuarto día las redes fueron trasladadas a la segunda estación de muestro. Para cada ave capturada se registraron las siguientes medidas morfométricas: peso, largo del pico, alto del pico, ancho del pico, longitud del tarso, longitud de las alas y de la cola, utilizando un calibrador, regla metálica y pesolas de 10, 50 y 100 gr. Además se tomaran datos del estado del individuo tales como: presencia de parche de incubación, grasa subcutánea acumulada, presencia de muda del plumaje y su estado (Villarreal et al. 2006)</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los ejemplares coleccionados fueron preparados como pieles de estudio, se tomaron muestras de tejido posteriormente se depositaron en la Colección Ornitológica del Instituto Alexander von Humboldt (IAvH-A) y la Colección de Tejidos del Instituto Alexander von Humboldt (IAvH-CT), respectivamente.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El muestreo se realizó en las veredas de El Águila. Ariza, Guinelaes, La chisposa, Las Montoya, Locación, municipio Cimitarra, Bolivar y Puerto Parra departamento de Santander.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la avifauna presente en Cimitarra llevamos a cabo censos visuales y auditivos abarcando diferentes zonas dentro del área de muestreo. Los listados se encuentran en la plataforma de datos ornitológicos eBird, donde pueden ser consultados y descargados, y alimentan repositorios de datos como el SiB y GBIF.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La identificación, curaduría y procesamiento de los ejemplares se hace bajo referencia de colecciones registradas junto con claves taxonómicas y consulta de expertos.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander</title>
+          <personnel>
+    <individualName>
+<givenName>Hernando</givenName>          <surName>García</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Santander BIO. Convenio interadministrativo No. 17-199 cuyo objeto es aunar esfuerzos, capacidades y competencias entre el departamento de Santander, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad Industrial de Santander para la ejecución del proyecto “Investigación de la biodiversidad y los servicios ecosistémicos para la gestión integral del territorio - descubriendo los ecosistemas estratégicos para el fortalecimiento de la gobernanza en el departamento de Santander”</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Municipios El Carmen de Chucurí, Cimitarra y Santa Bárbara del departamento de Santander.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/ykscbw">Soto-Patiño J, Borja-Acosta K (2019). Aves del municipio de Cimitarra, Santander - Proyecto Santander BIO. Version 3.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ykscbw accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Villarreal, H., M. Álvarez,  S. Córdoba, F. Escobar, G. Fagua,  F. Gast,  H. Mendoza, M. Ospina &amp; A. M. Umaña,  2004. Manual de métodos para el desarrollo de inventarios de biodiversidad, Instituto Alexander von Humboldt, Programa de Inventarios de Biodiversidad. Palabras clave: Inventario biológicos, Métodos; Biodiversidad, diversidad Alfa, Diversidad Beta, Diversidad Gamma. ISSN 958-8151-32-5</citation>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, S. Claramunt, A. Jaramillo, J. F. Pacheco, J. Pérez-­‐Emon, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. 2017. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Aves del municipio de Cimitarra, Santander - Proyecto Santander BIO</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>.txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=aves_cimitarra_santanderbio</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A</collectionIdentifier>
+                <collectionName>Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

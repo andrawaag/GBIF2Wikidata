@@ -1,0 +1,435 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2fb91891-0466-44c1-ae72-bad4d372a1bf"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/dbjjay</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=ices-002</alternateIdentifier>
+        <alternateIdentifier>10.15468/imkdqp</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=ices-002</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=ices-002</alternateIdentifier>
+        <alternateIdentifier>2fb91891-0466-44c1-ae72-bad4d372a1bf</alternateIdentifier>
+    <title>Caracterizaciones rápidas de biodiversidad en grupos biológicos de la planicie del valle del río Cauca</title>
+    <creator>
+    <individualName>
+<givenName>Angie Marcela</givenName>          <surName>Guañarita Bañol</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Asistente de investigación</positionName>    <address>
+<deliveryPoint>Calle 18 No. 122-135-Pance</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+573172247512</phone><electronicMailAddress>angiemarce16@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Angie Marcela</givenName>          <surName>Guañarita Bañol</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Asistente de investigación</positionName>    <address>
+<deliveryPoint>Calle 18 No. 122-135-Pance</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+573172247512</phone><electronicMailAddress>angiemarce16@hotmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Enrique</givenName>          <surName>Méndez Vargas</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Caracterizador de Flora</positionName>    <address>
+<deliveryPoint>Carrera 17# 7a-17</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>enriquemvargas@gmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jairo Andrés</givenName>          <surName>Moreno González</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Caracterizador de Artrópodos</positionName>    <address>
+<deliveryPoint>Calle 70A  # 4CN-75</deliveryPoint><city>Cali</city><country>COLOMBIA</country>    </address>
+<phone>3167320505</phone><electronicMailAddress>hansenochrus@gmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Marco  Aaron</givenName>          <surName>Villegas Trujillo</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Caracterizador de Aves</positionName>    <address>
+<deliveryPoint>Calle 2a # 74-25 Casa 12</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3158397700</phone><electronicMailAddress>marcoaaron@gmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>William Gerardo</givenName>          <surName>Vargas</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigador Bosque Seco Tropical</positionName>    <address>
+<city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>57</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>williamvarg@gmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2018-06-04
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Contiene 918 registros correspondientes a caracterizaciones de diferentes grupos biológicos: Aves, Arañas, Escarabajos coprófagos y Flora; visualizados y colectados en nueve fragmentos de bosque seco inundable del Valle geográfico del río Cauca, Valle del Cauca- Cauca, Colombia.Todo lo anterior bajo el Convenio 001 de 2013 entre La Asociación de Corporaciones Autónomas Regionales y de Desarrollo Sostenible (ASOCARS) Y La Universidad ICESI.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Arañas</keyword>
+              <keyword>Flora</keyword>
+              <keyword>Bosque Seco Tropical</keyword>
+              <keyword>Valle alto del Río Cauca</keyword>
+              <keyword>Aves</keyword>
+              <keyword>Bioindicadores</keyword>
+              <keyword>Escarabajos</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos proceden de diferentes localidades de los departamentos del Cauca y Valle del Cauca- Colombia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-77.63</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.59</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.84</northBoundingCoordinate>
+                      <southBoundingCoordinate>1.48</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-12-26
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-01-13
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>En el proyecto &quot;Propuesta metodológica para el establecimiento de herramientas de manejo del paisaje que garanticen la conectividad estructural a lo largo del corredor de conservación y restauración de la cuenca alta del río Cauca (convenio 001 de 2013 ASOCARS - ICESI)&quot;, se caracterizaron 918 especímenes de 4 grupos biológicos, 256 corresponden a plantas, 69 a escarabajos coprófagos, 243 a arañas y 350 a aves.
+En plantas se registraron un total de 59 familias, 131 géneros y 154 especies, las familias más representativas fueron Mimosaceae, Poaceae y Asteraceae.
+En cuanto a Arañas las familias más representativas fueron Theridiidae (59 individuos), Araneidae (55) y Tetragnathidae (24). En escarabajos coprófagos los géneros más abundantes fueron Onthophagus (18 individuos), Uroxys (10) y Pseudocanthon (7). 
+En Aves se encontraron un total de 115 especies, pertenecientes a 94 géneros y 39 familias, representados en 350 individuos, Las familias con mayor número de especies fueron Tyrannidae, con 18 especies y Emberizidae con 8.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Brassicales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malpighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Zingiberales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Laurales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sapindales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asparagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piperales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Poales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Commelinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Vitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Magnoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Arecales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pandanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malvales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cucurbitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Solanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Araneae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coleoptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carlos Humberto</givenName>          <surName>Valderrama Ardila</surName>
+    </individualName>
+<organizationName>Universidad ICESI</organizationName><positionName>Jefe Departamento de Ciencias Biológicas</positionName>    <address>
+<deliveryPoint>Calle 18 No. 122-135-Pance</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+5725552343</phone><electronicMailAddress>cvalderrama@icesi.edu.co</electronicMailAddress><onlineUrl>http://www.icesi.edu.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Para la caso de  la avifauna se emplearon dos metodologías; el método de senderos, consistió en registrar todas las aves presentes a lado y lado del observador a medida que se caminó a una velocidad constante por el trayecto establecido totalmente al azar (Villareal et al. 2004). El método de puntos de conteo consistió en la observación y conteo de todas las aves presentes al alrededor del observador el cual permaneció en sitios fijos. El radio de cada punto fijo fue de 25 m y tuvieron una separación de mínimo 200 m según Ralph (1995). Se dedicaron 10 minutos continuos de observación en cada punto y cinco minutos al desplazamiento entre dos puntos de conteo.  Los puntos fijos de observación se ubicaron en coincidencia con los senderos. Se definió un número de cuatro puntos de observación en los remanentes de bosque seco, según el área y forma de los mismos. Para la identificación visual se utilizaron binoculares 10 x 55 mm NIKON. Durante los censos se registraron los siguientes datos: nombre común, hábitat, estrato, abundancia relativa, tipo de registro, actividad y registro fotográfico.
+Ambos métodos de observación se hicieron entre las 06:00 y 10:00 horas y entre 14:00 y 18:00 horas de tal manera que se recorrió todo el bosque al menos dos veces por día. Durante el avistamiento se registraron características como especie, estructura social (solitario, pareja, grupo mixto, grupo específico, bandada, etc.), sexo en caso de presentarse dimorfismo sexual y actividad en general. Se cubrieron 18 m de longitud con la instalación de tres redes de niebla con ojo de malla de 30 mm, de 3 m de altura, las cuales se abrieron entre 10:00 - 11:30  y 17:30 – 18:30 horas. La frecuencia de revisión varió según la intensidad de la actividad presentada por las aves para evitar decesos por agotamiento y se liberaron inmediatamente. Para la identificación hasta especie se utilizaron las Guías de aves de Colombia (Hilty 2001) y Aves de Colombia (Mc Mullan et al. 2013). Todos los individuos capturados fueron liberados cerca de los lugares de captura.
+
+Para la flora, en cada punto de muestreo se realizaron cinco (5) transectos de 50 x 4 metros donde se midieron todos los individuos mayores o iguales a 2.5 cm de diámetro (d) y 1.30 cm de altura (incluyéndolos muertos en pie) y en los recorridos (caminatas) como complemento para conocer  otras especies de flora que no se registraron en los transectos y conocer el estado de conservación de cada área estudiada. En total, para los nueve (9) puntos de muestreo se realizaron 45 transectos de 50 x 4 metros.
+
+En el caso de las arañas,cada unidad muestreal para el método fue equivalente a una 1 hora de recolecta; búsqueda baja (Looking down) que consistió en la recolección de arañas encontradas por debajo del nivel de la rodilla, lo cual permitió explorar intensivamente la hojarasca, los troncos en descomposición, y el suelo en general en búsqueda de especímenes. Cada unidad muestreal para este método tuvo 1 hora de recolecta; agitación de follaje (Vegetation beating) que consistió en ubicar un “paraguas japonés”  bajo una unidad “agitable” de vegetación (árbol, arbusto etc.) y seguidamente se realizaron  golpeteos sucesivos, hasta que todas las arañas cayeran. Se realizaron agitaciones en 10 unidades agitables de vegetación que correspondieron a una unidad muestreal, lo cual fue realizable en un tiempo promedio de 1 hr. Adicionalmente, en los núcleos donde se presentó una matriz de pastizal, se realizó un barrido con red entomológica ó jama. Se realizaron 5 eventos de jameo, cada uno constituido por 10 barridas sobre el pastizal, que fueron equivalentes a una unidad muestreal. De igual forma, en algunos casos se registró la presencia de árboles en los pastizales, por lo cual también se realizo agitación de follaje en estas áreas. Para la realización de cada uno de los métodos, se realizaron recorridos en los parches de bosque en transectos libres limitados por tiempo (1 hora). Se efectuaron 6 unidades muestreales en promedio por núcleo (1 por método) comprendidas casi siempre por 3 dentro del fragmento del bosque, y 3 en la matriz. Todas las arañas se recolectaron con aspirador bucal, y posteriormente fueron conservadas en alcohol al 80%, con un código temporal que identifique el lugar de muestreo, y método empleado. 
+
+Para la colecta de escarabajos coprófagos la trampa consistió de un recipiente de plástico blanco de abertura circular (16 onz.), que se enterró a ras del suelo, posteriormente se llenaron hasta la mitad de su capacidad con agua saturada con sal, y por último se dispuso del sistema de sostén del coprocebo (una copa plástica sostenida por alambre), y de la cubierta superior o techo protector (un plato de plástico blanco sostenido por el mismo alambre). El coprocebo consistió en una mezcla homogénea de excremento humano y de vaca, previamente preparado para su posterior uso en campo. Cada trampa correspondió a una unidad muestreal. Para la realización del método de trampas de caída con coprocebo, se realizaron transectos dentro de cada fragmento de bosque, y dependiendo del área del fragmento se determinó la disposición espacial, la cantidad de trampas, y la distancia de separación entre las mismas (30 m ó 50 m). Se conservó una distancia mínima entre trampas, y se dispusieron entre 5-8 trampas  por núcleo. Las trampas fueron dispuestas durante 48 horas por cada punto. Pasadas las 48 horas se procedió a desarmar las trampas, y con ayuda de un colador, pinceles y pinzas, se retiraron de la trampa todos los escarabajos recolectados. Estos fueron envueltos en papel absorbente, roseados con una solución de alcohol e isoconazol 1% (anti-fúngico), y dispuestos dentro de bolsas ziploc, con una etiqueta con número de trampa y tipo de elemento del paisaje (matriz ó bosque). Una vez recolectadas todas las trampas, éstas se reunieron dentro de una bolsa ziploc más grande con los datos de localidad.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El bosque seco tropical es un área de interés especial ya que forma parte de uno de los ecosistemas más afectados a escala mundial. En la región del valle geográfico del río Cauca prevalecen los fragmentos de bosque seco más pequeños del país y unos de los más amenazados, encontrándose inmersos en matrices de uso ganadero y agrícola.
+El muestreo se realizó en nueve fragmentos de bosque seco inundable del Valle geográfico del río Cauca, Valle del Cauca- Cauca, Colombia</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para realizar los muestreos de los grupos biológicos a evaluar,se seleccionaron núcleos a lo largo del margen inundable del río Cauca en los departamento del Valle del Cauca y Cauca. Para la selección de las zonas se tuvo en cuenta que presentaran cobertura vegetal natural de bosque seco tropical. Consideraciones logísticas para el acceso a los lugares de trabajo fueron también tenidas en cuenta.
+
+Para la observación y caracterización de la Flora, se establecieron y georreferenciaron (inicio y fin) cinco tiras de 4 X 50 m, separadas entre sí por mínimo 50 m a la redonda con complemento de recorridos.
+
+Se emplearon senderos y puntos de conteo para la observación de la avifauna, al igual que captura con redes de niebla. 
+
+Para la recolección de arañas, se empleo una versión modificada del método sugerido por Coddington et al. (1991) y Coddington et al. (1996), que se basó en el uso de tres métodos principales de recolección manual: búsqueda aérea (Looking up), que consiste en la recolección de arañas encontradas por encima del nivel de la rodilla mientras el colector camina lentamente, buscando entre cualquier estructura o vegetación.
+
+Para la recolección de escarabajos coprófagos, se empleó una versión modificada del método sugerido por Villarreal et al. (2004), que se basó en el uso de trampas de caída con coprocebo.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Propuesta metodológica para el establecimiento de herramientas de manejo del paisaje que garanticen la conectividad estructural a lo largo del corredor de conservación y restauración de la cuenca alta del río Cauca (convenio 001 de 2013 ASOCARS - ICESI)</title>
+          <personnel>
+    <individualName>
+<givenName>Carlos Humberto</givenName>          <surName>Valderrama Ardila</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>ASOCARS e ICESI aunaron esfuerzos técnicos, financieros y económicos, según lo establecido en el presupuesto aprobado por la Embajada de Países Bajos y respaldado por el acuerdo de contribución BOG0113303 y del convenio de asociación No. 079 del 15 de Diciembre de 2011, firmado entre la Corporación Autónoma Regional del Valle del Cauca- CVC y ASOCARS.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El valle alto y medio del río Cauca, ubicado entre las cordilleras Central y Occidental, es una planicie fluviolacustre que forma parte de la cuenca alta del Río Cauca. En esta zona se localiza el llamado Corredor del Sistema río Cauca, que corresponde a la zona inundable del río, y que contiene el cinturón de meandros, los humedales, la franja forestal protectora del río y algunos relictos boscosos asociados a ecosistemas naturales.
+El área de trabajo se define como la zona inundable del río Cauca teniendo en cuenta la información de las frecuencias de inundación comprendidas entre los años 1949-2011. Con esta información espacializada se determinan los rangos máximos de área inundable, la cual tiene una extensión de 117.647,89 hectáreas, que corresponde a la base del análisis.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Como consecuencia de la ola invernal 2010-2011, ocurrida en Colombia, la gobernación del Valle del Cauca solicitó y fue aprobada, la inclusión del Rio Cauca como cuenca prioritaria, y la Corporación Autónoma del Valle del Cauca- CVC formuló el proyecto &quot;Construcción de un modelo conceptual para la restauración del corredor de conservación y de uso sostenible del sistema río Cauca en su valle alto, considerando escenarios de Cambio Climático&quot;como propuesta de ser incluido en el proyecto Piloto de Implementación  de la Política para la Gestión integral  del Recurso Hidrico; y éste, se financia mayoritariamente de los recursos del Estado de los Países Bajos, y en menor proporción, con aportes de ASOCARS y de varias CAR, entre ellas, La Corporación Autónoma del Valle del Cauca.
+
+Con base en los antecedentes; ICESI y ASOCARS, se comprometieron a aunar esfuerzos técnicos, financieros y económicos para construir la guía Metodológica para el establecimiento de Herramientas del Manejo del Paisaje (HMP), que garanticen la conectividad estructural a lo largo del corredor de conservación y de uso sostenible en el Valle Alto del Río Cauca.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:45Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/dbjjay">Guañarita Bañol A M (2018). Caracterizaciones rápidas de biodiversidad en grupos biológicos de la planicie del valle del río Cauca. Version 4.1. Universidad Icesi. Occurrence dataset https://doi.org/10.15472/dbjjay accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation identifier="Referencias empleadas para la caracterización e información asociada a Arañas y Escarabajos muestreados">Adis, J.; 2001, Amazonian Arachnida and Myriapoda- a manual of identification, Sofia –Pensoft, Moscow, 589 pp.
+ 
+Cabra-García, J., Chacón, P., &amp; Valderrama-Ardila, C.; 2010, Additive partitioning of spider diversity in a fragmented tropical dry forest (Valle del Cauca, Colombia); Journal of Arachnology, 38(2): 192-205. 
+
+Coddington, J.A., Griswold, C.E., Silva-Davila, D., Peñaranda, E. &amp; Larchers, S. F.; 1991, Designing and testing sampling protocols to estimate biodiversity in tropical ecosystems, 44–60 pp.; En: Dudley E. C.; The Unity of Evolutionary Biology: Proceedings of the Fourth International Congress of Systematic and Evolutionary Biology, Dioscorides Press, Portland.
+
+Coddington, J.A., Young, L. H. &amp; Coyle, F. A.; 1996, Estimating spiders species richness in a southern Appalachian cove hardwood forest;  Journal of Arachnology, 24:111-128. 
+
+Derraik J., Closs G., Dickinson K., Sirvid P., Barratt B. &amp; Patrick B.; 2002, Arthropod Morphospecies versus Taxonomic Species: a Case Study with Araneae, Coleoptera, and Lepidoptera; Conservation Biology, 16(4): 1015-1023.
+
+(IAvH) Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt; 1998, Informe Nacional sobre el estado de la biodiversidad 1997-Colombia. Bosque seco tropical, 56-71 pp.; En: Chávez, M. E. &amp; Arango; Tomo I: Diversidad Biológica, Instituto Humboldt- PNUMA- Ministerio del Medio Ambiente, Vol. 3, Bogotá.
+
+Flórez, E.; 1996a, Las arañas del departamento del Valle del Cauca. INCIVA &amp; COLCIENCIAS, Cali, 89 pp. 
+
+Oliver, I. &amp; Beattie, J.; 1996, Invertebrate Morphospecies as Surrogates for Species: A Case Study; Conservation Biology, 10(1): 99-109. 
+
+Platnick, N. I.; 2014, The World Spider Catalog, Version 14.5. American Museum of Natural History, New York. Online at http://research.amnh.org/entomology/spiders/catalog/index.html
+ 
+Ubick, D., Paquin, P., Cushing, P. &amp; Dupérré, N; 2005, Spiders of North America, American Arachnology Sociaty,  377pp. 
+
+Vaz-de-Mello, F.Z., Edmonds, W.D., Ocampo, F.C. &amp; Schoolmeesters, P.; 2011, A multilingual key to the genera and subgenera of the subfamily Scarabaeinae of the New World (Coleoptera: Scarabaeidae); Zootaxa, 2854: 1-73. 
+
+Villareal, H., Álvares, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., Mendoza, H., Ospina, M.  &amp; Umaña, A.M.; 2004, Manual de métodos para el desarrollo de inventarios de biodiversidad, Instituto de investigación de recursos Biológicos Alexander von Humboldt, Bogotá, 236pp.</citation>
+      <citation identifier="Referencias empleadas para la caracterización e información asociada a las aves muestreadas">Arcila Cardona A.M., C. Valderrama Ardila &amp; P. Chacón de Ulloa. 2012. Estado de fragmentación del bosque seco de la cuenca alta del río Cauca, Colombia. Biota Colombiana 13 (2). 15 pp.
+
+Corporación Autónoma Regional del Valle del Cauca-CVC. 2002. Bosques secos y muy secos del departamento del Valle del Cauca, Colombia. Colección Ecosistemas Estratégicos del departamento del Valle del Cauca. Salazar-Ramírez, M. I., N. Gómez-Hoyos, W. G. Vargas-Vargas, M. Reyes-Gutiérrez, L. S. Castillo-Crespo, W. Bolívar García. Subdirección de Patrimonio Ambiental. Grupo de Vida Silvestre. Cali, Colombia. 72 pp.
+
+Hilty S. L. y W. L. Brown. 2001. Guía de las Aves de Colombia. Traducción del inglés por Humberto Álvarez-López. Universidad del Valle, American Bird Conservancy. Cali, Colombia. 1030 pp.
+
+Lozano-Zambrano, F. H. (ed). 2009. Herramientas de  manejo para la conservación de biodiversidad en paisajes rurales. Instituto de investigación de Recursos Biológicos Alexander Von Humboldt y Corporación Autónoma Regional de Cundinamarca (CAR). Bogotá, D. C. Colombia., 238 p.
+
+Tamayo-Quintero J. &amp; L. Cruz-Bernate. En Rev. Avifauna de dos parches de Bosque Seco en el Valle del Cauca. Departamento de Biología, Facultad de Ciencias Naturales y Exactas, Universidad del Valle, Santiago de Cali, Colombia.
+
+Ruiz - Guerra, C. J. y Y. Cifuentes-Sarmiento. 2006. Movimiento De La Avifauna A Través De Fragmentos De La Cuenca Del Rio Chambery, Caldas, Colombia. Asociación CALIDRIS - Instituto Alexander von Humboldt.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-icesi.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>ICESI</parentCollectionIdentifier>
+                <collectionIdentifier>ICESI</collectionIdentifier>
+                <collectionName>Colección de Arañas y Escarabajos coprófagos</collectionName>
+              </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

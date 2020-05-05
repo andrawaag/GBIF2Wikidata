@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="73a7ba69-d4f9-4df8-aab5-67e9183c2e16"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xdk8df</alternateIdentifier>
+        <alternateIdentifier>14302</alternateIdentifier>
+    <title>Baillon Collection</title>
+    <creator>
+    <individualName>
+          <surName>Christophe Gouraud &amp; Madeline Quemin</surName>
+    </individualName>
+<organizationName>Musée George Sand et de la Vallée Noire</organizationName><positionName>Scientific referees/advisors of the Baillon Collection</positionName>    <address>
+<deliveryPoint>71 Rue Venose 36400 La Châtre</deliveryPoint><city>La Châtre</city><postalCode>36400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>collection.baillon@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+          <surName>Christophe Gouraud &amp; Madeline Quemin</surName>
+    </individualName>
+<organizationName>Musée George Sand et de la Vallée Noire</organizationName><positionName>Musée George Sand et de la Vallée Noire</positionName>    <address>
+<deliveryPoint>71 Rue Venose 36400 La Châtre</deliveryPoint><city>La Châtre</city><postalCode>36400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>collection.baillon@gmail.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2012-06-22
+      </pubDate>
+    <language>FRENCH</language>
+    <abstract>
+        <para>The Musée George Sand et de la Vallée Noire holds an important collection of mounted birds specimens started by Jean François Emmanuel Baillon during the 18th century and completed by his son Louis Antoine François Baillon until he died in 1855. Baillon father and son were 2 naturalists from northern France and have been in touch and exchanged specimens with some of the most famous naturalists and explorers of their time (e.g. Buffon, Cuvier, Temminck, Prince of Wied, Vieillot, Bonelli, Bruch, Leach, Ruppell, Levaillant, Verreaux, Leschenault...). The Baillon Collection houses 2480 specimens representing 1318 species of birds, collected in all continents including Antarctica, with more than 60 pre-1800 specimens as well as 9 specimens of extinct species or subspecies. The Baillon Collection also holds 41 specimens of bats mainly collected in northern France.</para>
+    </abstract>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <contact>
+    <individualName>
+          <surName>Christophe Gouraud &amp; Madeline Quemin</surName>
+    </individualName>
+<organizationName>Musée George Sand et de la Vallée Noire</organizationName><positionName>Scientific referees/advisors of the Baillon Collection</positionName>    <address>
+<deliveryPoint>71 Rue Venose 36400 La Châtre</deliveryPoint><city>La Châtre</city><postalCode>36400</postalCode><country>FRANCE</country>    </address>
+<electronicMailAddress>collection.baillon@gmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation>Museum George Sand et de la Vallee Noire (2012). Baillon Collection. Occurrence dataset https://doi.org/10.15468/xdk8df accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

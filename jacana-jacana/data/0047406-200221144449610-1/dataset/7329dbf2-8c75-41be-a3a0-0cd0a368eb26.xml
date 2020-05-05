@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7329dbf2-8c75-41be-a3a0-0cd0a368eb26"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/i48lju</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=aves_caribe_2007_2009</alternateIdentifier>
+        <alternateIdentifier>10.15468/ndxm8b</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=aves_caribe_2007_2009</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=aves_caribe_2007_2009</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/valle/resource.do?r=aves_caribe_2007_2009</alternateIdentifier>
+        <alternateIdentifier>7329dbf2-8c75-41be-a3a0-0cd0a368eb26</alternateIdentifier>
+        <alternateIdentifier>15019</alternateIdentifier>
+    <title>Aves Acuáticas en el Caribe Colombiano Entre 2007 y 2009</title>
+    <creator>
+    <individualName>
+<givenName>Jeisson</givenName>          <surName>Zamudio</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Originador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>jzamdio@calidris.org.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Carlos José</givenName>          <surName>Ruiz</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador principal</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>cjruiz@calidris.org.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos José</givenName>          <surName>Ruiz</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador principal</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>cjruiz@calidris.org.co</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Castillo</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>calidris@calidris.org.co</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Johnston</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Dirección Territorial Caribe</surName>
+    </individualName>
+<organizationName>Parques nacionales Naturales de Colombia</organizationName>    <address>
+<city>Santa Marta</city><administrativeArea>Magdalena</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-31
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Datos sobre aves, especialmente aves acuáticas en al menos 39 localidades de seis departamentos del Caribe colombiano. Estos datos corresponden a 4347 registros de 83 especies de aves pertenecientes a 23 familias. Los datos fueron tomados a través de conteos en estaciones de muestreo, recorridos por tierra y recorridos aéreos. El propósito de este trabajo fue el de conocer los principales sitios de concentración de aves acuáticas y determinar la riqueza y la abundancia relativa de este grupo de aves en el Caribe colombiano.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Humedales</keyword>
+              <keyword>Conteo terrestre</keyword>
+              <keyword>Caribe</keyword>
+              <keyword>Aves Acuáticas</keyword>
+              <keyword>Conteo Aéreo</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Área costera del Caribe colombiano desde Lorica (Córdoba) hasta Uribia (Guajira). Los conteos se desarrollaron en humedales costeros.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-75.945</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.266</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.913</northBoundingCoordinate>
+                      <southBoundingCoordinate>9.218</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2007-09-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2009-02-18
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La mayoría de las aves observadas se identificaron a nivel de especie, sin embargo, en el caso de los recorridos aéreos, la identificación de ciertas aves se hizo a nivel de género dado que desde el avión ciertas aves por su tamaño y coloración son difíciles de identificar.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fregatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Haematopodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pandionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pelecanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phoenicopteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podicipedidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rynchopidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carlos José</givenName>          <surName>Ruiz</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador principal</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>cjruiz@calidris.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>En primer lugar se dasarrolló la primera lista de sitios de importancia para aves playeras en Colombia con los aportes de expertos. El listado se complementó combinando la información de las bases de datos del Censo Neotropical de Aves Acuáticas (CNAA), la base nacional de registros ornitológicos (DATAVES) y la revisión de información publicada y no publicada sobre aves playeras en Colombia. De este análisis resultó un mapa con 12 sitios de importancia, diez de ellos en la zona costera del caribe y que posteriormente serían censadas en los sobrevuelos y en los recorridos por tierra.
+
+La primera ruta “Santa Marta-Bahía Honda”, la recorrimos el 26 de enero de 2008, para cubrir la porción nororiental de la costa del Magdalena y sectores de La Guajira (Baja, Media y Alta). Los equipos en tierra visitaron Dibulla, el Santuario de Fauna y Flora Flamencos y el municipio de Manaure. Cubrimos un total de 429 Km y la velocidad estuvo entre los 138 y los 200 Km/h; la altura sobre el terreno fue entre 60 y 80 m. Estos recorridos terrestres se realizaron del 25 al 27 de enero de 2008. La segunda ruta, “Ciénaga Grande-Guájaro”, se diseñó para cubrir tres sectores durante el 27 de enero de 2008: Vía Parque Isla de Salamanca, Complejo Lagunar Ciénaga Grande de Santa Marta y Mallorquín-Galerazamba. La avioneta sobrevoló en su totalidad estas tres áreas, mientras los equipos en tierra visitaron VIPIS, Sabanagrande y Bocatocino-Galerazamba. La distancia recorrida fue de 478 Km, con una velocidad entre 85 y 140 Km/h, y una altura sobre el terreno entre 30 y 80 m. En esta jornada logramos volar a menor altura y velocidad, debido a que las condiciones de viento en la zona lo permitieron, a diferencia de lo sucedido en La Guajira. La tercera ruta fue únicamente terrestre y abarcó las zonas del Bajo Sinú y el Golfo de Morrosquillo, donde fue necesario la utilización de lanchas para poder visitar algunos hábitats como manglares, caños y lagunas y se realizó desde el 13 al 19 de diciembre de 2007.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio corresponde al área costera de la provincia biogeográfica Cinturón Árido Pericaribeño, entendido como el área costera la franja de tierra firme que va desde el litoral hasta los 5 Km tierra adentro, por lo tanto dividimos el área de estudio en cinco zonas: Complejo de Humedales Costeros de La Guajira, Reserva de Biosfera Ramsar Ciénaga Grande, Isla de Salamanca y Sabanagrande, Costa del departamento del Atlántico, Bajo Sinú y Golfo de Morrosquillo. Los conteos desarrollados en los recorridos terrestres y aéreos se llevaron a cabo en una sola jornada entre el 25 y 27 de enero de 2008. Por otro lado, los censos en estaciones se desarrollaron mensualmente en el Vía Parque Isla de Salamanca entre septiembre de 2007 a septiembre de 2008 (sector oriental) y diciembre de 2008 a marzo de 2009 (sector noroccidental).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En los diferentes sectores se establecieron estaciones de muestreo. En el sector oriental se ubicaron ocho estaciones a lo largo de la troncal del Caribe, abarcando desde el km. 20 al 50. Cada estación con una longitud de dos kilómetros y ancho variable, divididas entre sí por dos kilómetros. En el sector noroccidental se establecieron dos estaciones ubicadas a lo largo de la línea de costa. En cada estación se hicieron observaciones de la avifauna durante 15 minutos, registrando el nombre de la especie y el número de individuos.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Aves Acuáticas del Caribe Colombiano Entre 2007 y 2009</title>
+          <personnel>
+    <individualName>
+<givenName>Carlos José</givenName>          <surName>Ruiz</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>USFWS, Fondo Acción</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio corresponde al área costera de la provincia biogeográfica Cinturón Árido Pericaribeño, entendiendo como el área costera la franja de tierra firme que va desde el litoral hasta los 5 Km tierra adentro, por lo tanto dividimos el área de estudio en cinco zonas: Complejo de Humedales Costeros de La Guajira, Reserva de Biosfera Ramsar Ciénaga Grande, Isla de Salamanca y Sabanagrande, Costa del departamento del Atlántico, Bajo Sinú y Golfo de Morrosquillo, que corresponden en su mayoría a Parques Nacionales y Áreas Importantes para la Conservación de las Aves AICA. Así mismo, subdividimos cada una de estas zonas en sectores, los cuales definimos como áreas que poseen hábitats similares agrupando un conjunto de localidades.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Con el fin de localizar los principales sitios de concentración de aves acuáticas y de estimar la abundancia relativa de este grupo en el Caribe, se desarrollaron conteos en estaciones, recorridos terrestres y recorridos aéreos a lo largo de la costa caribe colombiana. Se diseñaron tres rutas de censos que nos permitieran cubrir la mayor área posible. Los censos aéreos fueron complementados por censos realizados por equipos de observadores en tierra. Ambas rutas partieron de la confluencia de los departamentos de Atlántico y Magdalena, en el centro de la región, donde la cercanía de las ciudades de Santa Marta y Barranquilla, facilitaron las operaciones de la avioneta y la logística para los equipos de censo en tierra. Los conteos terrestres abarcaron desde el amanecer (05:45) hasta antes del mediodía en la mayoría de los sitios.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/i48lju">Zamudio J, Ruiz C J (2018). Aves Acuáticas en el Caribe Colombiano Entre 2007 y 2009. Version 9.1. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Occurrence dataset https://doi.org/10.15472/i48lju accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Hilty, S. &amp; Brown, W. 2001. Guía de las aves de Colombia. Traducida al español. American Bird Conservancy. Imprelibros S.A. Colombia. 909p.</citation>
+      <citation>Remsen, J. V., Jr., C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Pérez-Emán, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [date]. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.html</citation>
+      <citation>Restall, R., C. Rodner y M. Lentino. 2007. Birds of Northern South America: an identification guide. Yale University Press, EE.UU. 880p.</citation>
+      <citation>Canevari, P.,Castro, G., Sallaberry y L. G. Naranjo. 2001. Guía de los Chorlos y Playeros de la Región Neotropical. American Bird Conservancy, WWF US, Humedales para las Americas y Manomet Conservation Science, Asociación Calidris. Santiago de Cali, Colombia.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-calidris.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

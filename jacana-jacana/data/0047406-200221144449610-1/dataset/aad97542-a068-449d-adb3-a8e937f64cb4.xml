@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="aad97542-a068-449d-adb3-a8e937f64cb4"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/xmpo2s</alternateIdentifier>
+        <alternateIdentifier>aad97542-a068-449d-adb3-a8e937f64cb4</alternateIdentifier>
+        <alternateIdentifier>http://ipt.aucklandmuseum.com:8080/ipt/resource?r=landvertebrates</alternateIdentifier>
+    <title>Auckland Museum Land Vertebrates Collection</title>
+    <creator>
+    <individualName>
+<givenName>Collection</givenName>          <surName>Enquiries</surName>
+    </individualName>
+<organizationName>Auckland Museum</organizationName><positionName>Collection manager</positionName>    <address>
+<country>NEW_ZEALAND</country>    </address>
+<electronicMailAddress>CollectionEnquiries@aucklandmuseum.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Adam</givenName>          <surName>Moriarty</surName>
+    </individualName>
+<organizationName>Auckland Museum</organizationName><positionName>Digital Collection Information Manager</positionName>    <address>
+<deliveryPoint>The Domain</deliveryPoint><city>Auckland</city><postalCode>1010</postalCode><country>NEW_ZEALAND</country>    </address>
+<electronicMailAddress>amoriarty@aucklandmuseum.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Adam</givenName>          <surName>Moriarty</surName>
+    </individualName>
+<electronicMailAddress>amoriarty@aucklandmuseum.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2016-05-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Auckland Museum&amp;#39;s outstanding land vertebrates collection comprises over 15,000 bird specimens, 3,800 amphibians and reptiles and 1,600 land mammals.
+
+These specimens are primarily from northern New Zealand, but there is also a significant amount of material from elsewhere in the country, from islands of the south-west Pacific, from Australia and from around the world.  The collection is particularly strong in kiwis and moas, oceanic seabirds, penguins, cormorants, ducks, waders and allies (Charadriiformes).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.aucklandmuseum.com/collections-research/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>New Zealand</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Matt</givenName>          <surName>Rayner</surName>
+    </individualName>
+<organizationName>Auckland Museum</organizationName><positionName>Collection manager</positionName>    <address>
+<country>NEW_ZEALAND</country>    </address>
+<electronicMailAddress>CollectionEnquiries@aucklandmuseum.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:47Z</dateStamp>
+      <citation>Enquiries C, Moriarty A (2016). Auckland Museum Land Vertebrates Collection. Version 1.2. Auckland War Memorial Museum. Occurrence dataset https://doi.org/10.15468/xmpo2s accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>http://www.aucklandmuseum.com/client/img/aucklandmuseum/AM_Logo.svg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

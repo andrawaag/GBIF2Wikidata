@@ -1,0 +1,785 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d2278c93-6510-46a8-9792-d794765b4167"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ptmv1d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=exp_mariquita_2015</alternateIdentifier>
+        <alternateIdentifier>d2278c93-6510-46a8-9792-d794765b4167</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=exp_mariquita_2015</alternateIdentifier>
+    <title>Biodiversidad de un bosque seco tropical del Valle Medio del río Magdalena: evaluación integrada a través de multitaxones</title>
+    <creator>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Quintana Vargas</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1)3202767</phone><electronicMailAddress>aquintana@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Quintana Vargas</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1)3202767</phone><electronicMailAddress>aquintana@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lina María</givenName>          <surName>Mesa Salazar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora peces</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>lmesa@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Sánchez Duarte</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora peces</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>psanchez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Córdoba</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador ecología espacial</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Susana</givenName>          <surName>Rodríguez Buriticá</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora ecología espacial</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ariel</givenName>          <surName>Parrales Ramírez</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador mariposas</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>dparrales@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alejandro</givenName>          <surName>Parra Hinojosa</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador abejas</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>aparra@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Caycedo Rosales</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora aves</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>paula.caycedo@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Elkin</givenName>          <surName>Tenorio Moreno</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador aves</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>etenorio@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>DoNascimiento Montoya</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador peces</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>cdonascimiento@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Andrés</givenName>          <surName>Acosta Galvis</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador herpetos</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>aacosta@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Leonardo</givenName>          <surName>Buitrago</surName>
+    </individualName>
+<organizationName>Sistema de Información Sobre Biodiversidad de Colombia</organizationName><positionName>Investigador herpetos</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>albuitrago@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.sibcolombia.net/web/sib/home</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Javier</givenName>          <surName>Barriga</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>jbarriga@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Claudia</givenName>          <surName>Medina Uribe</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora coleópteros</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>camedina@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Johann</givenName>          <surName>Cárdenas Bautista</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador coleópteros</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>jcardenas@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Edwin</givenName>          <surName>Torres Pineda</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador coleópteros</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>etorres@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Angélica</givenName>          <surName>Díaz Pulido</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora mamíferos</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carolina</givenName>          <surName>Castro Moreno</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>acastro@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Córdoba Córdoba</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador aves</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>scordoba@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>María del Socorro</givenName>          <surName>Sierra</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora aves</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>msierra@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jhon</givenName>          <surName>Nieto Vargas</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador vegetación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>jnieto@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Correa</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora vegetación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>dcorrea@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sandra</givenName>          <surName>Medina Saiz</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora vegetación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>spmedina@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Humberto</givenName>          <surName>Mendoza Cifuentes</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador vegetación</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>hmendoza@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jose</givenName>          <surName>Aguilar Cano</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador vegetación</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>jaguilar@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Quintana Vargas</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora vegetación</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>aquintana@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Roy</givenName>          <surName>González Martínez</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>rgonzalez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Arturo</givenName>          <surName>González Alvarado</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 8 No 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767</phone><electronicMailAddress>fagakorn@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>I2D-BIO_2017_015. Este recurso presenta los resultados obtenidos de un muestreo de biodiversidad realizado en el bosque seco del valle medio del río Magadalena en el norte del departamento del Tolima. Los grupos biológicos evaluados corresponden a plantas, coleópteros coprófagos, mariposas, abejas, peces, anfibios, reptiles, aves y mamíferos. En total se obtuvo 5162 registros con más de 400 especies reportadas en diferentes niveles de identificación.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>abejas</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>peces</keyword>
+              <keyword>bosque seco tropical</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>coprófagos</keyword>
+              <keyword>vegetación</keyword>
+              <keyword>mariposas</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Especimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Ejemplar</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=exp_mariquita_2015</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La zona de muestreo comprende los municipios de Armero Guayabal, Honda y Falan en el del departamento de Tolima.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.9</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.853</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.196</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.051</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-10-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-03-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>VEGETACIÓN
+Los ejemplares registrados fueron identificados en un 88.3% a especie, 7.7% a género y 4% a nivel de familia. Los órdenes identificados fueron Arecales (1 familia, 4 especies),  Boraginales (1 familia, 2 especies), Brassicales (1 familia, 1 especie), Caryophyllales (1 familia, 6 especies), Celastrales (1 familia, 1 especie) Cucurbitales (1 familia, 1 especie), Ericales (3 familias, 5 especies), Fabales (3 familias, 27 especies), Gentianales (2 familias, 15 especies), Lamiales (4 familias, 8 especies), Laurales (1 familia, 2 especies), Liliales (1 familia, 1 especie), Magnoliales (1 familia, 3 especies), Malpighiales (5 familias, 15 especies), Malvales (1 familia, 6 especies), Myrtales (2 familias, 6 especies), Piperales (2 familias, 3 especies), Rosales (9 familias, 16 especies), Sapindales (6 familias, 21 especies). Se empleó el sistema de clasificación APG III.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Arecales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Celastrales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cucurbitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Laurales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Liliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Magnoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malpighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malvales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piperales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sapindales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Brassicales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>COLEÓPTEROS COPRÓFAGOS
+Incluye registros de la subfamilia Scarabaeinae (Coleóptera: Scarabaeidae), identificados a nivel de especie. Se registran 26 especies, de las cuales el 50% fueron identificadas (con epíteto específico) y las restantes fueron codificadas con el nombre del género y un código único siguiendo la propuesta de González &amp; Medina (2015) y los códigos de la Colección de Referencia de Escarabajos Coprófagos de Colombia del IAvH (CRECC).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coleoptera</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>MARIPOSAS
+Los ejemplares colectados fueron identificados en un 15.4% a subespecie, 72.4% a especie, 1.6% a género, 4.1% a familia y el 6.5% a nivel de orden. El orden identificado corresponde a Lepidoptera (7 familias, 38 especies).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lepidoptera</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>ABEJAS 
+Los ejemplares colectados fueron identificados en un 3.7% a variedad, 72.2% a especie, y 24.1% a nivel de género. El orden identificado corresponde a Hymenoptera (3 familias, 19 especies).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Hymenoptera</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>PECES
+Los ejemplares colectados fueron identificados en un 88% a especie, 8% a género y 4% a nivel de familia familia. Los órdenes identificados fueron Characiformes (2 familias, 4 especies), Cichiliformes (1 familia, 2 especies), Cyprinodontiformes (2 familias, 2 especies), Gymnotiformes (1 familia, 1 especie), Siluriformes (3 familias, 3 especies).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Characiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cichliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gymnotiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Siluriformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>HERPETOS
+Los ejemplares colectados fueron identificados en un 100% a nivel de especie. Los órdenes identificados fueron Anura (5 familias, 16 especies), Eusuchia (1 familia, 1 especie),  Squamata (7 familias, 9 especies).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Eusuchia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Squamata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>AVES
+Los individuos colectados fueron identificados en un 12% a subespecie, 86.4% a especie, 0.1% a género, 0.07% a familia, 1.3% a orden y 0.1% a nivel de clase con 2 registros. Los órdenes identificados fueron Accipitriformes (1 familia, 2 especies) Apodiformes (2 familias, 8 especies), Charadriiformes (1 familia, 1 especie), Columbiformes (1 familia, 6 especies), Coraciiformes (1 familia, 2 especies), Cuculiformes (1 familia, 1 especie), Falconiformes (2 familias, 5 especies), Galliformes (1 familia, 1 especie), Gruiformes (1 familia, 2 especies), Passeriformes (18 familias, 77 especies), Pelecaniformes (2 familias, 4 especie), Piciformes (4 familias, 8 especies), Psittaciformes (1 familia, 2 especies), Tinamiformes (1 familia, 1 especie).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tinamiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>FOTOTRAMPEO
+Los individuos registrados fueron identificados en un 100% a nivel de especie, correspondientes a las clases mammalia, aves y reptilia. Los órdenes identificados fueron Accipitriformes (1 familia, 1 especie), Artiodactyla (2 familias, 2 especies), Carnivora ( 4 familias, 6 especies), Cingulata (1 familia, 2 especies), Columbiformes (1 familia, 2 especies), Coraciiformes (1 familia, 1 especie), Didelphimorphia (1 familia, 1 especie), Galliformes (1 familia, 1 especie), Gruiformes (1 familia, 1 especie), Passeriformes (2 familias, 2 especies), Pelecaniformes (2 familias, 3 especies), Pilosa (1 familia, 1 especie), Rodentia (4 familias, 4 especies), Squamata (1 familia, 1 especie).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Artiodactyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Carnivora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cingulata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Didelphimorphia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pilosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rodentia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Squamata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Este recurso tiene como objetivo incrementar, hacer pública y disponible la información sobre la biodiversidad del bosque seco en la región del valle interandino del río Magdalena, aportar insumos para el estudio de este ecosistema y así dirigir esfuerzos y estrategias para su conservación, proteger especies  de fauna y flora propias de este bosque y asegurar la conectividad entre parches  presentes en la zona, de esta manera se aportaría a la imperante protección del bosque seco tropical el cual actualmente tiene una extensión menor al 10% de su cobertura original en el país.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Hernando</givenName>          <surName>García Martínez</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinador programa Ciencias de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1)3202767</phone><electronicMailAddress>hgarcia@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>VEGETACIÓN 
+El muestreo se hizo de acuerdo a la metodología Gentry, el cual plantea el establecimiento de 10 transectos de 50m x 2m abarcando un área de 0.1 Ha por cada zona de estudio (Jabirú A, Jabirú B, Tambor, El Triunfo) , se incluyeron los individuos con un DAP superior a 2.5 cm registrando variables de diámetro, altura y distancia respecto a la longitud y ancho del transecto. Las muestras botánicas colectadas ingresaron al herbario FMB del instituto Humboldt.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>COLEÓPTEROS COPRÓFAGOS
+El estudio se hizo en tres zonas con coberturas de bosque seco y potreros en los alrededores de Armero Guayabal, y Honda en la Hacienda Jabirú, El triunfo y El Tambor. 
+La fase de campo se desarrolló en cada una de las haciendas donde se realizaron dos transectos de 250 m, se ubicaron seis trampas tipo pitfall no letales (las trampas fueron marcadas con cinta de color para su posterior ubicación), cebadas con excremento humano envuelto en una malla de tela tipo tul, separadas entre sí cada 50 m, siguiendo la propuesta de Larsen y Forsyth (2005), modificado para este trabajo. Las trampas duraron por un periodo de tiempo de 48 horas, siendo recebadas una vez a las 24 horas, y recogiendo muestra cada 24 horas. En total se colocaron 42 trampas y se obtuvieron 72 réplicas (esfuerzo total de 1728 horas). Además en cada trampa se tomaron datos de ubicación (coordenadas). En la hacienda Jabirú se hizo un muestreo complementario y se colocaron 6 trampas cebadas con excremento humano dentro de una parcela permanente de bosque seco, las cuales se dejaron por un periodo de 48 horas, revisando y obteniendo muestra cada 24 horas. Adicional a este muestreo se hicieron observaciones y colectas manuales en los potreros aledaños al bosque revisando las boñigas del ganado, donde se trabajó con una intensidad de una hora hombre, durante dos días.
+
+Fase de laboratorio.  Preparación de especímenes: las muestras de escarabajos en alcohol fueron secadas en el laboratorio en cajas petri adaptadas con toallas de papel, posteriormente los ejemplares fueron montados en alfiler y debidamente rotulados con su etiqueta de localidad, de identificación taxonómica y código único de identificación, y número de catálogo.  Posteriormente fueron ingresados a la colección de referencia o general, según sea el caso. 
+Identificación: Los ejemplares ya preparados se determinaron taxonómicamente usando  claves taxonómicas actualizadas, Génier (2009), Génier &amp; Kohlmann 2003, Edmonds (1994), Edmonds y Zideck (2012), y por comparación con la Colección de Referencia de Escarabajos Coprófagos del Instituto Alexander von Humboldt, Colombia CECC. La curaduría taxonómica incluyó la separación de morfoespecies con base a caracteres de morfolofía externa y del órgano genital masculino. 
+Sistematización: la información asociada (datos geográficos del evento de colecta, identificación taxonómica y número de catálogo) a cada uno de los ejemplares fue ingresada en la base de datos de la colección del Instituto Humboldt (Specify 6.6.3).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MARIPOSAS
+Las mariposas fueron muestreadas en 6 transectos lineales de 100 x 5 m a cada lado (2 por cada zona de muestreo). En el transecto se realizó captura de mariposas mediante red entomológica en recorridos de 60 minutos efectuados desde las 7:00 hasta las 17:00 con un esfuerzo acumulado por persona de 10horas/día. Exceptuando periodos de lluvia. Los transectos se recorrieron durante 2 días por cada una de las zonas. 
+
+Adicionalmente para cada una de los puntos de muestro fueron usadas 12 trampas van Someren-Rydon cada 50 m, estableciendo un transecto de 750 m. En cada trampa se utilizó como atrayente de las mariposas pescado en descomposición y excremento humano. Las trampas se mantuvieron activas durante 48 horas recebando cada 24 horas y ubicadas a una altura de 1 a 3 metros sobre el nivel del suelo (Villareal et al., 2004) 
+
+Los ejemplares colectados se sacrificaron y guardaron en papel milano para su transporte en bolsas ziploc dentro de cajas plásticas con sílica-gel para mantener su conservación hasta el montaje en la colección entomológica.  
+
+En el laboratorio se procedió al montaje de ejemplares, etiquetado (localidad) , identificación taxonómica, asignación de código IAvH-E y por ultimo sistematización bajo la plataforma Specify® 6.6.02. Para el arreglo taxonómico se siguió la clasificación taxonómica propuesta por  Warren, A. et al., 2013.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ABEJAS
+El muestreo se llevó a cabo con red entomológica a través de transectos de no menos de un kilómetro buscando posibles fuentes de néctar o polen (principalmente) y en Leguminosas y Solanáceas. Para algunos grupos de abejas su preferencia por colores de flores (amarillo) es una ventaja para su atracción a trampas de caída. Éstas consisten en platos amarillos con agua y detergente, que rompe la tensión superficial y a su vez  aumenta la reflexión, atrayendo a algunos grupos de éstos insectos que quedarán presos en el líquido. También se hizo uso de sustancias aromáticas como cebos para atraer a machos de un grupo muy específico de abejas (abejas de las orquídeas). Los compuestos propuestos son eucaliptol, metil salicilato y eugenol, de relativo bajo costo y fácil adquisición.
+Cada ejemplar colectado, sea en transecto o cebo se transportó individualmente en tubos de centrífuga con el objetivo de extraer polen de contacto y así realizar un exploración de la funcionalidad de la comunidad de polinizadores (abejas) a través de redes de interacciones.
+Todo el material colectado se preparó en seco en alfileres entomológicos para preservación como testigo e inclusión en la colección entomológica del IAvH.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PECES
+Se muestrearon seis cuerpos de agua, en cada uno se realizó una hora efectiva de pesca, utilizando como artes de pesca la pesca eléctrica y salabardos. Al llegar a cada uno de los cuerpos de agua se registraron las coordenadas geográficas y la altura sobre el nivel del mar, con un gps marca Garmin. Posteriormente se midieron los parámetros físico-químicos de pH, conductividad, sólidos disueltos y temperatura del agua, con una sonda multiparamétrica HI 98129 marca Hanna. Luego de comprobar que el cuerpo de agua tuviera la conductividad requerida (mayor a 100 µS.cm-1) se procedió a utilizar la pesca eléctrica. Se trazó un transecto de 100 metros sobre el cuerpo de agua, que se recorrió en contra de la corriente barriendo las orillas y el sector central. Posteriormente se hizo uso de un salabardo, con el cual se barrió la vegetación marginal y flotante, y la hojarasca de las orillas. Los ejemplares colectados en cada faena fueron depositados en una bolsa plástica con agua, fijados en formol al 10% y se introdujo una etiqueta con el código de campo. Posteriormente en la ciudad de Villa de Leyva el material fue lavado con abundante agua y determinado al nivel taxonómico más preciso posible con la ayuda de claves taxonómicas (Eigenmann 1922, Dahl 1971, Miles 1971, Hernández et al. 2015).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>HERPETOS
+Se estudiaron tres localidades constituidas principalmente por coberturas de bosque seco tropical, coberturas protectoras de cauce (lóticos) y lagunas (lénticos). El inventario fue realizado mediante tres aproximaciones metodológicas que incluyen métodos de encuentro visual (VES) (Heyer, Donnelly, Foster, &amp; Mcdiarmid, 1994), registros auditivos de las vocalizaciones (Angulo, 2006) mediante una grabadora Marantz Professional PMD 671 y un micrófono unidireccional Sennheiser MKH 60 P40 junto con la obtención de un ejemplar voucher junto con muestreo por remoción (Heyer et al., 1994). El esfuerzo de muestreo se desarrolló entre las 6:00-11:00 horas, 14:00-16:00 horas y 18:30-23:00 horas, donde a todos los ejemplares de referencia capturados y observados se georreferenciaron con un gps Garmin.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVES
+Redes. Se muestrearon dos localidades (Hacienda Jabirú y El Triunfo), en cada una se colocaron redes de niebla a nivel sotobosque, fue necesario abrir una trocha con machete para poder colocar las redes. En cada una de las localidades muestreadas fue necesario colocar un numero diferente de redes debido al tiempo y condiciones del terreno (Jabirú 165 metros y esfuerzo de muestreo 72.18 horas-red; El Triunfo 90 metros y esfuerzo de 37.5 horas-red). En cada lugar se abrieron las redes de niebla entre las 5:45 am y se cerraron a las 11:00 am cada día por tres días consecutivos. A las aves capturadas se les desenredó de las redes, fueron transportadas en bolsas de tela a un campamento cerca de las redes para realizar mediciones morfológicas (peso, longitud de pico, ancho pico a nivel de las narinas, ancho comisura del pico, largo del ala plana, largo del tarso) y medidas ecológico-fisiológicas (presencia de parches de reproducción, protuberancia cloacal, acumulación de grasa subcutánea, presencia de ectoparasitos). Algunos ejemplares fueron colectados y estos fueron preparados como pieles de estudio con sus datos de colores de partes suaves, sexado por observación directa de gónadas y sus medidas, presencia de grasa en flancos y osificación del cráneo para ser depositados en la colección de vertebrados-aves. Los cuerpos de estos ejemplares fueron guardados en alcohol para estudios posteriores de ser necesario en laboratorio. A todos los ejemplares colectados se les extrajo músculo depositado en alcohol al 96% para análisis genéticos y ser depositados en la colección de tejidos. Cada uno de los ejemplares fueron etiquetados en campo con información de la localidad, coordenadas geográficas, colores de partes suaves, medidas morfológicas y ecológico-fisiológicas.
+
+Los ejemplares colectados en cada localidad fueron colocados en una nevera de icopor para su secado y transporte en campo, junto con silica gel con el fin de extraer humedad de los cuerpos. Posteriormente en la ciudad de Villa de Leyva el material fue llevado a cuarentena en la nevera por 48 horas y posteriormente a 50-54ºC por 8 a 16 horas para su secado final. Estos ejemplares fueron de nuevo revisados y determinados, se incorporó la información a la base de datos y al catalogo físico, se le incluyó una nueva etiqueta con QR y se le asignó un numero de catalogo, estos fueron luego incorporados a la colección en sus respectivas bandejas por especie en la colección en el museo. La determinación de las especies se realizó a través de las guías de aves y comparación con los ejemplares en la colección (Hilty y Brown 1986, Dunn y Alderfer 2011).
+
+Bioacústica. Entre las 6:00 y las 11:00 horas, se llevó a cabo un muestreo por puntos de conteo de radio indefinido con una duración fija de 15 minutos por punto. Las especies y el número de individuos fueron registrados por detección visual y auditiva. En algunos casos se registró información adicional como sexo o edad. Simultáneo a los registros visuales, en cada uno de los puntos se llevó a cabo grabaciones de la misma duración usando una grabadora Marantz PMD661 con micrófono Sennheiser MKH 20 y parábola Telinga Pro. 
+Para cada una de las áreas visitadas (Jabirú Oriental, Jabirú Occidental, El Triunfo y El Tambor) se efectuaron 6 puntos de conteo, para un total de 24 puntos, los cuales siempre contaron con dos observadores. La identificación visual de las especies se hizo con base en la guía de las aves de Colombia (Hilty &amp; Brown 1986) y la guía de las aves del norte de Sur América (Restall et al. 2006). La identificación de los registros auditivos fueron corroborados tomando como referencia la base de datos Xeno-Canto (Xeno-canto Foundation 2012). Se siguió la taxonomía propuesta por la SACC (Remsen 2014).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>FOTOTRAMPEO
+En octubre de 2015 se instalaron 20 cámaras trampa para el registro de vertebrados terrestres. Las estaciones de muestreo sencillas (con una sola cámara trampa) se ubicaron en las zonas con mayor probabilidad de paso de fauna silvestre y tratando de mantener una equidistancia entre ellas de 1 km. Se evaluaron dos zonas de la región: Hacienda El Tambor y Hacienda Jabirú.
+
+En la estación de muestreo se instaló una cámara trampa en un sector del camino nivelado y plano, en lo posible, atada perpendicularmente al camino para detectar el flanco del animal y preferiblemente a una distancia entre 3 y 4 metros del sitio probable de paso del animal (Diaz-Pulido y Payán 2012). 
+
+Para confirmar la correcta ubicación de la cámara trampa se realizó el “examen del gateo” y de esta forma verificar el área de detección de la cámara. El examen consistió en gatear en frente de la cámara justo por el sitio donde se pensó que cruzaría el animal y se verificó que la cámara hiciese la detección y/o tomado la fotografía.
+
+Luego de cuarenta días las cámaras trampa fueron recogidas en cada una de las estaciones de muestreo. Los dispositivos de almacenamiento fueron revisados minuciosamente para extraer la información disponible en cada una de las fotografías registradas. Todas las fotografías se analizaron por medio del aplicativo NAIRA II: Leyendo Biodiversidad, para discriminar las fotografías con fauna y extraer automáticamente la información asociada, como la fecha, hora, temperatura y fase lunar (Pulido y Diaz-Pulido 2014). 
+
+La información de cada una de las fotografías con registros de fauna silvestre, fue procesada en bases de datos siguiendo el formato Darwin Core para los posteriores análisis de diversidad.  
+El esfuerzo de muestreo fue de 563 trampas noche, con lo que se aseguró un esfuerzo óptimo, para detectar las especies más comunes (superior a 400 trampas-noche -Tobler et al. 2008-). 
+
+La nomenclatura taxonómica siguió en el caso de los mamíferos a Wilson y Reeder 2005, Solari et al. 2013 y Patton 2015. Para las aves a Clements et al. 2015 y para los reptiles a Uetz 2015.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona de estudio corresponde al bosque seco tropical del valle medio del río Magdalena, entre los municipios de Armero Guayabal, Falan y Honda en el departamento del Tolima, comprendiendo alturas desde 218 a 615 metros sobre el nivel del mar, con una topografía diversa presentando terrenos planos, ondulado y escarpado en algunos puntos. Los lugares de muestreo se llevaron a cabo en propiedades privadas dedicadas principalmente a la actividad ganadera, las cuales también presentan relictos de bosque en diferentes estados de conservación y estados sucesionales,  estos predios corresponden a las Haciendas El Triunfo, El Tambor y Jabirú, esta última contempla una Reserva Natural de la Sociedad Civil.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el diseño muestreal se consideraron tres factores principales: i). La historia de transformación de parches de bosque en los últimos 22 años en ventanas de 5 km x 5 km. ii). La permanencia (como un aproximado a la edad) de los parches de bosque en dichas ventanas. iii). El grado de protección contra el impacto del ganado.  El diseño de muestreo consistió en un análisis de paisaje de los patrones asociados con los niveles de cada uno de estos tres niveles. En cada zona se realizaron muestreos multinivel de diferentes grupos biológicos para investigar la congruencia entre los índices de biodiversidad y los índices espaciales, los sitios de caracterización se seleccionaron en base a los polígonos definidos por el análisis espacial de la zona.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Las zonas de muestreo de los diferentes grupos biológicos siguieron los criterios de selección de acuerdo a la metodología planteada para la evaluación integral de la zona. La determinación e identificación de las especies se basó en la consulta de claves actualizadas y fuentes especializadas en taxonomía y por medio de comparación de ejemplares depositados en colecciones. 
+
+Se sistematizó la información de los ejemplares que ingresaron al museo del Instituto Humboldt en la base de datos Specify, y se hizo evaluación y validación del conjunto de datos correspondiente a los registros de la expedición.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol</title>
+          <personnel>
+    <individualName>
+<givenName>Hernando</givenName>          <surName>García Martínez</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>La expedición se financió con recursos del convenio No. 5211478 (IAvH 12-067) entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Ecopetrol en marco del proyecto Planeación Ambiental para la Conservación de la Biodiversidad en las Áreas Operativas de Ecopetrol.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La zona de muestreo comprende los municipios de Armero Guayabal, Honda y Falan en el del departamento de Tolima, correspondiente al valle medio del río Magdalena.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El estudio del bosque seco tropical se consolida con el fortalecimiento de una red de investigación en el país integrando instituciones académicas y diversas entidades regionales, nacionales e internacionales interesadas en este ecosistema. Dentro de la agenda de investigación se ha evaluado la  distribución espacial del bosque seco por medio de la verificación y validación de coberturas a nivel nacional. Adicionalmente se han realizado actividades para monitorear la dinámica del bosque por medio del establecimiento de parcelas permanentes  en distintos estados sucesionales de las diferentes regiones del país abarcando diversas condiciones ecológicas, de esta manera se logra evaluar la composición, estructura, diversidad funcional y diversidad filogénetica del bosque seco.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ptmv1d">Quintana Vargas A (2019). Biodiversidad de un bosque seco tropical del Valle Medio del río Magdalena: evaluación integrada a través de multitaxones. Version 1.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ptmv1d accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Heyer, R., Donnelly, M. A., Foster, M. &amp; Mcdiarmid, R. (1994) Measuring and monitoring biological diversity: standard methods for amphibians: Smithsonian Institution.</citation>
+      <citation>Angulo, A. (2006) Fundamentos de bioacústica y aspectos prácticos de grabaciones y análisis de cantos. In: A. Angulo, J. V. Rueda-Almonacid, J. V. Rodríguez-Mahecha &amp; E. La Marca (Eds), Técnicas de inventário y monitoreo para los anfíbios de la región tropical andina. Conservación Internacional., Bogotá D.C., pp. 89-128.</citation>
+      <citation>Bergmann, P. J. &amp; Russell, A. P. (2007) Systematics and biogeography of the widespread Neotropical gekkonid genus Thecadactylus (Squamata), with the description of a new cryptic species. Zoological Journal of the Linnean Society, 149, 339-370.</citation>
+      <citation>Cannatella, D. C. &amp; Duellman, W. E. (1984) Leptodactylid frogs of the Physalaemus pustulosus group. Copeia, 902-921.</citation>
+      <citation>Duellman, W. E. (1958) A monographic study of the colubrid snake genus Leptodeira. Bulletin of the AMNH; v. 114, article 1.</citation>
+      <citation>Harvey, M. B., Ugueto, G. N. &amp; Gutberlet Jr, R. L. (2012) Review of teiid morphology with a revised taxonomy and phylogeny of the Teiidae (Lepidosauria: Squamata). Zootaxa, 3459, 156.</citation>
+      <citation>Kluge, A. G. (1979) The gladiator frogs of Middle America and Colombia--a reevaluation of their systematics (Anura: Hylidae). Occasional Papers of the Museum of Zoology, University of Michigan, 1-24.</citation>
+      <citation>Lynch, J. D. (1980) Systematic status and distribution of some poorly known frogs of the genus Eleutherodactylus from the Chocoan lowlands of South America. Herpetologica, 175-189.</citation>
+      <citation>Lynch, J. D. &amp; Suárez-Mayorga, Á. M. (2001) The distributions of the gladiator frogs (Hyla boans group) in Colombia, with comments on size variation and sympatry. Caldasia, 491-507.</citation>
+      <citation>Ospina-Sarria, J. J., Angarita-Sierra, T. &amp; Pedroza-Banda, R. (2015) A New Species of Craugastor (Anura: Craugastoridae) from the Magdalena River Valley, Colombia, with Evaluation of the Characters Used to Identify Species of the Craugastor fitzingeri Group. South American Journal of Herpetology, 10, 165-177.</citation>
+      <citation>Silverstone, P. A. (1975) A revision of the poison-Arrow Frogs of the genus Dendrobates Wagler. Natural History Museum of Los Angeles County, Science Bulletin, 21, 1-55.</citation>
+      <citation>Dahl G. 1971. Los peces del norte de Colombia. Ministerio de Agricultura, Instituto de Desarrollo de los Recursos Naturales Renovables (INDERENA). Talleres Litografía Arco. Bogotá D.C., Colombia. 391 pp.</citation>
+      <citation>Eigenmann C. H. 1922. The fishes of western South America. Part 1. The fresh-water fishes of northwestern South America. Including Colombia, Panama, and the pacific slopes of Ecuador and Peru, together with and appendix upon the fishes of the rio Meta in Colombia Memoirs of the Carnegie Museum 9 (1): 1–353.</citation>
+      <citation>Hernández, C. L., A. Ortega-Lara, G. C. Sánchez-Garcés y M. H. Alford. 2015. Genetic and Morphometric Evidence for the Recognition of Several Recently Synonymized Species of Trans-Andean Rhamdia (Pisces: Siluriformes: Heptapteridae). Copeia 103 (3): 563 – 579.</citation>
+      <citation>Miles C. 1971. Los peces del río Magdalena («A field book of Magdalena fishes»). Segunda Edición. Universidad del Tolima. Centro Audiovisual. UT ediciones. Ibagué – Colombia. 242 pp.</citation>
+      <citation>Warren, A. D., Davis, K. J., Stangeland, E. M., Pelham, J. P., &amp; Grishin, N. V. (2013). Illustrated Lists of American Butterflies. Butterflies of America Foundation. Retrieved 14/07, 2015, from http://www.butterfliesofamerica.com</citation>
+      <citation>Villareal, H., Álvarez, M., Córdoba, S., Escobar, F., Fagua, G., Gast, F., &amp; Umaña, A. M. (2004). Manual de métodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá. Colombia.</citation>
+      <citation>González-Alvarado, A. y C. A. Medina. 2015. Listado de especies de escarabajos coprófagos (Coleoptera: Scarabaeidae: Scarabaeinae) de bosque seco de Colombia. Biota Colombiana 16 (1): 36-44.</citation>
+      <citation>Larsen, T. H. y A. Forsyth. 2005. Trap spacing and transect design for dung beetle biodiversity studies. Biotropica 37(2): 322-325.</citation>
+      <citation>Génier, F. 2009. Le genre Eurysternus Dalman, 1824 (Scarabaeidae: Scarabaeinae: Oniticellini), révision taxonomique et clés de détermination illustrées. Pensoft Series, Faunistica 85: 1-430.</citation>
+      <citation>Génier, F. y B. Kohlmann. 2003. Revision of the Neotropical dung beetle genera Scatimus Erichson and Scatrichus gen. nov. (Coleoptera: Scarabaeidae: Scarabaeinae). Fabreries 28: 57-111.</citation>
+      <citation>Edmonds, W. D. 1994. Revision of Phanaeus MacLeay, a New World genus of Scarabaeinae dung beetles (Coleoptera: Scarabaeidae, Scarabaeinae). Natural History Museum of Los Angeles County, Contributions in Science 443: 1-105.</citation>
+      <citation>Edmonds, W. D. y J. Zideck. 2012. Taxonomy of Phanaeus revisited: revised keys to and comments on species of the New World dung beetle genus Phanaeus MacLeay, 1819 (Coleoptera: Scarabaeidae: Scarabaeinae: Phanaeini). Insecta Mundi 274: 1-108.</citation>
+      <citation identifier="http://www.press.jhu.edu">Wilson, D. y D. Reeder (eds). 2005. Mammals Species of the World. A taxonomic and
+Geographic Reference (3rd ed).</citation>
+      <citation>Solari, S., Y. Muñoz-Saba, J. Rodríguez-Mahecha, T. Defler, H. Ramírez-Chaves y F. Trujillo. 2013. Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical 20(2):301-365.</citation>
+      <citation>Patton, J.L., U.F.J. Pardiñas y G. D’Elía. 2015. Mammals of South America, Volume 2 - Rodents. The University of Chicago Press, Chicago, Illinois. 1336 pp.</citation>
+      <citation identifier="http://www.birds.cornell.edu/clementschecklist/download/">Clements, J.F., T.S. Schulenberg, M.J. Iliff, D. Roberson, T.A. Fredericks, B.L. Sullivan y C.L. Wood. 2015. The eBird/Clements checklist of birds of the world: v2015.</citation>
+      <citation identifier="http://www.reptile-database.org">Uetz, P. (ed). 2015. The Reptile Database.</citation>
+      <citation>Diaz-Pulido, A. y E. Payán. 2012. Manual de fototrampeo: una herramienta de investigación para la conservación de la biodiversidad en Colombia. Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt y Panthera Colombia. Bogotá, D.C. 32 pp.</citation>
+      <citation>Pulido, L. y A. Diaz-Pulido. 2014. Aplicativo NAIRA: leyendo biodiversidad. Proyecto Planeación Ambiental para la Conservación de la biodiversidad en zonas operativas de Ecopetrol. Instituto de Investigaciones Biológicas Alexander von Humboldt y Ecopetrol, Bogotá, Colombia.</citation>
+      <citation>Tobler, M.W., S.E. Carrillo-Percastegui, R. Leite-Pitman, R. Mares y G. Powell. 2008. An evaluation of camera traps for inventorying large-and medium-sized terrestrial rainforest mammals. Animal Conservation 11:169-178.</citation>
+      <citation>Dunn, J. L. y J. Alderfer. 2011. National Geographic field guide to the birds of North America. Sexta edicion. National Geographic. Washington D.C.. 576 pp.</citation>
+      <citation>Hilty, S. L. Y W. L. Brown. 2001. Guia de las aves de Colombia. Traducido por Alvarez-Lopez, H. American Bird Conservancy - Asociacion Colombiana de Ornitologia - Sociedad Antioqueña de Ornitologia. Bogota, Colombia</citation>
+      <citation>Hilty, S. L., &amp; Brown, B. 1986. A guide to the birds of Colombia. Princeton University Press.</citation>
+      <citation>Restall, R. L., Rodner, C., &amp; Lentino, R. 2006. Birds of northern South America. Christopher Helm.</citation>
+      <citation>Xeno-canto Foundation. 2012. Xeno-canto: Sharing bird sounds from around the world.</citation>
+      <citation identifier="http://www.museum.lsu.edu/~Remsen/SACCBaseline.html">Remsen, J. V., Jr., Areta, J. I., Cadena, C. D., Jaramillo, A., Nores, M., Pacheco, J. F., Pérez-Emán, J., Robbins, M. B., Stiles, F. G., Stotz, D. F. &amp; K. J. Zimmer. (Version 2014). A classification of the bird species of South America. American Ornithologists&apos; Union.</citation>
+      <citation identifier="http://www.tropicos.org/">Tropicos.org. Missouri Botanical Garden. 01 Feb 2016</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Biodiversidad de un bosque seco tropical del Valle Medio del río Magdalena: evaluación integrada a través de multitaxones</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                            <formatVersion>NA</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=exp_mariquita_2015</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>FMB, IAvH-E, IAvH-P, IAvH-Am, IAvH-R, BSA</collectionIdentifier>
+                <collectionName>Colección de plantas, entomología, peces, anfibios, reptiles, aves, sonidos ambientales  del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

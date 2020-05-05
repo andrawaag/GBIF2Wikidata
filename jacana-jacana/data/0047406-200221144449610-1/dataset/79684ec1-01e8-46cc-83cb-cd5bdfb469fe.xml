@@ -1,0 +1,193 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="79684ec1-01e8-46cc-83cb-cd5bdfb469fe"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/v2lnzj</alternateIdentifier>
+        <alternateIdentifier>79684ec1-01e8-46cc-83cb-cd5bdfb469fe</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=iabin_icn</alternateIdentifier>
+    <title>ICN - Universidad Nacional de Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>ICN - Universidad Nacional de Colombia</organizationName><positionName>Profesora/Directora Programa Informática de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45- 03 Edificio 425 Oficina 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Henry</givenName>          <surName>Agudelo</surName>
+    </individualName>
+<organizationName>Instituto de Ciencias Naturales - Universidad Nacional de Colombia</organizationName><positionName>Programa Informatica de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45 - 03. Edif 425 of 213</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá, D. C.</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571316500011513</phone><electronicMailAddress>hdagudeloz@unal.edu.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>ICN - Universidad Nacional de Colombia</organizationName><positionName>Profesora/ Directora Programa Informática de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45- 03 Edificio 425 Oficina 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>hdagudeloz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Aurelio</givenName>          <surName>Sanabria</surName>
+    </individualName>
+<organizationName>INBio / IABIN SSTN</organizationName><positionName>IPT Administrator</positionName>    <address>
+<country>COSTA_RICA</country>    </address>
+    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>ICN - Universidad Nacional de Colombia</organizationName><positionName>Profesora asociada</positionName>    <address>
+<deliveryPoint>Cra 30 # 45- 03 Edificio 425 Oficina 213</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://www.unal.edu.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-13
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Conjunto de datos anteriormente alojado en la instancia IPT Inter American Biodiversity Information Network (IABIN). Este conjunto de datos ha sido migrado a una instancia en Colombia.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El proyecto se concentró en las abejas y murciélagos polinizadores que se tienen del país, por lo tanto la covertura de este recurso es limitada para Colombia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apidae</taxonRankValue>
+                          <commonName>Abeja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phyllostomidae</taxonRankValue>
+                          <commonName>Murcielago</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carlos E.</givenName>          <surName>Sarmiento M.</surName>
+    </individualName>
+<organizationName>ICN - Universidad Nacional de Colombia</organizationName><positionName>Profesor Asociado</positionName>    <address>
+<deliveryPoint>Cra 30 # 45- 03 Edificio 425 Oficina 313</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11515</phone><electronicMailAddress>cesarmientom@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/talento-humano/personal-docente-de-planta/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Lauren</givenName>          <surName>Raz</surName>
+    </individualName>
+<organizationName>ICN - Universidad Nacional de Colombia</organizationName><positionName>Profesora/ Directora Programa Informatic de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Cra 30 # 45- 03 Edificio 425 Oficina 106</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>571-3165000 ext 11508</phone><electronicMailAddress>lraz@unal.edu.co</electronicMailAddress><onlineUrl>http://ciencias.bogota.unal.edu.co/icn/informatica-de-la-biodiversidad/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Objetivo 1. Sistematizar y digitalizar los datos biológicos de los ejemplares de abejas y murciélagos polinizadores depositados en dos colecciones (ICN, LABUN) de la Universidad Nacional de Colombia. 
+
+Este objetivo se circunscribió a las características de la aplicación Specify y a los estándares para el intercambio de información biológica del DarwinCore y PlinianCore para especimenes y especies respectivamente. Para lograrlo se adelantaron las siguientes actividades: 
+
+1. Definición de campos. 
+Se definieron los campos que se van a sistematizar para cada espécimen así: 
+a. Información General: número consecutivo, usuario que digita la información, y fecha de sistematización.
+b. Catálogo: Número de Catálogo, código de barras y número de ejemplares.
+c. Información Taxonómica: Reino, Phyllum, Clase, Orden, Suborden, Familia, Subfamilia, Tribu, Género, Subgénero, epíteto específico, rango infraespecífico, abreviación rango infraespecífico, epíteto infraespecífico, precisión determinación, autor y año, nombre taxonómico completo, tipo, nombre determinador abreviado, apellido determinador abreviado, nombre completo determinador, fecha de determinación y observación de determinación.
+d. Evento de colección: continente, país, departamento, municipio, lugar citado, localidad, altura máxima, altura mínima, unidad altitud, Lat. (neg.=s), long (neg.=w), Datum, nombre colector abreviado, apellido colector abreviado, nombre completo colector, fecha de colección inicial y final, número de colección, observación de localidad, hábitat y material preservado.
+e. Atributos: sexo, estado de desarrollo, actividad y castas.
+f. Relación de polinizadores: tipo de relación, Soporte del registro, Nombre común de la planta, nombre científico, familia de la planta.
+
+Los campos de este temático se desarrollaron teniendo en cuenta la Extensión de Interacciones del Darwincore puesto que la extensión de polinizadores presenta todos sus campos en términos de probabilidad (por ejemplo, “nectarremoval probability”) y este tipo de información no suele registrarse en material de museo. En el mejor de los casos hay información en las etiquetas de colección indicando que la abeja o polinizador fue capturado visitando una planta específica.  Esta situación fue analizada durante la participación del director de este proyecto en contexto del taller de la red temática de polinizadores IABIN-PTN realizado entre el 20 y 23 de julio de 2008 en la ciudad de Riberao Preto, Brasil.  La propuesta que desarrollamos nosotros logra el mejor ajuste posible a los fines de la PTN, los estándares Darwincore y la información disponible en colecciones de organismos polinizadores. Estos campos se encuentran desarrollados en un 100% y su desarrollo hace parte del  manual de buenas prácticas.
+
+2. Definición de lenguajes controlados para ingreso de información. 
+Esta actividad se hizo por medio de listas desplegables, tesauros (de hábitos, hábitats, etnias, lenguas), listados (de la división administrativo-política y de las categorías taxonómicas, y de los recolectores y determinadores), lo que reduce el error producto de la digitación y también disminuye el tiempo en sistematizar cada uno de los registros. De esta manera, la información es uniforme y es posible compartirla a través de redes. Estos lenguajes se desarrollaron  en su totalidad (100%.)
+
+3. Documentación de los datos de polinizadores. 
+La información de los polinizadores se desarrolló en un formato Excel mientras se recibe la nueva versión de Specify (6.0) que se estima aparecerá en septiembre.  Esta medida se tomó pues el equipo que desarrolla Specify notificó cambios en la estructura del programa que serían más fáciles de cubrir desde Excel que desde el Specify 5.2.3. Como medida de prueba de la calidad y seguimiento de parámetros de las plantillas Excel, se hizo exitosamente un montaje piloto en Specify 5.2.3. En esta etapa contamos con el apoyo del ingeniero de sistemas. 
+
+Se ha adelantado tanto el trabajo de conformación de los Archivos de Autoridad Taxonómica (en adelante AAT) como la documentación Plinian Core. Los AAT son indispensables para la elaboración del árbol taxonómico que requiere Specify para cargar los datos en el sistema de búsqueda. Una fuente primordial para el desarrollo del listado oficial de nombres es el catálogo de abejas neotropicales del proyecto CRIA (http://moure.cria.org.br/). El AAT desarrollado cuenta con 301 nombres de abejas de las familias Apidae, Andrenidae, Colletidae, Megachilidae y Antophoridae cubriendo la totalidad de nombres con representantes depositados en las dos colecciones. En el caso de los murciélagos de la familia Phyllostomidae tenemos 58 nombres desarrollados de los 161 existentes en la colección ICN.
+
+A la fecha se han sistematizado 13.050 ejemplares lo que corresponde a un 100% del total mínimo comprometido en el proyecto. Los logros por colección se pueden discriminar así: 
+
+Colección LABUN: se han digitalizado 8.722 especimenes.
+Colección ICN Phyllostomidae: se han digitalizado 1.479 especimenes.
+Colección ICN Abejas: se han digitalizado 3.000 especimenes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Objetivo 2.  Hacer disponibles los datos de polinizadores depositados en las colecciones ICN y LABUN a través de las páginas web del ICN, LABUN y la red del IABIN siguiendo estándares de lenguajes controlados para bases de datos biológicos de acceso libre 
+
+El protocolo TAPIRLink (www.tdwg.org/dav/subgroups/tapir/1.0/docs/ TAPIRSpecification_2008-02-07.html) se utilizó para convertir la información sistematizada en un modo interoperable con las bases de datos donde presentamos la información de polinizadores. Los datos hasta ahora sistematizados se encuentran disponibles en las páginas web  www.biovirtual.unal.edu.co para el ICN, http://icn.unal.edu.co/biologia/LABUN/servicios.htm para la colección LABUN. También se han remitido los datos a los administradores de la red PTN para hacerlos disponibles en sus sistemas.
+
+La documentación de metadatos se realizará durante la fase final del proyecto una vez se haya consolidado la información.  El Manual de Mejores Prácticas se tiene plenamente desarrollado para la documentación pero deseamos entregarlo en la fase final del proyecto para así recoger las experiencias en la sistematización.</para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project >
+          <title>SISTEMATIZACIÓN Y VISUALIZACIÓN DE LA BASE DE DATOS SOBRE POLINIZADORES (ABEJAS Y MURCIÉLAGOS) DEPOSITADOS EN LAS COLECCIONES DE LA UNIVERSIDAD NACIONAL DE COLOMBIA, SEDE BOGOTÁ</title>
+          <personnel>
+    <individualName>
+<givenName>Carlos E.</givenName>          <surName>Sarmiento M.</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>El proyecto implementó plenamente los estándares exigidos por IABIN, como son el DarwinCore para especímenes y el PlinianCore para especies. Si bien el proyecto propuso inicialmente utilizar las extensiones de polinizadores del DarwinCore, estas extensiones están planteadas en términos de porcentajes de ocurrencia y este tipo de información no se encuentra en etiquetas de ejemplares de colección de museo. Por esta razón empleamos la extension de interacción del Darwincore. En esta fase final, se ha cumplido el 100% de las metas establecidas con xxx registros sistematizados. Mediante el establecimiento  del protocolo TAPIRLink, la información está disponible en las direcciones www.biovirtual.unal.edu.co  para el ICN, y http://icn.unal.edu.co/biologia/LABUN/servicios.htm
+ para la colección LABUN. También se han remitido los datos a los administradores de la red PTN para hacer disponible la información en su sistema.</para>
+          </abstract>
+          <funding>
+              <para>La Red Interamericana de Información sobre Biodiversidad (IABIN, por sus siglas en inglés) (http://www.oas.org/es/sedi/dsd/iabin/default.asp)</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>El proyecto ha desarrollado en un 100% los procedimientos de sistematización, los estándares de lenguajes controlados siguiendo los parámetros Darwincore, Pliniancore así como los criterios de interoperabilidad. Si bien el proyecto propuso inicialmente utilizar las extensiones de polinizadores del Darwincore, para los campos de sistematización, encontramos que estas extensiones deben consignar la información en porcentajes de ocurrencia. Muy raramente un ejemplar de colección de museo tiene registrada esta clase de información y en el mejor de los casos lo que hay es un reporte de la especie vegetal donde se encontró el ejemplar. Por esta razón empleamos la Extensión de Interacción del Darwincore que permite registrar qué planta fue visitada por el polinizador y el tipo de interacción observada.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:56Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/v2lnzj">Raz L, Agudelo H (2016). ICN - Universidad Nacional de Colombia. Version 2.2. Universidad Nacional de Colombia. Occurrence dataset https://doi.org/10.15472/v2lnzj accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/IPT/img/logos/unal.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Colección de Entomología</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

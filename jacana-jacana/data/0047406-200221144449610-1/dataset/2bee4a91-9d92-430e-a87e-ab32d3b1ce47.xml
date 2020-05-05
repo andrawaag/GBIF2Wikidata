@@ -1,0 +1,2900 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="2bee4a91-9d92-430e-a87e-ab32d3b1ce47"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/uzt8fr</alternateIdentifier>
+        <alternateIdentifier>10.15468/ii4dtg</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/parquesnacionales/resource?r=fauna_y_flora_de_cinaruco_2014</alternateIdentifier>
+        <alternateIdentifier>http://ipt.parquesnacionales.gov.co/resource?r=fauna_y_flora_de_cinaruco_2014</alternateIdentifier>
+        <alternateIdentifier>2bee4a91-9d92-430e-a87e-ab32d3b1ce47</alternateIdentifier>
+    <title>Fauna y Flora de Cinaruco - 2014- 2016</title>
+    <creator>
+    <individualName>
+<givenName>Angela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundacion Orinoquia Biodiversa</organizationName><positionName>Coordinadora Cientifica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7844-1418</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Angela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundacion Orinoquia Biodiversa</organizationName><positionName>Coordinadora Cientifica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7844-1418</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Angela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora Científica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7844-1418</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez-Albarracín</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3212049943</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2019-12-04
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El polígono Cinaruco abarca aproximadamente 193.000 ha de las veredas Santa María La Virgen, La Esperanza, Juriepe y Lejanías del Juriepe, siendo esta última la de mayor representatividad con el 84% de área del polígono. Lejanías del Juriepe se caracteriza por presentar una densidad poblacional baja, la mayoría de los propietarios tienen poca relación con sus predios,  por condiciones como el mal estado de las vías de acceso, orden público y dificultades económicas para invertir. Respecto al componente biológico se reportan 31 nuevos registros para el departamento de Arauca, 10 especies de vertebrados en peligro crítico según listados nacionales (1 en peligro, 5 vulnerables y 4 casi amenazada) que representan especies con alto valor de conservación, además, de registrar el 90% de sus ecosistemas en estado natural (IDEAM, 2007). De acuerdo a esto, la zona presenta un alto potencial y es de vital importancia iniciar acciones inmediatas de conservación.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>fauna</keyword>
+              <keyword>Cinaruco</keyword>
+              <keyword>flora</keyword>
+              <keyword>Nuevas Áreas</keyword>
+              <keyword>Orinoquia</keyword>
+              <keyword>conservación</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Localización al oriente del departamento de Arauca en jurisdicción del municipio de Cravo Norte en las veredas Lejanías de Juriepe ,Juriepe, la Esperanza y la Virgen.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-70.219</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-69.373</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.659</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.896</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-04-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-05-05
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de flora 2014-2015</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aphelandra scabra (Vahl) Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hygrophila costata Nees &amp; T. Nees</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ruellia geminiflora Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sagittaria guayanensis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sagittaria platyphylla (Engelm.) J.G. Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Spondias mombin L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tapirira guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Annona jahnii Saff.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guatteria cf. schomburgkiana Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guatteria metensis R.E.Fr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guatteria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xylopia aromatica (Lam.) Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xylopia discreta (L.) Sprague &amp; Hutch.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xylopia emarginata Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Blepharodon minimus Woodson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Blepharodon sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Himatanthus articulatus (Vahl) Woodson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lacmellea edulis H.Karst.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malouetia naias M.E. Endress</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malouetia sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malouetia tamaquarina (Aubl.) A. DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malouetia virescens Spruce ex Müll. Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mandevilla scabra (Hoffmanns. ex Roem. &amp; Schult.) K. Schum.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mesechites trifidus (Jacq.) Mull.Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Odontadenia funigera Woodson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Odontadenia sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tabernaemontana cf. hirtula Mart. ex Müll. Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tabernaemontana siphilitica (L. f.) Leeuwenb</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tassadia aristata (Benth. ex E.Fourn.) Fontella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ilex sp1.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anthurium atropurpureum R.E.Schult. &amp; Maguire</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caladium macrotites Schott</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Monstera adansonii Schott</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Philodendron acutatum Schott</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Philodendron muricatum Schott</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Philodendron solimoesense A.C. Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Philodendron sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xanthosoma striatipes (Kunth &amp; C.D. Bouché) Madison</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dracontium cf. margaretae Bogner</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dendropanax arboreus (L.) Decne. &amp; Planch.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schefflera morototoni (Aubl.) Maguire, Steyerm. &amp; Frodin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Astrocaryum acaule Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Astrocaryum jauari Mart. P</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Attalea maripa (Aubl.) Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bactris bidentula Spruce</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmoncus horridus Splitg. ex Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Euterpe precatoria Mart. var precatoria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mauritia flexuosa L.f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mauritiella aculeata (Kunth) Burret</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Socratea exorrhiza (Mart.) H. Wendl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syagrus orinocensis (Spruce) Burret</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aristolochia nummularifolia Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acanthospermum australe (Loefl.) Kuntze</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Elephantopus mollis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ichthyothere terminalis (Spreng.) S.F.Blake</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mikania congesta DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mikania psilostachya DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mikania sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Orthopappus angustifolius (Sw.) Gleason</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Piptocarpha triflora (Aubl.) Benn. ex Baker</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudelephantopus spicatus (B.Juss. ex Aubl.) C.F.Baker</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Spilanthes nervosa Chodat</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Arrabidaea candicans (Rich.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Arrabidaea sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bignonia corymbosa (Vent.) L.G. Lohmann</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cuspidaria aff. sceptrum (Cham.) L.G. Lohmann</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dolichandra uncata (Andrews) L.G. Lohmann</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Jacaranda copaia (Aubl.) D. Don</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Jacaranda obtusifolia  Bonpl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Memora sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tabebuia ochracea (Cham.) Standl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xylophragma seemannianum (Kuntze) Sandwith</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cochlospermum vitifolium (Willd.) Spreng.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cordia bicolor DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aechmea huebneri Harms</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aechmea sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ananas parguazensis Camargo &amp; L.B.Sm</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bromelia balansae Mez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bromelia karatas L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tillandsia cf. utriculata L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tillandsia elongata Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tillandsia fasciculata Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tillandsia flexuosa Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tillandsia recurvata (L.) L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Burmannia bicolor Mart</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Burmannia capitata (Walter ex J.F. Gmel.) Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Protium guianense (Aubl.) Marchand</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Protium heptaphyllum (Aubl.) Marchand</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Protium llanorum Cuatrec.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trattinnickia rhoifolia Willd.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trattinnickia lawrancei Standl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cabomba furcata Schult. &amp; Schult.f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cabomba cf. aquatica Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acanthocereus tetragonus (L.) Hummelinck</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Epiphyllum phyllanthus (L.) Haw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hylocereus lemairei (Hook.) Britton &amp; Rose</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Calophyllum brasiliense Cambess.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caraipa llanorum Cuatrec.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Prionostemma asperum (Lam.) Miers</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Salacia elliptica (Mart. ex Schult.) G. Don</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Salacia impressifolia (Miers) A.C. Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Couepia paraensis (Mart. &amp; Zucc.) Benth. ex Hook. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hirtella elongata Mart. &amp; Zucc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hirtella racemosa Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hirtella subscandens Spruce ex Hook. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania aff. canescens Benoist</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania aff. leptostachya Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania apetala (E. Mey.) Fritsch</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania heteromorpha Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania hypoleuca Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania kunthiana Hook. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania mollis Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Licania subarachnophylla Cuatrec.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Parinari sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Garcinia madruno (Kunth) Hammel.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Symphonia globulifera L.f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tovomita cf. longifolia (Rich.) Hochr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tovomita spruceana Planch. &amp; Triana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Commelina diffusa Burm. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Commelina erecta L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Connarus ruber (Poepp.) Planch.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Connarus venezuelanus Baill.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aniseia cernua Moric.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ipomoea argentea Meisn.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ipomoea schomburgkii Choisy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ipomoea sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Costus arabicus L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Costus aspiralis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyathea cf. microdonta (Desv.) Domin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyclanthus bipartitus Poit. ex A. Rich.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bulbostylis cf. capillaris (L.) C.B. Clarke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bulbostylis junciformis (Kunth) C.B. Clarke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus aggregatus (Willd.) Endl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus cf. cuspidatus Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus haspan L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus laxus Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus luzulae (L.) Rottb. ex Retz.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyperus surinamensis Rottb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Diplacrum cf. capitatum (Willd.) Boeckeler</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Diplasia karatifolia Rich.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis acutangula (Roxb.) Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis elegans (Kunth) Roem. &amp; Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis geniculata (L.) Roem. &amp; Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis minima Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eleocharis sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Fimbristylis complanata (Retz.) Link</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Fimbristylis dichotoma (L.) Vahl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Kyllinga brevifolia Rottb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora aff.  brevirostris Griseb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora albescens (Miq.) Kük.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora barbata (Vahl) Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora candida (Nees) Boeck</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora cephalotes (L.) Vahl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora confinis (Nees) C.B.Clarke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora corymbosa (L.) Britton</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora emaciata (Nees) Boeck</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora globosa (Kunth) Roem. &amp; Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora nervosa (Vahl) Boeck.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchospora trichodes C.B. Clarke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria cf. reticularis Michx.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria distans Poir.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria macrophylla J. Presl &amp; C. Presl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria melaleuca Rchb. ex Schltdl. &amp; Cham.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria microcarpa Nees ex Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria secans (L.) Urb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scleria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Websteria confervoides (Poir.) S.S. Hooper</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Curatella americana L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Davilla kunthii A. St.-Hil.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Davilla nitida (Vahl) Kubitzki</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Doliocarpus dentatus (Aubl.) Standl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dioscorea polygonoides Humb. &amp; Bonpl. ex Willd.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dioscorea trifida L. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyclodium cf. guianense (Klotzsch) van der Werff ex L.D. Gómez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Drosera cf. sessiliflora Raf.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriocaulon humboldtii Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Comanthera xeranthemoides (Bong.) L.R. Parra &amp; A.M. Giuletti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriocaulon aff. cinereum R. Br.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriocaulon cf. tenuifolium Klotzsch ex Körn.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriocaulon melanocephalum Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriocaulon sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paepalanthus cf. bifidus (Schrad.) Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paepalanthus cf. subtilis Miq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syngonanthus caulescens (Poir.) Ruhland</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syngonanthus cf. cowanii Moldenke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syngonanthus cuyabensis (Bong.) Giul., Hensold &amp; L.R. Parra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syngonanthus sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syngonanthus umbellatus (Lam.) Ruhland</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tonina fluviatilis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Erythroxylum cataractarum Spruce ex Peyr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Erythroxylum foetidum Plowman</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Erythroxylum macrophyllum Cav. var. savannarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alchornea discolor Poepp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alchornea fluviatilis R. Secco</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caperonia castaneifolia (L.) A. St.-Hil.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Croton cuneatus Klotzsch</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Croton trinitatis Millsp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mabea nitida Spruce ex Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mabea trianae Pax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Maprounea guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Microstachys bidentata (Mart. &amp; Zucc.) Esser</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Microstachys corniculata (Vahl) Griseb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sapium jenmanii Hemsl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tacarcuna cf. amanoifolia Huft</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acosmium nitens (Vogel) Yakovlev</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aeschynomene brasiliana (Poir.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aeschynomene evenia C. Wright</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aeschynomene histrix Poir.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anadenanthera peregrina (L.) Speg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Andira surinamensis (Bondt) Splitg. ex Pulle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bauhinia ungulata L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bowdichia virgilioides Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cassia moschata Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Centrosema angustifolium (Kunth) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Centrosema venosum Benth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chamaecrista desvauxii (Collad.) Killip</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chamaecrista diphylla (L.) Greene</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chamaecrista ramosa var. polyphlebia H.S. Irwin &amp; Barneby</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chamaecrista ramosa var. ramosa (Vogel) H.S. Irwin &amp; Barneby</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clathrotropis brachypetala (Tul.) Kleinhoonte</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clitoria cf. dendrina Pittier</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clitoria guianensis (Aubl.) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clitoria simplicifolia (Kunth) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Copaifera pubiflora Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crotalaria sagittalis L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crotalaria velutina Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dalbergia hygrophila (Mart. ex Benth.) Hoehne</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dalbergia inundata Spruce ex Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmodium barbatum (L.) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmodium sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dioclea malacocarpa Ducke</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Enterolobium schomburgkii (Benth.) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriosema crinitum (Kunth) G.Don</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriosema obovatum Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eriosema simplicifolium (Kunth) G.Don</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Galactia glaucescens Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Galactia jussiaeana Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hydrochorea corymbosa (Rich.) Barneby &amp; J.W.Grimes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hymenaea courbaril L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Indigofera lespedezioides Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Inga cylindrica Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Macrolobium angustifolium (Benth.) R.S. Cowan</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Macrolobium multijugum (DC.) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Macroptilium gracile (Poepp. ex Benth.) Urb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Macrosamanea pubiramea (Steud.) Barneby &amp; J.W. Grimes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mimosa pudica L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mimosa sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ormosia costulata (Miq.) Kleinhoonte</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schnella guianensis (Aubl.) Wunderlin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Senna hayesiana (Britton &amp; Rose) Iwin &amp; Barneby.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Senna silvestris (Vell.) H.S. Irwin &amp; Barneby</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Swartzia leptopetala Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tephrosia sessiliflora (Poir.) Hassl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vigna linearis (H.B.K.) Maréchal</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vigna sp. 1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zornia latifolia Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zygia cataractae (Kunth) L. Rico</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zygia inaequalis (Humb. &amp; Bonpl. ex Willd.) Pittier</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chelonanthus alatus (Aubl.) Pulle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Curtia tenuifolia (Aubl.) Knobl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schultesia brachyptera Cham</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schultesia guianensis (Aubl.) Malme</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sinningia elatior (Kunth) Chautems</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gnetum sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schiekia orinocensis (Kunth) Meisn.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heliconia hirsuta L. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heliconia psittacorum L. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sacoglottis sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vismia cayennensis (Jacq.) Pers.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vismia guianensis (Aubl.) Choisy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vismia macrophylla Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vismia sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cipura paludosa Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis brachiata Briq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis conferta Pohl ex Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis dilatata Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis lantanifolia Poit.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyptis sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vitex orinocensis Kunth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aniba panurensis (Meisn.) Mez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nectandra cuspidata Nees &amp; Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nectandra pichurim (Kunth) Mez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nectandra sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ocotea cf. puberula (Rich.) Nees</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ocotea longifolia Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eschweilera parviflora (Aubl.) Miers</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eschweilera tenuifolia (O. Berg) Miers</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Utricularia cf. calycifida Benj.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Utricularia gibba L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Utricularia hispida  Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Utricularia sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Utricularia subulata L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lindernia crustacea (L.) F.Muell</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lindernia diffusa (L.) Wettst.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Strychnos bredemeyeri (Schult. &amp; Schult. f.) Sprague &amp; Sandwith</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Strychnos aff. sandwithiana Krukoff &amp; Barneby</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psittacanthus cucullaris (Lam.) Blume</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Passovia cf. pyrifolia (Kunth) Tiegh.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psittacanthus acinarius (Mart.) Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cuphea antisyphilitica Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cuphea odonellii Lourteig</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cuphea repens Koehne</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rotala mexicana Schltdl. &amp; Cham.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Byrsonima crassifolia (L.) Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Byrsonima japurensis A. Juss.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Byrsonima verbascifolia (L.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heteropterys orinocensis (H.B.K.) A. Juss.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Banisteriopsis aff. elegans (Triana &amp; Planch.) Sandwith</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heteropterys alata W.R. Anderson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Apeiba tibourbou Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Byttneria genistella Triana &amp; Planch.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ceiba pentandra (L.) Gaertn.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hibiscus furcellatus Desr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melochia arenosa Benth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melochia nodiflora Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melochia sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melochia spicata (L.) Fryxell</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melochia villosa (Mill.) Fawc. &amp; Rendle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pachira obovata (A.Robyns) W.S.Alverson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Peltaea sessiliflora (Kunth) Standl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Peltaea speciosa (Kunth) Standl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sida acuta Burm. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sida linifolia Cav.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sida serrata Willd. ex Spreng.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Waltheria glomerata C. Presl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Waltheria indica L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Monotagma laxum (Poepp. &amp; Endl.) K. Schum.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Goeppertia panamensis (Rowlee ex Standl.) Borchs. &amp; S. Suárez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mayaca sellowiana Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mayaca fluviatilis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acisanthera cf.crassipes (Naudin) Wurdack</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acisanthera quadrata Pers.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acisanthera uniflora (Vahl) Gleason</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bellucia grossularioides (L.) Triana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clidemia cf. sericea D. Don</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clidemia rubra (Aubl.) Mart.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Clidemia sp. 1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmoscelis villosa (Aubl.) Naudin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Henriettella ovata Cogn.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia acinodendron (L.) Sweet</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia albicans (Sw.) Triana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia aplostachya (Bonpl.) DC. Fo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia rufescens (Aubl.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia stenostachya DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Miconia trinervia (Sw.) D. Don ex Loudon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhynchanthera grandiflora (Aubl.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Siphanthera cf. foliosa (Naudin) Wurdack</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tibouchina aspera Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tibouchina sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tococa coronata Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tococa guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guarea glabra Vahl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guarea cf. pubescens (Rich.) A. Juss.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guarea guidonia (L.) Sleumer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cissampelos ovalifolia DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Abuta grandifolia (Mart.) Sandwith</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nymphoides indica (L.) Kuntze</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Brosimum guianense (Aubl.) Huber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Brosimum lactescens (S. Moore) C.C. Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ficus trigona L. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ficus mathewsii (Miq.) Miq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ficus sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Maclura tinctoria (L.) D. Don ex Steud.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Maquira coriacea (H. Karst.) C.C. Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Virola surinamensis (Rol. ex Rottb.) Warb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Calyptranthes aff. meridensis Steyerm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Calyptranthes cf. multiflora O. Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia biflora (L.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia cf. chrysophyllum Poir.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia cf. cribrata McVaugh</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia florida DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eugenia sp.3</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrcia aff. fallax (Rich.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrcia paivae O. Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrcia sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrcia sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrcia subsessilis O.Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Plinia involucrata (O.Berg) McVaugh</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psidium cinereum Mart. ex DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psidium guineense Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psidium salutare (Kunth) O. Berg</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guapira pacurero (Kunth) Lundell</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Guapira sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nymphaea belophylla Trickett</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ouratea brevipedicellata Maguire &amp; Steyerm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ouratea davidsei Sastre</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ouratea polyantha (Triana &amp; Planch.) Engl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Quiina macrophylla Tul.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sauvagesia deflexifolia Gardner in Hook</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sauvagesia erecta L</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sauvagesia tenella Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cathedra acuminata (Benth.) Miers</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chaunochiton loranthoides Benth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dulacia candida (Poepp.) Kuntze</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ludwigia erecta (L.) H. Hara</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ludwigia octovalvis (Jacq.) P.H. Raven</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ludwigia rigida (Miq.) Sandwith</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ludwigia nervosa (Poir.) H. Hara</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ludwigia inclinata (L. f.) M. Gómez</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Catasetum pileatum Rchb. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Catasetum cf. macrocarpum Rich. ex Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cattleya violacea (Kunth) Rolfe</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caularthron cf. bilamellatum (Rchb. f.) R.E. Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dimerandra emarginata (G. Mey.) Hoehne</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Encyclia leucantha Schltr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Epidendrum cf. leeanum (Rchb. f.) Hágsater</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Epidendrum nocturnum Jacq</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Epidendrum sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oeceoclades maculata (Lindl.) Lindl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Prosthechea cf. fragrans (Sw.) W.E. Higgins</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trichocentrum cebolleta (Jacq.) M.W.Chase &amp; N.H.Williams</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buchnera palustris (Aubl.) Spreng.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buchnera rosea Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buchnera weberbaueri Diels</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Passiflora auriculata Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Passiflora foetida L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus attenuatus Miq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus caroliniensis Walter</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus hyssopifolioides Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus rotundifolius Sessé &amp; Moc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllanthus stipulatus (Raf.) G.L.Webster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Peperomia cf. angustata Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Peperomia cf. mollis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Peperomia pellucida (L.) Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Piper arboreum Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Piper sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bacopa callitrichoides (Kunth) Pennell,</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bacopa myriophylloides Wettst.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bacopa reflexa (Benth.) Edwall</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bacopa reptans (Benth.) Wettst. ex Edwall</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scoparia dulcis L</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acroceras zizanioides (Kunth) Dandy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Andropogon bicornis L.I448C419:I45C419:I447</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Andropogon lateralis Nees</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Andropogon leucostachyus Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Andropogon selloanus (Hack.) Hack.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anthaenantia lanata (Kunth) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aristida torta (Nees) Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Axonopus anceps (Mez) Hitchc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Axonopus aureus P.Beauv.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Axonopus compressus (Sw.) P.Beauv.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Axonopus purpusii (Mez) Chase.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Axonopus sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coleataenia caricoides (Nees ex Trin.) Soreng</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Echinolaena inflexa (Poir.) Chase</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eragrostis acutiflora (Kunth) Nees</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gymnopogon fastigiatus Nees</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hypogynium virgatum (Desv. ex Ham.) Dandy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Imperata brasiliensis Trin.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lasiacis cf. ruscifolia (Kunth) Hitchc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leersia hexandra Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Luziola brasiliana Moric.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Luziola brasiliana Moric.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mesosetum sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Olyra cf. latifolia L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Olyra ciliatifolia Raddi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Olyra latifolia L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum  cyanescens Nees ex Trin.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum cf. parvifolium Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum rudgei Roem. &amp; Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum sp 1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum sp 2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panicum trichoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum orbiculatum Poir.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum parviflorum Rhode ex Flüggé</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum pectinatum Nees ex Trin.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum plicatulum Michx.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paspalum sp.3</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sacciolepis angustissima (Hochst. ex Steud.) Kuhlm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sacciolepis sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schizachyrium brevifolium (Sw.) Nees ex Büse</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Schizachyrium sanguineum (Retz.) Alston</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Setaria parviflora (Poir.) Kerguélen</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Setaria tenax (Rich.) Desv.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sorghastrum setosum (Griseb.) Hitchc.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sporobolus cf. fertilis (Steud.) Clayton</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sporobolus jacquemontii Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Steinchisma laxa (Sw.) Zuloaga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachypogon spicatus (L.f.) Kuntze</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachypogon vestitus Andersson</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bredemeyera sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala adenophora DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala hygrophila Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala paniculata L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala savannarum Chodat</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala subtilis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala timoutou Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polygala violacea Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Securidaca diversifolia (L.) S.F.Blake</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coccoloba dugandiana A. Fernández.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ruprechtia tenuiflora Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Symmeria paniculata Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Polypodium cf. guttatum Maxon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phlebodium cf. decumanum (Willd.) J. Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pontederia triflora  (Seub.) Agostini, D. Velázq. &amp; J. Velázq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Stylogyne sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panopsis rubescens (Pohl) Rusby</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Adiantum latifolium Lam.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alibertia edulis (Rich.) A.Rich. ex DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Amaioua guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria capitata (Ruiz &amp; Pav.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria hyssopifolia (Willd. ex Roem. &amp; Schult.) Bacigalupo &amp; E.L. Cabral</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria ocymifolia (Willd. ex Roem. &amp; Schult.) Bacigalupo &amp; E.L. Cabral</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria pygmaea Spruce ex K. Schum.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Borreria sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chomelia polyantha S.F. Blake.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chomelia spinosa Jacq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chomelia volubilis (Standl.) Steyerm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Duroia micrantha (Ladbr.) Zarucchi &amp; J.H. Kirkbr.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Faramea capillipes Müll. Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Faramea occidentalis (L.) A. Rich.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Genipa americana L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Geophila repens (L.) I.M.Johnst.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ixora acuminatissima Müll. Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Limnosipanea schomburgkii Hook. f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Limnosipanea sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Limnosipanea spruceana Hook.f.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Limnosipanea sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malanea cf. gabrielensis Müll. Arg.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oldenlandia corymbosa L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oldenlandia lancifolia (Schumach.) DC.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Palicourea crocea (Sw.) Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Palicourea croceoides Desv. ex Ham.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Palicourea rigida Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Posoqueria latifolia (Rudge) Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psychotria capitata Ruiz &amp; Pav.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psychotria carthagenensis Jacq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psychotria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psychotria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rudgea crassiloba (Benth.) B.L. Rob.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sabicea amazonensis Wernham</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sabicea cf. villosa Schult.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sipanea cf. hispida Benth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sipanea pratensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sipanea veris S. Moore</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Casearia sylvestris var., lingungua</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Casearia sylvestris Sw.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Casearia ulmifolia Vahl ex Vent.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Homalium guianense (Aubl.) Oken</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Homalium racemosum Jacq.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Laetia americana L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Laetia cf. corymbulosa Spruce ex Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Laetia suaveolens (Poepp.) Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ryania dentata (H.B.K.) Miq</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cupania cinerea Poepp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Matayba arborescens (Aubl.) Radlk.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Matayba cf. guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Matayba elegans Radlk.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paullinia leiocarpa Griseb.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vouarana guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Micropholis egensis (A. DC.)</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pouteria elegans (A. DC.) Baehni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pouteria gomphiifolia (Mart. ex Miq.) Radlk.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pouteria sp.1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pouteria sp.2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pouteria torta (Mart.) Radlk.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alectra stricta Benth.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Selaginella cf. horizontalis (C. Presl) Spring</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Simaba cedron Planch.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Simaba orinocensis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Simarouba amara Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Siparuna guianensis Aubl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Smilax sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Smilax aff. maypurensis Kunth</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cestrum scandens Vahl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Solanum monachophyllum Dunal</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phenakospermum guyannense (Rich.) Endl.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Piriqueta cistoides (L.) Griseb</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Turnera aff., pumilea L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cecropia metensis Cuatrec.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cecropia peltata L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lantana camara L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Petrea pubescens Turcz.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Petrea volubilis L.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rinorea flavescens (Aubl.) Kuntze</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cissus erosa Rich.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vittaria cf. lineata (L.) Sm.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vochysia venezuelana Stafleu</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xyris jupicai Rich.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xyris savanensis Miq.</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de especies de Peces</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Potamorrhaphis guianensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leporinus friderici</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leporinus ortomaculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acestrorhynchus falcirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acestrorhynchus microlepis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Acestrorhynchus nasutus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Astyanax bimaculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Brycon falcatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bryconops giacopinii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bryconops magoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ceratobranchia aff. joanae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chalceus macrolepidotus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gnathocharax steindachneri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gymnocorymbus bondi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus aff. iota</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus analis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus barrigonae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus bleheri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus geisleri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus hyanuary</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus micropterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus microstomus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus rodwayi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus sp. “spot on tail”</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemigrammus stictus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heterocharax macrolepis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyphessobrycon aff. haraldschultzi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyphessobrycon bentosi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hyphessobrycon mavro</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Microschemobrycon casiquiare</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Moenkhausia aff. ceros</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Moenkhausia collettii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Moenkhausia dichroura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Moenkhausia lepidura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Moenkhausia oligolepis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oxybrycon sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phenacogaster prolatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phenacogaster wayana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ammocryptocharax elegans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Characidium longum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Characidium pteroides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Elachocharax mitopterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptocharacidium omospilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melanocharacidium dispilomma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Microcharacidium gnomus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyphocharax spilurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hoplerythrinus unitaeniatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hoplias malabaricus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Carnegiella marthae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Copella eigenmanni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pyrrhulina lugubris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Metynnis argenteus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Amazonsprattus scintilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Electrophorus electricus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Brachyhypopomus beebei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Steatogenys duidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gymnorhamphichthys petiti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhabdolichops eastwardi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhabdolichops electogrammus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhabdolichops stewarti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aequidens tetramerus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cichla orinocensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cichla temensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crenicichla wallacei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Geophagus dicrozoster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mikrogeophagus ramirezi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Satanoperca daemon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Satanoperca mapiritensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bunocephalus coracoideus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudobunocephalus lundbergi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Centromochlus romani</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachelyopterus galeatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megalechis personata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Amblydoras affinis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Helogenes marmoratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Goeldiella eques</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mastiglanis asopos</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nemuroglanis pauciradiatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pimelodella aff. leptosoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pimelodella sp. “dark brown”</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pimelodella sp. “dusky”</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pimelodella sp. “narrow stripe”</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Farlowella sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Parotocinclus eppleyi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rineloricaria aff. formosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudoplatystoma metaense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ochmacanthus alternus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vandellia sp.</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de especies de aves</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dendrocygna viduata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Colinus cristatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Jabiru mycteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mycteria americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tigrisoma lineatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Syrigma sibilatrix</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eudocimus ruber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phimosus infuscatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cercibis oxycerca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Theristicus caudatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sarcoramphus papa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Busarellus nigricollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buteogallus meridionalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rupornis magnirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aramides cajaneus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Burhinus bistriatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Patagioenas subvinacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptotila verreauxi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zenaida auriculata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Columbina talpacoti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crotophaga ani</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megascops choliba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bubo virginianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nyctibius griseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phaethornis hispidus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chloroceryle aenea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dryocopus lineatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Campephilus melanoleucos</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caracara cheriway</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Falco sparverius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Amazona ochrocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eupsittula pertinax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ara ararauna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ara macao</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sakesphorus canadensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thamnophilus doliatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cranioleuca vulpina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Knipolegus poecilocercus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Arundinicola leucocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Machetornis rixosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myiozetetes cayanensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myiozetetes similis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megarynchus pitangua</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tyrannus melancholicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tyrannus savana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myiarchus tyrannulus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pipra filicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pachyramphus albogriseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Troglodytes aedon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Campylorhynchus griseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Turdus ignobilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Catharus ustulatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mimus gilvus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ramphocelus carbo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tangara cayana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sporophila minuta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coereba flaveola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ammodramus aurifrons</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Parkesia noveboracensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Geothlypis aequinoctialis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Icterus chrysater</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Icterus nigrogularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chrysomus icterocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sturnella magna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sturnella militaris</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de especies de mamíferos</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Odocoileus cariacou</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pecari tajacu</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cerdocyon thous</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leopardus pardalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Panthera onca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Puma concolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lontra longicaudis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Procyon cancrivorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Saccopteryx bilineata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Saccopteryx leptura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Artibeus lituratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Carollia brevicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dermanura sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmodus rotundus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Diaemus youngi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Glossophaga longirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lampronycteris brachyotis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lophostoma brasiliense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Macrophyllum macrophyllum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Micronycteris schmidtorum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mimon crenulatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phylloderma stenops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllostomus discolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phyllostomus hastatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachops cirrhosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myotis cf. nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myotis riparius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dasypus kappleri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dasypus sabanicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pridontes maximus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Didelphis marsupialis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tapirus terrestris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrmecophaga tridactyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tamandua tetradactyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oecomys bicolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sigmodon alstoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cuniculus paca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dasyprocta fuliginosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coendou prehensilis</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de especies de herpetos</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhinella humboldti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhinella marina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scinax kennedyi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scinax wandae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scarthyla vigilans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachycephalus typhonius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptodactylus fuscus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudopaludicola boliviana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudopaludicola llanera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Elaschistocleis ovalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hemidactylus sp.</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gonatodes concinnatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gymnophthalmus speciosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ameiva praesignis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cnemidophorus gramivagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tupinambis teguixin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anolis auratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Boa constrictor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Corallus ruschenbergerii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eunectes murinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chironius carinatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tantilla melanocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Erythrolamprus bizona</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptodeira annulata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Helicops angulatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Micrurus lemniscatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Paleosuchus palpebrosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chelonoidis carbonaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Kinosternon scorpioides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Podocnemis vogli</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Podocnemis unifilis</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Listado de coleopteros y lepidopteros</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthidium cf cupreus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthidium sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Uroxys cf bonetti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Uroxys sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthon luteicolis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthon juvencus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthon cf septenmaculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthon sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudocanthon perplexus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dichotomius cf belus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dichotomius sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dichotomius sp2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dichotomius sp3</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Onterus aff pubens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coprophaneus aff gamezzi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Oxysternon sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eurysternus caribaeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Onthophagus marginicollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Adelpha cocala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anartia jatrophae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Archeoprepona demophon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eunica sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Euptychia sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heliconius sara</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hermeneuptichia hermes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hermeneuptichia sp2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hermeneuptichia sp3</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hermeneuptichia sp4</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Historis acheronta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Junonia cf evarete</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Morpho rethenor colombianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Morpho achilles</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Morpho sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Opsiphanes cassiae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tayguetis sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eurema elathea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phoebis philea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phoebis agarithe</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pyrisitia sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pyrrhopyge sp</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hesperidae sp1</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hesperidae sp2</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Battus polydamas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mesosemia sp</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Angela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundacion Orinoquia Biodiversa</organizationName><positionName>Coordinadora Cientifica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7844-1418</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Perez-Albarracin</surName>
+    </individualName>
+<organizationName>Fundacion Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3212049943</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Nathaly</givenName>          <surName>Trejos</surName>
+    </individualName>
+<organizationName>Fundacion Orinoquia Biodiversa</organizationName><positionName>Lider de Proyectos</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3144843334</phone><electronicMailAddress>ntrejos@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-7844-1418</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Se siguió literatura especializada para cada grupo para la determinación y descripción de las especies. Adicionalmente, se contó con los datos de la IUCN, Libros Rojos, CITES y resolución 0914 de 2014 del Ministerio de Ambiente.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El polígono de referencia cuenta con una extensión de 193066,4 ha (Figura 1), localizándose al oriente del departamento de Arauca en jurisdicción del municipio de Cravo Norte en las veredas Lejanías de Juriepe (92.198,3 ha), Santa María La Virgen (348,16 ha), La Esperanza (248,4 ha) y Juriepe (45,7 ha). Para su delimitación, se tuvieron en cuenta los límites arcifinios asociados a drenajes.
+
+Los sitios de muestreo para la caracterización biológica durante la época seca se ubicaron en los predios La Europa, La Virginia y Finca La Aurora (100 msnm) ubicados en la vereda Lejanías del Juriepe.  Durante el período de lluvias se hizo un muestreo de los componentes flora y peces, los cuales se realizaron en el predio Mata de Agua de la vereda la Esperanza.
+
+El sistema hídrico de este polígono vierte sus aguas hacia el Cinaruco y luego directo al río Orinoco en Venezuela, esta condición demuestra que existe una conectividad estructural con el sistema del que hace parte el Parque Nacional Santos Luzardo (Cinaruro-Capanaparo) en el vecino país, por tanto la conservación de esta zona en Colombia tendrá repercusión a nivel de la dinámica ecosistémica de las sabanas eólicas en un contexto binacional. Si bien no hay información donde se pueda corroborar la conectividad funcional entre este polígono y el Parque Santos Luzardo, lo cual sería una iniciativa interesante en términos de investigación biológica, la conectividad estructural por el sistema hídrico y la matriz de sabanas naturales entre estos dos sitios podría estar aportando los primeros indicios de complementariedad ecosistémica entre los mismos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>1. Flora: se aplicaron tres métodos diferentes siguiendo la metodología propuesta por el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt (IAvH)(Corzo et al., 2011). Los métodos implementados fueron: recorridos aleatorios por coberturas boscosas y herbáceas, montaje de transectos en coberturas arbóreas (bosque de galería, morichal, saladillal) y establecimiento de parcelas de 1 m x 1 m para evaluar vegetación herbácea en sabana natural. Se realizaron cuatro recorridos aleatorios; tratando de cubrir la mayor cantidad posible de áreas de muestreo con coberturas vegetales de tipo arbóreo y herbáceo dentro del polígono. Debido a la imposibilidad de entrar a determinados lugares por estar localizados a gran distancia o por ser intransitables en las dos épocas del año tanto para acceder caminando o por otro medio de transporte como motocicletas o caballos, la realización de recorridos aleatorios se hizo aproximadamente en una tercera parte del polígono, sin embargo, con los recorridos ejecutados se logró cubrir los principales tipos de coberturas vegetales presentes en la zona de estudio.
+
+2. Aves: Se escogieron sitios donde se presentaban las coberturas vegetales de bosque de galería, palmar y herbazal denso. Se aplicaron los diferentes tipos de metodologías para la obtención de registros de las especies en los diferentes tipos de hábitats presentes. Los muestreos fueron diurnos de 06:00 a 17:30. Para el monitoreo se utilizó un ajuste a las metodologías estandarizadas y previamente utilizadas en inventarios y monitoreos de aves (Wunderle, 1994; Ralph et al., 1996; Bibby et al., 2000) y en estudios propuestos por el Instituto Alexander von Humboldt (Villareal et al., 2006). Para la identificación de especies, se usó la Guía de Aves de Colombia (Hilty y Brown, 1986) y para las aves migratorias, la guía Field Guide to the birds of North America (Dickinson, 2002). Para el orden y nomenclatura taxonómica se seguió al South American Classification Committee [versión 21 de enero de 2015] (Remsen et al., 2015). Para los nombres comunes se siguió a Salaman et al. (2001). Se emplearon recorridos libres y captura por medio de mallas de niebla.
+
+3. Herpetofauna: Según lo recomendado por Crump y Scott (1994) se realizaron muestreos mediante búsqueda por encuentro visual. Este método es uno de los más eficientes para obtener el mayor número de especie en el menor tiempo por parte de los colectores, además de permitir el avistamiento de especies de hábitos arborícolas o trepadores. Se efectuaron caminatas en las horas del día y en las horas de la noche iniciando desde las 07:00 h hasta las 11:00 h y entre las 17:00 h hasta las 22:00 h para un total de esfuerzo de muestreo de 90 horas/hombre. A cada individuo se le registró datos morfométricos (longitud rostro cloaca LRC y peso) hora de captura, microhábitat y actividad (canto, amplexus, reposo, etc.). Además se realizó registro e identificación de especies de anuros a través de vocalizaciones así como capturas manuales (anfibios y reptiles) y mediante la utilización de ganchos herpetológicos para serpientes, para su posterior identificación y un registro fotográfico del individuo capturado 
+
+4. Mamíferos: Para la captura de murciélagos, se instalaron 6 redes de niebla (12x2.5m) entre las 17:30 y las 22:00 horas durante 6 noches. Las redes fueron ubicadas en cercanías a cuerpos de agua y a lo largo de caminos preexistentes, siguiendo las recomendaciones de Simmons y Voss (1998) (Figura 166). Cuando la estructura vegetal lo permitió, se efectuó montaje de red a nivel de dosel (5 m de altura desde el suelo hasta el inicio de la red). Para el estudio de roedores y pequeños marsupiales se instalaron un total de 47 trampas tipo Sherman y 5 trampas tipo Tomahawk, siguiendo las recomendaciones de Barnett y Dutton  (1995), Voss y Simmons (2001) y Graipel (2003). Para ello se ubicaron transectos semilineales (debido a la configuración del terreno) de estaciones de trampas, en donde cada estación corresponde a 2 trampas separadas una de la otra por 4m, y estando cada estación a 10m una de la otra, y con una configuración que incluyó trampas de suelo, de dosel, y en estratos medios. A fin de aumentar la oferta de recurso, se emplearon varios tipos de cebos que incluyeron la mezcla tradicional de avena en hojuelas, banano y esencia de vainilla, y otros como trozos de piña, yuca cocida, y papaya; para las trampas tipo Tomahawk se usó en adición, sardinas en salsa de tomate. Para el estudio de los mamíferos medianos y grandes se realizaron recorridos libres (incluyendo uno nocturno) a lo largo del área de estudio, prestando atención a cualquier rastro, evidencia o avistamiento. En caso de encontrar algún rastro, éste fue georeferenciado y fotografiado con escala adjunta. Se instalaron 2 cámaras trampa marca Moultrie®, en la sublocalidades“Monte de la Virginia” y “Morichal de Europa”. Su ubicación se llevó a cabo entre el 5 y el 14 de diciembre de 2014. Para aumentar el éxito de captura, se incluyeron cebos frutales (piña, papaya) y sardinas, justo en frente de las cámaras instaladas. Finalmente, también se buscó recabar información a partir de diálogos con la comunidad residente y guías de campo, empleando imágenes del libro “Neotropical Rainforest Mammals: a field guide, second edition” (Emmons &amp; Feer, 1997).
+
+5. Ictiofauna: fue muestreado en las coberturas de bosque de galería y palmar (morichal), debido a que solo se encontraron cuerpos de agua en estas coberturas. En herbazales densos no se encontró ningún cuerpo de agua durante los muestreos. Se realizó el muestreo con red de arrastre de 5x2m con ojo de malla de 1mm, atarraya de 2m de diámetro con 5mm de ojo de malla, red agallera 6x1m con 3cm de ojo de malla  y anzuelos en aquellos lugares donde fue posible realizarlo. En todos los lugares se intentó utilizar todas las artes de pesca dependiendo de la disponibilidad de sitios para estas, por ejemplo, en lugares con mucha madera dentro del cuerpo de agua no fue posible usar red de arrastre y atarraya, pero se usaron anzuelos (Zapata et al., 2013).
+
+6. Lepidópteros: La captura de los ejemplares se realizó con dos métodos de colecta, jama o red entomológica y trampas van Someren-Rydon (TVSR) (Villarreal et al., 2006). Para la colecta con jama, se establecieron dos transectos de 200 m, separados cada uno por 100 m. Estos fueron recorridos por periodos de 30 minutos des de las 9:00 a las 18:00 horas durante 3 días, para un esfuerzo de muestreo de 81 horas hombre en cada localidad de estudio (Villarreal et al., 2006; Andrade-C. et al., 2013). Este método fue complementado con la utilización de TVSR, las cuales se dispusieron en dos transectos de 250 m, distanciados por 100 m, en donde se izaron 6 TVSR, a una altura de entre 1 y 3 m las cuales fueron cebadas con pescado en descomposición y banano fermentado. Estas fueron revisadas periódicamente durante tres días (Villarreal et al., 2006; Andrade-C. et al., 2013). Adicionalmente se hicieron recorridos o búsqueda dirigida por zonas en donde se concentran las mariposas para alimentarse como trochas, claros entre la vegetación de bosque, cursos de agua y arenales, entre otros (Villarreal et al., 2006).
+
+7. Coprófagos: se realizó con trampas de caída con atrayente. Lo cual consiste en enterrar a ras del suelo un recipiente de 500 ml de capacidad y 10 cm de diámetro, al cual, se llena hasta la mitad de su capacidad con etanol al 70% (Villareal et al., 2006). Por medio de un alambre se suspende un recipiente de 25 ml con el atrayente o cebo, que para este estudio fue excremento humano, considerado el atrayente más efectivo (Villareal et al., 2006). Las trampas se establecieron en 3 transectos lineales separados cada uno por una distancia de 300 m. En cada transecto se instalaron 10 trampas de caída con atrayente separadas cada una por 30 m de longitud. Estas estuvieron activas por 48 horas para garantizar una buena muestra de la coprofauna del lugar (Villareal et al., 2006). La primera revisión se realizó pasadas 24 horas de haber cebado las trampas y la segunda a las 24 horas siguientes de la primera revisión.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="Fundacion Orinoquia Biodiversa">
+          <title>CARACTERIZACIÓN  BIOFÍSICA Y SOCIO-ECONÓMICA DEL POLÍGONO CINARUCO SELECCIONADO POR PARQUES NACIONALES NATURALES COMO ÁREA POTENCIAL PARA LA DECLARATORIA DE UN ÁREA PROTEGIDA</title>
+          <personnel>
+    <individualName>
+<givenName>Argelina</givenName>          <surName>Blanco Torres</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Francisco Javier</givenName>          <surName>Mijares Santana</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Víctor</givenName>          <surName>Martínez Arias</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Hernán</givenName>          <surName>Granda</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>María Camila</givenName>          <surName>Estrada</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Yesenia</givenName>          <surName>Escorcia</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Gustavo</givenName>          <surName>Ballen</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Castro</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez-Albarracín</surName>
+    </individualName>
+    <role>OWNER</role>
+          </personnel>
+          <abstract>
+              <para>El polígono Cinaruco abarca aproximadamente 193066,4 has de las veredas Santa María La Virgen, La Esperanza, Juriepe y Lejanías del Juriepe, siendo esta última la de mayor representatividad con el 49% de área del polígono. Lejanías del Juriepe se caracteriza por presentar una densidad poblacional baja, la mayoría de los propietarios tienen poca relación con sus predios,  por condiciones como el mal estado de las vías de acceso, orden público y dificultades económicas para invertir. Respecto al componente biológico se reportan 31 nuevos registros para el departamento de Arauca, 10 especies de vertebrados en peligro crítico según listados nacionales (1 en peligro, 5 vulnerables y 4 casi amenazada) que representan especies con alto valor de conservación, además, de registrar el 90% de sus ecosistemas en estado natural (IDEAM, 2007). De acuerdo a esto, la zona presenta un alto potencial y es de vital importancia iniciar acciones inmediatas de conservación.</para>
+          </abstract>
+          <funding>
+              <para>Parques Nacionales Naturales</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El polígono de referencia cuenta con una extensión de 193066,4 ha (Figura 1), localizándose al oriente del departamento de Arauca en jurisdicción del municipio de Cravo Norte en las veredas Lejanías de Juriepe (92.198,3 ha), Santa María La Virgen (348,16 ha), La Esperanza (248,4 ha) y Juriepe (45,7 ha). Para su delimitación, se tuvieron en cuenta los límites arcifinios asociados a drenajes.
+
+Los sitios de muestreo para la caracterización biológica durante la época seca se ubicaron en los predios La Europa, La Virginia y Finca La Aurora (100 msnm) ubicados en la vereda Lejanías del Juriepe.  Durante el período de lluvias se hizo un muestreo de los componentes flora y peces, los cuales se realizaron en el predio Mata de Agua de la vereda la Esperanza.
+
+El sistema hídrico de este polígono vierte sus aguas hacia el Cinaruco y luego directo al río Orinoco en Venezuela, esta condición demuestra que existe una conectividad estructural con el sistema del que hace parte el Parque Nacional Santos Luzardo (Cinaruro-Capanaparo) en el vecino país, por tanto la conservación de esta zona en Colombia tendrá repercusión a nivel de la dinámica ecosistémica de las sabanas eólicas en un contexto binacional. Si bien no hay información donde se pueda corroborar la conectividad funcional entre este polígono y el Parque Santos Luzardo, lo cual sería una iniciativa interesante en términos de investigación biológica, la conectividad estructural por el sistema hídrico y la matriz de sabanas naturales entre estos dos sitios podría estar aportando los primeros indicios de complementariedad ecosistémica entre los mismos.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Se realizaron muestreos en sitios diferentes del polígono, en estos se aplicaron los métodos propuestos en la metodología propuesta por el Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt (IAvH) para todos los grupos bióticos.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:52Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/uzt8fr">Alviz A (2019). Fauna y Flora de Cinaruco - 2014- 2016. Version 2.1. Parques Nacionales Naturales de Colombia. Occurrence dataset https://doi.org/10.15472/uzt8fr accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-pnnc.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

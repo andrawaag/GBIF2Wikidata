@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="31da52cd-6114-439d-be0a-700bf52de8f3"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/cwbrno</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=col88611</alternateIdentifier>
+    <title>Proyecto COL88611 para la conservación y uso sostenible de ecosistemas secos</title>
+    <creator>
+    <individualName>
+<givenName>Inés</givenName>          <surName>Cavelier Franco</surName>
+    </individualName>
+<organizationName>Patrimonio Natural</organizationName><positionName>Subdirección Técnica</positionName>    <address>
+<deliveryPoint>Calle 72 N. 12-65 Piso 6, Edificio Skandia</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(057) 1 - 7562602</phone><electronicMailAddress>icavelier@patrimonionatural.org.co</electronicMailAddress><onlineUrl>https://www.patrimonionatural.org.co/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Jorge Mario</givenName>          <surName>Becoche Mosquera</surName>
+    </individualName>
+<electronicMailAddress>jbecoche@unicauca.edu.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Inés</givenName>          <surName>Cavelier Franco</surName>
+    </individualName>
+<organizationName>Patrimonio Natural</organizationName><positionName>Subdirección Técnica</positionName>    <address>
+<deliveryPoint>Calle 72 N. 12-65 Piso 6, Edificio Skandia</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(057) 1 - 7562602</phone><electronicMailAddress>icavelier@patrimonionatural.org.co</electronicMailAddress><onlineUrl>https://www.patrimonionatural.org.co/</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2018-03-06
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Proyecto COL 88611 para la conservación y uso sostenible de ecosistemas secos, es de ejecución directa del PNUD y se desarrolla en 6 áreas prioritarias en los departamentos de Cesar, Guajira, Bolívar, Tolima, Huila y Valle del Cauca, con el fin de conservar mediante declaratorias de áreas protegidas y/o acuerdos de conservación al menos 18.000 ha de ecosistema bosque seco tropical mediante la acción coordinada con los actores sociales e institucionales. Se han inventariado plantas vasculares, aves, mamíferos, reptiles y anfibios en las áreas incluidas para el estudio.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>plantas vasculares</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>Ecosistemas secos</keyword>
+              <keyword>caracterización biológica</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>-En los departamentos de Huila y Tolima, el área de estudio corresponde al corredor seco Huila-Tolima en ambas riberas del rio Magdalena. El Polígono Aipe-Patá en la ribera izquierda y el Polígono Yavi-Natagaima en la ribera derecha del mismo. En ambos casos se trabajó por debajo de los 1200 msnm.
+
+-En el Valle del Cauca, el enclave seco de la Cuenca del río Dagua es un área pequeña pero significativa, con un microclima muy seco que contrasta con la humedad de su zona de influencia, mayoritariamente compuesta por bosques húmedos tropicales; se realizaron avistamiento de aves en diferentes áreas de la zona de interés, en el municipio de Dagua. Los sitios de muestreo están circunscritos dentro de la Cuenca del Río Dagua y sobre la porción media de la misma, con precipitaciones promedio de 700 mm/año. Históricamente la zona ha sufrido una presión fuerte por sus características climáticas, edáficas y la propensión que tienen sus suelos para ser abiertos por fuego. La ganadería extensiva, cultivos de piña, y cultivos transitorios, principales actividades económicas de las comunidades allí asentadas, afectan la vegetación natural y han causado que la ubicación de los bosques existentes esté restringida a cañadas profundas, desfiladeros y algunos fragmentos. 
+
+-La localidad Dibulla (La Guajira) se caracteriza por tener un clima cálido, con temperatura media anual del orden de 27,7° C. Las menores temperaturas se observan durante los meses de octubre, noviembre y diciembre, con rango entre 26,7° C en octubre y 27,3° C en diciembre y las más altas durante los meses de febrero, marzo y abril, con rango entre 28,1° C en febrero y 28,5° C en marzo. En la región se registran valores entre 600 – 1000 milímetros de precipitación anuales y un periodo marcado de lluvias entre mayo y noviembre. 
+
+-Los municipios de San Juan Nepomuceno y San Jacinto (Bolívar) se distribuyen entre 0-1000 metros de altitud, con temperaturas entre 17-35°C, precipitación entre 700-2000 mm y uno a dos períodos de sequía al año; conforman una zona de vida de bosque seco tropical. En el Caribe colombiano las zonas de Bosque seco Tropical pueden ser de clima cálido árido, cálido semiárido o cálido seco, en los cuales la evapotranspiración supera ampliamente a la precipitación durante la mayor parte del año, ocasionando déficit de agua. Esto último determina uno o dos periodos en donde la vegetación pierde parcial o totalmente su follaje.
+
+-La cuenca alta del Río Garupal, en el municipio de Valledupar, departamento del Cesar, en las estribaciones de la Sierra Nevada de Santa Marta se caracteriza por presentar en su topografía superficies colinadas en gran parte de su extensión, con pocas áreas constituidas por planicies, en altitudes comprendidas entre los 200 – 950 metros, en el cual se exhibe un mosaico de relictos de bosque, especialmente cercanos a los cuerpos de agua, embebidos en una matriz de pastos, cultivos y/o áreas sin vegetación. La parte de la zona de estudio (Vereda Campoalegre y Vereda Mata de Caña del Corregimiento de Caracolí; Vereda Tierras Nuevas Corregimiento Villa Germania) está altamente intervenida y en la cual hay un proceso activo de expansión de la frontera agrícola mediante el desmonte y las quemas “controladas”. La vegetación nativa se restringe principalmente a fragmentos de bosque secundario y matorrales altos que van a lo largo de los cuerpos de agua y escorrentías. Bosque maduro solo se puede observar en la parte alta de la cuenca del río Garupal y es posible que haya sobrevivido a la deforestación debido al difícil acceso a esta área.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.726</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.26</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.288</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.626</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-06-15
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-09-19
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se identificaron todas las plantas vasculares hasta especie, con excepción de algunas hasta género.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Magnoliophyta</taxonRankValue>
+                          <commonName>Plantas vasculares</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Las aves fueron identificadas hasta especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Pájaros, aves</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>En cuanto a Anfibios y Reptiles la mayoría fue determinada hasta especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Ranas y Sapos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Serpientes, lagartos y lagartijas</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los mamíferos fueron determinados hasta especie.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mamíferos</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Inés</givenName>          <surName>Cavelier Franco</surName>
+    </individualName>
+<organizationName>Patrimonio Natural</organizationName><positionName>Subdirección Técnica</positionName>    <address>
+<deliveryPoint>Calle 72 N. 12-65 Piso 6, Edificio Skandia</deliveryPoint><city>Bogotá, D. C.</city><administrativeArea>Bogotá, D. C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(057) 1 - 7562602</phone><electronicMailAddress>icavelier@patrimonionatural.org.co</electronicMailAddress><onlineUrl>https://www.patrimonionatural.org.co/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>METODOLOGÍA PARA EL INVENTARIO DE PLANTAS
+
+El inventario de la vegetación se llevó a cabo por medio de la metodología Gentry donde se colectaron y revisaron todos los individuos fértiles. Para la evaluación de la estructura vegetal (brinzal, fustal y latizal) se buscaron los parches de bosque o zonas que presentaban una vegetación continua y con algún grado de conectividad. Después de ubicar los espacios adecuados se procedió al marcaje de parcelas, su número se determinaron según la extensión del área a evaluar, nivel de intervención antrópica y tipo de cobertura vegetal (Villareal et al., 2006; Mendoza &amp;Ramírez, 2000). Las parcelas fueron de 50 metros de largo por 2 metros de ancho. Cada una debe se trazó con una cuerda de color vistoso amarrada en los extremos de los futes de árboles que serían incluidos dentro del listado. Se incluyeron los individuos con un CAP &gt; 3cm para tener un cobertura mayor de arbustos; se tomaron datos como altura total, ancho de copa (eje X y eje Y) y hábito. Las medidas de CAP, alturas y ancho de copa se realizaron con cinta métrica de modistería, decámetros y proyecciones con referencias métricas. Se colectaron los individuos y se embalados para su herborización y posterior identificación. 
+
+METODOLOGÍA PARA EL INVENTARIO DE AVES
+
+Detecciones visuales y auditivas 
+
+Para el monitoreo, se llevaron a cabo métodos de detección de tipo indirecto de aves en las diferentes coberturas, mediante transectos de longitud variable dependiendo del tamaño de la cobertura y las condiciones de accesibilidad. La observación y conteo de aves es uno de los métodos más aplicados para conocer la composición de las comunidades presentes en una determinada localidad. Este método es efectivo pues permite obtener listas de especies lo más completas y representativas posibles, es altamente eficiente ya que maximiza la información obtenida por unidad de tiempo y esfuerzo y además permite obtener datos sobre el comportamiento, ecología e historia natural de las especies (Villarreal et al. 2006). Los registros se realizaron en las horas de mayor actividad de las aves, al amanecer (5:00h – 11:00h) y en la tarde (15:00h – 18:00h). Para cada cobertura, se anotaron las condiciones climáticas, las especies registradas en los transectos, el número de individuos por especie, el tipo de registro (visual o auditivo), el estrato donde se registraron y observaciones de tipo social y comportamental. 
+
+Grabaciones 
+
+Las grabaciones y las observaciones se efectúan de forma simultánea. Al detectar la vocalización de una especie, esta se debe grabar teniendo en cuenta que la intensidad del sonido debe ser al menos dos veces más fuerte que el sonido del fondo. La manera más adecuada de incrementar la intensidad del sonido al grabar, es acercándose lentamente al ave y regular el volumen de grabación a la intensidad requerida, lo suficientemente alto para no generar distorsión (Villarreal et al., 2006). Se realizaron grabaciones en las horas de mayor actividad de las aves, al amanecer (5:00h – 11:00h) y en la tarde (15:00h – 18:00h) durante los días de campo. 
+
+Redes de niebla
+
+Se ubicaron estaciones de redes de niebla (12m x 2.5m x 0.3cm de ojo de malla, por red) en el área de estudio según el tipo de cobertura vegetal y el número de redes usadas se determinaron según la extensión del área evaluada, nivel de intervención antrópica, tipo de cobertura vegetal y condiciones de accesibilidad en el sitio. Estas permanecieron abiertas seis horas durante el día (5:00-11:00h y de las 15:00 – 18:00h) y se revisaron cada 20 minutos; una vez capturadas las aves se manipularon de forma adecuada para liberarlas de la red e introducirlas en bolsas de tela para su posterior identificación en la estación de campo. Acto seguido se dejaron en libertad. Los sitios en los que se estableció cada estación se eligió teniendo en cuenta los siguientes parámetros: la presencia diferentes tipos de cobertura (ecotonos y bordes de bosque); presencia de plantas en periodo de fructificación y floración y presencia de refugios potenciales (Villareal et al., 2006). 
+
+METODOLOGÍA PARA EL INVENTARIO DE HERPETOFAUNA (ANFIBIOS Y REPTILES) 
+
+Para la captura y registro fotográfico de anfibios y reptiles se realizó la búsqueda por transectos de 100 metros y recorridos libres diurnos y nocturnos entre 8:00-10:00 horas y las 18:00-24:00 horas, en cada uno de las coberturas identificadas en las zonas de estudio. Los anfibios se registraron por medio de la Técnica de Encuentros Visuales (Visual Encounter Survey, VES) (Heyer et al., 2001; Angulo et al., 2006) que consiste en el conteo de individuos avistados durante los recorridos libres. VES es una técnica apropiada tanto para estudios de inventario como para monitoreos. Para Reptiles, se usaron los métodos de búsqueda recomendados por Aguirre-León &amp; Cazares-Hernández (2009) y Sánchez (2011) para organismos silvestres, en los cuales al igual que para los anfibios se realiza el conteo de individuos avistados en los recorridos (transectos de 100 metros y recorridos libres) y encuentros fuera de los muestreos. De cada encuentro se identificaron los datos asociados a cada individuo como: tipo de registro (Canto, Manual y Observación), fecha y ubicación (herbazal, arbustal, bosque). La taxonomía debe se describió con base en lo expuesto por Frost (2017) y Uetz (2017). 
+
+METODOLOGÍA PARA EL INVENTARIO MAMÍFEROS TERRESTRES
+
+Para determinar la presencia de mamíferos terrestres se llevó a cabo un muestreo en el que se implementaron diversas metodologías, las cuales constaron de la instalación de cámaras trampa, trampas Sherman, trampas Tomahawk y así mismo se realizó una búsqueda de encuentro visual de rastros de mamíferos los cuales pueden ser heces, huellas, comederos, madrigueras, vocalizaciones o registro directo. 
+
+Cámaras trampa
+
+Se utilizaron cámaras trampa marca Moultrie. La instalación de las cámaras se realizó buscando zonas potenciales de paso de individuos. Las características del sitio en el cual se instalaron las cámaras fueron lugares que preferiblemente estuvieron cerca a afluentes hídricos y con algún tipo de rastro que indicara actividad animal, como huellas, hozaderos, dormideros y/o senderos (Aranda, 2000; McCallum, 2012). En el lugar en el cual se realizó la instalación de la cámara se tomaron datos de localización geográfica del punto con un GPS. Las cámaras funcionaron las 24 horas del día y tomaron una secuencia de una foto con intervalos de 60 segundos entre las secuencias (Karanth &amp;Nichols, 2000), activándose por medio de temperatura corporal y sensor de movimiento.  El esfuerzo de muestreo fue de 36 noches/trampa para Dibulla, 21 noches/trampa para San Juan de Nepomuceno y 51 noches/trampa para Valledupar.
+
+Trampas Tomahawk 
+
+También se emplearon trampas Tomahawk (30 x 20 x 50 cm) que se ubicaron al azar separadas 40m entre sí. Las trampas fueron instaladas con cebos en su interior, estos contenían mezclas de atún en aceite y huevo podrido para los carnívoros y otras mezclas de papaya, banano, avena y esencia de vainilla para los herbívoros y frugívoros. Posteriormente fueron atadas a los árboles para evitar que los animales las rodaran, así mismo en el lugar en el cual se realizó la instalación se tomaron datos de localización geográfica del punto con un GPS.
+
+Trampas Sherman 
+
+Se utilizaron trampas sherman (7.6 x 8.9 x 22.5 cm), estas fueron ubicadas al azar con una separación de 30 m entre cada trampa. Los individuos que se capturaron fueron medidos, fotografiados y posteriormente liberados en el sitio de captura. Las trampas fueron instaladas con cebos en su interior, estos contenían mezclas de atún en aceite y huevo podrido para los carnívoros y otras mezclas de papaya, banano, avena y esencia de vainilla para los herbívoros y frugívoros. Posteriormente fueron camufladas con hojarasca y se tomaron datos de localización geográfica del punto con un GPS.
+
+Mamíferos voladores
+
+Para capturar mamíferos voladores se utilizaron redes de niebla de 12 metros de largo por dos metros y medio de alto en cada uno de los sitios de muestreo, dichas redes fueron abiertas desde las 18:00 hasta las 23:00 horas, la ubicación se realizó de manera aleatoria, pero teniendo en cuenta las zonas de percha, forrajeo o de paso (Barlow, 1999). Cada día se cambiaron los sitios de muestreo, con el fin de cambiar el tipo de cobertura vegetal y así poder capturar varias especies y tener un mejor índice de capturas (Barlow, 1999). Las redes fueron revisadas cada 30 minutos, esto se realizó con el fin de evitar que los murciélagos dañaran la red y murieran por estrés (Calonge et al. 2010). 
+
+Recorridos y/o búsqueda de rastros 
+
+Se realizaron recorridos de observación de manera aleatoria, dentro de estos se buscaron indicios como huellas, rastros y avistamientos de las especies de medianos y grandes mamíferos. Todos los datos obtenidos se registraron en formatos previamente diseñados. Esta metodología en la cual se basan los transectos es conocida como observación directa (Aranda, 2000). Cada rastro identificado fue procesado, fotografiado, medido y se le tomó la ubicación geográfica, así mismo las especies avistadas fueron identificadas taxonómicamente. 
+
+Todos los individuos capturados se manipularon adecuadamente para liberarlos de las trampas y se depositaron en bolsas de tela blancas para ser procesados en las estaciones de campo. Se les tomaron medidas morfométricas como; largo total, largo de oreja, largo de antebrazo, largo de pata con uña, largo de pata sin uña, largo de cola con el fin de poder identificar taxonómicamente los individuos, dichas medidas fueron realizadas con un calibrador digital de 0.1mm, adicionalmente se pesaron con pesolas de 0 a 100 gramos.</para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id=" COL88611">
+          <title>Proyecto COL 88611 para la conservación y uso sostenible de ecosistemas secos</title>
+          <personnel>
+    <individualName>
+<givenName>Inés</givenName>          <surName>Cavelier Franco</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para>Patrimonio Natural tiene como objeto contribuir a la conservación uso y manejo sostenible de la biodiversidad a través del fortalecimiento de la sostenibilidad financiera del Sistema Nacional de Areas Protegidas de Colombia - SINAP y otras estrategias de ordenamiento ambiental del territorio para la conservación, uso y manejo sostenible, bajo esquemas de gobernanza pública, comunitaria o privada. El Proyecto COL 88611 para la conservación y uso sostenible de ecosistemas secos, es de ejecución directa del PNUD y se desarrolla en 6 áreas prioritarias en
+los departamentos de Cesar, Guajira, Bolívar, Tolima, Huila y Valle del Cauca, con el fin de conservar mediante declaratorias de áreas protegidas y/o acuerdos de conservación al menos 18.000 ha de ecosistema bosque seco tropical mediante la acción coordinada con los actores sociales e institucionales. El PNUD solicitó a Patrimonio Natural una propuesta dirigida a la implementación del Componente 2 del proyecto, específicamente el Resultado 2.1: “18.000 hectáreas de Bosque Seco son protegidos por 12 nuevas áreas protegidas del tipo regional o local y/o acuerdos de conservación, manteniendo poblaciones estables de especies indicadoras”, que se desarrolla en áreas seleccionadas de la región Caribe y la zona interandina. Las caracterizaciones biológicas y documentos resultantes para las seis zonas de trabajo contienen listas de especies obtenidas en los muestreos de campo, las cuales son la base para seleccionar  potenciales Valores Objeto de Conservación-VOC.</para>
+          </abstract>
+          <funding>
+              <para>Programa de las Naciones Unidas para el Desarrollo (PNUD)</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:45Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/cwbrno">Cavelier Franco I, Becoche Mosquera J M (2018). Proyecto COL88611 para la conservación y uso sostenible de ecosistemas secos. Patrimonio Natural Fondo para la Biodiversidad y Áreas Protegidas &quot;Patrimonio Natural&quot;. Occurrence dataset https://doi.org/10.15472/cwbrno accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/logo-patrimonio-natural.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>207</collectionIdentifier>
+                <collectionName>Centro de Colecciones Biológicas de la Universidad del Magdalena (CCBUMAG)</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>4</collectionIdentifier>
+                <collectionName>Herbario Federíco Meden del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH)</collectionName>
+              </collection>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>32</collectionIdentifier>
+                <collectionName>Herbario Universidad del Magdalena (UTMC)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED_AND_PRESSED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

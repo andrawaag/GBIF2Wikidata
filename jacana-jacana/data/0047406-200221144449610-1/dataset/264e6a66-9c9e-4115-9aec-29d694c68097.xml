@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="264e6a66-9c9e-4115-9aec-29d694c68097"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/skcono</alternateIdentifier>
+        <alternateIdentifier>https://ipt.gbif.no/resource?r=birds</alternateIdentifier>
+        <alternateIdentifier>https://data.gbif.no/ipt/resource?r=birds</alternateIdentifier>
+        <alternateIdentifier>264e6a66-9c9e-4115-9aec-29d694c68097</alternateIdentifier>
+        <alternateIdentifier>http://dev.gbif.no/ipt/resource?r=birds</alternateIdentifier>
+    <title>NHMO Bird collection</title>
+    <creator>
+    <individualName>
+<givenName>Jan T.</givenName>          <surName>Lifjeld</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>j.t.lifjeld@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9172-9985</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Arild</givenName>          <surName>Johnsen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>arild.johnsen@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-4864-6284</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Lars Erik</givenName>          <surName>Johannessen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Collection manager</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>l.e.johannessen@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5981-9190</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Bjørn Aksel</givenName>          <surName>Bjerke</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>b.a.bjerke@nhm.uio.no</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Lars Erik</givenName>          <surName>Johannessen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Collection manager</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>l.e.johannessen@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5981-9190</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Rukaya</givenName>          <surName>Johaadien</surName>
+    </individualName>
+<electronicMailAddress>r.s.johaadien@nhm.uio.no</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2020-04-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>&lt;p&gt;The NHMO Avian collection at the Natural History Museum in Oslo, Norway is maintained and curated as four separate sub-collections, viz. the Preserved specimen, Eggshell, Sperm and DNA bank collections. In the collections database the sub-collections are, however, integrated and a single accession can contain items from one or more of the sub-collections. The Preserved specimen and Eggshell collections are traditional collections, dating back to the 17th and 18th centuries, respectively, while the DNA bank and Sperm collections were initiated only in towards the end of the 19th century (the DNA bank also contains some older material subsampled from e.g. the Preserved specimen collection).&lt;/p&gt;
+&lt;p&gt;Most of the older parts of the collections have been collected during several scientific expeditions. In recent years, the main growth of the collection has come from the many blood and sperm samples collected as part of research projects in the Sex and Evolution Research Group (SERG) at the museum.&lt;/p&gt;
+&lt;p&gt;The collection is databased in Corema, a software that has been developed in close cooperation between the NHMO and the developer, Digital Forvaltning AS (https://www.coremadb.com/). An accession generally refers to a given individual at a specific place and time; for each accession, one or more items may exist. Examples of item types include preserved skins, feathers or eggshells, blood, tissue or sperm samples, footage of live sperm motility, microscope slides prepared for sperm morphometric analyses, testes and extracted DNA.&lt;/p&gt;</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Additional data exist for several of the accession and items type in the dataset. For recent accessions (last few decades) biometric information (body mass, tarsus length, wing length) may exist; for sperm samples morhpometry and motility data may exist.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The collection has a global coverage and includes samples from all continents. This is also true for the Skin and DNA bank sub-collections, while the Eggshell subcollection has no records from Oceania and South America, and the Sperm subcollection has no records from Antarctica. The number of countries covered varies from 25 (Sperm) to 115 (Skin), but there are also many records for which country is unknown, especially in the Skin (n=1952) and Eggshell (n=330).
+
+Although the main focus is on Norway, several of the sub-collections contain substantial collections from other regions. For the DNA bank and sperm collection these include especially northeastern Canada, Macaronesia, Cameroon/Nigeria and Australia; for the Skin collection Indonesia, Australia and India</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The scope of the collection covers all avian taxa (Class Aves), and currently (February 2020) the collection contains samples from 40 orders, 219 families, 4080 species and 5040 taxa (i.e. including subspecies). The taxonomy follows the IOC World Bird List, version 4.1.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>weekly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Lars Erik</givenName>          <surName>Johannessen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Collection manager</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>l.e.johannessen@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0001-5981-9190</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Jan T.</givenName>          <surName>Lifjeld</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>j.t.lifjeld@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-9172-9985</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Arild</givenName>          <surName>Johnsen</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Professor</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>arild.johnsen@nhm.uio.no</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-4864-6284</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Bjørn Aksel</givenName>          <surName>Bjerke</surName>
+    </individualName>
+<organizationName>Natural History Museum, University of Oslo</organizationName><positionName>Technician</positionName>    <address>
+<deliveryPoint>Natural History Museum, P.O. Box 1172 Blindern</deliveryPoint><city>Oslo</city><postalCode>NO-0318</postalCode><country>NORWAY</country>    </address>
+<electronicMailAddress>b.a.bjerke@nhm.uio.no</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:52Z</dateStamp>
+      <citation>Lifjeld J T, Johnsen A, Johannessen L E, Bjerke B A (2020). NHMO Bird collection. Version 1.39. Natural History Museum, University of Oslo. Occurrence dataset https://doi.org/10.15468/skcono accessed via GBIF.org on 2020-04-22.</citation>
+              <formationPeriod>1815-current</formationPeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

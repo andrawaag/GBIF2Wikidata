@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="9c2d26f1-0ce0-4cde-9f8d-de8284404fff"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/9uddlh</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>10.15472/iwlqjr</alternateIdentifier>
+        <alternateIdentifier>10.15472/iwlqjr</alternateIdentifier>
+        <alternateIdentifier>10.15468/vx2b8p</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=iavh-ct</alternateIdentifier>
+        <alternateIdentifier>9c2d26f1-0ce0-4cde-9f8d-de8284404fff</alternateIdentifier>
+    <title>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)</title>
+    <creator>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos colecciones biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos colecciones biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-12-05
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Registro de 22542 muestras de tejidos  de aves, anfibios, insectos, plantas, microorganismos, peces, moluscos, reptiles y mamíferos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>registro biológico</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>espécimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>plantas</keyword>
+              <keyword>piel</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>bacterias</keyword>
+              <keyword>tejidos</keyword>
+              <keyword>sangre</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>&apos;n/a&apos;</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=iavh-ct</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Registros de Países como: Colombia, Bolivia, Ecuador, Perú, Panamá y Estados Unidos.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-81.72</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-36</eastBoundingCoordinate>
+                      <northBoundingCoordinate>12.55</northBoundingCoordinate>
+                      <southBoundingCoordinate>-21.62</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1936-06-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-05-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La colección contiene 22542 muestras de ejemplares de varios grupos Biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Insecta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Chilopoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Arachnida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gastropoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Bivalvia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Bacteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carolina</givenName>          <surName>Gómez-Posada</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>cgomez@humboldt.org.co</electronicMailAddress>      </contact>
+
+      <project >
+          <title>Colecciones Biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</title>
+          <personnel>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Ejemplares depositados en las colecciones biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/9uddlh">Borja-Acosta K (2019). Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT). Version 20.1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/9uddlh accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=iavh-ct</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-CT</collectionIdentifier>
+                <collectionName>Colección de Tejidos del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-CT)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DEEP_FROZEN</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

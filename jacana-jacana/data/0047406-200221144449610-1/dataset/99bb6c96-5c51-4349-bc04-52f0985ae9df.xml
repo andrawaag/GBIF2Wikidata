@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="99bb6c96-5c51-4349-bc04-52f0985ae9df"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/palkdo</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_tota_aves_2018_boyacabio</alternateIdentifier>
+        <alternateIdentifier>99bb6c96-5c51-4349-bc04-52f0985ae9df</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_tota_aves_2018_boyacabio</alternateIdentifier>
+    <title>Aves de la expedición en lago de Tota, Boyacá - Proyecto Boyacá BIO</title>
+    <creator>
+    <individualName>
+<givenName>Kevin G.</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos colecciones biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin G.</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador de datos colecciones biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sebastián Camilo</givenName>          <surName>Pérez-Peña</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>sperez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Soto-Patiño</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>dsoto@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sandra-Patricia</givenName>          <surName>Galeano-Muñoz</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinadora Boyacá BIO</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>sgaleano@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Villegas</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Fotógrafo</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar # 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>fvillegas@humboldt.org.co</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Johana</givenName>          <surName>Zuluaga Bonilla</surName>
+    </individualName>
+<organizationName>Asociación Ornitológica de Boyacá Ixobrychus</organizationName><positionName>Investigadora</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2019-11-29
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Bajo el convenio especial de cooperación No. 17-170 entre la gobernación del departamento de Boyacá y el Instituto Alexander von Humboldt se realizó a cabo una evaluación biológica y ecológica rápida en el lago de Tota en el departamento de Boyacá, se realizaron muestreos de biodiversidad de diferentes grupos biológicos, en este recurso se presentan los resultados de aves. Se obtuvo un total de 1546 registros biológicos de 126 especies.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Laguna</keyword>
+              <keyword>Gruiformes Passeriformes</keyword>
+              <keyword>Boyacá-Bio</keyword>
+              <keyword>Boyacá</keyword>
+              <keyword>Pelecaniformes</keyword>
+              <keyword>Podicipediformes</keyword>
+              <keyword>Charadriiformes</keyword>
+              <keyword>Caprimulgiformes</keyword>
+              <keyword>Falconiformes</keyword>
+              <keyword>Cuculiformes</keyword>
+              <keyword>Aquitania</keyword>
+              <keyword>Tota</keyword>
+              <keyword>lago</keyword>
+              <keyword>Cuitiva</keyword>
+              <keyword>Suliformes</keyword>
+              <keyword>Columbiformes</keyword>
+              <keyword>Apodiformes</keyword>
+              <keyword>Anseriformes</keyword>
+              <keyword>Accipitriformes</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>espécimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>registro biológico</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=rrbb_tota_aves_2018_boyacabio</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La cuenca del lago de Tota con un área de 22.370 Ha. se encuentra localizada en los municipios de Aquitania, Cuítiva, Tota y Sogamoso en el departamento de Boyacá, en la subzona hidrográfica del mismo nombre, conformando la parte alta del río Upía  orrespondiente a la zona hidrográfica del Orinoco (IDEAM,2013). Gracias a su ubicación geográfica, las condiciones ecológicas de este lago son especiales y esto se ve reflejado en las especies de fauna y flora que allí se pueden encontrar. Sin embargo, la fertilidad de sus suelos ha convertido a la región en uno de los centros agrícolas más importantes del país, lo que genera a su vez una fuerte presión sobre los ecosistemas naturales y las especies que lo habitan.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.12</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.71</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.65</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.486</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-02-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-09-12
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se obtuvo un total de 1546 registros biológicos de 126 especies. La taxonomía de las especies registradas sigue la propuesta por Remsen et al. (2017)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podicipediformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aunar esfuerzos, capacidades y competencias entre  el departamento de Boyacá y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt para la ejecución del proyecto “Análisis de la biodiversidad y los servicios ecosistémicos para su aplicación en la toma de decisiones en el departamento de Boyacá” en cumplimiento de la meta “expediciones científicas para inventariar la fauna, flora y microorganismos a nivel taxonómico y genético realizadas, mediante acuerdo n 055 del 07 de marzo de 2017</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Sandra-Patricia</givenName>          <surName>Galeano-Muñoz</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>sgaleano@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Se realizaron capturas con redes de niebla, adecuamos un transecto para la instalación de 10 redes de niebla de 12x2 m y 9x2 m para un total de 100 metros de redes en un área con vegetación terrestre y acuática. Estas permanecieron abiertas entre las 10:00 am y las 04:30 p.m. (aproximadamente 6 horas durante 1 día). Para cada ave capturada, se registraron las medidas morfométricas correspondientes a: largo del pico, altura del pico, amplitud del pico, longitud del tarso, longitud de las alas y longitud de la cola, utilizando un  calibrador, regla metálica y pesolas de 10, 50 y 100 g. Además, se tomaron datos del estado físico del individuo como: presencia de parche de incubación, grasa subcutánea acumulada, y presencia de muda (Villarreal et al. 2006).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Los ejemplares coleccionados fueron preparados como pieles de estudio, se tomó muestra de tejido (músculo pectoral), posteriormente se depositaron en la Colección Ornitológica del Instituto Alexander von Humboldt (IAvH-A) y la Colección de Tejidos del Instituto Alexander von Humboldt (IAvH-CT), respectivamente</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El muestreo se realizó en ecosistema del Lago de Tota en los municipios de Aquitania, Cuitiva, Tota, Mongüa, Pesca, Sogamoso del departamento de Boyacá.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la comunidad de aves del lago de Tota, se realizaron censos visuales y captura con redes de niebla, Los censos visuales se realizaron a lo largo del perímetro del lago haciendo recorridos terrestres y en bote, y se basaron en muestreo por puntos, donde en cada punto de observación se registró cada especie observada y el número total de individuos. Los listados obtenidos se subieron al portal de datos ornitológicos eBird y en la infraestructura institucional de datos (I2D) del IAvH, donde están disponibles y pueden ser consultados y descargados para futuras investigaciones.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La identificación, curaduría y procesamiento de los ejemplares se hace bajo referencia de colecciones registradas junto con claves taxonómicas y consulta de expertos.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Análisis de la biodiversidad y los servicios ecosistémicos para su aplicación en la toma de decisiones en el departamento de Boyacá</title>
+          <personnel>
+    <individualName>
+<givenName>Sandra-Patricia</givenName>          <surName>Galeano-Muñoz</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Boyacá BIO. Convenio especial de cooperación No. 17-170 del 2017. Aunar esfuerzos, capacidades y competencias entre el departamento de Boyacá y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt para la ejecución del proyecto “Análisis de la biodiversidad y los servicios ecosistémicos para su aplicación en la toma de decisiones en el departamento de Boyacá” en cumplimiento de la meta “Expediciones científicas para inventariar la fauna, flora y microorganismos a nivel taxonómico y genético realizadas, mediante Acuerdo N 055 del 7 de marzo de 2017</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Municipios del departamento de Boyacá</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:43Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/palkdo">Borja-Acosta K G (2019). Aves de la expedición en lago de Tota, Boyacá - Proyecto Boyacá BIO. Version 2.7. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/palkdo accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, S. Claramunt, A. Jaramillo, J. F. Pacheco, J. Pérez-­‐Emon, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. 2017. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+      <citation>Villarreal H., Álvarez, M., Córdoba-Córdoba, S., Escobar, F., Fagua G., Gast, F., Mendoza, H., Ospina, M., &amp; Umaña, A. M. 2006. Aves. En Manual de métodos para el desarrollo de inventarios de biodiversidad segunda edición (pp. 91-148). Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Aves de la expedición en lago de Tota, Boyacá - Proyecto Boyacá BIO</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>.txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_tota_aves_2018_boyacabio</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A</collectionIdentifier>
+                <collectionName>Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

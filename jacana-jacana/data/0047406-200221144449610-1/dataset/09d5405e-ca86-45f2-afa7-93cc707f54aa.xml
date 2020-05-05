@@ -1,0 +1,409 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="09d5405e-ca86-45f2-afa7-93cc707f54aa"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/lnflrd</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=registrosgef</alternateIdentifier>
+    <title>Fauna y flora en áreas con cultivos de palma de aceite en el norte y oriente de Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Luis Francisco</givenName>          <surName>Madriñán</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Investigador líder</positionName>    <address>
+<deliveryPoint>Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3168600</phone><electronicMailAddress>lfmadrinan@gmail.com</electronicMailAddress><onlineUrl>http://www.fedepalma.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Laura Elena</givenName>          <surName>Rojas Salazar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>lauraersalazar@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Francisco</givenName>          <surName>Madriñán</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Investigador líder</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><electronicMailAddress>lfmadrinan@gmail.com</electronicMailAddress><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Castro Lima</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Botánico</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mariana</givenName>          <surName>Medrano</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Botánica</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Álvaro</givenName>          <surName>Velásquez</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Herpetólogo</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ángela</givenName>          <surName>Álviz</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Mastozoologa</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Nathalia</givenName>          <surName>Prada Alarcón</surName>
+    </individualName>
+<organizationName>Federación Nacional de Cultivadores de Palma de Aceite-Fedepalma</organizationName><positionName>Ornitóloga</positionName>    <address>
+<deliveryPoint>Carrera 10 #Carrera 10A No. 69 A - 44</deliveryPoint><city>Bogotá, D.C.</city><country>COLOMBIA</country>    </address>
+<phone>3138600</phone><onlineUrl>http://www.fedepalma.org</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-30
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Contiene 7527 registros biológicos de plantas, anfibios, reptiles, aves y mamíferos de las zonas palmeras beneficiarias del proyecto GEF &amp;#34;Paisaje Palmero Biodiverso&amp;#34;, gestionado por FEDEPALMA, ubicadas en áreas con cultivo de palma aceitera en el norte y oriente del país, departamentos del Magdalena, Cesar, Meta y Cundinamarca. Este conjunto de datos se ha estructurado y publicado gracias a la financiación del programa de contrapartidas a proyectos de cooperación internacional de la AGENCIA PRESIDENCIAL DE COOPERACIÓN INTERNACIONAL DE COLOMBIA APC-COLOMBIA .</para>
+    </abstract>
+        <keywordSet>
+              <keyword>rastrojos</keyword>
+              <keyword>fauna</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>flora</keyword>
+              <keyword>conservación</keyword>
+              <keyword>bosques</keyword>
+              <keyword>aves</keyword>
+              <keyword>estatus de amenaza</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>levantamientos</keyword>
+              <keyword>paisajes palmeros</keyword>
+              <keyword>mamíferos voladores</keyword>
+              <keyword>mamíferos terrestres</keyword>
+              <keyword>humedales</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Informes finales de trabajo de campo de los investigadores asociados.
+Imágenes de aves estructuradas en la plantilla del banco de imágenes del IAvH
+Sonidos de aves 
+Estudio De Identificación De Altos Valores De Conservación. HCV ASSESMENT. Núcleos Aceites, CI Tequendama, La Cabaña, Unipalma, Manuelita. 
+Mapas PDF Áreas de Alto Valor de Conversación.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=registrosgef</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Áreas con cultivo de palma beneficiarias del proyecto GEF: Paisaje Palmero Biodiverso, ubicadas en la zona norte del país, departamentos del Magdalena y Cesar Municipios del Copey, Zona Bananera, El Retén, El Piñón, Aracataca, Ciénaga, Fundación, Puebloviejo y zona oriental departamentos de Cundinamarca y Meta, municipios de Paratebueno, Cumaral, Cabuyaro, Acacias y San Carlos de Guaroa.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.12</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.19</eastBoundingCoordinate>
+                      <northBoundingCoordinate>10.95</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.8</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-10-11
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-05-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se documentaron 7527 registros de plantas y animales, distribuidos en los siguientes grupos:
+
+Plantas:
+Tracheophyta (1968) 
+
+Animales (5559):
+Aves (4058)
+Amphibia (447)
+Reptilia (375)
+Mammalia (679)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Liliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Lycopodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Gnetopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Magnoliopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Polypodiopsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Squamata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Crocodilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Testudines</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Primates</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Chiroptera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Carnivora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rodentia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>El proyecto &quot;Conservación de la biodiversidad en las zonas de cultivo de palma de aceite&quot;, fue concebido conjuntamente por Fedepalma, Cenipalma, el Instituto Alexander von Humboldt y WWF Colombia, y busca contribuir a la conservación de la biodiversidad y a un manejo sostenible de los agroecosistemas palmeros, mediante una mejor planificación y adopción de prácticas agroecológicas en los cultivos de palma de aceite en Colombia. Buscó  implementar novedosos conceptos de zonificación ambiental, manejo del paisaje, identificación y manejo de áreas de importancia ambiental, corredores de conectividad, agrodiversidad y certificación RSPO, entre otros, en seis núcleos palmeros en las zonas Norte y Oriental abarcando más de 60.000 hectáreas. 
+Se espera que sus resultados puedan ser luego replicados en las demás empresas y zonas palmeras del país.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Laura Elena</givenName>          <surName>Rojas Salazar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Contratista</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea>    </address>
+<phone>3202767</phone><electronicMailAddress>lauraersalazar@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Leonardo</givenName>          <surName>Bocanegra</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>jbocanegra@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Flora: La metodología utilizada para determinar la riqueza de especies de plantas leñosas para información de la estructura de la vegetación, fue la propuesta por A. Gentry (1982).  Este método consiste en censar, los individuos en un transecto de 100 x 10 metros, lo que nos dió un 11 área de 0.1 ha, todos los individuos cuyo tallo tenía un diámetro a la altura del pecho mayor o igual a 2 cm; (DAP medido a 1.3 m de altura desde la superficie del suelo), se censaron individuos con DAP mayor o igual a 2 cm, pues con esta modificación se obtiene una mejor representación de los estratos inferiores (sotobosque). 
+Cada espécimen fue colectado en estado fértil, por triplicado y siguiendo la metodología universal para las colecciones botánicas. Adicionalmente se tomaron datos sobre el ambiente en el que crecen, observación sobre interacción planta-animal,para este trabajo se montaron dos parcelas por ecosistema seleccionado, para obtener mayor representatividad de los distintos hábitats presentes. Los ejemplares de la zona Norte se enviaron al  herbario de la Universidad del Magdalena, y los de la zona oriental al herbario de la Universidad de los Llanos- Unillanos-, donde quedaron consignados.
+Las plantas colectadas fueron identificados a nivel de familia, Genero y especie, utilizando las claves taxonómicas de Hutchinson, la clave de la flora bascular de Venezuela, las claves de Pittier, Flora de la Guayana, entre otras. 
+Para la caracterización Florística, se utilizó el sistema de Braun-Blanquet (1979) para clasificar los tipos de vegetación, que se basa en la premisa de que la composición florística total de una porción de la vegetación es la que mejor expresa las relaciones entre los distintos tipos de vegetación y entre éstos y el ambiente. Las comunidades vegetales se conciben como tipos de vegetación determinados por su composición florística, donde se identificaran las especies diagnósticas y las especies diferenciales y acompañantes. Un aspecto importante para obtener información, de una comunidad vegetal es la lista de especies géneros y familias presentes en el área de estudio y sus abundancias que pueden ser medidas por el conteo directo de los individuos ó más fácilmente con la escala de Braun-Blanquet (Braun-Blanquet, 1979). Con el listado de especies y sus abundancias se aplicaron los Índices que conjugan la riqueza y la abundancia relativa de especies, a este tipo pertenecen el de Shannon (H´), Simpson (D, 1/D).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Anfibios y reptiles: Se realizaron recorridos libres en sitios claves para el encuentro de la herpetofauna utilizando la metodología estándar de encuentros visuales, conocida por sus siglas en inglés como VES (Crump &amp; Scott 1994, Páez 2002). 
+Se hicieron búsquedas exhaustivas en sitios como huecos en el suelo y de árboles, en la hojarasca, charcas, troncos caídos, entre otros.
+Los recorridos se realizaron con trabajos diurnos y nocturnos. Las horas de trabajo en la mañana, fueron entre las 8:00-11:00 horas, en la tarde entre las 15:00- 17:00 horas y en la noche de las 18:00 a las 22:00 horas; la búsqueda se llevó a cabo por dos biólogos, lo cual sumó un esfuerzo de muestreo diario mínimo de 18h/investigador. 
+Teniendo en cuenta que el 90% de los anfibios tienen hábitos nocturnos, los muestreos durante esas horas del día se enfocaron en el registro de ese grupo taxonómico en los potenciales lugares de reproducción y donde se escucharon vocalizando. En las noches también se buscaron algunos reptiles (principalmente serpientes y tortugas), los cuales presentan estos hábitos. Aunque la mayor parte de los anfibios y reptiles que se encuentran en estas regiones son bien conocidos y de amplia distribución, se buscaron elementos que destaquen por su singularidad, tales como especies que se reconocen previamente como amenazadas, endémicas o CITES. 
+Transectos: Se realizaron recorridos de 200m, en cada cobertura para registrar la fauna allí encontrada, con el fin de determinar la fauna más conspicua y sus abundancias estimadas. Para los cuerpos de agua, estos recorridos se hicieron rodeando el mismo.
+Cuadrantes: Se ubicaron cinco (5) cuadrantes de 3x3 metros en cada cobertura vegetal por finca muestreada. Se hizo una búsqueda exhaustiva por dos personas durante 15 minutos y se anotaron los individuos registrados por especie en cada muestreo. Para los cuerpos de agua el muestreo se hizo tratando de que sea representativo con respecto al perímetro.
+Para la identificación preliminar en campo de los anfibios y reptiles capturados se emplearon ayudas de fotos de publicaciones como las de Mendoza &amp; Gómez (2014), Rueda et al (2009), Ramírez et al (Reptiles y anfibios del Meta, en preparación).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Mamíferos: Para el levantamiento, se realizaron principalmente tres métodos de muestreo de acuerdo a las diversas características ecológicas del grupo. Se instalaron redes de niebla para mamíferos voladores, se hizo trampeo para capturas de mamíferos pequeños y medianos, y transectos lineales para registro de indicios o avistamientos de mamíferos medianos y grandes, en las diferentes coberturas vegetales. Para la identificación tanto para los mamíferos pequeños voladores y no voladores, se utilizó el libro de mamíferos de Suramérica de Gardner (2007), y la guía de campo de Emmons (1999). Adicionalmente se contó con los manuales de los mamíferos terrestres y voladores de Colombia de Navarro y Muñoz (2000), y Morales-Jiménez et al. (2004), y con el libro rojo de mamíferos de Colombia de Rodríguez-Maecha et al. (2006). La información de las especies identificadas en campo se corroboró con el listado actualizado de mamíferos de Colombia hecho por Solari et al. (2013).
+Para la captura de murciélagos se utilizaron 10 redes de niebla de 12m de largo por 3m de alto. Éstas se ubicaron teniendo en cuenta el borde del bosque, claros del bosque, corredores naturales, orillas de quebradas y especies vegetales de las cuales se tienen registros de alimentación. De acuerdo al calendario lunar, las redes se abrieron durante 4 días consecutivos por finca muestreada entre las 1800 hasta las 0000h y fueron monitoreadas cada 30-45 minutos (Montiel et al. 2006). En los días que se presentó luna llena se evitó realizar muestreo (Pérez-Torres &amp; Ahumada 2004). Se tomaron coordenadas de cada red instalada.
+Los murciélagos capturados se depositaron en bolsas de tela. Se registró la información temporal y espacial de la captura, la especie y la siguiente información del individuo: peso, sexo, LT (longitud total), LCC (longitud del cuerpo), LC (longitud de la cola), LP (longitud del pie), LO (longitud de la oreja), LTP (longitud de tibia pie), LA (longitud del antebrazo) y T (longitud del trago). 
+Se obtuvo un registro fotográfico de cada uno de los individuos capturados. Los murciélagos fueron identificados por medio de las claves de Linares (1998) y Gardner (2007), se liberaron posteriormente.
+Para la captura de pequeños mamíferos terrestres, se ubicaron entre 4 y 6 trampas de caída que fueron instaladas en los diferentes tipos de coberturas vegetales que se encuentren en la zona de influencia, Se tuvieron en cuenta características del ambiente como troncos caídos, base de árboles, cavidades formadas por las raíces, alrededor de huecos y madrigueras, para aumentar la probabilidad de captura (Munari et al. 2011). Se utilizó como cebo una mezcla de maní, avena y esencia de vainilla (Stevens y Tello 2011), y se complementó con frutos y semillas de la zona. Las trampas fueron monitoreadas diariamente a las 0600h y recebadas a las 1700h con el fin de minimizar la pérdida de cebos. Se tomaron coordenadas de cada trampa instalada.
+De cada uno de los individuos capturados pertenecientes al orden Rodentia, se registró el peso, sexo, LT (longitud total), LCC (longitud de la cabeza cuerpo), LC (longitud de la cola), LP (longitud del pie) y LO (longitud de la oreja), para su posterior determinación taxonómica. Para los demás grupos, se hizo el correspondiente registro fotográfico para su identificación. Posteriormente, los ejemplares fueron liberados. La identificación taxonómica se llevo a cabo por medio de las claves para mamíferos de Venezuela de Linares (1998) y para mamíferos de Sur América de Gardner (2007).
+El registro y captura de mamíferos medianos se llevó a cabo a través de las trampas de caída, y por medio de 2 trampas Tomahawk® (Ramírez y Pérez 2007). Para la instalación de las Tomahawk se tuvo en cuenta la presencia de madrigueras, comederos, árboles en fructificación, senderos y rastros (Feldhamer et al. 2007), para aumentar la probabilidad de captura. Las trampas fueron cebadas con plátano, yuca, sardinas y atún. fueron monitoreadas a las 0600h y recebadas a las 1700h, con sus coordenadas geográficas correspondientes.
+Para mamíferos grandes,dado lo difícil de capturarlos, se realizaron transectos de 2 km (Munari et al. 2011), en cada una de las coberturas vegetales de la zona. En el transecto se registraron los avistamientos e indicios de mamíferos como huellas, excrementos, dormideros y comederos, principalmente (Noss et al. 2012). Cada avistamiento se registró por medio de fotografías. Para evitar un sobremuestreo, se reconoció como un registro aquellos rastros que se aseguren no pertenecen a un mismo individuo, para esto se tiene en cuenta la distancia entre los rastros de una misma especie, además del tamaño de la huella. Cada transecto se registró por medio de coordenadas geográficas, así como cada uno de los avistamientos que se hicieron a lo largo del recorrido.
+Se realizaron recorridos adicionales para registrar posibles poblaciones de primates en la zona de estudio, se hicieron los reportes de los individuos avistados  un conteo de grupos avistados y el correspondiente registro fotográfico (Buckland et al. 2010).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Aves: Se hicieron recorridos libres y uso de redes de niebla, para los recorridos libres  los senderos preestablecidos fueron de 5 km (recorriendo1 km x hora). registrando diariamente la distancia recorrida, la hora de inicio y hora final de observación. Cuando se presentaron lluvias u otro factor que afecto el muestreo fueron anotadas las horas de suspensión y reinicio de las observaciones.
+Durante las observaciones se tomó información relacionada con la localidad, coordenadas, altitud, fecha, hora, número de observaciones, nombre común y científico por cada especie avistada, cobertura, estrato, ubicación del individuos respecto a la estructura del ecosistema,y sustrato. Por otro lado, se tuvo en cuenta información relacionada con la actividad reproductiva, estructura social, maniobras de forrajeo, sustratos de alimentación y diferentes observaciones.
+Se tomaron grabaciones de audio que sirven para conocer la presencia de diferentes especies, ya que identifican caracteres sistemáticos relacionados con la determinación de diferentes individuos de una especie.
+Para las redes de niebla e emplearon seis redes , las cuales fueron operadas por dos personas, estas fueron distribuidas uniformemente en las distintas coberturas. Las líneas se instalaron dentro de los hábitats o tipos de bosque de interés, en diferentes unidades de paisaje. Las redes fueron operadas de las 5:00 a las 11:00 horas y de las 16:00 a las 18:00 horas, cerrándose cuando las condiciones climáticas fueron extremas. Los individuos capturados fueron determinados y se anotó el peso, sexo, edad, estado reproductivo, cantidad de grasa en la fúrcula y flancos, estado del plumaje y se tomaron medidas morfométricas cómo: longitud, altura y anchura del pico, de la cola, del tarso del ala, entre otros, y se tomaron fotografías de los individuos capturados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Para la estructuración bases de datos Darwin Core se llevó a cabo una revisión y ajuste de los archivos excel  de la información de registros biológicos en formato Darwin Core según plantilla de registros biológicos de la I2D, entregada por los investigadores de campo del proyecto GEF.
+Se construyó una sola base de datos de todos los registros biológicos para los grupos de fauna y flora muestreados, como parte de este proceso se utilizó la herramienta R Estudio para la validación de nombres científicos, obtención de la taxonomía superior y verificación de coordenadas.  
+
+En los registros en los que no se encontró el nombre de la especie se diligenció en el campo de identificationRemarks el nombre original con el cual fue identificado y en scientificName se documento el nombre de la categoría de la cual se tenia certeza de la existencia (por ejemplo: No se encontró información sobre los especímenes Sitys, Erde, Hertella trifoliata y Echisaea elegans, de los registros de flora por lo que se deja la clasificación documentada por el experto hasta Clase (Magnoliopsida)). 
+Dado que se observaron algunos valores atípicos de elevación en los registros originales, se hizo corroboración de los valores usando las coordenadas proporcionadas para el área de trabajo, la  Latitud y Longitud, se transformaron a shapefile utilizando el Software ArcGis 10.3, herramienta &quot;Display XY Data&quot;, teniendo las coordenadas en Shapes, se utilizó el DEM del IGAC a 30m con el propósito de extraer de éste las alturas requeridas. Se utilizó la herramienta denominada &quot;Extract Values to Points&quot;, la cual permite incorporar los valores de altura del DEM a la capa tipo punto que se obtuvo. Los valores de elevación resultantes se pusieron en la columna minimumElevationInMeters, los valores de elevación original se mantuvieron en el campo verbatimElevation, ya fuera como valor único o como rango según se hubiera documentado en las bases de dato originales. 
+Se asoció información adicional de los especímenes utilizando la extensión de medidas y hechos, se resalta que para la altura del tallo en flora, las unidades se encuentran en cms y mts, estas no se cambiaron, se dejaron como en el registro original (sin embargo en algunos los datos parecen mostrar inconsistencias si se tiene en cuenta la unidad referenciada), para los valores de DAP el investigador a cargo no documentó unidad de medida  por lo que no se diligenció la columna measurementUnit.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona palmera Norte está ubicada en el Caribe colombiano, en los Departamentos de Cesar, Bolívar,
+Córdoba, Sucre y Magdalena. Cuenta con la presencia de los remanentes más importantes de bosques secos y sabanas inundables del país, que confluyen en el ecosistema acuático continental de mayor importancia para Colombia, la Ciénaga Grande de Santa Marta. La principal actividad palmicultora en esta zona se realiza entre dos regiones de gran importancia biológica mundial: el Complejo de la Ciénaga Grande de Santa Marta y la Sierra Nevada de Santa Marta, cuyos ejes conectores son los ríos Tucurinca, Frío, Aracataca, Fundación y Sevilla, que nacen en la Sierra Nevada y alimentan y desembocan en la Ciénaga.
+La zona palmera Oriental está ubicada en la región de la Orinoquía colombiana,se enfocó en dos subregiones de trabajo: Subregión abanicos de Piedemonte Llanero – Sabanas de Cumaral-Paratebueno, Subregión abanicos de piedemonte llanero – Sabanas de San Carlos de Guaroa.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Flora: Mediante la utilización sensores remotos y basados en sus imágenes de satélite Rapid Eye® 2014, se especificó el tipo de cobertura vegetal a estudiar. Las unidades muéstrales para estudios de diversidad y conservación de gran extensión, se ubicaron bajo un muestreo sistemático estratificado, empleado con frecuencia en zonas extensas y heterogéneas. (Matteucci et al, 1982). Se basó en la estratificación de la zona de estudio en unidades, estratos o compartimentos homogéneos conforme a los criterios de la vegetación presente desde diversos puntos de vista (biológico, geográfico, topográfico) y anotando las especies dominantes, fisionomía, Paisaje, suelos, altitud, pendiente, ecosistema, clima, etc.). Para los estudios en pequeños predios donde el terreno boscoso es una pequeña porción del mismo se aplicó el muestreo sistemático al azar. El tamaño de los fragmentos boscosos determinó las áreas mínimas que permitieron establecer, según el tipo de vegetación el tamaño indicado para analizar la representatividad total de las especies que conforma una comunidad vegetal. Se ha comprobado que si se registran las especies en diferentes tamaños de áreas se observa que el número de especies se incrementa hasta que se estabiliza la presencia de nuevas especies, determinando cual es el área mínima que representa el tipo de vegetación.
+Reptiles y Anfibios: A partir de los trabajos más relevantes en las diferentes áreas de influencia del proyecto y basado en la experiencia propia del herpetólogo, se hizo un filtro fino teniendo en cuenta los registros presentados y los rangos altitudinales que ocupan las especies de interés. 
+Mamiferos: Para el levantamiento, se realizaron principalmente tres métodos de muestreo de acuerdo a las diversas características ecológicas del grupo.
+Aves: Se hicieron recorridos libres y uso de redes de niebla</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se siguieron las metodologías internacionales estandarizadas que se describen a continuación en la metodología paso a paso para cada grupo taxonómico muestreado.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>CONSERVACIÓN DE LA BIODIVERSIDAD EN LAS ZONAS DE CULTIVO DE PALMA DE ACEITE (GEF)</title>
+          <personnel>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Madriñán</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Fondo Mundial para el Medio Ambiente	de Naciones Unidas-GEF. GEF Project ID:4113. GEF ATN/FM-13216-CO “Conservación de la biodiversidad en zonas de cultivo de palma”.
+Banco Interamericano de Desarrollo (BID) Agencia Implementadora del GEF
+En 2016 el Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt suscribió el convenio interadministrativo de asociación y aporte de contrapartida No. 16-167 (016 de 2016), celebrado con la Agencia Presidencial de Cooperación Internacional de Colombia, APC-Colombia, con el objeto de fortalecer actores clave para la incorporación de criterios de biodiversidad, servicios ecosistémicos y adaptación al cambio climático en la gestión territorial en ecosistemas de páramos, cuenca del Río Orotoy y Paisajes palmicultores del Meta, marco en el cual se suscribió con Laura Rojas Salazar el contrato 16-211 con el objeto de prestar los servicios profesionales para estandarizar, evaluar calidad, asignar licencia de acceso y uso y catalogar la Información biológica recopilada y generada en el marco del proyecto GEF-Palma e información complementaria generada por el IAvH que pueda enriquecerla.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Zona palmera Norte ubicada en el Caribe colombiano, en los Departamentos de Cesar, Bolívar,
+Córdoba, Sucre y Magdalena Norte; núcleos palmeros de: Aceites, Palmaceite y Tequendama.  y zona palmera Oriental  ubicada en la región de la Orinoquía colombiana, Departamentos de Meta y Cundinamarca (Municipio de Paratebueno). núcleos palmeros de Hacienda La Cabaña, Manuelita y
+Unipalma.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Los objetivos principales del proyecto son contribuir a la conservación de la biodiversidad y a un manejo sostenible de los sistemas palmeros, mediante una mejor planificación y adopción de prácticas agroecológicas en zonas de expansión de la actividad palmera. Para cumplir este objetivo, el proyecto se estructuró en cuatro componentes: Componente 1. Planificación y manejo ambientalmente adecuado de los sistemas palmeros: Este componente tenía como objeto abordar el problema del desconocimiento existente entre los palmicultores sobre la importancia de la conservación y un manejo ambientalmente adecuado de los sistemas palmeros. Componente 2.Conservación y valoración de servicios ambientales en sistemas palmeros: Este componente tiene como objetivo contribuir con la valoración económica de los servicios previstos por los ecosistemas en áreas de cultivo y expansión palmera. Para ello, este componente apoyó el análisis para la conceptualización y la definición incentivos económicos para la conservación de las Áreas de Alto Valor para la Conservación (AAVC). Las actividades  financiadas, incluyen: (i) identificación de las AAVC y desarrollo de planes de manejo para su protección y restauración; (ii) estudios de costo-beneficio asociados a la provisión los servicios ambientales asociados con los sistemas palmeros y las AAVC en zonas de cultivo y expansión; y (iii) desarrollo de esquemas de compensación por conservación mediante pago por servicios ambientales y actividades de fortalecimiento de los servicios de extensión palmeros (capacitaciones y aprendizaje experimental). Componente 3. Usos y mercados diferenciados para productos que contribuyen a la biodiversidad: Este componente tuvo como objetivo desarrollar capacidades para facilitar el acceso de los palmicultores a mercados diferenciados mediante la implementación de criterios de sostenibilidad ambiental en las prácticas de manejo y expansión del cultivo (e.g estándares de certificación de RSPO o Rainforest Alliance),  apoyar la promoción y comercialización de productos de la agrobiodiversidad como una estrategia para contribuir al manejo integrado de los sistemas palmeros, la seguridad alimentaria local y el incremento en los ingresos de los pequeños productores. Componente 4. Seguimiento, comunicación y evaluación de impactos: Este componente tuvo como objetivo reducir la brecha de conocimiento existente sobre la efectividad en el desarrollo de este tipo de intervenciones, a través de una evaluación de impacto que identifique el efecto del proyecto en varios indicadores de interés.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/lnflrd">Madriñán L F, Rojas Salazar L E (2018). Fauna y flora en áreas con cultivos de palma de aceite en el norte y oriente de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/lnflrd accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Braun-Branquet, E. 1979. Fitosociología. Bases para el estudio de las comunidades vegetales. H. Blume Editores. España 820p.</citation>
+      <citation>Buckland, S.T., Plumptre, A.J., Thomas, L. y Rexstad, E.A. 2010. Design and Analysis of Line Transect Surveys for Primates. Int J Primatol. 31:833–847.</citation>
+      <citation>Crump, M. L., &amp; Scott Jr, N. J. (1994). Visual encounter surveys. Retrieved from https://pubs.er.usgs.gov/publication/81573</citation>
+      <citation>Feldhamer, G.A., Drickamer, L.C., Vessey, S.H., Merritt, J.F., Krajewski, C. 2007. Mammalogy: Adaptation, Diversity, and Ecology, Third Edition. The Johns Hopkins University Press, United States of America. Pp. 560.</citation>
+      <citation>Gardner, A. L. (2007). Mammals of South America, volume 1: marsupials, xenarthrans, shrews, and bats (Vol. 1). University of Chicago Press</citation>
+      <citation>Gentry, A. H. (1982). Patterns of Neotropical Plant Species Diversity. In M. K. Hecht, B. Wallace, &amp; G. T. Prance (Eds.), Evolutionary Biology (pp. 1–84).</citation>
+      <citation>Hokche, O., Berry, P. E., &amp; Huber, O. (2008). Nuevo catálogo de la flora vascular de Venezuela.</citation>
+      <citation>Linares, O.J. 1998. Mamíferos de Venezuela. Sociedad Conservacionista Audubon de Venezuela &amp; British Petroleum (Eds.) Caracas, Venezuela. 691p.</citation>
+      <citation>Matteucci, S. D., &amp; Colma, A. (1982). Metodología para el estudio de la vegetación. Secretaría General de la Organización de los Estados Americanos, Programa Regional de Desarrollo Científico y Tecnológico.</citation>
+      <citation>Mendoza, J. S., &amp; Gómez, D. (2012). Reptiles comunes del departamento del Atlántico, Colombia. ECCo – The Field Museum, Chicago, IL 60605 USA, 6p.</citation>
+      <citation>Montiel, S., Estrada, A. &amp; León Perla. 2006. Bat assemblages in a naturally fragmented ecosystem in the Yucatan Peninsula, Mexico: species richness, diversity and spacio-temporal dynamics. Journal of Tropical Ecology. 22: 267-276.</citation>
+      <citation>Morales-Jiménez, A.L., F. Sánchez, K. Poveda, A. Cadena. 2004. Mamíferos terrestres y voladores de Colombia. Guía de campo. Bogotá. Colombia. 248p.</citation>
+      <citation>Munari, D.P., Keller, C. y Venticinque, E.M. 2011. An evaluation of field techniques for monitoring terrestrial mammal populations in Amazonia. Mammalian Biology 76: 401–408</citation>
+      <citation>Navarro, J.F., J. Muñoz. 2000. Manual de huellas de algunos mamíferos terrestres de Colombia. Edición de campo. Medellín. Colombia. 136p.</citation>
+      <citation>Noss, A.J., Gardner, B., Maffei, L., Cuéllar, E., Montaño, R., Romero-Muñoz, A., Sollman, R. y O’Connell, A. F. 2012. Comparison of density estimation methods for mammal populations with camera traps in the Kaa-Iya del Gran Chaco landscape. Animal Conservation 15: 527–535.</citation>
+      <citation>Pérez-Torres, J &amp; Ahumada, J. 2004. Murciélagos en bosques alto-andinos, fragmentados y continuos, en el sector occidental de la Sabana de Bogotá (Colombia). Universitas Scientiarum. 9: 33-46.</citation>
+      <citation>Pittier, H. (1939). Clave analítica de las familias de plantas superiores de la América tropical.</citation>
+      <citation>Ramírez, H.; Pérez, W. 2007. Mamíferos de un fragmento de bosque de roble en el departamento del Cauca, Colombia. Boletín Científico, Museo de Historia Natural 11: 65-79.</citation>
+      <citation>Ramírez-Villalba, A. M., Gómez, D., Velásquez, Á., &amp; Mendoza, J. S. (2014). Anfibios y Reptiles del departamento del Meta, Colombia. The Field Museum, Chicago, IL 60605 USA.</citation>
+      <citation>Rodríguez-Mahecha J, M Alberico, F Trujillo Y J Jorgenson (Eds.). 2006. Libro Rojo de los Mamíferos de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Conservación Internacional Colombia y Ministerio de Medio Ambiente, Vivienda y Desarrollo Territorial, Bogotá, D.C. 433p.</citation>
+      <citation>Rueda-Almonacid, J.V., A. A: Velásquez-Álvarez, P. A. Galvis Peñuela, J. E. Gualdrón Duarte. 2008. Reptiles. Pp 193-268. In: Rodríguez-Mahecha, J.V., J.V. Rueda-Almonacid, T.D. Gutiérrez. Guía ilustrada de la fauna del Santuario de Vida Silvestre Los Besotes, Valledupar, Cesar, Colombia. Serie de guías tropicales de campo Nº7. Conservación Internacional Colombia. Editorial Panamericana, Formas e Impresos. Bogotá, Colombia. 574p.</citation>
+      <citation>Solari, S., Muñoz-Saba, Y., Rodríguez-Mahecha, J. V., Defler, T. R., Ramírez-Chaves, H. E., &amp; Trujillo, F. (2013). Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical, 20(2), 301–365.</citation>
+      <citation>Stevens, R.D. y Tello, J.S. 2011. Diversity begets diversity: relative roles of structural and resource heterogeneity in determining rodent community structure. Journal of Mammalogy. 92(2): 387–395</citation>
+      <citation>Steyermark, J. A., &amp; Maguire, B. (1984). Flora de la Guayana venezolana. Acta Botánica Venezuélica, 14(3), 3–117.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>UNIMAG, LLANOS</parentCollectionIdentifier>
+                <collectionIdentifier>Herbario Universidad del Magdalena-UTMC-, Centro de Colecciones Biológicas Universidad del Magdalena-CBUMAG-, LLANOS</collectionIdentifier>
+                <collectionName>Universidad del Magdalena, Herbario de la Orinoquia Colombiana</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a82d2421-be5a-4779-babc-da0b634a7ba8"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/dv1ojv</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=cm_birds</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=cm_birds</alternateIdentifier>
+        <alternateIdentifier>a82d2421-be5a-4779-babc-da0b634a7ba8</alternateIdentifier>
+        <alternateIdentifier>14930</alternateIdentifier>
+    <title>CM Birds Collection</title>
+    <creator>
+    <individualName>
+<givenName>Stephen</givenName>          <surName>Rogers</surName>
+    </individualName>
+<organizationName>Carnegie Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>4400 Forbes Ave.</deliveryPoint><city>Pittsburgh</city><administrativeArea>PA</administrativeArea><postalCode>15213-4080</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 412-622-3255</phone><electronicMailAddress>rogerss@carnegiemnh.org</electronicMailAddress><onlineUrl>http://www.carnegiemnh.org/birds/index.html</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Stephen</givenName>          <surName>Rogers</surName>
+    </individualName>
+<organizationName>Carnegie Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>4400 Forbes Ave.</deliveryPoint><city>Pittsburgh</city><administrativeArea>PA</administrativeArea><postalCode>15213-4080</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 412-622-3255</phone><electronicMailAddress>rogerss@carnegiemnh.org</electronicMailAddress><onlineUrl>http://www.carnegiemnh.org/birds/index.html</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+      <pubDate>
+      2016-12-22
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The section cares for over 187,000 specimens of birds, and a database over 206,000 records which include exchanged specimens and other specimens no longer in the collection. The most important of these are the 519 holotypes and 40 syntypes. We also care for approximately 196 extinct birds as well as specimens of many rare species collected decades if not more than a century ago. The collection on whole is ranked roughly ninth in the United States.
+
+The Carnegie Collection has over 154,000 study skins, almost 16,000 skeletons of which over 5650 have an accompanying spread wing prepared, many with tails, over 10,000 egg sets, 6760 fluid specimens, 440 flat skins and about 1250 taxidermy mounts.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.carnegiemnh.org/birds/index.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>North America – 100,896
+Countries with largest number of specimens: USA 60,796, Canada 16,400, Mexico 7,808, Costa Rica 5474, Belize 3645, Honduras 2829, Cuba 1009.
+
+South America – 58,825
+Countries with largest number of specimens: Brazil 15,933, Colombia 14,039, Venezuela 11,225, Bolivia 8222, French Guiana 4657, and Argentina 1499
+
+Africa – 14,198
+Countries with largest number of specimens: Cameroon 4457, Kenya 4398, Angola 1521, Uganda 1100, Zimbabwe 648, Tanzania 599
+
+Asia - 4592 
+Countries with largest number of specimens: Philippines 2165, China 1243
+
+Europe - 2879 	
+Countries with largest number of specimens: Yugoslavia 800, Netherlands 579, 
+
+Remainder of world – 1864
+Countries with largest number of specimens: Zealand 646, Australia 460 
+
+Within the United States the largest state collections are: Pennsylvania 16,865, California 4541, Ohio 4345, Arizona 4037, Florida 3298, Texas 3231, Oregon 2667, Maryland 2002, New Mexico 1815, Oklahoma 1744, Alaska 1694</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The entire collection is computerized. There are representatives of over 6000 bird species in the Carnegie Museum. Data records for recognized orders: 
+Tinamiformes - 553
+Rheiformes - 20
+Struthioniformes - 27
+Casuariiformes - 18
+Rheiformes - 20
+Apterygiformes - 35
+Gaviiformes - 257
+Podicipediformes - 404
+Procellariiformes - 1433
+Sphenisciformes - 107
+Pelecaniformes - 773
+Ciconiiformes - 2192
+Phoenicopteriformes - 39
+Anseriformes - 4124
+Falconiformes - 4366
+Galliformes - 3960
+Gruiformes - 1752
+Charadriiformes - 12329
+Columbiformes - 3352
+Psittaciformes - 3457
+Cuculiformes - 2121
+Strigiformes - 2134
+Caprimulgiformes - 1345
+Apodiformes - 7904
+Coliiformes - 136
+Trogoniformes - 868
+Coraciiformes - 2325
+Piciformes - 9779
+Passeriformes - 139541</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Stephen</givenName>          <surName>Rogers</surName>
+    </individualName>
+<organizationName>Carnegie Museum of Natural History</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>4400 Forbes Ave.</deliveryPoint><city>Pittsburgh</city><administrativeArea>PA</administrativeArea><postalCode>15213-4080</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 412-622-3255</phone><electronicMailAddress>rogerss@carnegiemnh.org</electronicMailAddress><onlineUrl>http://www.carnegiemnh.org/birds/index.html</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation>Rogers S (2016). CM Birds Collection. Version 9.1. Carnegie Museums. Occurrence dataset https://doi.org/10.15468/dv1ojv accessed via GBIF.org on 2020-04-22.</citation>
+              <collection>
+                <parentCollectionIdentifier>CM</parentCollectionIdentifier>
+                <collectionIdentifier>BIrds</collectionIdentifier>
+                <collectionName>CM Birds</collectionName>
+              </collection>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Study skins</jgtiUnitType>
+                      <jgtiUnits>154,064</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Taxidermy mounts</jgtiUnitType>
+                      <jgtiUnits>1,253</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Skeletons (of which 5,657 have accompanying spread wings, many including tails)</jgtiUnitType>
+                      <jgtiUnits>15,808</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Flat skins</jgtiUnitType>
+                      <jgtiUnits>440</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Fluid specimens</jgtiUnitType>
+                      <jgtiUnits>6,760</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Egg sets</jgtiUnitType>
+                      <jgtiUnits>10,171</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>holotypes</jgtiUnitType>
+                      <jgtiUnits>519</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>syntypes</jgtiUnitType>
+                      <jgtiUnits>40</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>paratypes</jgtiUnitType>
+                      <jgtiUnits>131</jgtiUnits>
+                  </jgtiCuratorialUnit>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>topotypes</jgtiUnitType>
+                      <jgtiUnits>693</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

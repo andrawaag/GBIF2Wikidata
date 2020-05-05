@@ -1,0 +1,469 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a0b41a13-be91-4800-b72b-cdd9184bf2eb"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/rhzrcp</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=coleccion_ornitologica_universidad_del_valle</alternateIdentifier>
+        <alternateIdentifier>10.15468/pigtbt</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=coleccion_ornitologica_universidad_del_valle</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=coleccion_ornitologica_universidad_del_valle</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/valle/resource.do?r=coleccion_ornitologica_universidad_del_valle</alternateIdentifier>
+        <alternateIdentifier>a0b41a13-be91-4800-b72b-cdd9184bf2eb</alternateIdentifier>
+    <title>Colección Ornitológica de la Universidad del Valle</title>
+    <creator>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Tamayo Quintero</surName>
+    </individualName>
+<organizationName>Universidad del Valle</organizationName><positionName>Estudiante</positionName>    <address>
+<deliveryPoint>Calle 13 No. 100-00 Barrio Meléndez</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>A.A. 25360</postalCode><country>COLOMBIA</country>    </address>
+<phone>321 21 00, Ext 3244</phone><electronicMailAddress>juliana.tamayo@correounivalle.edu.co.com</electronicMailAddress><onlineUrl>http://www.univalle.edu.co/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Lorena</givenName>          <surName>Cruz Bernate</surName>
+    </individualName>
+<organizationName>Universidad del Valle</organizationName><positionName>Docente y curadora</positionName>    <address>
+<deliveryPoint>Calle 13 No. 100-00 Barrio Meléndez</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>A.A. 25360</postalCode><country>COLOMBIA</country>    </address>
+<phone>321 21 00, Ext 3244</phone><electronicMailAddress>lorena.cruz@correounivalle.edu.co</electronicMailAddress><onlineUrl>http://www.univalle.edu.co/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Humberto</givenName>          <surName>Álvarez López</surName>
+    </individualName>
+<organizationName>Universidad del Valle</organizationName><positionName>Profesor retirado</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-09-12
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Las colecciones ornitológicas tienen como objetivo principal presentar un inventario de las especies de aves de la región, apoyando la investigación, docencia y difusión del conocimiento. La colección de Aves de la Universidad del Valle es de carácter científico y su función es generar, organizar y difundir información, bajo el imperativo de dejar registros imperecederos de una riqueza ornitológica inigualada en el planeta. Se han registrado hasta la fecha 5361 especímenes, estos registros corresponden a pieles disecadas de la colección de referencia, desde la familia Tinamidae a la familia Estrildidae. Toda la taxonomía se encuentra actualizada al año 2014. El 81.93% de los registros pertenecen al Valle del Cauca, mientras que, el 18.07% restante corresponde a registros de otros 21 departamentos de los cuales destacan Cauca, Caldas, Risaralda y Quindío.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colección de referencia</keyword>
+              <keyword>Colombia</keyword>
+              <keyword>Diversidad</keyword>
+              <keyword>Taxonomía</keyword>
+              <keyword>Valle del Cauca</keyword>
+              <keyword>Aves</keyword>
+              <keyword>Universidad del Valle</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>COLECCIONES</keyword>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>HISTORIA
+Una de las más antiguas y completas del país, la Colección Ornitológica del Departamento de Biología de la Universidad del Valle fue fundada por el profesor José Ignacio Borrero en 1965, en coincidencia con la gestación del Plan de de Estudios en Biología. La colección tuvo desde el principio el objetivo de servir de apoyo a la investigación y la docencia en la región, bajo el imperativo de dejar registros imperecederos de una riqueza ornitológica inigualada en el planeta.
+El núcleo inicial de la Colección estuvo constituido por especímenes colectados para efectos de identificación en proyectos de investigación sobre arbovirus en la costa del pacífico, en los Farallones de Cali, y en algunas otras regiones del país. Proyectos posteriores orientados a establecer la distribución geográfica y ecológica de las aves en el departamento del Valle contribuyeron con la mayor parte de los especímenes actuales.
+Desde 1974 la Colección Ornitológica apoya con material de demostración los cursos de Ornitología, Zoología de Vertebrados y Biología de la conservación. Para este propósito se cuenta con una Colección de Docencia integrada principalmente por especímenes donados sin información suficiente para su catalogación formal.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>De los 5361 registros, el 81.93% corresponde al departamento del Valle del Cauca, donde el municipio de Buenaventura cuenta con un total del 48.09% de los registros, Dagua cuenta con el 17.76% y el otro 34.15% se distribuye entre los municipios de Cali, Candelaria, La Cumbre, Yotoco, Jamundí, Calima, Guadalajara de Buga, El Cairo, El Cerrito, Palmira, Sevilla, Roldanillo, Yumbo, Andalucía, Obando, Ulloa, Vijes, Bugalagrande, Florida, Ginebra, Restrepo, Cartago, Ansermanuevo, Guacarí, Tuluá, Bolívar, La Unión, Toro y Trujillo. El 18.07% restante de los registros, se encuentran distribuidos en orden decreciente de número de registros en los departamentos de Cauca, Caldas, Risaralda, Quindío, Chocó, La Guajira, Antioquia, Caquetá, Nariño, Vichada, Huila, Magdalena, Casanare, Córdoba, Putumayo, Amazonas, Boyacá, Meta, Bolívar, Cundinamarca y Santander.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-81.567</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-67.864</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.71</northBoundingCoordinate>
+                      <southBoundingCoordinate>-1.384</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1957-01-23
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-05-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Hasta la fecha se cuenta con un total de 24 ordenes, 73 familias, 417 géneros y 726 especies, la mayoría de los registros se encuentran identificados a nivel de especie, excepto diez identificados hasta nivel de género. La familia mayor representada en número de registros es Thraupidae, seguida de la familia Trochilidae, Tyrannidae y Furnariidae. La taxonomía se encuentra actualizada al año 2014 según &quot;La Clasificación de especies de aves para Sur América&quot; generada por el comité de clasificación de la Unión Americana de Ornitólogos, AUO (http://www.museum.lsu.edu/~Remsen/SACCBaseline.html).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bucconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Capitonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprimulgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cardinalidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cinclidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Conopophagidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corvidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cotingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Donacobiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Estrildidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Eurypygidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Formicariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fregatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fringillidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Galbulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grallariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrobatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Incertae sedis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Momotidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctibiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Opisthocomidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pandionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pelecanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pipridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podicipedidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polioptilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Procellariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ramphastidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rhinocryptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rynchopidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapoyoidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Semnornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Steatornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Stercorariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strigidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tinamidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tityridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trogonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tytonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Las colecciones ornitológicas tienen como objetivo principal presentar un inventario de las especies de aves de la región, apoyando la investigación, docencia y difusión del conocimiento. La colección de Aves de la Universidad del Valle es de carácter científico y su función es generar, organizar y difundir información, bajo el imperativo de dejar registros imperecederos de una riqueza ornitológica inigualada en el planeta.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Lorena</givenName>          <surName>Cruz Bernate</surName>
+    </individualName>
+<organizationName>Universidad del Valle</organizationName><positionName>Docente y curadora</positionName>    <address>
+<deliveryPoint>Calle 13 No. 100-00 Barrio Meléndez</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>A.A. 25360</postalCode><country>COLOMBIA</country>    </address>
+<phone>321 21 00, Ext 3244</phone><electronicMailAddress>lorena.cruz@correounivalle.edu.co</electronicMailAddress><onlineUrl>http://www.univalle.edu.co/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los datos se almacenaron en una plantilla de excel la cual fue modificada con los estándares de la plantilla de Darwin Core, verificando exhaustivamente la digitalización de los datos y formato adecuado de ellos. Se utilizaron las herramientas de sistemas de información de biodiversidad de Canadá para el formato de las coordenadas de los registros (http://data.canadensys.net/tools/coordinates).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los especímenes registrados a la fecha, pertenecen a los departamentos de Valle del Cauca, Cauca, Caldas, Risaralda, Quindío, Chocó, La Guajira, Antioquia, Caquetá, Nariño, Vichada, Huila, Magdalena, Casanare, Córdoba, Putumayo, Amazonas, Boyacá, Meta, Bolívar, Cundinamarca y Santander. Donde el Valle del Cauca es el mayor representado en número de registros, seguido de los departamentos de Cauca, Caldas, Risaralda y Quindío.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los métodos de muestreo utilizados en la colecta de los especímenes, fueron las redes de niebla, caza directa, trampas National y red de arrastre. Algunos especímenes fueron colectados por particulares quienes al encontrarlos muertos, los donaron a la colección con sus respectivos datos.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Colección Ornitológica de la Universidad del Valle</title>
+          <personnel>
+    <individualName>
+<givenName>Lorena</givenName>          <surName>Cruz</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenio de Cooperación No. 13-13-014-242ce entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad del Valle.</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Con la financiación proporcionada por el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, se realizó la estandarización y georreferenciación de las localidades asociadas a los registros y la publicación de los mismos.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/rhzrcp">Tamayo Quintero J, Cruz Bernate L (2018). Colección Ornitológica de la Universidad del Valle. Version 8.1. Universidad del Valle. Occurrence dataset https://doi.org/10.15472/rhzrcp accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation identifier="http://www.museum.lsu.edu/~Remsen/SACCBaseline.html">Remsen, J. V., Jr., C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Pérez-Emán, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [Febrero, 2014]. A classification of the bird species of South America. American Ornithologists&apos; Union.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-uv.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>CVA-UV</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 78</collectionIdentifier>
+                <collectionName>Colección de Aves de la Universidad del Valle</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

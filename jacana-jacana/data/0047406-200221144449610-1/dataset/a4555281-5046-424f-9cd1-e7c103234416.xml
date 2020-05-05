@@ -1,0 +1,1471 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a4555281-5046-424f-9cd1-e7c103234416"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/kzn33x</alternateIdentifier>
+        <alternateIdentifier>10.15468/ydphw8</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=cvst_001</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=cvst_001</alternateIdentifier>
+        <alternateIdentifier>a4555281-5046-424f-9cd1-e7c103234416</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=cvst_001</alternateIdentifier>
+    <title>Flora y fauna asociada al hábitat del Manatí antillano en la Ciénaga de Paredes, Magdalena Medio Santandereano</title>
+    <creator>
+    <individualName>
+<givenName>Diana Gicela</givenName>          <surName>Blanco Vega</surName>
+    </individualName>
+<positionName>Profesional Especializado</positionName>    <address>
+<deliveryPoint>Avenida 7 N # 15B - 57</deliveryPoint><city>Piedecuesta</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>320--2216588</phone><electronicMailAddress>dianibv@yahoo.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Cáceres Gómez</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Asesor científico</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><electronicMailAddress>biofcaceres@gmail.com</electronicMailAddress><onlineUrl>http://www.cabildoverde.org</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Cáceres Gómez</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Asesor científico</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><electronicMailAddress>biofcaceres@gmail.com</electronicMailAddress><onlineUrl>http://www.cabildoverde.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jose Ariel</givenName>          <surName>Dueñas Cepeda</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Asesor científico</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><electronicMailAddress>arielduce@gmail.com</electronicMailAddress><onlineUrl>http://www.cabildoverde.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ana Maria</givenName>          <surName>Moncaleano</surName>
+    </individualName>
+<organizationName>Instituto Colombiano de Petroleo ECOPETROL</organizationName><positionName>Interventor Proyecto</positionName>    <address>
+<deliveryPoint>Cr 13 No. 36 - 24</deliveryPoint><city>Bogotá D.C.</city><administrativeArea>Cundinamarca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(57+1)2344000</phone><onlineUrl>http://www.ecopetrol.com.co</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Beatriz Helena</givenName>          <surName>Mojica</surName>
+    </individualName>
+<organizationName>Unidades Tecnológicas de Santander</organizationName><positionName>Docente Investigadora</positionName>    <address>
+<deliveryPoint>Calle de los Estudiantes # 9-82 Ciudadela Real de Minas</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(+57) 7 6917700</phone><electronicMailAddress>contactenos@uts.edu.co</electronicMailAddress><onlineUrl>http://www.uts.edu.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>James Murillo</givenName>          <surName>Osorio</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Administrador</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><electronicMailAddress>cabildoverde@cabildoverde.org</electronicMailAddress><onlineUrl>http://www.cabildoverde.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Edgar Daniel</givenName>          <surName>Rodríguez</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Director Proyecto</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><onlineUrl>http://www.cabildoverde.org</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jorge Virgilio</givenName>          <surName>Rivera</surName>
+    </individualName>
+<organizationName>Unidades Tecnológicas de Santander</organizationName><positionName>Docente Investigador</positionName>    <address>
+<deliveryPoint>Calle de los Estudiantes # 9-82 Ciudadela Real de Minas</deliveryPoint><city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(+57) 7 6917700</phone><electronicMailAddress>contactenos@uts.edu.co</electronicMailAddress><onlineUrl>http://www.uts.edu.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-05-10
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El conjunto de Datos cuenta con 525 registros acerca de cuatro grupos biológicos (Plantas vasculares, Aves, Mamíferos y Herpetos), generados a partir de un trabajo de investigación en el marco del Convenio Interadministrativo de Colaboración DHS-5211422: Evaluación del estado de conservación del manatí antillano (Trichechus manatus manatus) y su hábitat, como herramienta para la consolidación de estrategias de conservación y manejo sostenible de la Ciénaga de Paredes, Magdalena Medio Santandereano.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Plantas vasculares</keyword>
+              <keyword>Reptiles</keyword>
+              <keyword>Ciénaga de Paredes</keyword>
+              <keyword>Biodiversidad.</keyword>
+              <keyword>Anfibios</keyword>
+              <keyword>Conservación</keyword>
+              <keyword>Mamíferos</keyword>
+              <keyword>Aves</keyword>
+              <keyword>Manatí antillano</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Ciénaga de Paredes se encuentra en la cuenca media del río Magdalena y administrativamente ubicada en el Departamento de Santander, entre los municipios de Sabana de Torres y Puerto Wilches; a nivel cartográfico está ubicado en las coordenadas 73°46&apos;33,722&quot; de longitud oeste y  7°26&apos;59,09&quot; de latitud norte, a una altura de 75 m. Tiene una extensión aproximada de  1.707,52 hectáreas y un perímetro de 57.618 metros aproximadamente, no obstante su área y extensión depende considerablemente del régimen climático de la región. Pertenece a la cuenca hídrica de la quebrada denominada la Gómez, la cual presenta 6 drenajes principales y mantiene una extensión aproximada de 54.706,6 Hectáreas.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.778</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.34</eastBoundingCoordinate>
+                      <northBoundingCoordinate>7.499</northBoundingCoordinate>
+                      <southBoundingCoordinate>7.422</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-03-08
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-03-16
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Las formaciones vegetales que constituyen el paisaje característico de la Ciénaga de Paredes pueden ser divididas en cinco grupos, se puede distinguir vegetación acuática, bosques de galería, rastrojos, bosques húmedos y agroecosistemas. Los cordones de vegetación riparia se hallan bordeando las orillas del Caño Peruétano (efluente) y la periferia del espejo de agua (sectores del Hato, Bodega y Campo Duro). Su composición florística es diversa, con predominancia de Fabacéas, aunque presenta especies dominantes tal es el caso de la uvita gallinaza (Bactris brongniartii), mamón cienaguero (Licania apetala), guamo macho (Zygia longifolia), vara santa (Triplaris americana), coco (Lecythis sp) y cedro macho (Guarea kunthiana).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Guarea kunthiana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Entada gigas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ludwigia sedioides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eichhornia crassipes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Inga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ludwigia helminthorrhiza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centrosema pubescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Persicaria hispida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chrysobalanus icaco</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mabea occidentalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Protium calanense</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Banisteriopsis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cordia gerascanthus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lecythis tuyrana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mascagnia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cuspidaria inaequalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Subtribe</taxonRankName>
+                        <taxonRankValue>Cymbosema</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Inga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Cissus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Mandevilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyperus luzulae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Melochia parvifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xylopia polyantha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Struthanthus orbicularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zygia longifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vochysia lehmannii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psittacanthus corynocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Erythroxylum cataractarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Licania apetala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xylopia aromatica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Swartzia amplifolia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>En la ciénaga de Paredes, con relación a los anfibios, se reconocieron 52 especies agrupadas en 16 familias y 45 géneros (Caicedo &amp; Cáceres 2006; Cabildo Verde 2006, 2008), entre las cuales se encontraron dos nuevas especies y 3 nuevos reportes de distribución geográfica.  Se logró establecer una relación entre la biodiversidad (riqueza) de anfibios y las características de hábitat, evidenciándose baja biodiversidad en zonas donde las coberturas boscosas presentaron cambios drásticos como potrerización, monocultivos (especialmente palma de aceite), tala selectiva, y en general impactos relacionados con la pérdida de heterogeneidad espacial y desecación de cuerpos de agua por los cambios en el uso del suelo.
+En el caso de los reptiles, se observó mayor representatividad  de la familia Colubridae. Los datos se comparan con otros estudios del Magdalena medio hallándose que la biodiversidad del área de estudio es alta y significativamente representativa de la fauna reptiliana del Magdalena medio y las zona norte del país.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhinella marina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinella granulosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinella margaritifera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Craugastor raniformis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hyalinobatrachium fleischmanni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrobates truncatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas crepitans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas pugnax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas boans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendropsophus microcephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendropsophus ebraccatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phyllomedusa venusta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pseudis paradoxa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scinax rostratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scinax ruber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus colombiensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus fuscus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus bolivianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus fragilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus savagei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pleurodema brachyops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Engystomops pustulosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pseudopaludicola pusilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elachistocleis pearsei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lithobates vaillanti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bolitoglossa lozanoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Boa constrictor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Epicrates maurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Epicrates cenchria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Clelia clelia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Enuliophis sclateri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodeira septentrionalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptophis ahaetulla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mastigodryas boddaerti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ninia atrata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oxyrhopus petola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oxybelis aeneus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Liophis lineatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Liophis melanotus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Imantodes cenchoa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pseudoboa neuwiedii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Helicops danieli</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pseustes shropshirei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bothrops asper</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porthidium lansbergii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Iguana iguana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Basiliscus basiliscus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Basiliscus galeritus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Norops auratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Norops tropidogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gonatodes albogularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thecadactylus rapicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bachia bicolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tretioscincus bifasciatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leposoma rugiceps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cnemidophorus lemniscatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ameiva ameiva</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ameiva festiva</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tupinambis teguixin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crocodylus acutus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trachemys scripta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinoclemmys melanosterna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Kinosternon leucostomum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Geochelone carbonaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Podocnemis lewyana</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los estudios realizados en la Ciénaga de Paredes sobre la biodiversidad faunística de la región señalan la presencia de 200 especies de aves, agrupadas en 51 familias y 155 géneros siendo las familias más representativas Tyrannidae (12%), Trochilidae (6%), Traupidae (5%) e Icteridae (5%). Igualmente se registran 15 especies migratorias boreales, así como la presencia de 2 especies con categorías de amenaza a nivel mundial.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crypturellus soui</taxonRankValue>
+                          <commonName>Gallineta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                          <commonName>Pato yuyo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                          <commonName>Pato aguja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                          <commonName>Garza morena</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                          <commonName>Garza común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta thula</taxonRankValue>
+                          <commonName>Garza blanca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta caerulea</taxonRankValue>
+                          <commonName>Garza</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                          <commonName>Garza del ganado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                          <commonName>Garza</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pilherodius pileatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nycticorax nycticorax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tigrisoma lineatum</taxonRankValue>
+                          <commonName>Garza estriada</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mycteria americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jabiru mycteria</taxonRankValue>
+                          <commonName>Garza soldado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phimosus infuscatus</taxonRankValue>
+                          <commonName>Caracolero rojo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mesembrinibis cayennensis</taxonRankValue>
+                          <commonName>Caracolero negro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Platalea ajaja</taxonRankValue>
+                          <commonName>Pato cucharo, espátula</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chauna chavaria</taxonRankValue>
+                          <commonName>Chavarry</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna autumnalis</taxonRankValue>
+                          <commonName>Pisingo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna viduata</taxonRankValue>
+                          <commonName>Pato cariblanco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna bicolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anas discors</taxonRankValue>
+                          <commonName>Pato</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                          <commonName>Chulo carirojo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                          <commonName>Chulo negro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes burrovianus</taxonRankValue>
+                          <commonName>Chulo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sarcoramphus papa</taxonRankValue>
+                          <commonName>Rey Gallinazo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gampsonyx swainsonii</taxonRankValue>
+                          <commonName>Gavilán</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ictinia plumbea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rostrhamus sociabilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteo magnirostris</taxonRankValue>
+                          <commonName>Gavilán gris</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteo albonotatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Busarellus nigricollis</taxonRankValue>
+                          <commonName>Águila pescadora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus  meridionalis</taxonRankValue>
+                          <commonName>Águila común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Circus buffoni</taxonRankValue>
+                          <commonName>Águila pescadora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pandion haliaetus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                          <commonName>Pigua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caracara plancus</taxonRankValue>
+                          <commonName>Tragahumo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Falco femoralis</taxonRankValue>
+                          <commonName>Gavilán pollero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Falco sparverius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ortalis guttata columbiana</taxonRankValue>
+                          <commonName>Guacharaca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colinus cristatus</taxonRankValue>
+                          <commonName>Perdíz común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aramides cajanea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porphyrio martinica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                          <commonName>Gallito de ciénaga</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Himantopus mexicanus</taxonRankValue>
+                          <commonName>Chorlo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Actitis macularius</taxonRankValue>
+                          <commonName>Chorlo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa solitaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa melanoleuca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaetusa simplex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sternula superciliaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas  cayennensis</taxonRankValue>
+                          <commonName>Tórtola</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Columbina minuta</taxonRankValue>
+                          <commonName>Abuelita de monte</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Columbina talpacoti</taxonRankValue>
+                          <commonName>Abuelita</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptotila verreauxi</taxonRankValue>
+                          <commonName>Rabiblanca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Geotrygon montana</taxonRankValue>
+                          <commonName>Paloma de monte</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ara ararauna</taxonRankValue>
+                          <commonName>Guacamaya</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aratinga pertinax</taxonRankValue>
+                          <commonName>Cotorra carisucia</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Forpus conspicillatus</taxonRankValue>
+                          <commonName>Periquito aliazul</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Brotogeris jugularis</taxonRankValue>
+                          <commonName>Perico</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazona amazonica</taxonRankValue>
+                          <commonName>Lora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piaya cayana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coccycua minuta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tapera naevia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga ani</taxonRankValue>
+                          <commonName>Cocinera pequeña</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga major</taxonRankValue>
+                          <commonName>Cocinera grande</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megascops choliba</taxonRankValue>
+                          <commonName>Búho</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctibius griseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caprimulgus cayennensis</taxonRankValue>
+                          <commonName>Guardacaminos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Streptoprocne zonaris</taxonRankValue>
+                          <commonName>Golondrina</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glaucis hirsutus</taxonRankValue>
+                          <commonName>Quincha</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaethornis anthophilus</taxonRankValue>
+                          <commonName>Quincha rabiblanca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Momotus momota</taxonRankValue>
+                          <commonName>Barranquero, turrón</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle amazona</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle aenea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Galbula ruficauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypnelus ruficollis</taxonRankValue>
+                          <commonName>Pancho bobo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pteroglossus torquatus</taxonRankValue>
+                          <commonName>Tucán papayero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Picumnus olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colaptes punctigula</taxonRankValue>
+                          <commonName>Carpintero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Melanerpes rubricapillus</taxonRankValue>
+                          <commonName>Carpintero común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dryocopus lineatus</taxonRankValue>
+                          <commonName>Carpintero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocincla fuliginosa</taxonRankValue>
+                          <commonName>Trepatroncos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xiphorhynchus picus</taxonRankValue>
+                          <commonName>Trepatroncos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glyphorynchus spirurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Furnarius leucopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Certhiaxis cinnamomeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thamnophilus nigriceps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sakesphorus canadensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Formicivora grisea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cercomacra nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Manacus manacus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pachyramphus cinnamomeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mionectes oleagineus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptopogon amaurocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                          <commonName>Atrapamoscas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tolmomyias sulphurescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Todirostrum cinereum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oncostoma olivaceum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Machetornis rixosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Fluvicola pica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pyrocephalus rubinus</taxonRankValue>
+                          <commonName>Cardenal</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Attila spadiceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Attila spadiceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiodynastes maculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiarchus tuberculifer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megarynchus pitangua</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiozetetes cayanensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                          <commonName>Bichofue</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus melancholicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhynchocyclus olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Progne chalybea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Stelgidopteryx ruficollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachycineta albiventer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hirundo rustica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Petrochelidon pyrrhonota</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Riparia riparia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyanocorax affinis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vireo olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vireo flavoviridis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hylophilus flavipes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Campylorhynchus griseus</taxonRankValue>
+                          <commonName>Puchiga</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Campylorhynchus nuchalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Turdus leucomelas</taxonRankValue>
+                          <commonName>Mirla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus ustulatus</taxonRankValue>
+                          <commonName>Mirla buchipecosa</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Donacobius atricapilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Protonotaria citrea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vermivora peregrina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendroica castanea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendroica petechia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eucometis penicillata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphocelus dimidiatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dacnis cayana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyanerpes cyaneus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachyphonus luctuosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saltator maximus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saltator striatipectus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sicalis flaveola</taxonRankValue>
+                          <commonName>Canario</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oryzoborus funereus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporophila minuta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Volatinia jacarina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporophila schistacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oryzoborus crassirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coereba flaveola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Euphonia laniirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Molothrus bonariensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Molothrus oryzivorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chrysomus icterocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sturnella militaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Icterus nigrogularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cacicus cela</taxonRankValue>
+                          <commonName>Arrendajo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psarocolius decumanus</taxonRankValue>
+                          <commonName>Mochilero</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los diferentes estudios realizados en la Ciénaga de Paredes muestran que los mamíferos han sido poco estudiados, aún así se registran 40 especies, distribuidas en 26 familias y 36 géneros, con dominancia del Orden Quiróptera. Se destacan especies como Manatí, Marteja, Nutria de río, 
+Tigre, jaguar, Mono cariblanco, Tigrillo, Peresoso gris, Zorro perruno, entre otras. La mayoría con presiones de caza y reducción de su hábitat natural, para el caso de mamíferos acuáticos como la nutria de río, los fenómenos de eliminación de coberturas boscosas y la contaminación constante del agua, afectaron la distribución de la especie y el tamaño de sus poblaciones.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bradypus variegatus</taxonRankValue>
+                          <commonName>Perezoso gris</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Choloepus hoffmanni</taxonRankValue>
+                          <commonName>Trompa de ternero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dasypus novemcinctus</taxonRankValue>
+                          <commonName>Gurre, armadillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tamandua mexicana</taxonRankValue>
+                          <commonName>Oso hormiguero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Didelphis marsupialis</taxonRankValue>
+                          <commonName>Ratofara</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sciurus granatensis</taxonRankValue>
+                          <commonName>Ardita</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coendou prehensilis</taxonRankValue>
+                          <commonName>Puerco espín</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hydrochaeris hydrochaeris</taxonRankValue>
+                          <commonName>Ponche</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dasyprocta punctata</taxonRankValue>
+                          <commonName>Ñeque</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cuniculus paca</taxonRankValue>
+                          <commonName>Tinajo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sylvilagus brasiliensis</taxonRankValue>
+                          <commonName>Conejo de monte</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aotus griseimembra</taxonRankValue>
+                          <commonName>Marteja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cebus albifrons</taxonRankValue>
+                          <commonName>Mono cariblanco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                          <commonName>Mono cotudo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tayassu tajacu</taxonRankValue>
+                          <commonName>Chacharo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Puma yagouaroundi</taxonRankValue>
+                          <commonName>Gato pardo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leopardus pardalis</taxonRankValue>
+                          <commonName>Tigrillo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Panthera onca</taxonRankValue>
+                          <commonName>Tigre</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cerdocyon thous</taxonRankValue>
+                          <commonName>Zorro perruno</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lontra longicaudis</taxonRankValue>
+                          <commonName>Nutria</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eira barbara</taxonRankValue>
+                          <commonName>Comadreja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Procyon cancrivorus</taxonRankValue>
+                          <commonName>Mapache</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Potos flavus</taxonRankValue>
+                          <commonName>Maco, perro de monte</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trichechus manatus</taxonRankValue>
+                          <commonName>Manatí</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Noctilio leporinus</taxonRankValue>
+                          <commonName>Murciélago pescador</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>El Propósito de la publicación del conjunto de Metadatos de Fauna y Flora asociada al Hábitat del Manatí Antillano en la Ciénaga de Paredes, Magdalena Medio Santandereano, es la socialización y visibilización de los resultados del trabajo de investigación realizado, permitiendo aportar bases científicas a las instituciones competentes y a la comunidad en general para la conservación tanto del Manatí antillano como de toda la Biodiversidad que se encuentra en esta región del país.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Cáceres Gómez</surName>
+    </individualName>
+<organizationName>Cabildo Verde de Sabana de Torres</organizationName><positionName>Asesor científico</positionName>    <address>
+<deliveryPoint>Carrera 11# 14 - 75</deliveryPoint><city>Sabana de Torres</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>097-6293055</phone><electronicMailAddress>biofcaceres@gmail.com</electronicMailAddress><onlineUrl>http://www.cabildoverde.org</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Plantas Vasculares: Recorrido por el área de estudio con observaciones ad hoc durante 10 horas, registro de notas de campo con características morfológicas, reproductivas y hábitat para ca muestra, así como descripción de la ubicación(localidad, coordenadas, altitud).
+Herpetofauna: Recorrido por el área de estudio con observaciones ad hoc durante 8 horas, descripción de hábitat y ubicación. Apoyo en bibliografía para corroborar la determinación de las especies observadas.
+Aves: Recorrido por el área de estudio con observaciones ad hoc durante 60 horas, en donde se tomaron los respectivos datos de campo y se corroboró con información de otros estudios adelantados en años anteriores.
+Mamíferos: Recorrido por el área de estudio con observaciones ad hoc durante 120 horas, registro de hábitat, localidad, entre otros, comparación con registros en la literatura.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Ciénaga de Paredes pertenece al Valle Medio de la Cuenca del Río Magdalena y está localizada entre los municipios de Puerto Wilches y Sabana de Torres al noreste del Departamento de Santander, aproximadamente a 7º26’ de Latitud Norte y 73º45’de Longitud Oeste, a una altura de 75 m. Tiene un área aproximada de 1.431 hectáreas y es considerada como un cuerpo cenagoso de segundo orden, pues el río efluente es un tributario del río principal en este caso el río Magdalena. Su principal canal de abastecimiento es la quebrada La Gómez y se encuentra conectada al río Lebrija por el Caño Peruétano.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para complementar algunos vacíos de información y verificarla, se realizó un semana trabajo de campo con un equipo de profesionales biólogos especializados en los diferentes grupos faunísticos, botánico y sociólogo, quienes aplicaron las metodologías de muestro recomendada por el Instituto Humboldt.  La metodología utilizada para todos los grupos (plantas vasculares, aves, mamíferos y herpetofauna)consistió en Observación ad hoc por parte de especialista de cada uno de los grupos.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para la caracterización del componente biótico de la Ciénaga de Paredes, se tuvieron en cuenta los estudios de levantamientos primarios de información biótica, tesis, investigaciones de organismos competentes como la CAS, el Instituto Humboldt y documentos técnicos y científicos generados y gestionados por Cabildo Verde de Sabana de Torres alrededor del área de estudio. Así mismo, se tuvo en cuenta los reportes que diferentes universidades han generado durante exploraciones y salidas de campo realizadas a los principales ecosistemas de Sabana de Torres; entre las principales se tiene Las Unidades Tecnológicas de Santander (UTS), la Universidad Industrial de Santander (UIS) y la Universidad Nacional de Colombia (UNAL).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>EVALUACIÓN DEL ESTADO DE CONSERVACIÓN DEL MANATÍ ANTILLANO (Trichechus manatus manatus) Y SU HÁBITAT, COMO HERRAMIENTA PARA LA CONSOLIDACIÓN DE ESTRATEGIAS DE CONSERVACIÓN Y MANEJO SOSTENIBLE DE LA CIÉNAGA DE PAREDES, MAGDALENA MEDIO SANTANDEREANO</title>
+          <personnel>
+    <individualName>
+<givenName>Edgar Daniel</givenName>          <surName>Rodríguez</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>La Fuente de financioación se específica en la clausula cuarta del CONVENIO INTERADMINISTRATIVO DE COLABORACIÓN DHS-5211422 de 2012. En donde se especifica los aportes de cada una de las entidades participantes: Ecopetrol, Las Unidades Tecnológicas de Santander (Entidad Pública) y  El Cabildo Verde de Sabana de Torres (Entidad Privada) . ECOPETROL- CABILDO VERDE - UNIDADES TECNOLÓGICAS DE SANTANDER.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La Ciénaga de Paredes se encuentra en la cuenca media del Río Magdalena y administrativamente ubicada en el Departamento de Santander, entre los municipios de Sabana de Torres y Puerto Wilches; a nivel cartográfico está ubicado en las coordenadas 73°46&apos;33,722&quot; de longitud oeste y  7°26&apos;59,09&quot; de latitud norte, a 75 m de altura.  Tiene una extensión aproximada de  1.707,52 hectáreas y un perímetro de 57.618 metros aproximadamente, no obstante su área y extensión depende considerablemente del régimen climático de la región. Pertenece a la cuenca hídrica de la quebrada La Gómez, la cual presenta 6 drenajes principales y mantiene una extensión aproximada de 54.706,6 Hectáreas.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El Proyecto consiste en una revisión y síntesis de los diferentes estudios físicos, bióticos y sociales realizados en la ciénaga de Paredes (Santander) en los últimos 15 años, como herramienta para ilustrar el estado actual de conservación así como las principales presiones y problemáticas que enfrenta el hábitat del manatí antillano (Trichechus manatus manatus).  Los estudios citados han contado con el  apoyo financiero de instituciones públicas y privadas interesadas en la conservación y sostenibilidad de este importante ecosistema, sustento económico de familias pescadoras y hábitat de numerosas especies de fauna y flora silvestres algunas de ellas amenazadas de extinción.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:47Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/kzn33x">Blanco Vega D G, Cáceres Gómez L F (2019). Flora y fauna asociada al hábitat del Manatí antillano en la Ciénaga de Paredes, Magdalena Medio Santandereano. Version 4.2. Cabildo Verde de Sabana de Torres. Occurrence dataset https://doi.org/10.15472/kzn33x accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Amat, G., G. Stiles., Lynch, J., J. Muñoz., Cáceres, L.F., F. Pérez, &amp; Caicedo, R. 2007. Fauna del Magdalena Medio: Mini guías de Campo, Serie de Mini guías del Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá Colombia</citation>
+      <citation>Análisis Preliminar Del Estado De Conservación Del Ecosistema Cenagoso De Paredes, Con Mayor Interés En La Fauna Ictiológica Y Su Aprovechamiento, Involucrando La Participación De La Comunidad Ribereña, Como Herramienta De Gestión Para Generar Su Uso Sostenible. Año 2011</citation>
+      <citation>APHA-AWWA-WPCF; APHA (American Public Health Association), AWWA (American Water Works Association) y WPCF (Water Pollution Control Federation), en el Standard Methods Edición 21 (2005)</citation>
+      <citation>Arévalo – González, G.K. 2010. Tamaño poblacional y percepción sociocultural del manatí antillano Trichechus manatus manatus en la Ciénaga de Paredes (Santander, Colombia) en época seca. Tesis de pregrado Biología, Universidad Nacional de Colombia, Bogotá</citation>
+      <citation>Arraut, e. M., m. Marmontel, j. E. Mantovani, e. M.l.m. Novo, d.w. Macdonald y r. E. Kenward. 2010. The lesser of two evils: seasonal migrations of Amazonian manatees in the Western Amazon. Journal of Zoology 280 (2010) 247–256.</citation>
+      <citation>Barón-Rodríguez, María m.; Gavilán-Díaz, Rosa a. Y Ramírez Restrepo, John J. 2006. Variabilidad espacial y temporal en la comunidad de cladóceros de la Ciénaga de Paredes (Santander, Colombia) a lo largo de un ciclo anual. Limnetica, 25 (3). Pág 623-636.</citation>
+      <citation>Benjumea, L.S. 2008. Distribución, dieta y hábitat de la nutria neo tropical Lontra longicaudis, en el magdalena medio santandereano. Proyecto de grado para optar al titulo de Bióloga de la UIS.</citation>
+      <citation>Bisby Fa, Roskov Yr, Orrell Tm, Nicolson D, Paglinawan Le, Bailly N, Kirk Pm, Bourgoin T, Baillargeon G., Eds (2009). Species 2000 &amp; ITIS Catalogue of Life: 3rd January 2011. Annual Checklist. Digital resource at www.catalogueoflife.org. Species 2000: Reading, UK. [Consultado entre 03-2012 y 06-2012]</citation>
+      <citation>Bouchard, R.W. Jr. 2004. Guide to aquatic macroinvertebrates of the Upper Midwest. Water Resources Center, University of Minnesota, St. Paul, MN. 208 pp</citation>
+      <citation>Cabildo Verde de Sabana de Torres. 2006. Estudios básicos para la reglamentación de corrientes de la subcuenca de la quebrada la Gómez, Sabana de Torres. Convenio DRI 102-05 Entre ECOPETROL S.A, Cabildo Verde, CAS y Municipio de Sabana de Torres.</citation>
+      <citation>Cabildo Verde de Sabana de Torres. 2008. Plan de manejo integral y gerencia de la Ciénaga de Paredes -  Proyecto LPMM-2005-L3-41.</citation>
+      <citation>Cáceres- Gómez L.F., J.R, Caicedo &amp; Pérez F.J. 2006. Anfibios asociados al Complejo Cenagoso de Paredes y su Cuenca Abastecedora. Libro de Resúmenes del II Congreso Colombiano de Zoología.</citation>
+      <citation>Cáceres, LF; A. Dueñas-C. Equipo Técnico Cabildo Verde de Sabana de Torres.2008. Plan de ordenamiento de las cuencas hidrográficas del bajo Lebrija, en Sabana de Torres. Componente Biótico.</citation>
+      <citation>Caicedo, J.R. &amp; L.F, Cáceres. 2006. Caracterización preliminar de la fauna reptiliana en la Reserva Natural Cabildo Verde, Sabana de Torres. Libro de Resúmenes del II Congreso Colombiano de Zoología.</citation>
+      <citation>Cano-Manuel, J., M. León, J. E. Granados, A. Castillo, E. Serrano, J. M.ª Pérez, R. C. Soriguer, P. Fandos., 2007.  Nuevas tecnologías aplicadas al seguimiento de ungulados silvestres en Sierra Nevada: collares GPS-GSM. Biodiversidad y conservación de fauna y flora en ambientes mediterráneos (2007), Sociedad Granatense de Historia Natural, págs. 691-705.</citation>
+      <citation>Castelblanco, N., V. Holguín &amp; Zapata, J.M.Conservación y manejo del manatí en la Ciénaga de Paredes (Santander). En Programa Nacional de manejo y conservación de manatíes en Colombia – Ministerio de Medio Ambiente – 2005.</citation>
+      <citation>Corzo, G., M, Londoño; Ramírez, W; H, García; Lasso, C &amp; B, Salamanca. 2010. Planeación ambiental para la conservación de la biodiversidad en áreas operativas de ECOPETROL localizadas en el Magdalena Medio y los Llanos orientales de Colombia.</citation>
+      <citation>Fernández, Fernando; ANDRADE, M. y AMAD, Germán (Editores). 2004. Insectos de Colombia Volumen tres. Eds Fernando Fernández-C, M. Gonzalo Andrade-C., Germán Amad-G. – Bogotá: Universidad Nacional de Colombia. 2004. 604p</citation>
+      <citation>Fundación Omacha - Ministerio de Medio Ambiente. 2010.  Programa Nacional de manejo y conservación de manatíes en Colombia</citation>
+      <citation>Garzón Sanabria, C., &amp; E. Realpe. 2009.  Diversidad de Odonata (Insecta) en la reserva natural Cabildo Verde (Sabana de Torres, Santander, Colombia), una aproximación hacia la conservación. Caldasia [online]. 2009, vol.31, n.2, pp. 459-470. Issn 0366-5232.</citation>
+      <citation>Gau, R. J., R. Mulders, L. M. Ciarniello, D. C. Heard, C. L. B. Chetkiewicz, M. Boyce, R. Munro, G. Stenhouse, B. Chruszcz, M. L. Gibeau, B. Milakovic, and K. L. Parker. 2004. Uncontrolled field performance of Televilt GPS-Simplex™ collars on grizzly bears in western and northern Canada. Wildlife Society Bulletin, 32(3):693–701</citation>
+      <citation>Margalef, R. 1993. Limnología. Barcelona. Ediciones Omega. S.A. 1010 p.</citation>
+      <citation>Montenegro, M. 1995. Evaluación ambiental de la Ciénaga de Paredes, Sabana de Torres, Santander, como hábitat para fauna silvestre, con especial énfasis en el manatí (Trichechus manatus), Fundación para la Promoción de la Investigación y la Tecnología. Inderena: 74</citation>
+      <citation>Morales V. B., A. Ortega A., J. Padilla S. y R. K. Bonde, 1997. Monitoreo de manatíes marcados con radiotransmisores en Quintana Roo. En: Morales Vela, J. B. y L. Medrano González.1999. Variación genética del manatí (Trichechus manatus), en el sureste de México y monitoreo con radio-transmisores en Quintana Roo. El Colegio de la Frontera Sur, Unidad Chetumal. Informe final SNIB-CONABIO proyecto No. H164. México D. F.</citation>
+      <citation>Morales-Vela, B., and J. Padilla-Saldivar. 2009. Demografía, ecología y salud de la población de manatíes (Trichechus manatus manatus) en Quintana Roo, y su variación y representación genética en México. Informe Técnico Final. Proyecto SEMARNAT/CONACYT 2002-C01-1128. 273 pp.</citation>
+      <citation>Moreno, Claudia E. 2001.  Métodos para medir la biodiversidad. M&amp;T–Manuales y Tesis SEA, vol. 1. Zaragoza, 84 pp. Centro de Investigaciones Biológicas, Universidad Autónoma del Estado de Hidalgo, Apartado Postal 69 Plaza Juárez, Pachuca, Hidalgo, 42001, MÉXICO. En:  http://entomologia.rediris.es/sea/manytes/metodos.pdf</citation>
+      <citation>Pinilla, Gabriel. 2000. Indicadores biológicos de ecosistemas acuáticos continentales de Colombia. Fundación Universidad de Bogotá Jorge Tadeo Lozano. Centro de investigaciones científicas. Santafé de Bogotá, Colombia. 67 p.</citation>
+      <citation>Quijano López, Rocío. Sin año. Evolución sistemática de los nematodos (subfamilia Qudsianematinae). Centro Asociado de la provincia de Jaén “Andrés de Vandelvira”. UNED. Biológicas. Pág: 21-34. Versión On Line: http://www.uned.es/ca-jaen-ubeda/ficheros/magina10/rocio%20quijano.pdf, Consultado en Junio de 2012.</citation>
+      <citation>Roldán Pérez, Gabriel y Ramírez Restrepo, John Jairo. 2008. Fundamentos de limnología neotropical. 2ª Edición. Colección Ciencia y Tecnología. Editorial Universidad de Antioquia. Colombia. Agosto 2008.</citation>
+      <citation>Roldan Pérez, Gabriel; 2003. Bioindicación de la calidad del agua en Colombia, Uso del método BWMP/Co; Editorial Universidad Antioquia; Antioquia – Medellín; Colección de Ciencia y Tecnología Junio de 2003</citation>
+      <citation>Ruiz-Moreno, Jeanet Liliana; OSPINA-TORRES, Rodulfo y RISS, Wolfgang. 2000. Guía para la identificación genérica de larvas de quironómidos (Díptera: Chironomidae) de la Sabana de Bogotá. II Subfamilia Chironominae. Caldasia 22 (1): 15-33.</citation>
+      <citation>Werner T. M., 2008. The ecology of the lowland tapir in Madre de Dios, Perú: using new technologies to study large rainforest mammals. Texas A&amp;M University.</citation>
+      <citation>Villota Hugo, 2005; Geomorfología aplicada a levantamientos edafológicos y zonificación física de tierras; Instituto geográfico Agustin Codazzi.</citation>
+      <citation>Villota Hugo. 1997 Una nueva aproximación a la clasificación Fisiográfica del terreno. En Revista CIAF. Vol. 15 No. 1. IGAC. Bogotá.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-cabildo-verde.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

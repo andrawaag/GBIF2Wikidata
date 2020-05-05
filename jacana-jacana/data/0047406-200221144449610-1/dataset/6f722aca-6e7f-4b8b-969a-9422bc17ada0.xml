@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6f722aca-6e7f-4b8b-969a-9422bc17ada0"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/1sph1w</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=unillanos_tnc_aves_ganaderia</alternateIdentifier>
+    <title>Aves en fincas ganaderas sostenibles del Meta</title>
+    <creator>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales-Rozo</surName>
+    </individualName>
+<organizationName>Unillanos</organizationName><positionName>Profesor</positionName>    <address>
+<city>Villavicencio</city><country>COLOMBIA</country>    </address>
+      <userId directory="https://scholar.google.com/citations?user=">wmz4jLUAAAAJ&amp;hl=en</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Montoya Arango</surName>
+    </individualName>
+<organizationName>Unillanos</organizationName><positionName>Contratista</positionName>    <address>
+<city>Medellín</city><administrativeArea>Antioquia</administrativeArea><postalCode>055450</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sergioama123@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Lizcano</surName>
+    </individualName>
+<organizationName>The Nature Conservancy</organizationName><positionName>Biodiversity Specialist</positionName>    <address>
+<deliveryPoint>Calle 67 No. 7-94, Piso 3. Torre Colfondos</deliveryPoint><city>Bogota, Colombia</city><administrativeArea>DC</administrativeArea><postalCode>110211</postalCode><country>COLOMBIA</country>    </address>
+<phone>3202818712</phone><electronicMailAddress>diego.lizcano@tnc.org</electronicMailAddress><onlineUrl>http://dlizcano.github.io/</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-9648-0576</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Docente ocasional</positionName>    <address>
+<deliveryPoint>km 12 vía Pto. López, Villavicencio, Meta, COLOMBIA</deliveryPoint><city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>amoralesrozo@unillanos.edu.co</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">wmz4jLUAAAAJ&amp;hl=en</userId>
+    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-23
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>En este conjunto de datos se incluyen los registros de aves por medios de puntos de conteo y recorridos libres, provenientes de cinco fincas ganaderas ubicadas en los municipios de San Luis de Cubarral y el Dorado, del departamento del Meta. El conjunto de datos está conformado por 1183 registros, 2481 individuos pertenecientes a 140 géneros y 183 especies, provenientes de los muestreos y observaciones de aves en sistemas silvopastoriles de Cubarral, Meta, los cuales hacen parte de la Consultoría:  TERCERA MEDICIÓN DE BIODIVERSIDAD (AVES Y ESCARABAJOS) EN EL DEPARTAMENTO DEL META Y REALIZAR ESTUDIO DE SERVICIOS ECOSISTÉMICOS ASOCIADOS A MURCIÉLAGOS INSECTÍVOROS EN SISTEMAS SILVOPASTORILES Y DE GANADERÍA CONVENCIONAL DEL PIEDEMONTE LLANERO COLOMBIANO, entre The Nature Conservancy (TNC) y la Universidad de los Llanos. Esta consultoría formó parte del desarrollo del proyecto “Ganadería Colombiana Sostenible”.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>ganadería convencional</keyword>
+              <keyword>ganadería sostenible</keyword>
+              <keyword>silvopastoril</keyword>
+              <keyword>orinoquía</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>NA</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://www.nature.org/es-us/sobre-tnc/donde-trabajamos/tnc-en-latinoamerica/colombia/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Cubarral, San Martin y municipios vecinos</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.894</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.254</eastBoundingCoordinate>
+                      <northBoundingCoordinate>3.993</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.453</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2019-11-03
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-27
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Para cinco fincas con sistemas de ganadería tradicional y silvopastoril se establecieron en total 54 puntos de conteo que fueron visitados durante 10 minutos en cuatro ocasiones. En total se acumularon 37,3 horas netas de observación sistemática, los cuales de manera complementaria con observaciones ad hoc acumularon 1183 registros, para un total de 183 especies de aves, pertenecientes a 23 órdenes y 49 familias. Utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2019).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>En la Orinoquía colombiana la frontera agrícola está en constante crecimiento, generando cambios en los usos del suelo y la biodiversidad asociada. Una estrategia para la conservación de la biodiversidad podría ser la implementación de sistemas silvopastoriles. Se realizó un inventario de la avifauna asociada sistemas de ganadería convencional y silvopastoril (potreros arbolados, cercas vivas, bosque) en cinco fincas del piedemonte Llanero, Meta en el mes de noviembre de 2019. Se evaluó la diversidad alfa y beta y se reportan algunas especies de aves importantes para el control de insectos. Se registraron un total de 183 especies de aves, en los sistemas silvopastoriles, en particular el bosque presentó la mayor diversidad alfa, seguido de los potreros arbolados y las cercas vivas. En cuanto a la diversidad beta, los poteros arbolados, cercas vivas, y sistemas convencionales presentaron una similitud del 63%, mientras que el bosque tiene una composición diferente de especies. La implementación de SSP ayuda al mantenimiento de la diversidad de aves locales y los servicios ecosistémicos que estas prestan.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Lizcano</surName>
+    </individualName>
+<organizationName>The Nature Conservancy</organizationName><positionName>Biodiversity Specialist</positionName>    <address>
+<deliveryPoint>Calle 67 No. 7-94, Piso 3. Torre Colfondos</deliveryPoint><city>Bogota, Colombia</city><administrativeArea>DC</administrativeArea><postalCode>110211</postalCode><country>COLOMBIA</country>    </address>
+<phone>3202818712</phone><electronicMailAddress>diego.lizcano@tnc.org</electronicMailAddress><onlineUrl>http://dlizcano.github.io</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-9648-0576</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Lizcano</surName>
+    </individualName>
+<organizationName>The Nature Conservancy</organizationName><positionName>Biodiversity Specialist</positionName>    <address>
+<deliveryPoint>Calle 67 No. 7-94, Piso 3. Torre Colfondos</deliveryPoint><city>Bogota, Colombia</city><administrativeArea>DC</administrativeArea><postalCode>110211</postalCode><country>COLOMBIA</country>    </address>
+<phone>3202818712</phone><electronicMailAddress>diego.lizcano@tnc.org</electronicMailAddress><onlineUrl>http://dlizcano.github.io</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-9648-0576</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales-Rozo</surName>
+    </individualName>
+<organizationName>Unillanos</organizationName><positionName>Profesor</positionName>    <address>
+<city>Villavicencio</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>amoralesrozo@unillanos.edu.co</electronicMailAddress>      <userId directory="https://scholar.google.com/citations?user=">wmz4jLUAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1) Establecimiento de puntos de conteo con un diseño sistemático que permitiera comparar los sistemas silvopastoriles con el sistema de ganadería tradicional.
+2) Entre las 6:00am - 10:30am se realizaban los conteos de 10 minutos en cada uno de los puntos establecidos. Estos se visitaban en cuatro ocasiones. 
+3) Realización de recorridos libres para complementar listados de las especies en las fincas estudiadas 
+4) Sistematización de censos en bases de datos de excel, corroborando y aclarando dudas con guías de campo de aves y librerías de cantos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El trabajo se desarrolló en el piedemonte llanero de la Orinoquia colombiana, donde la ganadería está entre sus principales actividades económicas ( Viloria de la Hoz 2009; Romero et al., 2012). El muestreo se realizó en cinco fincas que hacen parte del proyecto Ganadería Colombiana Sostenible (Revisar link: http://ganaderiacolombianasostenible.co), La finca El Porvenir en jurisdicción del Municipio del Dorado, y las fincas La Rosanía, Andorra 1, Andorra 2 y La Pradera  en el municipio de San Luis de Cubarral, todas en el departamento del Meta. La zona de Piedemonte se caracteriza por presentar una humedad que oscila entre el 47% y el 75%, temperatura promedio de 26 ° C y una precipitación anual unimodal de 4500 mm, con una temporada de lluvias de abril a noviembre (IDEAM, 2005).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se establecieron en total 54 puntos de conteo, aproximadamente la mitad de los puntos fueron establecidos en sistemas de ganadería tradicional (convencional) y los demás se definieron en los diferentes manejos de sistema silvopastoril (potrero arbolado, cerca viva, bosque (incluido ripario), buscando tener un muestreo sistemático que permitiera comparar entre los distintos manejos que se dan en las fincas procurando evitar el sesgo de muestreo. Estos puntos están separados al menos 200 metros de los demás y fueron visitados durante 10 minutos en cuatro ocasiones. El trabajo en campo se realizó entre el 3 de noviembre del 2019 y 27 de noviembre del 2019, entre las 6:00 a.m. a 10:30 a.m. En cada punto de conteo se tomó nota de las especies que se registraron visual y auditivamente durante 10 min, por lo tanto, en cada unidad de muestreo el tiempo fue de aproximadamente 40 minutos. De manera complementaria se realizaron recorridos libres donde se tomaron nota de las especies que no fueron registradas en el muestreo sistemático (puntos de conteo). Para corroborar algunas identificaciones se compararon con los sonogramas de la colección de referencia de Xenocanto (http://www.xeno-canto.org/). Para la determinación taxonómica utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al 2019).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos de observaciones, y grabaciones fueron revisados por ornitólogos expertos, teniendo en cuenta listados previos para el lugar y cantos de referencia, logrando identificar el 90% de los registros a nivel de especie, según la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2019)</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="GCS">
+          <title>Ganadería Colombiana Sostenible</title>
+          <personnel>
+    <individualName>
+<givenName>Diego</givenName>          <surName>Lizcano</surName>
+    </individualName>
+      <userId directory="https://orcid.org/">0000-0002-9648-0576</userId>
+    <role>EDITOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">wmz4jLUAAAAJ&amp;hl=en</userId>
+    <role>PUBLISHER</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Montoya Arango</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Evelyn Carolina</givenName>          <surName>Álvarez Daza</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Alvaro</givenName>          <surName>Velásquez Suarez</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales-Rozo</surName>
+    </individualName>
+      <userId directory="https://scholar.google.com/citations?user=">wmz4jLUAAAAJ&amp;hl=en</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>El Proyecto Ganadería Colombiana Sostenible es la oportunidad para mejorar la producción de su negocio ganadero a través del trabajo amigable con el medio ambiente; con el uso de diferentes tipos de árboles integrados a la producción ganadera (sistemas silvopastoriles), y la conservación de bosques nativos en su finca. El Proyecto beneficia alrededor de 4.000 familias ganaderas distribuidas en 87 municipios de cinco zonas del país.</para>
+          </abstract>
+          <funding>
+              <para>El proyecto fue diseñado por una alianza entre el Fondo para el Medio Ambiente Global –GEF, el gobierno del Reino Unido, la Federación Colombiana de Ganaderos –FEDEGAN, The Nature Conservancy -TNC, Fundación Centro para la Investigación en Sistemas Sostenibles de Producción Agropecuaria -CIPAV y el Fondo para la Acción Ambiental -FA, bajo la supervisión del Banco Mundial.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Atlantico, Guajira, Meta, Santander, Cundinamarca, Riraralda, Quindio, Caldas.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Censos de aves con conteos puntuales.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:50Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/1sph1w">Morales-Rozo A, Montoya Arango S, Lizcano D (2020). Aves en fincas ganaderas sostenibles del Meta. Universidad de los Llanos. Occurrence dataset https://doi.org/10.15472/1sph1w accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/logo-unillanos.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

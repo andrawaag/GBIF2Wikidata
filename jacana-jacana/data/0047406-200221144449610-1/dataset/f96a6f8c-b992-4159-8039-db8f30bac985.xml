@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f96a6f8c-b992-4159-8039-db8f30bac985"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fyugn7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=cumv_bird</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=cumv_bird</alternateIdentifier>
+        <alternateIdentifier>f96a6f8c-b992-4159-8039-db8f30bac985</alternateIdentifier>
+        <alternateIdentifier>14898</alternateIdentifier>
+    <title>CUMV Bird Collection</title>
+    <creator>
+    <individualName>
+<givenName>Vanya</givenName>          <surName>Rohwer</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Birds and Mammals</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1148</phone><electronicMailAddress>vgr7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Vanya</givenName>          <surName>Rohwer</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Birds and Mammals</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1148</phone><electronicMailAddress>vgr7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress><onlineUrl>http://www.vertnet.org</onlineUrl>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Vanya</givenName>          <surName>Rohwer</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Birds &amp; Mammals</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1148</phone><electronicMailAddress>vgr7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu/</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2018-07-19
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The CUMV Bird Collection contain a record of the development of ornithology at Cornell from the earliest days of Arthur A. Allen and Louis Agassiz Fuertes. Dr. Arthur A. Allen, on the faculty at Cornell from 1915–1953, made the name Cornell nearly synonymous with ornithology in the United States. Allen contributed many birds to the collection, and possibly even more importantly, attracted a very large number of students interested in birds. His numerous students contributed specimens from their research and travels all over the United States, Canada, Mexico, and other parts of the world. The CU collection contain many specimens collected by of Cornell faculty such as George M. Sutton, Charles Sibley, William Dilger, and Tom Cade, but also contains student specimens of Dean Amadon, Walter Bock, F. Graham Cooch, John Emlen, Herbert Friedmann, Ludlow Griscom, Harry Hann, Robert Mengel, Eugene Morton, Ralph Palmer, Kenneth Parkes, Olin S. Pettingill, Alan Phillips, Austin Rand, James Rising, Lester Short, Stanley Temple, Harrison Tordoff, David Wingate, as well as many others. The CUMV Bird Collection currently consists of approximately 38,300 round skins, 700 flat skins, 1,000 spread wings, 5,500 skeletons, 1,400 fluid-preserved specimens, 3,200 egg sets, 590 nests, and 1,000 uncataloged mounts. Approximately 350 of the skeletons have an associated flatskin, and approximately 150 round skins have a separate spread wing.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.cumv.cornell.edu/wiki/pages/s685Z4G4/CUMV_Bird_Collection.html</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Specimens are present from all continents and more than 134 different countries. The collection is particularly strong in North American material; very few species that breed or regularly occur north of Mexico are missing as skins. Strongest holdings within this area are New York, Nebraska, Texas, Arizona, California, Oklahoma, Florida, South Dakota, Colorado, Manitoba, and Alaska, but all 50 US states and 10 of the Canadian provinces and territories are represented. The area of next greatest representation is Mexico, especially the states of Veracruz, Chiapas, Tamalipas, Puebla, Nuevo Leon, and Oaxaca.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The collection has a world-wide coverage, with approximately half the species of the world&apos;s birds (Wood et al. 1982) represented, as well as a number of recently extinct species (such as the Ivory-billed Woodpecker, the Carolina Parakeet and the Passenger Pigeon). All families (Wetmore 1960) are represented except the Atrichornithidae.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Vanya</givenName>          <surName>Rohwer</surName>
+    </individualName>
+<organizationName>Cornell University Museum of Vertebrates</organizationName><positionName>Curator of Birds and Mammals</positionName>    <address>
+<deliveryPoint>159 Sapsucker Woods Road</deliveryPoint><city>Ithaca</city><administrativeArea>NY</administrativeArea><postalCode>14850</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+1 607-254-1148</phone><electronicMailAddress>vgr7@cornell.edu</electronicMailAddress><onlineUrl>http://www.cumv.cornell.edu/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation>Rohwer V (2018). CUMV Bird Collection. Version 28.17. Cornell University Museum of Vertebrates. Occurrence dataset https://doi.org/10.15468/fyugn7 accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>http://ipt.vertnet.org:8080/ipt/logo.do?r=cumv_bird</resourceLogoUrl>
+              <livingTimePeriod>1860 to present</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

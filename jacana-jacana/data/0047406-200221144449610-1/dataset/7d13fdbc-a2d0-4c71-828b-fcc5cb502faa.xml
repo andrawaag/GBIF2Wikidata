@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7d13fdbc-a2d0-4c71-828b-fcc5cb502faa"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/ozcrpu</alternateIdentifier>
+        <alternateIdentifier>https://cloud.gbif.org/lac/resource?r=tetrapodos_de_uruguay</alternateIdentifier>
+    <title>Tetrápodos de Uruguay</title>
+    <creator>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>University of Lincoln</organizationName><positionName>PhD Student</positionName>    <address>
+<city>Lincoln</city><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>fGrattarola@lincoln.ac.uk</electronicMailAddress><onlineUrl>http://flograttarola.com</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Germán</givenName>          <surName>Botto</surName>
+    </individualName>
+<organizationName>Facultad de Medicina, Universidad de la República</organizationName><positionName>Associate Professor</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>germanbotto@gmail.com</electronicMailAddress><onlineUrl>https://sites.google.com/view/germanbotto/</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-4055-9277</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Inés</givenName>          <surName>da Rosa</surName>
+    </individualName>
+<organizationName>Facultad de Ciencias, Universidad de la República</organizationName><positionName>Assistant Professor</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>inespossible@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Noelia</givenName>          <surName>Gobel</surName>
+    </individualName>
+<organizationName>Area Biodiversidad y Conservación, Museo Nacional de Historia Natural</organizationName><positionName>Collaborator</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>noeliagobel@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Enrique M.</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Museo Nacional de Historia Natural</organizationName><positionName>Collaborator</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>emgonzalezuy@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Javier</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Museo Nacional de Historia Natural</organizationName><positionName>Director</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>javier.gonzalez@mec.gub.uy</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Hernández</surName>
+    </individualName>
+<organizationName>NGO JULANA (Jugando en la Naturaleza)</organizationName><positionName>Collaborator</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>gallegodez@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Gabriel</givenName>          <surName>Laufer</surName>
+    </individualName>
+<organizationName>Area Biodiversidad y Conservación, Museo Nacional de Historia Natural</organizationName><positionName>Collaborator</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>gabriel.laufer@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-8285-5023</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Raúl</givenName>          <surName>Maneyro</surName>
+    </individualName>
+<organizationName>Facultad de Ciencias, Universidad de la República</organizationName><positionName>Associate Professor</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>rmaneyro@fcien.edu.uy</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0003-3440-8701</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Juan A.</givenName>          <surName>Martínez-Lanfranco</surName>
+    </individualName>
+<organizationName>Faculty of Science, University of Alberta</organizationName><positionName>Grad Research Asst Fellowship</positionName>    <address>
+<city>Edmonton</city><country>CANADA</country>    </address>
+<electronicMailAddress>jacoloml@gmail.com</electronicMailAddress>      <userId directory="http://orcid.org/">0000-0002-1692-1168</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Daniel E.</givenName>          <surName>Naya</surName>
+    </individualName>
+<organizationName>Facultad de Ciencias, Universidad de la República</organizationName><positionName>Associate Professor</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>dnaya@fcien.edu.uy</electronicMailAddress><onlineUrl>http://evolucion.fcien.edu.uy/daniel/daniel.html</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-8311-9263</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Ana L.</givenName>          <surName>Rodales</surName>
+    </individualName>
+<organizationName>Programa para la Conservación de los Murciélagos de Uruguay, Museo Nacional de Historia Natural</organizationName><positionName>Collaborator</positionName>    <address>
+<city>Montevideo</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>arodales@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Lucía</givenName>          <surName>Ziegler</surName>
+    </individualName>
+<organizationName>Centro Universitario Regional del Este (CURE), Universidad de la República</organizationName><positionName>Assistant Professor</positionName>    <address>
+<city>Maldonado</city><country>URUGUAY</country>    </address>
+<electronicMailAddress>lucia.ziegler@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Pincheira-Donoso</surName>
+    </individualName>
+<organizationName>MacroBiodiversity Lab, School of Biological Sciences, Queen&apos;s University of Belfast</organizationName><positionName>Lecturer</positionName>    <address>
+<city>Belfast</city><country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>D.Pincheira-Donoso@qub.ac.uk</electronicMailAddress><onlineUrl>http://selectiondynamics.weebly.com/daniel-pincheira-donoso.html</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-0050-6410</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinator</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>http://flograttarola.com</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>Biodiversidata</organizationName><positionName>Coordinator</positionName>    <address>
+<country>URUGUAY</country>    </address>
+<electronicMailAddress>flograttarola@gmail.com</electronicMailAddress><onlineUrl>http://flograttarola.com</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-11
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>The dataset contains primary biodiversity data of native amphibian, reptile, bird and mammal species recorded in Uruguay by members of Biodiversidata between 2000 and 2019. It includes observations made during surveys of specific faunistic groups and occasional sampling events. The presence of individuals was recorded either by direct observations or by preserved specimens deposited in collections.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>biodiversity</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>vertebrates</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>amphibians</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>reptiles</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>birds</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>mammals</keyword>
+              <keywordThesaurus>LTER Controlled Vocabulary: https://vocab.lternet.edu/vocab/vocab/index.php</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://biodiversidata.org</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Territory of Uruguay</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-58.601</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-52.954</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-30.012</northBoundingCoordinate>
+                      <southBoundingCoordinate>-34.958</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2000
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-08-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The tetrapods group</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Amphibians</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Reptiles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mammals</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+<organizationName>University of Lincoln</organizationName><positionName>PhD Student</positionName>    <address>
+<country>UNITED_KINGDOM</country>    </address>
+<electronicMailAddress>fGrattarola@lincoln.ac.uk</electronicMailAddress><onlineUrl>http://flograttarola.com</onlineUrl>      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>The dataset was prepared to improve the findability, accessibility, interoperability and reuse of the data collated. We enriched the records incorporating more than 30 descriptive terms following the Darwin Core Biodiversity Data Standard (https://dwc.tdwg.org/). The R scripts used to clean the data can be found at: https://github.com/bienflorencia/rBiodiversidata</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>For standardisation of species names and complete taxonomic categories retrieval given the species names, we used the R package &apos;taxize&apos; (https://github.com/ropensci/taxize). We followed Integrated Taxonomic Information System database (itis.gov) as reference.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>To complete the conservation status of species according to the IUCN Red List assessment, we used the R package &apos;rredlist&apos; (https://github.com/ropensci/rredlist).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Georeferenced point data resulted from either GPS measurements or by defining the latitude and longitude of the event locality through the GeoNames Gazetteer database (geonames.org). Coordinates are presented in decimal degrees and checked at state level.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>The data were collected in more than 120 localities of Uruguay.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>The dataset contains records made during surveys of specific faunistic groups and occasional sampling events.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Species were identified by the expert members of Biodiversidata who provided de data. Species names were standardised, and georeferenced point data were checked at state level.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="Tetrapods_1.0">
+          <title>Biodiversidata: An Open-Access Biodiversity Database for Uruguay</title>
+          <personnel>
+    <individualName>
+<givenName>Florencia</givenName>          <surName>Grattarola</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0001-8282-5732</userId>
+    <role>ORIGINATOR</role>
+          </personnel>
+          <abstract>
+              <para>Biodiversidata’s data paper (https://doi.org/10.3897/BDJ.7.e36226) was generated with the aim to contribute to the knowledge of the biodiversity of Uruguay by developing the first open-access biodiversity resource for the country. Data was collated from a range of different sources, such as records provided from the members of the organization, data available on online databases and data currently published but not available in digital and standardised format (i.e.: data from field guides and books, and primary literature such as monographs, systematic accounts, species descriptions, reviews and reports of range extensions). The data presented in the current dataset correspond only to the records provided by the members of Biodiversidata.</para>
+          </abstract>
+          <funding>
+              <para>The project of Biodiversidata is developed by Florencia Grattarola with a PhD Fellowship from Agencia Nacional de Investigación e Innovación (ANII) – Grant POS_EXT_2016_1_136663</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>All the Uruguayan territory</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>The data were provided by 14 members of Biodiversidata working in the vertebrates group. The dataset contains records made during surveys of specific faunistic groups and occasional sampling events. They consist mostly in human observations which, in some cases, had specimens preserved. In each case, the method and objective of the observation varied and ranged from targeted sampling to non-systematic collection.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation>Grattarola F, Botto G, da Rosa I, Gobel N, González E M, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J A, Naya D E, Rodales A L, Ziegler L, Pincheira-Donoso D (2020). Tetrápodos de Uruguay. Biodiversidata. Occurrence dataset https://doi.org/10.15468/ozcrpu accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Grattarola F, Botto G, da Rosa I, Gobel N, González E, González J, Hernández D, Laufer G, Maneyro R, Martínez-Lanfranco J, Naya D, Rodales A, Ziegler L, Pincheira-Donoso D (2019) Biodiversidata: An Open-Access Biodiversity Database for Uruguay. Biodiversity Data Journal 7: e36226. https://doi.org/10.3897/BDJ.7.e36226</citation>
+              </bibliography>
+              <collection>
+                <parentCollectionIdentifier>FCIEN</parentCollectionIdentifier>
+                <collectionIdentifier>ZVCB</collectionIdentifier>
+                <collectionName>Colección Zoología Vertebrados de la Facultad de Ciencias</collectionName>
+              </collection>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

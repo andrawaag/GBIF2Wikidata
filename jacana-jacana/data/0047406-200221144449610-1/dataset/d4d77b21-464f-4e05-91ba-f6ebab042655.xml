@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="d4d77b21-464f-4e05-91ba-f6ebab042655"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/cirmgs</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.fr/resource?r=musee_vallee</alternateIdentifier>
+        <alternateIdentifier>d4d77b21-464f-4e05-91ba-f6ebab042655</alternateIdentifier>
+        <alternateIdentifier>14637</alternateIdentifier>
+    <title>Caire-Chabrand Collection</title>
+    <creator>
+    <individualName>
+<givenName>Christophe</givenName>          <surName>Gouraud</surName>
+    </individualName>
+<organizationName>Musee de la Vallee</organizationName><positionName>Scientific referee/advisor of the Caire-Chabrand Collection</positionName>    <address>
+<deliveryPoint>Musee la Vallee 10 avenue de la Liberation</deliveryPoint><city>Barcelonnette</city><postalCode>04400</postalCode>    </address>
+<electronicMailAddress>kagouilles@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Christophe</givenName>          <surName>Gouraud</surName>
+    </individualName>
+<organizationName>Musee de la Vallee</organizationName><positionName>Scientific referee/advisor of the Caire-Chabrand Collection</positionName>    <address>
+<deliveryPoint>Musee la Vallee 10 avenue de la Liberation</deliveryPoint><city>Barcelonnette</city><postalCode>04400</postalCode>    </address>
+<electronicMailAddress>kagouilles@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>GBIF France</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT support</positionName>    <address>
+<deliveryPoint>GBIF France - MNHN Géologie CP48, 43 rue Buffon</deliveryPoint><city>Paris</city><administrativeArea>Île-de-France</administrativeArea><postalCode>75005</postalCode><country>FRANCE</country>    </address>
+<phone>+33140798065</phone><electronicMailAddress>connexion@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-31
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Musee de la Vallee of Barcelonnette holds an important collection of mounted birds specimens started by Joseph Adolphe Caire (1809-1884) during the 19th century and completed by Emile Chabrand (1843-1893) who travelled around the world. The Caire-Chabrand Collection houses 880 specimens representing 487 species of birds, collected in all continents but mainly in France and Europe. One extinct species, the Passenger Pigeon (Ectopistes migratorius), is represented by an adult male.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Global coverage</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Christophe</givenName>          <surName>Gouraud</surName>
+    </individualName>
+<organizationName>Musee de la Vallee</organizationName><positionName>Scientific referee/advisor of the Caire-Chabrand Collection</positionName>    <address>
+<deliveryPoint>Musee la Vallee 10 avenue de la Liberation</deliveryPoint><city>Barcelonnette</city><postalCode>04400</postalCode>    </address>
+<electronicMailAddress>kagouilles@gmail.com</electronicMailAddress>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation>Gouraud C (2018). Caire-Chabrand Collection. Version 4.6. Musée de la Vallée (Barcelonnette). Occurrence dataset https://doi.org/10.15468/cirmgs accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

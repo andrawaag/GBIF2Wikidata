@@ -1,0 +1,346 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="7b384b30-7ced-4784-9fc1-1a8e21fa0a01"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/e7ezbx</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=vertebrados_mojana_2018</alternateIdentifier>
+    <title>Vertebrados de los humedales de La Mojana, Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Juan Carlos</givenName>          <surName>Linares Arias</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Coordinador General Proyecto Mojana-Docente</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>230002</postalCode><country>COLOMBIA</country>    </address>
+<phone>47860920</phone><electronicMailAddress>jlinares@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>https://www.unicordoba.edu.co/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Merly Yenedith</givenName>          <surName>Carrillo Fajardo</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><postalCode>230002</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>mycarrillofajardo@correo.unicordoba.edu.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Biodiversidad UNICÓRDOBA</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Grupo de Investigación</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>7860920</phone><electronicMailAddress>jlinares@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>http://www.unicordoba.edu.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Carlos</givenName>          <surName>Linares Arias</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Coordinador General Proyecto Mojana-Docente</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+5747860920</phone><electronicMailAddress>jlinares@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>https://www.unicordoba.edu.co/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Merly Yenedith</givenName>          <surName>Carrillo Fajardo</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Coordinador Biótico Proyecto Mojana</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>mycarrillofajardo@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>https://www.unicordoba.edu.co/</onlineUrl>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ángela María</givenName>          <surName>Ortega León</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Docente Líder Herpetofauna</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>angelamaria@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>http://www.unicordoba.edu.co</onlineUrl>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jesús</givenName>          <surName>Ballesteros Correa</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Docente Líder Mamíferos</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jballesteros@correo.unicordoba.edu.co</electronicMailAddress><onlineUrl>http://www.unicordoba.edu.co</onlineUrl>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos Mario</givenName>          <surName>González Charrasquiel</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Profesional Ornitólogo</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+5747860920</phone><electronicMailAddress>gonzalez.charrasquiel@gmail.com</electronicMailAddress>    <role>EDITOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lesly Eleeys</givenName>          <surName>Vergara Doria</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Profesional Administrativa-Hidrobiológicos</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+5747860920</phone><electronicMailAddress>lesyeele@hotmail.com</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>María Carolina</givenName>          <surName>Prioló Espitia</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Profesional Hidrobiológicos</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>+5747860920</phone>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jairo</givenName>          <surName>Martínez</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Profesional Mastozoología</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Martín Elías</givenName>          <surName>Berrocal</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Estudiante de Biología-Auxiliar Herpetofauna</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Grazia Patricia</givenName>          <surName>Pérez</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Estudiante de Biología-Auxiliar Mastozoología</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mauricio</givenName>          <surName>Plaza Pineda</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Estudiante de Biología-Auxiliar Ornitología</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Liceth</givenName>          <surName>Lastre Solis</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Estudiante de Biología-Auxiliar Herpetofauna</positionName>    <address>
+<deliveryPoint>Carrera 6 No. 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-25
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Datos tomados en el marco del convenio 17-16-075-027CE suscrito entre el Instituto Alexander von Humboldt y la Universidad de Córdoba durante el periodo 2017-2018 con el propósito de realizar el levantamiento y análisis de la información ecológica de hábitats acuáticos en los humedales de la Mojana  de San Marcos, Sucre. 2838 registros de vertebrados.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>zapal</keyword>
+              <keyword>humedal</keyword>
+              <keyword>San Benito Abad</keyword>
+              <keyword>depresión momposina</keyword>
+              <keyword>fauna</keyword>
+              <keyword>Sucre.</keyword>
+              <keyword>ciénaga</keyword>
+              <keyword>San Marcos</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado a este recurso se cuenta los informes finales en el Repositorio de Documentación Científica del IAvH y fotografías en el Banco de Imágenes Institucional.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=vertebrados_mojana_2018</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Humedales de La Mojana, San Marcos y San Benito Abad, Sucre-Colombia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-75.208</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.87</eastBoundingCoordinate>
+                      <northBoundingCoordinate>8.565</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.47</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-01-29
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-02-06
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los 2820 registros de fauna vertebrada de los humedales de La Mojana están agrupados en seis clases, 39 órdenes, 104 familias,  227 géneros, 252 especies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Sauropsida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mamalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aportar al conocimiento de la fauna (vertebrados) de los humedales de tierras bajas del Caribe colombiano, específicamente de la región de La Mojana.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ursula</givenName>          <surName>Jaramillo Villa</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora Titular, Programa Gestión Territorial de la Biodiversidad</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolívar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>(1) 3202767 Ext. 1170</phone><electronicMailAddress>ujaramillo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co/es/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Caracterización termporal: 1) La selección de las localidades se dio teniendo en cuenta la presencia de unidades naturales de Zapal o Bosques inundables, Ciénagas, Ríos y Caños (macrohábitats); reconocidas ecológica y socialmente por su buen estado de conservación, la resiliencia o resistencia de éstos ante eventos de inundación de gran magnitud como el registrado para la región entre 2010-2011 (IAvH, 2016), además de la presencia de dichos macrohábitats con transiciones a áreas intervenidas por cultivos (principalmente arroz), pastoreo de búfalos (Bubalus bubalis) y potreros para ganado tradicional (Bos sp.).  2) Se delimitó un transecto de 400x4 m perpendicular al borde o zona de transición entre los macrohábitats seleccionados (200 m c/u), con amplitud variable (0-100 m) dependiendo del grupo taxonómico y de las condiciones hídricas del macrohábitat.  Los transectos definidos fueron: Zapal-Ciénaga, Zapal-Caño, Zapal-Búfalo, Zapal-Cultivos, Zapal-Potrero y Ciénaga-Arroz en Las Flores y Zapal aislado y Zapal-Río la vereda El Torno.  3) Los muestreos se hicieron en cuatro temporadas: aguas altas (julio), aguas bajando I (septiembre), aguas bajando II (noviembre) en 2017 y aguas bajas en enero de 2018. 4) los peces con talla inferior a 100mm según Samanez et al. (2014), con un esfuerzo de muestreo de una hora por transecto; las aves  se observaron según Ralph et al., (1996) y escucharon (Bioacústica) en tres puntos de conteo sobre el transecto con 25 m de radio en cada macrohábitat y la zona de transición durante 15 minutos entre 5:30-10:00 a.m., y 3:00-6:00 p.m.; se registró presencia y canto de anfibios y reptiles de 9:00-12:00 a.m. y 5:00-10:00 p.m.; y los mamíferos  se observaron según Arévalo &amp; de Monteverde (2001), por métodos indirectos según Wemmer y otros (1996), Aranda (2012) y Arévalo &amp; de Monteverde (2001), trampas de huellas Aranda (2012) y Arévalo &amp; de Monteverde (2001) y fototrampeo (Díaz &amp; Payán, 2012) y los murciélagos se capturaron mediante redes entre las 6:00-10:00 p.m con revisión cada 30 minutos (modificado Giraldo et al., 2011).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización espacial: 1) Se identificaron macrohábitats con transiciones entre ambientes acuático a terrestre a ser muestreados: Ciénaga, Arroyo, Caño, Río y Zapal. 2) Se realizó la zonificación de cada macrohábitat según Pinilla (2017) y Jaramillo et al. (2015): 
+-	Ciénaga: Limnética, Litoral, Ribera, Bosque inundable drenado
+-	Zapal: Espejo de agua, Bosque inundable saturado y Bosque inundable drenado.
+-	Arroyo: Canal, Riparia, Herbazal inundado, Bosque inundado. 
+-	Río: Canal, Orilla y Riparia.
+-	Caño: Canal y Riparia
+3) En cada zona se estableció una parcela de 400 m2. 4) Los muestreos de cada grupo biológico se realizaron así: peces con talla inferior a 100mm según Samanez et al., 2014, con un esfuerzo de muestreo de una hora por transecto. Se registró presencia de anfibios y reptiles de 9:00-12:00 a.m. y 5:00-10:00 p.m.; las aves se observaron según Ralph et al., (1996) y escucharon (Bioacústica) en tres puntos de conteo sobre el transecto con 25 m de radio en cada macrohábitat y la zona de transición durante 15 minutos entre 5:30-10:00 a.m., y 3:00-6:00 p.m. Y los mamíferos se observaron según Arévalo &amp; de Monteverde (2001), por métodos indirectos según Aranda (2012) trampas de huellas y fototrampeo (Díaz &amp; Payán, 2012) y los murciélagos se capturaron mediante redes entre las 6:00-10:00 p.m con revisión cada 30 minutos (modificado Giraldo et al., 2011).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El trabajo se desarrolló en el corregimiento Las Flores y la vereda El Torno del municipio de San Marcos,  y la vereda Chinchorro de San Benito Abad, Sucre.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Caracterización termporal: Se seleccionaron ocho transiciones de macrohábitat (cuatro naturales y cuatro intervenidas). Se delimitó un transecto de 400x4 m perpendicular al borde o zona de transición entre los macrohábitats seleccionados (200 m c/u).  Se hicieron cuatro muestreos entre julio de 2017 y enero de 2018. 
+Caracterización espacial: En época seca se identificaron cinco macrohábitats con un gradiente entre ambientes acuático y terrestre. Se zonificó cada transición. Se establecieron parcelas de 20x20 m (400 m2) en cada zona.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El trabajo de campo fue supervisado constantemente por el Instituto Alexander von Humboldt y Docentes de la Universidad de Córdoba.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Estrategias de rehabilitación de humedales de la región de la Mojana</title>
+          <personnel>
+    <individualName>
+<givenName>Ursula</givenName>          <surName>Jaramillo Villa</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Acuerdo de cooperación 16-075 entre el Instituto Humboldt y el Programa de las Naciones Unidas para el Desarrollo (PNUD)
+Convenio N°17-16-075-027CE entre el Instituto Humboldt y la Universidad de Córdoba</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Comprende la región de La Mojana en jurisdicción de los municipios de San Marcos y San Benito Abad, Sucre.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Implementar estrategias de rehabilitación de humedales de la región de la Mojana buscando recomponer el suministro de servicios ecosistémicos, aumentando así el bienestar de sus habitantes, a través de la adaptación a las dinámicas naturales de una planicie de inundación.
+
+El proyecto realizado en la región de La Mojana tuvo como propósitos:
+1. Caracterizar la variación espacial de los macrohábitats y microhábitats de los humedales: Zapal, Caño, Ciénaga, Río y Arroyo, en la transición de ambiente húmedo a seco. 
+2. Caracterizar la dinámica temporal de un ciclo hidrológico y la biodiversidad asociada a las transiciones de macrohábitats naturales (Zapal-Ciénaga, Zapal-Caño, Zapal-Río y Zapal-Aislado) e intervenidos (Zapal-Búfalo, Zapal-Potrero, Zapal-Cultivos y Ciénaga-Arroz).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/e7ezbx">Linares Arias J C, Carrillo Fajardo M Y (2018). Vertebrados de los humedales de La Mojana, Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/e7ezbx accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>IAvH-Instituto Alexander von Humboldt. (2016). Análisis espacial para planificación ecorregional en una ventana de la región de la Mojana a escala local. Producto N°3. Convenio N°16-075 Suscrito entre Programa de las Naciones Unidas para el Desarrollo –PNUD y El Instituto de Investigación de Recursos Biológicos Alexander Von Humbodlt.</citation>
+      <citation>Samanez, I., Rimarachin, V., Palma, C., Arana, J., Ortega, H., &amp; Correa, V. (2014). Métodos de colecta, identificación y análisis de comunidades biológicas: plancton, perifiton, bentos (macroinvertebrados) y necton (peces) en aguas continentales del Perú. Lima: Ministerio del Ambiente.</citation>
+      <citation>Ralph, C., Geupel, G., Pyle, P., Martin, T., Desante, D., &amp; Milá, B. (1996). Manual de métodos de campo para el monitoreo de aves terrestres. United States: Departament of Agriculture.</citation>
+      <citation>Arévalo, J., &amp; de Monteverde, A. (2001). Manual de campo para el monitoreo de mamíferos terrestres en áreas de conservación. Monteverde: Asociación Conservacionista de Monteverde.</citation>
+      <citation>Wemmer, C., Kunz, T., Lundie, G., &amp; Mcshea, W. (1996). Mamalian sing. En D. Wilson, F. Cole, R. Nichols, &amp; M. Foster, Measuring and monitoring Biological diversity. Standar methods for mammals (págs. 157-176). USA: Smithsonians Institution.</citation>
+      <citation>Aranda, J. (2012). Manual para el rastreo de mamíferos silvestres de México. Ciudad de México: Conabio.</citation>
+      <citation>Díaz-Pulido, A. P., &amp; Payán, E. (2012). Manual de fototrampeo.</citation>
+      <citation identifier="https://www.researchgate.net/publication/262909363_Protocolo_para_la_obtencion_de_datos_de_mamiferos ">Giraldo, A., Murillo, O., Bedoya, M., &amp; Sanchez, M. (2011). www.researchgate.net. Obtenido de Protocolo para la obtención de datos de mamiferos:</citation>
+      <citation>Pinilla, G. (2017). Prácticas de Limnología: guías de laboratorio y campo. Ed. Universidad Nacional de Colombia. Facultad de Ciencias.</citation>
+      <citation>Jaramillo, U., Cortés-Duque, J. y Flórez, C. (eds.). 2015. Colombia Anfibia. Un país de humedales. Volumen 1. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá D. C., Colombia. 140 pp.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Vertebrados de los humedales de La Mojana, Colombia</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                            <formatVersion>NA</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=vertebrados_mojana_2018</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-P</collectionIdentifier>
+                <collectionName>Colección de Peces del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>ALCOHOL</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

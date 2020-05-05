@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="f5375a07-ead8-4d26-bd1b-e216187b97a4"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ljmlav</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_bita_aves_2017</alternateIdentifier>
+        <alternateIdentifier>f5375a07-ead8-4d26-bd1b-e216187b97a4</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_bita_aves_2017</alternateIdentifier>
+    <title>Aves de la cuenca alta y media del río Bita, (Vichada) Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo Gonzales</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director Científico</positionName>    <address>
+<deliveryPoint>Calle 84 N 21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111211</postalCode><country>COLOMBIA</country>    </address>
+<phone>2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo Gonzales</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director Científico</positionName>    <address>
+<deliveryPoint>Calle 84 N 21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111211</postalCode><country>COLOMBIA</country>    </address>
+<phone>2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo Gonzales</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director Científico</positionName>    <address>
+<deliveryPoint>Calle 84 N 21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111211</postalCode><country>COLOMBIA</country>    </address>
+<phone>2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Caracterización del ensamblaje de aves en la cuenca alta y media del río Bita, en el marco de la alianza interinstitucional por el Bita, río protegido. Los individuos fueron capturados mediante muestreos estandarizados en un tramo de 200 m a lo largo de cada una de las estaciones de muestreo; se colectaron con redes de arrastre, red de enmalle y atarraya. Los ejemplares se fijaron con una solución de formol al 10%. Los peces mayores de 10 cm fueron inyectados con esta misma solución en la cavidad abdominal y depositados en la colección de peces del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). El conjunto de datos contiene 1503 registros.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_bita_aves_2017</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El río Bita se localiza entre los 05° y 06° N y entre los 69° y 67° OE, con un gradiente altitudinal entre los 100 y 40 m; discurre a lo largo de los municipios de la Primavera y Puerto Carreño (Vichada) y fluye sobre esta de occidente a oriente. Se encuentra rodeado en su  mayoría por bosque de galería y de rebalse, los cuales se inundan estacionalmente permaneciendo sumergidos en las épocas de lluvias (Parra, 2006). Su origen está influenciado por diferentes caños que nacen en la altillanura al oeste del departamento en las cuales sus principales afluentes están en los caños el Doctor, Bravo, Pendare, Cabrillas, Avión y Tres Bocas (Kamués, 1997; Chaparro, 2000; Corporinoquia et al. 2015).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-69.17</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-67.66</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.19</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.78</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-01-13
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-06-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registraron 1054 registros biológicos pertenecientes a 196 especies de aves.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aunar esfuerzos técnicos, administrativos y financieros para realizar la identificación ambiental de la cuenca del río Bita, incluyendo la elaboración del inventario de ecosistemas terrestres y acuáticos, caracterización biológico y establecimiento de indicadores de estado de monitoreo de biodiversidad en dicha cuenca, como criterios para establecer el estado y hacer seguimiento a la integridad ecológica del río BIta, departamento del Vichada.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo Gonzales</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director Científico</positionName>    <address>
+<deliveryPoint>Calle 84 N 21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111211</postalCode><country>COLOMBIA</country>    </address>
+<phone>2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Para la captura de aves se usaron redes de niebla de 12 x 2.5 m, las cuales se desplegaron dos dias consecutivos entre las 05:30 y las 10:30 horas en la primera ventana (10 redes) y un día de la segunda ventana (6 redes). Durante el segundo día de redes en la ventana de Mi Familia estas se abrieron entre las 05:30 y las 09:30. Este método permitió recolectar datos de condición corporal, estado de muda, estado reproductivo y variables morfométricas des las aves capturadas, siguiendo los métodos del Consejo Norteamericano de Anillamiento (NABC 2001). Adicionalmente, el equipo de mastozoología obtuvo algunos ejemplares de aves capturados con las redes para murciélagos. Se prepararon en campo los especímenes recolectados. Se obtuvieron muestras de tejidos (músculo, hígado y corazón) de cada uno.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El río Bita se localiza entre los 05° y 06° latitud norte y entre los 69° y 67° longitud oeste, con un gradiente altitudinal entre los 40 y los 400 msnm; comprende los municipios de la Primavera y Puerto Carreño (Corporinoquia et al. 2015) y hace parte de la cuenca binacional del río Orinoco, que en Colombia incluye las subcuencas de los ríos Ajota, Arauca, Atabapo, Dagua-Mesetas, Guaviare, Inírida, Matavén, Meta, Tomo, Tuparro, Vichada, Zama y Bita (Correa et al. 2006). El río Bita en su cuenca media y baja presenta dos de las tres regiones biogeográficas que conforman la Orinoquía colombiana: (1) Abanicos aluviales, por debajo de los 400 msnm, en zonas inundables estacionales, y (2) Altillanuras, sin inundaciones estacionales en el departamento del Vichada (Rangel-Ch. et al. 1995). La cuenca del río Bita, presenta aguas blancas, tiene un área aproximada de 8.707,20 km2 (Galindo et al. 2007); cuenta con cuatro biomas y veintidos ecosistemas, y presenta menores niveles de transformación (803.183 ha de ecosistemas naturales) con respecto a otras cuencas de la Orinoquia, y un área de ecosistemas naturales de 6´623.820 ha (Romero et al. 2004).</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se empleó una combinación de varios métodos de campo, incluyendo observaciones con binoculares, captura con redes de niebla y registro de vocalizaciones cotejadas con grabaciones de especies probables en el área descargadas de la página de Xeno-canto (2015), almacenadas en un dispositivo electrónico. La mayor parte de las observaciones fue hecha a lo largo de recorridos de varios kilómetros en bote con motor fuera de borda a velocidad mínima o caminando, teniendo en cuenta las horas de alta actividad de las aves según lo propuesto por Ralph et al. (1996). Se referenció geográficamente cada trayecto usando un posicionador satelital, lo cual permitió cartografiar y calcular las distancias recorridas. Igualmente se hicieron registros continuos de especies, sin límite de método o tiempo, una vez terminados los recorridos y durante el tiempo de espera para la revisión de las redes. Por último, se incluyó en el listado de especies los registros (principalmente fotografías), de especies no observadas por nosotros, obtenidos por otros miembros de la expedición.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Se determinó la identidad taxonómica de las especies vistas empleando guías de campo (Erize et al. 2006, Hilty 2003, Hilty y Brown 1986, McMullan y Donegan 2014, McNish 2007, Restall et al. 2006) y las escuchadas por comparación con las grabaciones de Xeno-canto. La nomenclatura y secuencia taxonómica de las especies encontradas sigue a Remsen et al. (2015).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Aunar esfuerzos, técnicos, administrativos y financieros para realizar la identificación ambiental de la cuenca del río Bita, incluyendo la elaboración del inventario de ecosistemas terrestres y acuáticos, caracterización biológica y establecimiento de indicadores de estado y monitoreo de la biodiversidad en dicha cuenca como criterios para establecer el estado y hacer seguimiento a la integralidad ecológica del río Bita</title>
+          <personnel>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo Gonzales</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenio No 15-14-322-304 CE
+
+Celebrado entre el Instituto de Investigación  de Recursos Hidrobiológicos Alexander von Humboldt y la Fundación Omacha</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El río Bita se localiza entre los 05° y 06° latitud norte y entre los 69° y 67° longitud oeste, con un gradiente altitudinal entre los 40 y los 400 msnm; comprende los municipios de la Primavera y Puerto Carreño (Corporinoquia et al. 2015) y hace parte de la cuenca binacional del río Orinoco, que en Colombia incluye las subcuencas de los ríos Ajota, Arauca, Atabapo, Dagua-Mesetas, Guaviare, Inírida, Matavén, Meta, Tomo, Tuparro, Vichada, Zama y Bita (Correa et al. 2006). El río Bita en su cuenca media y baja presenta dos de las tres regiones biogeográficas que conforman la Orinoquía colombiana: (1) Abanicos aluviales, por debajo de los 400 msnm, en zonas inundables estacionales, y (2) Altillanuras, sin inundaciones estacionales en el departamento del Vichada (Rangel-Ch. et al. 1995). La cuenca del río Bita, presenta aguas blancas, tiene un área aproximada de 8.707,20 km2 (Galindo et al. 2007); cuenta con cuatro biomas y veintidos ecosistemas, y presenta menores niveles de transformación (803.183 ha de ecosistemas naturales) con respecto a otras cuencas de la Orinoquia, y un área de ecosistemas naturales de 6´623.820 ha (Romero et al. 2004).
+Esta investigación se realizó en dos fases la primera durante el período hidrológico de aguas bajas (o en descenso) en los predios Anakay (cuenca media) y Mi Familia (cuenca baja) y aguas altas (o en ascenso) en las localidades de La Florida (cuenca media alta) y Rampla Vieja (cuenca baja), ubicadas en los municipios de La Primavera y Puerto Carreño en el departamento del Vichada.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>En el marco del proyecto “Desarrollo de un marco conceptual, metodológico y operativo para el establecimiento de una figura innovadora de río Protegido en el río Bita /Departamento del Vichada), suscrito entre la Gobernación del Vichada y el Instituto Alexander von Humboldt, se realizó una evaluación biológica rápida durante la época de aguas bajas y ascenso. El estudio se implementó en cuatro ventanas de trabajo: una en el predio denominado Anakay,  otra en el predio conocido como Mi Familia, La Florida y Mi Familia ubicados en la parte media-alta y baja del río Bita.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ljmlav">Trujillo Gonzales F (2019). Aves de la cuenca alta y media del río Bita, (Vichada) Colombia. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ljmlav accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Aves de la cuenca alta y media del río Bita, (Vichada) Colombia</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>.txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_bita_aves_2017</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>NA</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A , CZUT-OR</collectionIdentifier>
+                <collectionName>Colección de peces del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Colección de zoología de la universidad del Toloma</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="db44543f-c1f5-4241-b9ab-1ed1c1b4ece1"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/skokpl</alternateIdentifier>
+        <alternateIdentifier>db44543f-c1f5-4241-b9ab-1ed1c1b4ece1</alternateIdentifier>
+        <alternateIdentifier>http://ipt1.cria.org.br/ipt/resource?r=zuec-ave</alternateIdentifier>
+    <title>ZUEC-AVE - Coleção de Aves do Museu de Zoologia da UNICAMP</title>
+    <creator>
+    <individualName>
+<givenName>Wesley</givenName>          <surName>Rodrigues Silva</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6326</phone><electronicMailAddress>wesley@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3788-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Wesley</givenName>          <surName>Rodrigues Silva</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6326</phone><electronicMailAddress>wesley@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3788-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>speciesLink Network</surName>
+    </individualName>
+<organizationName>Centro de Referência em Informação Ambiental, CRIA</organizationName><positionName>Network</positionName>    <address>
+<deliveryPoint>Av. Dr. Romeu Tórtima, 388</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13084-791</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3288-0466</phone><electronicMailAddress>splink@cria.org.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-27
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>A coleção de Aves do Museu de Zoologia &amp;#34;Prof. Adão José Cardoso&amp;#34; da Universidade Estadual de Campinas (UNICAMP) conta, atualmente, com cerca de 2377 exemplares catalogados, correspondendo a cerca de 660 espécies identificadas. A maioria do acervo é conservada em via seca (peles e alguns ninhos e ovos) e uma pequena parte (ninhegos) em via úmida (álcool 70%). Os exemplares são provenientes de diversas regiões do Brasil (principalmente o sudeste, o centro-oeste e a formação atlântica nordestina), resultado de projetos e pesquisas de campo realizados pelos docentes, pesquisadores e alunos do Departamento de Zoologia a partir da década de 70. O acervo está sendo informatizado e utiliza o gerenciador de banco de dados MS-Access. A maior parte do acervo constitui a coleção científica, destinada principalmente ao atendimento de pesquisadores interessados no estudo das Aves. Também está disponível à consulta por parte de estudantes de graduação e pós-graduação. O acervo conta ainda com coleções de empréstimo e didática.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Predominantemente Brasil</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-30</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.27</northBoundingCoordinate>
+                      <southBoundingCoordinate>-33.75</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Animalia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Wesley</givenName>          <surName>Rodrigues Silva</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3521-6326</phone><electronicMailAddress>wesley@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Ivan</givenName>          <surName>Sazima</surName>
+    </individualName>
+<organizationName>Universidade Estadual de Campinas (UNICAMP)</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Museu de Zoologia do INstitudo de Biologia; Rua Albert Einstein s/n; Caixa Postal 6109;</deliveryPoint><city>Campinas</city><administrativeArea>São Paulo</administrativeArea><postalCode>13083-970</postalCode><country>BRAZIL</country>    </address>
+<phone>+55 19 3788-6385</phone><electronicMailAddress>isazima@unicamp.br</electronicMailAddress><onlineUrl>http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:51Z</dateStamp>
+      <citation identifier="  http://splink.cria.org.br/manager/detail?resource=ZUEC-AVE">Rodrigues Silva W, Sazima I (2020). ZUEC-AVE - Coleção de Aves do Museu de Zoologia da UNICAMP. Version 1.44. Universidade Estadual de Campinas - Instituto de Biologia. Occurrence dataset https://doi.org/10.15468/skokpl accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>http://ipt1.cria.org.br/ipt/logo.do?r=zuec-ave</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

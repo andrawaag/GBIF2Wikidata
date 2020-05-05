@@ -1,0 +1,350 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0e7f5125-0e37-4a93-9a2e-939e770c7bfd"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/smg0ay</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=aves_migratorias_boreales_ullanos</alternateIdentifier>
+    <title>Aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte, Villavicencio, Meta.</title>
+    <creator>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Docente ocasional</positionName>    <address>
+<city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andrea.morales@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Andrea_Morales_Rozo</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Maira Alejandra</givenName>          <surName>Holguín Ruiz</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Estudiante</positionName>    <address>
+<deliveryPoint>Calle 18 sur # 14 - 32</deliveryPoint><city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3124022724</phone><electronicMailAddress>maira.holguin@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maira_Holguin2</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Docente ocasional</positionName>    <address>
+<city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>amoralesrozo@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Andrea_Morales_Rozo</userId>
+    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Maira Alejandra</givenName>          <surName>Holguín Ruiz</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Estudiante</positionName>    <address>
+<deliveryPoint>Calle 18 sur # 14 - 32</deliveryPoint><city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3124022724</phone><electronicMailAddress>maira.holguin@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maira_Holguin2</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Docente ocasional</positionName>    <address>
+<city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>amoralesrozo@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Andrea_Morales_Rozo</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Maira Alejandra</givenName>          <surName>Holguín Ruiz</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Estudiante</positionName>    <address>
+<deliveryPoint>Calle 18 sur # 14 - 32</deliveryPoint><city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3124022724</phone><electronicMailAddress>maira.holguin@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maira_Holguin2</userId>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-28
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Con el fin de documentar la presencia de especies de aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico, altitud: 600 m) y en una zona periurbana (Campus Barcelona Universidad de los Llanos, altitud: 400 m) de piedemonte en Villavicencio, se realizaron observaciones de aves durante 39 días entre septiembre del 2016 a mayo del 2017. Cada día se hicieron recorridos durante dos días consecutivos con dos repeticiones por día en 12 transectos de 100m de largo por 50m de ancho. Se emplearon índices de diversidad para determinar diferencias entre los sitios. Se registraron 226 especies de aves pertenecientes a 45 familias, 34 de estas son especies migratorias (12 familias): 31 boreales y 3 australes. Los índices de diversidad sugieren que la zona periurbana (Campus Barcelona Unillanos) es ligeramente más diverso que el bosque secundario con algún grado de intervención (Jardín Botánico), lo cual puede estar relacionado con la heterogeneidad de coberturas y ambientes que presenta el campus, además de que, los dos sitios comparten aproximadamente el 40% de las especies. Dentro de las especies con importancia para la conservación se registró Cardellina canadensis en el Jardín botánico y Setophaga striata en los dos sitios.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>Birds</keyword>
+              <keyword>Orinoquia</keyword>
+              <keyword>Migración</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El proyecto se desarrolló en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte. Según la clasificación de Holdridge los ubican en la zona de vida de bosque húmedo tropical (Bh-T) que se presenta en lugares donde la precipitación está entre  los 2000 a 4000 mm anuales y la temperatura es mayor a 24ºC.
+El Jardín botánico de Villavicencio, hace parte de la reserva municipal de Buenavista, y está ubicado en la vertiente oriental de la cordillera oriental en la zona de piedemonte llanero, 4° 9’N, 73° 39’W, altura entre 497 a 653 m.s.n.m, en la vía que conduce a los barrios Azotea y Mesetas, al noroccidente de la ciudad. Esta reserva tiene aproximadamente 46 hectáreas (ha), hace parte de la microcuenca del Caño Parrado y presenta bosque secundario con algún grado de intervención y con probabilidades de conexión con los bosques de Buenavista y Bavaria.
+La Universidad de los Llanos (Sede Barcelona) se ubica al sur de la vía entre Villavicencio y Puerto López, km 12; 4° 4’N, 73° 34’W, altura ~400 m.s.n.m. El campus tiene un área aproximada de 45 ha, está rodeado de áreas dedicadas a la agricultura, recreación y turismo, y colinda con una base militar. La mayoría de las áreas con cobertura arbórea en el campus corresponden a zonas plantadas o a bosques de regeneración secundaria. Avendaño et al., (2018), divide el campus en seis tipos de hábitats: lagos artificiales, cultivos, bosque ripario, pastizales y áreas abiertas, zonas con pastos y cercas de árboles, bosques secundarios y zonas urbanas. Además, reporta 210 especies de aves registradas en el campus.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.659</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.574</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.162</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.068</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-09-12
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-07-08
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Todas las aves se identificaron a género o especie. La identificación taxonómica de las aves sigue la clasificación taxonómica del South American Classification Committee, (SACC)versión julio del 2019.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cardellina canadensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus fuscescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus minimus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus ustulatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coccyzus americanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coccyzus melacoryphus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Contopus cooperi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Contopus virens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta caerulea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Empidonax virescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Empidonomus varius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Geothlypis philadelphia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hirundo rustica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leiothlypis peregrina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piranga olivacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piranga rubra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga castanea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga fusca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga petechia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga ruticilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga striata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa solitaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus savana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus tyrannus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vireo flavoviridis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vireo olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Publicación de Data paper</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para>Los datos fueron tomados de 2016 a 2017 y ya fueron revisados y curados.</para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Docente ocasional</positionName>    <address>
+<city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andrea.morales@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Andrea_Morales_Rozo</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Maira Alejandra</givenName>          <surName>Holguín Ruiz</surName>
+    </individualName>
+<organizationName>Universidad de los Llanos</organizationName><positionName>Estudiante</positionName>    <address>
+<deliveryPoint>Calle 18 sur # 14 - 32</deliveryPoint><city>Villavicencio</city><administrativeArea>Meta</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3124022724</phone><electronicMailAddress>maira.holguin@unillanos.edu.co</electronicMailAddress>      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maira_Holguin2</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Campo
+Se establecieron 12 transectos de 100 metros de largo, y 50 de ancho, (5 ubicados en el Jardín botánico y 7 ubicados en Unillanos), en cada transecto se hicieron dos repeticiones por día, durante dos días consecutivos en la migración de otoño (Septiembre, Octubre y Noviembre de 2016) y la migración de primavera (Febrero, Marzo y Abril de 2017). Cada repetición tuvo una duración de 10 minutos. En este tiempo se caminó a velocidad constante tomando nota de registros auditivos y visuales, información necesaria para estimar las tasas de ocupación de las aves migratorias en cada área y hábitat muestreado.  En cada área de estudio se realizó el muestro con doble observador de manera simultánea, entre 6 a 11 de la mañana. Se utilizaron binoculares Bushnell 8x42, y una libreta de campo con formato estandarizado. Se registró el código del transecto, el estado del tiempo, la hora de inicio, las especies y número de individuos dentro o fuera de 25 m, sexo y edad si era posible, y observaciones de anidación y/o forrajeo. Dichas observaciones complementaban los transectos al maximizar el número de especies migratorias registradas dentro de un área y también son efectivas para compilar inventarios de especies. Los individuos que sobrevolaban el transecto se registraron como S (sobrevuelo). La información obtenida fue sistematizada en una base de datos con formato Darwin Core, del Sistema de Información en Biodiversidad (SIB).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Vegetación (transecto) 
+Para cada transecto se realizó una descripción de la vegetación, se registró las siguientes variables en cuatro puntos (20 m, 40 m, 60 m, 80 m): 1. Altura del dosel en metros- estimado; 2. Cobertura de dosel- estima porcentaje de su visión tapada por vegetación al mirar directamente hacia arriba a través de los binoculares en sentido contrario; 3. Porcentaje de vegetación natural- estima el porcentaje de cobertura de vegetación natural en un radio de 10 m alrededor del punto; 4. Árbol &gt;15 m en radio de 10 m- registra el número de árboles con un altura mayor a 15 m en un radio de 10 m del punto; 5. Porcentaje de Cobertura del Suelo– estima el porcentaje del suelo cubierta con vegetación dentro un radio de 10 m; 6. Sotobosque (0-3)– se clasificó el sotobosque en una escala de 4 categorías, donde 0 = sotobosque casi ausente, 1. Sotobosque abierto pero presente, 2. Sotobosque denso pero pasable por un humano, 3. Sotobosque muy denso, impasable.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis estadístico 
+La riqueza de especies por sitio fue determinada por el cálculo del número total de especies registradas en cada transecto en cada sitio. Se midió la diversidad y la representatividad del muestreo con datos de abundancia basados en los números de Hill (Chao et al., 2014) parametrizado en ordenes de diversidad q, el cual determina la sensibilidad de la medida a las abundancias relativas de las especies; utilizando el paquete VEGAN 2.5.1 y iNext (Hsieh &amp; Chao, 2017) del programa y lenguaje de programación R versión 3.4.4 para Windows. Las curvas de acumulación de especies fueron realizadas con estimaciones en EstimatedS versión 9.1.0 y las gráficas en Excel. La diversidad beta se determinó mediante un dendrograma y un análisis de porcentaje de disimilitud con formula de Lance-Williams en el programa R. Se utilizó la aproximación de modelos jerárquicos para estimar la abundancia, considerando simultáneamente la probabilidad de detección (Mackenzie et al., 2002). Para seleccionar los mejores modelos que se ajustaran a los datos obtenidos, se utilizó el criterio de información de Akaike’s (AIC). Se usaron como covariables de detección el tiempo de inicio de la observación, y el observador (tres observadores en campo); y las siguientes covariables de abundancia: distancia al agua (incluye quebradas, caños), % de bosque dentro del transecto. Se utilizó el promedio de modelos con la función predict del paquete unmarked de R (Fiske &amp; Chandler, 2011) para obtener predicciones de los parámetros de los modelos (detección y abundancia) y su incertidumbre asociada.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El proyecto se desarrolló en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte. Según la clasificación de Holdridge los ubican en la zona de vida de bosque húmedo tropical (Bh-T) que se presenta en lugares donde la precipitación está entre  los 2000 a 4000 mm anuales y la temperatura es mayor a 24ºC.
+Jardín botánico: Hace parte de la reserva municipal de Buenavista, y está ubicado en la vertiente oriental de la cordillera oriental en la zona de piedemonte llanero, 4° 9’N, 73° 39’W, altura entre 497 a 653 m.s.n.m, en la vía que conduce a los barrios Azotea y Mesetas, al noroccidente de la ciudad. Esta reserva tiene aproximadamente 46 hectáreas (ha), hace parte de la microcuenca del Caño Parrado y presenta bosque secundario con algún grado de intervención y con probabilidades de conexión con los bosques de Buenavista y Bavaria.
+Universidad de los Llanos (Sede Barcelona): Se ubica al sur de la vía entre Villavicencio y Puerto López, km 12; 4° 4’N, 73° 34’W, altura ~400 m.s.n.m. El campus tiene un área aproximada de 45 (ha), está rodeado de áreas dedicadas a la agricultura, recreación y turismo, y hay una base militar aérea que limita con el campus. La zona solía estar dominada por sabanas inundables entremezcladas con bosques, pero las profundas modificaciones en el paisaje no han dejado rastro de las sabanas y la mayoría de las áreas con cobertura arbórea corresponden a zonas plantadas o a bosques de regeneración secundaria. Avendaño et al., (2018), divide el campus en seis tipos de hábitats: lagos artificiales, cultivos, bosque ripario, pastizales y áreas abiertas, zonas con pastos y cercas de árboles, bosques secundarios y zonas urbanas. Además, de reportar 210 especies de aves registradas en el campus.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se establecieron 12 transectos de 100 metros de largo, y 50 de ancho, (5 ubicados en el Jardín botánico y 7 ubicados en Unillanos), en cada transecto se hicieron dos repeticiones por día, durante dos días consecutivos en la migración de otoño (Septiembre, Octubre y Noviembre de 2016) y la migración de primavera (Febrero, Marzo y Abril de 2017). Cada repetición tuvo una duración de 10 minutos. En este tiempo se caminó a velocidad constante tomando nota de registros auditivos y visuales, información necesaria para estimar las tasas de ocupación de las aves migratorias en cada área y hábitat muestreado.  En cada área de estudio se realizó el muestro con doble observador de manera simultánea, entre 6 a 11 de la mañana. Se utilizaron binoculares Bushnell 8x42, y una libreta de campo con formato estandarizado. Se registró el código del transecto, el estado del tiempo, la hora de inicio, las especies y número de individuos dentro o fuera de 25 m, sexo y edad si era posible, y observaciones de anidación y/o forrajeo. Dichas observaciones complementaban los transectos al maximizar el número de especies migratorias registradas dentro de un área y también son efectivas para compilar inventarios de especies. Los individuos que sobrevolaban el transecto se registraron como S (sobrevuelo). La información obtenida fue sistematizada en una base de datos con formato Darwin Core, del Sistema de Información sobre Biodiversidad (SiB-Colombia).
+Para cada transecto se realizó una descripción de la vegetación, se registró las siguientes variables en cuatro puntos (20 m, 40 m, 60 m, 80 m): 1. Altura del dosel; 2. Cobertura de dosel; 3. Porcentaje de vegetación natural; 4. Árbol &gt;15 m en radio de 10 m; 5. Porcentaje de Cobertura del Suelo; y 6. Sotobosque.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project id="Aves migratorias de piedemonte, Villavicencio, Meta.">
+          <title>Aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte, Villavicencio, Meta.</title>
+          <personnel>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Andrea_Morales_Rozo</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Maira Alejandra</givenName>          <surName>Holguín Ruiz</surName>
+    </individualName>
+      <userId directory="http://www.researcherid.com/rid/">https://www.researchgate.net/profile/Maira_Holguin2</userId>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>Cada año millones de aves migratorias neárticas-neotropicales emprenden grandes migraciones desde las zonas templadas hacia el trópico a través de diferentes rutas. Aunque se han realizado varios estudios sobre estas aves en Colombia, en la región de la Orinoquia los estudios son escasos. El objetivo de este estudio es documentar la presencia de especies de aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico, altitud: 600 m) y en una zona periurbana (Campus Barcelona Universidad de los Llanos, altitud: 400 m) de piedemonte en Villavicencio, Colombia, entre septiembre del 2016 a mayo del 2017, se realizaron observaciones durante 39 días, para un total de 156 horas. Cada día se hicieron recorridos durante dos días consecutivos con dos repeticiones por día en 12 transectos de 100 m de largo por 50 de ancho. Se emplearon índices de diversidad para determinar diferencias entre los sitios. Se realizaron un total de 144 repeticiones donde se obtuvo 8206 registros en la base de datos, 226 especies de aves pertenecientes a 45 familias de aves. En cuanto a las especies migratorias se registraron 34 especies de 12 familias, 31 boreales y 3 australes. Los índices de diversidad sugieren que la zona periurbana (Campus Barcelona Unillanos) es ligeramente más diverso que el bosque secundario con algún grado de intervención (Jardín Botánico), lo cual puede estar relacionado con la heterogeneidad de coberturas y ambientes que presenta el campus, además de que, los dos sitios comparten aproximadamente el 40% de las especies. Dentro de las especies con importancia para la conservación se registró Cardellina canadensis en el Jardín botánico y Setophaga striata en los dos sitios.</para>
+          </abstract>
+          <funding>
+              <para>Dirección general de investigaciones de la Universidad de los Llano financiado por Primera convocatoria Año 2016 bajo el código C01-F02-029-2016</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El proyecto se desarrolló en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte. Según la clasificación de Holdridge los ubican en la zona de vida de bosque húmedo tropical (Bh-T) que se presenta en lugares donde la precipitación está entre  los 2000 a 4000 mm anuales y la temperatura es mayor a 24ºC.
+Jardín botánico: Hace parte de la reserva municipal de Buenavista, y está ubicado en la vertiente oriental de la cordillera oriental en la zona de piedemonte llanero, 4° 9’N, 73° 39’W, altura entre 497 a 653 m.s.n.m, en la vía que conduce a los barrios Azotea y Mesetas, al noroccidente de la ciudad. Esta reserva tiene aproximadamente 46 hectáreas (ha), hace parte de la microcuenca del Caño Parrado y presenta bosque secundario con algún grado de intervención y con probabilidades de conexión con los bosques de Buenavista y Bavaria.
+Universidad de los Llanos (Sede Barcelona): Se ubica al sur de la vía entre Villavicencio y Puerto López, km 12; 4° 4’N, 73° 34’W, altura ~400 m.s.n.m. El campus tiene un área aproximada de 45 ha, está rodeado de áreas dedicadas a la agricultura, recreación y turismo, y hay una base militar aérea que limita con el campus. La zona solía estar dominada por sabanas inundables entremezcladas con bosques, pero las profundas modificaciones en el paisaje no han dejado rastro de las sabanas y la mayoría de las áreas con cobertura arbórea corresponden a zonas plantadas o a bosques de regeneración secundaria. Avendaño et al., (2018), divide el campus en seis tipos de hábitats: lagos artificiales, cultivos, bosque ripario, pastizales y áreas abiertas, zonas con pastos y cercas de árboles, bosques secundarios y zonas urbanas. Además, de reportar 210 especies de aves registradas en el campus.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Entre septiembre del 2016 a mayo del 2017, se realizaron observaciones durante 39 días, para un total de 156 horas. Cada día se hicieron recorridos durante dos días consecutivos con dos repeticiones por día en 12 transectos de 100 m de largo por 50 de ancho. Para cada transecto se realizó una descripción de la vegetación, se registró las siguientes variables en cuatro puntos (20 m, 40 m, 60 m, 80 m): 1. Altura del dosel; 2. Cobertura de dosel; 3. Porcentaje de vegetación natural; 4. Árbol &gt;15 m en radio de 10 m; 5. Porcentaje de Cobertura del Suelo; y 6. Sotobosque. Se emplearon índices de diversidad para determinar diferencias entre los sitios.La riqueza de especies por sitio fue determinada por el cálculo del número total de especies registradas en cada transecto en cada sitio. Se midió la diversidad y la representatividad del muestreo con datos de abundancia basados en los números de Hill (Chao et al., 2014) parametrizado en ordenes de diversidad q, el cual determina la sensibilidad de la medida a las abundancias relativas de las especies</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/smg0ay">Morales Rozo A, Holguín Ruiz M A (2020). Aves migratorias boreales y australes en un bosque secundario con algún grado de intervención (Jardín Botánico) y en una zona periurbana (Campus Barcelona, Unillanos) de piedemonte, Villavicencio, Meta.. Universidad de los Llanos. Occurrence dataset https://doi.org/10.15472/smg0ay accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Acevedo, O. A., Pinto, A., &amp; Rangel, O. 2014. Birds of the Orinoquian region of Colombia: A review on its records. Colombia Diversidad Biotica XIV, (November), 691–750. https://doi.org/10.1088/0965-0393/19/7/074003</citation>
+      <citation>Ardila-Téllez, J., &amp; Cruz-bernate, L. 2015. Aspectos ecológicos de las aves migratorias neárticas en el campus de la Universidad del Valle. Boletín Científico Centro de Museos Museo de Historia Natural, 18(2), 93–108.</citation>
+      <citation>Avendaño, J. E., Tejeiro-M, N., Díaz-Cárdenas, J., Amaya-Burgos, J. J., Aponte, A. F., Salcedo- Sarmiento, Y., … Morales-Rozo, A. 2018. Birds of Universidad de los Llanos (Villavicencio, Colombia): a rich community at the andean foothills-savanna transition. Boletín Científico Centro de Museos Museo de Historia Natural, 22(2), 51–75. https://doi.org/10.17151/bccm.2018.22.2.5</citation>
+      <citation>Bayly, N. J., Rosenberg, K. V., Easton, W. E., Gómez, C., Carlisle, J., Ewert, D. N., … Goodrich, L. 2018. Major stopover regions and migratory bottlenecks for Nearctic-Neotropical landbirds within the Neotropics: A review. Bird Conservation International, 28(1), 1–26. https://doi.org/10.1017/S0959270917000296</citation>
+      <citation>Bayly, N. J., Rosenberg, K. V., Gómez, C., Hobson, K. A. 2019. Habitat choice shapes the spring stopover behaviour of a Nearctic-Neotropical migratory songbird. Journal of Ornithology, 160(2), 377–388. https://doi.org/10.1007/s10336-019-01624-3</citation>
+      <citation>Caro Caro, C. I., Heshusius Vargas, M., Rodríguez Flores, C., De Las Casas, J. C., Rincón, R., Castro Lima, F. A. 2007. Avifauna del Municipio de Villavicencio. Lista preliminar (Universida). https://doi.org/10.1360/zd-2013-43-6-1064</citation>
+      <citation>Chao, A., Gotelli, N. J., Hsieh, T. C., Sander, E. L., Ma, K. H., Colwell, R. K., Ellison, A. M. 2014. Rarefaction and extrapolation with Hill numbers: A framework for sampling and estimation in species diversity studies. Ecological Monographs, 84(1), 45–67. https://doi.org/10.1890/13-0133.1</citation>
+      <citation>Del Hoyo, J., Elliott, A., Sargatal, J., Christie, D., de Juana, E. 2013. Handbook of the Birds of the World Alive (Lynx Edici; J. Del Hoyo, A. Elliott, J. Sargatal, D. . Christie, &amp; E. de Juana, eds.). Retrieved from https://www.hbw.com/node/52692</citation>
+      <citation>Díaz-Bohórquez, A., Bayly, N. J., Botero, J. E., Gómez, C. 2014. Aves migratorias en agroecosistemas del norte de Latinoamérica, con énfasis en Colombia. Ornitologia Colombiana, 3–27.</citation>
+      <citation>Faaborg, J., Holmes, R. T., Anders, A. D., Bildstein, K. L., Dugger, K. M., Gauthreaux, S. A., … Warnock, N. 2010. Recent advances in understanding migration systems of New World land birds. Ecological Monographs, 80(1), 3–48. https://doi.org/10.1890/09-0395.1</citation>
+      <citation>Fiske, I., Chandler, R. 2011. Unmarked: an R package for fitting hierarchical models of wildlife occurrence and abundance. Journal of Statistical Software, 43(10), 1–23. https://doi.org/10.18637/jss.v043.i10</citation>
+      <citation>Houston, D., Kirwan, G., Christie, D., &amp; Marks, J. 2018. Buitre de pavo (Cathartes aura). In E. (eds. ). del Hoyo, J., Elliott, A., Sargatal, J., Christie, DA y de Juana (Ed.), Handbook of the Birds of the World Alive (Lynx Edici). Retrieved from https://www.hbw.com/node/52940</citation>
+      <citation>Hsieh, T. C., Chao, A. 2017. Rarefaction and extrapolation: Making fair comparison of abundance-sensitive phylogenetic diversity among multiple assemblages. Systematic Biology, 66(1), 100–111. https://doi.org/10.1093/sysbio/syw073</citation>
+      <citation>Mackenzie, D. I., Nichols, J. D., Lachman, G. B., Droege, S., Andrew Royle, J., Langtimm, C. A. 2002. Estimating site occupancy rates when detection probabilities are less than one. Estimating Site Occupancy Rates When Detection Probabilities Are Less than One., 83(8), 2248–2255.</citation>
+      <citation>Mehlman, D. W., Mabey, S. E., Ewert, D. N., Duncan, C., Abel, B., Cimprich, D., … Woodrey, M. 2005. Conserving Stopover Sites for Forest-Dwelling Migratory Landbirds. The Auk, 122(4), 1281. https://doi.org/10.1642/0004-8038(2005)122[1281:cssffm]2.0.co;2</citation>
+      <citation>Murillo-Pacheco, J., Bonilla-Rojas, W. 2016. New records and distribution extensions of some bird species in the Colombian Andean-Orinoco, department of Meta. Check List, 12(2), 10–13. https://doi.org/http://dx.doi.org/10.15560/12.2.1876</citation>
+      <citation>Naranjo, L. G., Amaya, J. D. 2009. Plan nacional de las especies migratorias. Diagnóstico e identificación de acciones para conservación y el manejo sostenible de las especies migratorias de la biodiversidad en Colombia (Ministerio; L. G. Naranjo &amp; J. D. Amaya, eds.).</citation>
+      <citation>Naranjo, L. G., Amaya, J. D., Eusse-González, D., Cifuentes-Sarmiento, Y. 2012. Guía de las especies migratorias de la biodiversidad en Colombia. Aves. Vol.1 (Ministerio; L. G. Naranjo, J. D. Amaya, D. Eusse-González, &amp; Y. Cifuentes-Sarmiento, eds.). Bogotá, D.C.Colombia.</citation>
+      <citation>North American Bird Conservation Initiative Canada. 2019. The state of Canada’s birds. Retrieved from www.stateofcanadasbirds.org%0ACat.</citation>
+      <citation>Ocampo-Peñuela, N. 2010. El fenómeno de la migración en aves: una mirada desde la Orinoquia. Orinoquia, 14(2), 188–200.</citation>
+      <citation>Rosenberg, K., Kennedy, J., Dettmers, R., Ford, R., Reynolds, D., Alexander, J., … Will, T. 2016. Partners in Flight Landbird Conservation Plan: 2016 Revision for Canada and Continental United States. Partners in Flight Science Committee.</citation>
+      <citation>Stiles, F. G. 2004. Austral migration in Colombia: The state of knowledge, and suggestions for action. Ornitología Neotropical, 15, 349–355.</citation>
+      <citation>TNC, WWF, Renastur, &amp; Fudena. 2007. Áreas Prioritarias para Aves Migratorias en la Cuenca del Orinoco. Caracas, Venezuela.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://statics.sibcolombia.net/sib-resources/images/logos-socios/portal-sib/logo-unillanos.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,249 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e7a08060-8999-4a87-bf9e-b45c5c43d4c9"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/km5xtt</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=avifaunacienagalalargatagachiiap2012</alternateIdentifier>
+    <title>Avifauna asociada al complejo cenagoso La Larga, Tagachí, Chocó 2012</title>
+    <creator>
+    <individualName>
+<givenName>Nelsy Sofia</givenName>          <surName>Bonilla Urrutia</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Investigadora contratista</positionName>    <address>
+<deliveryPoint>Barrio Huapango, Cra 6 No 37 - 39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nelsy Sofia</givenName>          <surName>Bonilla Urrutia</surName>
+    </individualName>
+<organizationName>IIAP</organizationName><positionName>Investigadora contratista</positionName>    <address>
+<deliveryPoint>Barrio Huapango, Cra 6 No 37 - 39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sofibon@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Instituto de Investigaciones Ambientales del Pacífico</givenName>          <surName>IIAP</surName>
+    </individualName>
+<organizationName>IIAP</organizationName><positionName>Institución investigativa</positionName>    <address>
+<city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+<onlineUrl>http://www.iiap.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-08-06
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>A nivel faunístico las ciénagas son consideradas ecosistemas altamente productivos, que permiten el flujo de la energía a través de niveles tróficos complejos, que van desde macroinvertebrados acuáticos hasta aves carroñeras eliminadoras de la materia orgánica, que terminan devolviéndola al ecosistema como parte de una dinámica ecológica que incluye dos ambientes totalmente diferentes, los cuales responden a los requerimientos de los organismos existentes. La fauna presente en estos ecosistemas hace parte esencial en la funcionalidad del mismo y en la composición del paisaje, recreándolo y ayudando a su mantenimiento en el tiempo y el espacio. 
+
+La fauna silvestre de los humedales es, quizá, una de las más ricas y variadas de los ecosistemas del planeta. Los innumerables microhábitats, la enorme productividad primaria, los nutrientes que por él circulan, ayudan a explicar esta inestimable diversidad. Los animales que habitan los humedales tienen diversos mecanismos para adaptarse a ellos. Patas palmeadas con membradas interdigitales para nadar, picos aguzados como las garzas para proveerse el alimento, plumas y pelos muy bien lubricados para protegerse del frío y muchas aves de picos aplanados para filtrar alimento.
+
+Las anteriores razones crean la necesidad de conocer el potencial faunístico de las ciénagas y el papel que las especies desempeñan en la funcionalidad y mantenimiento de dicho ecosistema. Por lo tanto esta investigación tiene como objetivo analizar el estado de conservación del complejo cenagoso La Larga, a partir del conocimiento de la composición de vertebrados silvestres presentes en los diferentes estratos del ecosistema y su contribución con el funcionamiento del mismo.
+
+Este apartado contiene una metodología estandarizada para los diferentes grupos faunísticos y modificada para facilitar el trabajo de campo en el área objeto de estudio. También se presentan los resultados obtenidos que incluyen la composición faunística del complejo, destacando la presencia de especies con gran importancia ecológica y de interés especial para la conservación y con ello las consideraciones a las que finalmente nos lleva dicho estudio.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>aves del Chocó</keyword>
+              <keyword>ornitofauna</keyword>
+              <keyword>ciénagas del Atrato</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://ipt.biodiversidad.co/iiap/resource?r=avifaunacienagalalargatagachiiap2012</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El complejo cenagoso de Tagachí, se encuentra localizado en las coordenadas 6°13&apos;51.7&quot; N y 76°44&apos;26.7&quot; W, está constituido principalmente por dos espejos de agua conocidos como la Larga y la Rinconera, los cuales están conectados entre si y con el rio Atrato, a través de un caño construido y denominado por la comunidad como Tagachisito, el cual rodea toda la cabecera del corregimiento.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.716</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.716</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.207</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.207</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-08-08
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-08-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registraron 18 especies de aves pertenecientes a 13 familias y 11 órdenes. Los órdenes Pelecaniformes, Accipitriformes, Charadriiformes fueron los más representativos. Las familias que registraron mayor representatividad fueron Accipitridae, Ardeidae, Alcedinidae, Pelecanidae y Cracidae</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphastos brevis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle amazonas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chauna chavaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Charadrius collaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ara araunana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cacicus cela</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Accipiter superciliosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ascipiter striatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zenaida asiatica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Zulmary</givenName>          <surName>Valoyes Cardozo</surName>
+    </individualName>
+<organizationName>IIAP</organizationName><positionName>Investigadora principal componente Ecosistémico</positionName>    <address>
+<deliveryPoint>Barrio Huapango, Cra 6 No 37 - 39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+<onlineUrl>http://www.iiap.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1. Selección de puntos de muestreo
+2. Observación de individuos</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se hicieron observaciones en distintos hábitats dentro del área de estudio, las cuales fueron seleccionadas con el propósito de caracterizar todos los grupos taxonómicos (vertebrados) cobijando diferentes estratos presentes en el ecosistema como el espejo de agua, la vegetación sumergida y el bosque circundante (tierra firme).
+
+La vegetación emergente se encuentra conformada por especies herbáceas y arbustivas enraizadas y algunas arbóreas que rodean el borde del humedal, las cuales toleran bien el agua y proveen hábitat y alimento a la fauna residente y visitante del lugar. Se encuentran algunas especies productoras de frutos y que sirven de percha para aves de pequeño, mediano y gran porte, además de algunas plantas cargadas de bromelias en estado de floración. También se presentan matorrales que son utilizados como sitio de percha para pequeñas aves acuáticas que se posan para visualizar su presa y para el descanso. La composición de dicha vegetación varía a lo largo del borde de la ciénaga
+El bosque circundante se caracteriza por ser un área altamente intervenida, donde es notable el aprovechamiento de extracción forestal que ha producido algunos claros, los cuales son aprovechados por especies cuyos requerimientos ecológicos exigen áreas abiertas y la influencia directa del brillo solar, como es el caso de los reptiles; se observan especies de palmas y árboles de gran porte (de hasta 30 metros de altura) que proporcionan una importante oferta trófica (frutos) para aves como las guacamayas, tucanes y algunos mamíferos, que obtienen el alimento necesario para su supervivencia; además estas especies arbóreas sirven de percha para el descanso temporal de la fauna avícola; muchos de estos árboles portan bromelias en floración que sirven como hábitat y fuente de alimento para anfibios, insectos y aves nectarívoras; además hay variedad de especies arbustivas productoras de frutos en baya aprovechados por aves frugívoras y algunos mamíferos. El suelo presenta gran cantidad de hojarasca, ramas y troncos caídos que funcionan como refugios y lugares de paso para invertebrados terrestres, herpetos y mamíferos 
+También se hicieron observaciones en el caño que conecta la ciénaga y el rio Atrato y en zonas de cultivo aledañas al humedal, donde se encuentran cultivos de arroz, borojó, guayaba agria, limón y maíz, los que además de generar la producción agrícola de habitantes de la zona, constituyen la  oferta alimenticia de algunas especies de fauna que aprovechan tal recurso.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>El levantamiento de la información se realizó mediante la implementación de muestreos diarios durante el día y la noche, aplicando una intensidad de 4 horas en cada período de tiempo. Las observaciones se realizaron en diferentes microambientes como el espejo de agua, la vegetación emergente, caños o meandros aledaños al humedal y vegetación adyacente del mismo. En todos los puntos se aplicó de evaluación rápida de la fauna de vertebrados (anfibios, reptiles, aves y mamíferos), teniendo en cuenta exclusivamente la metodología aplicada para cada grupo TNC (2000). 
+
+Se empleó el método de observación directa utilizando binoculares marca Russell (10 X 40), se tuvieron en cuenta las características morfológicas del individuo (coloración, forma del pico y cola) e inmediatamente fueron comparados e identificados con las guías de campo ilustradas de aves de Hillty y Brown (2001), Roda et al. (2003), Rodríguez y Hernández (2002) y McMullan et al. 2010; Algunos de los individuos fueron fotografiados para una mejor identificación.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>CARACTERIZACIÓN AMBIENTAL DEL COMPLEJO CENAGOSO LA LARGA, TAGACHI, CHOCO</title>
+          <personnel>
+    <individualName>
+<givenName>Instituto de Investigaciones Ambientales del Pacífico</givenName>          <surName>IIAP</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para>Los humedales o ciénagas son ecosistemas que cumplen diversas funciones a nivel ambiental, biológico y sociocultural, teniendo en cuenta que están encargados de procesos como el control de inundaciones, depuración de ríos, soporte y conservación de diversidad ecosistémica, transporte y reservorio de especies hidrobiológicas que sirven para el sostenimiento de la economía de las comunidades entre otras. Aunque la mayoría de estos ecosistemas cumplen funciones similares, al realizar estudios de caracterización se logra identificar las particularidades de cada uno, las cuales están dadas por su ubicación, el clima específico de la zona, su tipología en cuanto a la forma de conexión con los sistemas hídricos del que hacen parte y el tipo ambiente en el que se encuentran inmersos.
+
+En este sentido, el presente documento buscó realizar una caracterización ambiental que permitiera identificar el estado de los recursos del complejo cenagoso la Larga, en relación a características ambientales, biológicas, productivas, hídricas y socioculturales, y a su vez determinar las condiciones que la diferencian del gran número de humedales que se localizan en la llanura aluvial del rio Atrato. Información útil para planificar el uso y manejo de los recursos de estos ecosistemas de gran importancia ecológica y social. 
+
+Los resultados se obtuvieron a partir de la realización de un trabajo de campo que abarcó el estudio de los componentes agua, vegetación, macroinvertebrados y fauna. Además se incluyó el estudio de las características socioeconómicas y culturales de las comunidades asentadas en su área de influencia, como una estrategia para el análisis de la relación hombre – ciénaga, la identificación de las formas de aprovechamiento de los recursos y su concepción de conservación.</para>
+          </abstract>
+          <funding>
+              <para>IIAP, MADS</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El complejo cenagoso de Tagachí, se encuentra localizado en las coordenadas 6o13’51.7’’N y 76o44’26.7’’W, está constituido principalmente por dos espejos de agua conocidos como la Larga y la Rinconera, los cuales están conectados entre si y con el rio Atrato, a través de un caño construido y denominado por la comunidad como Tagachisito, el cual rodea toda la cabecera del corregimiento.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El proyecto se desarrolló en dos etapas, durante la primera se elaboró la línea base del corregimiento y su ecosistema cenagoso, mediante levantamiento de información secundaria relacionada con estudios de calidad de agua, identificación de macroinvertebrados, composición de la vegetación circundante, estudios faunísticos y características socioculturales y económicas de la población.
+
+Para el desarrollo de la segunda etapa (Caracterización), se realizaron muestreos y trabajo de campo encaminado a establecer y describir las ciénagas que conforman el complejo cenagoso de Tagachi mediante recorridos por el ecosistema. La determinar el estado y la composición actual del agua del complejo se llevó a cabo mediante toma de muestras para análisis en laboratorio de parámetros fisicoquímicos y mediciones in situ de los mismos, para posterior análisis.
+
+De otro lado se hicieron capturas de macroinvertebrados en diferentes sustratos identificados en el complejo para determinar la calidad ecológica de las aguas y el estado de productividad trófica del ecosistema. Se realizaron transectos y muestreos a la zar de la vegetación presente en el bosque circundante y los espejos de agua para determinar la estructura y composición de la comunidad vegetal y se analizó su de conservación en el complejo cenagoso mediante la revisión de libros rojos y categorías de amenaza UICN.
+Se realizó un inventario rápido de la fauna presente en el complejo cenagoso de Tagachi para determinar composición, estructura, y estado de conservación. 
+
+Para la caracterización socioeconómica y cultural de la población del área de influencia del ecosistema, se realizaron entrevistas y encuestas que permitieron identificar las diferentes etnias y grupos humanos existentes y analizar el papel que juegan los recursos naturales en la economía de la zona.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/km5xtt">Bonilla Urrutia N S (2019). Avifauna asociada al complejo cenagoso La Larga, Tagachí, Chocó 2012. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/km5xtt accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-iiap.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

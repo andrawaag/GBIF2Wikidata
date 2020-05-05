@@ -1,0 +1,723 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="db191f3a-48ed-4b94-93ef-5c0517fb1b58"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/uecnoz</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=0965_aconprodcal_03122015</alternateIdentifier>
+    <title>Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</title>
+    <creator>
+    <individualName>
+<givenName>Laura Maria</givenName>          <surName>Ramirez Hernandez</surName>
+    </individualName>
+<organizationName>Inerco Consultoría Colombia</organizationName><positionName>Coordinadora de proyectos</positionName>    <address>
+<deliveryPoint>Calle 116 No. 19-41, piso 3</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2362600 ext. 2114</phone><electronicMailAddress>lramirez@inerco.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Laura Maria</givenName>          <surName>Ramirez Hernandez</surName>
+    </individualName>
+<organizationName>Inerco Consultoría Colombia</organizationName><positionName>Coordinadora de proyectos</positionName>    <address>
+<deliveryPoint>Calle 116 No. 19-41, piso 3</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2362600 ext. 2114</phone><electronicMailAddress>lramirez@inerco.com</electronicMailAddress>    </metadataProvider>
+      <pubDate>
+      2019-02-11
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Se realizó el muestreo de vertebrados (aves, mamíferos, reptiles y anfibios) y de artropofauna (Lepidoptera, Coleoptera y Hymenoptera) en las áreas biosensoras y en proceso de rehabilitación de la mina Calenturitas, ubicada en el departamento de Cesar (municipios de La Jagua de Ibirico, El Paso y Becerril), durante la temporada de lluvias en el mes de octubre de 2015.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>[autoridad]ANLA[numero]0965[titular]Ambiental Consultores S.A.S[nit o cedula]800247308-6[fecha]2015-08-06</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Se realizó el muestreo en el interior de la mina Calenturitas, ubicada en los municipios de Becerril, La Jagua de Ibirico y El Paso, departamento de Cesar</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.59</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-73.43</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.72</northBoundingCoordinate>
+                      <southBoundingCoordinate>9.59</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-10-16
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-10-28
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se presentan a continuación los géneros reportados tanto de vertebrados como de artrópodos</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                        <taxonRankValue>Actitis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Agraulis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Alouatta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ameiva</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anartia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Anolis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aphrissa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ara</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aramides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Aramus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ardea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ascia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Basiliscus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Biblis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bothrops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Bubulcus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Burhinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buteo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Buteogallus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Butorides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caiman</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cairina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Campephilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Camponotus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Campylorhynchus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Canthon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cantorchilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Caracara</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Carollia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cathartes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Catharus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cebus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cephalotes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cercomacra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cerdocyon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Certhiaxis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Chloroceryle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cissia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Claravis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cnemidophorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coereba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Colaptes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Colinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Columbina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coprophanaeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Coragyps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crematogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crotalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Crotophaga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Cyanocorax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Danaus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dasyprocta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dasypus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Deltochilum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dendrocygna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dendropsophus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Desmodus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dichotomius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Didelphis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Digitonthophagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dione</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dryadula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dryas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Dryocopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ectatomma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Egretta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eira</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Elanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Engystomops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eudocimus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eupsittula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Euptoieta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Eurysternus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Falco</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Fluvicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Forpus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Galbula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Galictis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Geranospiza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Glossophaga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Gonatodes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hamadryas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heliconius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Heraclydes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Herpailurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Herpailurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Herpetotheres</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Himantopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hydrochaeris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Hypsiboas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Icterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Iguana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Itaballia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Junonia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Kinosternon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Kricogonia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leiothlypis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leopardus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lepidoblepharis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptodactylus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptodeira</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Leptotila</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lontra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lophostoma</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Lygophis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mabuya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Machetornis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Malagoniella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Marmosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Mazama</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megaceryle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Megascops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Melanerpes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Milvago</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Momotus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myiozetetes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Myrmeciza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nemosia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nyctibius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nycticorax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Nyctidromus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Odontomachus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Onthophagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Ortalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pachycondyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Patagioenas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pecari</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Petrochelidon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phaethornis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phanaeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phimophis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phimosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Phoebis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Piaya</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pilherodius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pitangus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Platalea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pleurodema</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Porphyrio</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Procyon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Protonotaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Psarocolius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudoboa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudomyrmex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pseudopaludicola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pteroglossus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pyrisitia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Pyrrhogyra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Quiscalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rhinella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Rupornis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sakesphorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Saltator</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Scarthyla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sciurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Setophaga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sibon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Spiza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sporophila</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Stichelia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sturnella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Sylvilagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Synallaxis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tamandua</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Taygetis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thamnodynastes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thamnophilus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thecadactylus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Thraupis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tolmomyias</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Trachemys</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tretioscincus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tringa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Troglodytes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Turdus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Tyrannus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Uroxys</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Vanellus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Volatinia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Xiphorhynchus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                        <taxonRankValue>Zenaida</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Laura Maria</givenName>          <surName>Ramirez Hernandez</surName>
+    </individualName>
+<organizationName>Inerco Consultoría Colombia</organizationName><positionName>Coordinadora de proyectos</positionName>    <address>
+<deliveryPoint>Calle 116 No. 19-41, piso 3</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2362600 ext. 2114</phone><electronicMailAddress>lramirez@inerco.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>AVES
+Con el fin de caracterizar la avifauna presente en la mina Calenturitas durante la temporada de lluvias, se realizaron dos (2) metodologías: recorridos de observación e instalación de redes de niebla. La primera se llevó acabo en los periodos de mayor actividad de las aves (5:00 - 10:00 y 16:00 – 18:00) en las cuales se recorrieron las áreas y se realizó la identificación y toma de datos de abundancia de las aves, ya sea por observación directa del individuo o por la identificación de las vocalizaciones. Es importante resaltar que no se realizaron grabaciones de los cantos. Así mismo, para cada organismo registrado se tomaron anotaciones de importancia ecológica, tales como tipo de vegetación, agrupación con otros individuos, entre otros. 
+
+De manera complementaria, se instalaron redes de niebla de 12 m largo por 2,5 m de ancho en las áreas de Maracas-Tucuy y Caimancito, las cuales se mantuvieron abiertas durante las horas de mayor actividad de las aves (5:00- 10:00 y 16:00 – 18:00) y fueron revisadas constantemente para evitar estrés y muertes fortuitas de las aves. Los individuos capturados se liberaron delicadamente de las redes y se trasladaron en bolsas de tela individuales a un área cercana para su manipulación e identificación a través de la toma de fotografías y medidas morfológicas con la ayuda de un pie de rey digital, tales como culmen total, ancho y alto del pico, longitud del ala, cola y tarso, entre otras. Finalmente, con el fin de registrar las recapturas, se realizó un marcaje temporal no invasivo a través del corte de una pluma timonera, para luego liberar al individuo en el mismo sitio de su captura. Ningún organismo fue sacrificado dado que se logró la identificación certera de todos In situ.
+
+Con los datos obtenidos en campo, se realizó su depuración en Excel para la construcción de bases de datos y archivos formato Geodatabase, con el fin de calcular la composición (riqueza) y abundancia de las comunidades de aves; también se consultó bibliografía específica para realizar el análisis de los gremios tróficos y el establecimiento de especies sensibles, como el Sistema de Información Sobre Biodiversidad de Colombia SIB (disponible online a través de http://www.sibcolombia.net/), así como Bird Life International (disponible en http://www.birdlife.org), entre otras. Para la realización de todo el documento, se siguió la taxonomía actualizada determinada por Remsen Et ál, versión de octubre de 2015.
+
+Finalmente, los cálculos de los índices de diversidad (Shannon Wiener, Simpson y Equitability), así como del análisis de similitud se utilizó el programa Past3®, mientras que la curva de acumulación de especies se construyó con la ayuda del programa EstimateS 8.2 ®.
+
+MAMÍFEROS
+Para la captura de murciélagos se utilizaron tres redes de niebla de 12 m largo x 2,5 m de ancho. Estas fueron instaladas en las áreas Biosensoras de Maracas – Tucuy, Caimancito y Bajo inundable; se extendieron al interior y en borde de bosque y fueron reubicadas cada noche para abarcar mayor área. La apertura de las redes fue realizada desde las 18:00h hasta las 21:00h y se revisaron con intervalos de 30 minutos.
+
+Se registraron los siguientes datos de los murciélagos capturados: morfometría según Barquez (1987), sexo, condición reproductiva, estado de desarrollo y georreferenciación. Posteriormente se realizó la identificación taxonómica de los murciélagos con claves propuestas por Linares (1986), Timm et al., (1999) y Solari et al., (2013). Después de obtener los datos de colecta, los murciélagos se marcaron en la pata con esmalte para registrar posteriores recapturas y a continuación fueron liberados.
+
+Para la captura de pequeños mamíferos se emplearon 20 trampas tipo Sherman, que fueron cebadas con una mezcla de avena, banano y esencia de vainilla; las trampas se ubicaron a nivel del suelo, cerca de refugios, en hojarasca, matorrales, caminaderos y sobre árboles, a lo largo de transeptos. Se activaron en las horas de la mañana y se inspeccionaron al día siguiente en cada área Biosensora.
+
+Por otra parte, se instalaron 10 cámaras digitales de rastreo Bushnell, con tarjeta de memoria de 8Gb, en aquellos lugares en donde se evidenció algún rastro, madriguera o indicio de un mamífero; Las cámaras fueron programadas para funcionar por un periodo de actividad de 24 horas, durante los días muestreados en cada área Biosensora. Se utilizaron como atrayentes, latas de sardina estacadas a un palo y se esparció por el suelo cuido para perros.
+
+De manera complementaria, se llevaron a cabo recorridos diurnos y nocturnos de longitud no definida, observando cautelosa y silenciosamente cualquier movimiento en el dosel de los árboles y sobre el suelo. En horas nocturnas se utilizaron linternas de alta potencia para iluminar los animales y así lograr su identificación. Para los mamíferos encontrados, se tomaron los siguientes datos: fecha, hora, hábitos alimenticios, número de individuos, tipo de hábitat y especie. Además, se registró toda evidencia de alimentación o de actividad que pudiera identificarse como rastro de un mamífero, tales como huellas, excremento, comederos, hozaderos y madrigueras.  Para la identificación de las huellas se fotografiaron y se empleó el Manual de Navarro &amp; Muñoz (2000).
+
+La representatividad del muestreo se evaluó usando curvas de acumulación de especies con la ayuda del software EstimateS (Colwell 2005). Este programa calcula una curva de rarefacción de las especies observadas por cada día muestreado y estima las especies probables en el área con base en estimadores no paramétricos (Chao1 y CAO) que nos permiten establecer tanto el momento en el que el muestreo se completa, como el número total de las especies esperadas para el sitio (Colwell y Coddington 1994).
+
+HERPETOS
+Para la caracterización de la Herpetofauna en las diferentes áreas tanto biosensoras como en recuperación, se realizaron muestreos mediante la metodología de búsqueda libre y sin restricciones abarcando el mayor número posible de hábitats, representados por las unidades de cobertura, desde el 16 al 28 de octubre del 2015. 
+
+Consistió en realizar caminatas, buscando anfibios y reptiles, sin que existieran demasiadas reglas para la búsqueda, a excepción de revisar minuciosamente todos los microhábitats disponibles como cuerpos de agua (charcos, caños, lagunas y quebradas, bajos inundables), caminos o trochas dentro del bosque; refugios como troncos, piedras, agujeros, hojarasca o material en descomposición. stos recorridos se llevaron a cabo durante el día y la noche, en un lapso comprendido entre las 8:00 y las 21:00 horas. Para el caso de capturas posibles, se tuvo en cuenta tener todo el cuidado necesario para no afectar el bienestar de los individuos; en especial, para el caso de las serpientes se empleó la ayuda de una pinza herpetológica, evitando riesgos de mordida (sin importar que se tratase o no de especies venenosas).
+
+
+Se realizaron dos recorridos diarios (diurno y nocturno) en cada una de las áreas de muestreo tanto en zonas biosensoras como en áreas en proceso de rehabilitación, para el registro de las diferentes especies de anfibios y reptiles en la mayoría de hábitats (Tabla 1 1). Durante los muestreos realizados en el área biosensora Caimancito fue colectado un ejemplar de la falsa mapaná (Leptodeira septentrionalis).
+
+Se realizaron dos recorridos diarios (diurno y nocturno) en cada una de las áreas de muestreo tanto en zonas biosensoras como en áreas en proceso de rehabilitación, para el registro de las diferentes especies de anfibios y reptiles en la mayoría de hábitats.
+
+ESCARABAJOS COPRÓFAGOS
+Se realizó un transecto lineal de 300m, seccionado en cinco unidades muestreales, separadas entre sí cada 60m; en cada unidad, se instaló una pitfall activa (trampa de caída cebada con copro de omnívoro), esta trampa consiste en enterrar al nivel del suelo un vaso desechable de 16 onzas de capacidad, lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima, un vaso de una (1) onza, lleno con 20g de heces de omnívoro, sujeto a un alambre de 15cm de largo en forma de L invertida (Brown, 1982), estas trampas se instalan  por un período de24 horas. 
+
+MARIPOSAS DIURNAS
+La colecta de mariposas se realizó utilizando la red entomológica o jama tipo mariposero, conformada por un aro metálico entre 50cm a 70cm al que va unido un tul de forma cónica, sostenida por una vara de metal, que da soportea todo elinstrumento. La captura con jama se realiza mediante recorridos en el interior de la parcela desde las 7:00 AM hasta las 5:00 PM, para obtener un mejor ajuste de los muestreos, se adicionó la utilización de trampas tipo Van SomerenRydon. Estas trampas se revisaron de modo alterno, al tiempo que se hacían recorridos con la red entomológica. Los individuos colectados fueron sacrificados mediante Digitalización toraxica o “pincin”, luego se depositaron en sobres triangulares de papel pergamino y posteriormente fueron trasladados al laboratorio para su determinación taxonómica.
+
+HORMIGAS
+Se aplicaron métodos de colecta variados, dentro de un transecto lineal de 100m, dividido en 5 secciones, separadas 20m entre sí, en cada una ellas, se instaló una pitfall activa, para aquellas que colonizan y transitan el suelo. Esta trampa consiste en enterrar al nivel del suelo un vaso de 12 onzas disimulado con hojarasca, lleno un tercio con una solución de alcohol al 50%, posteriormente se ubica por encima, un vaso de una (1) onza, lleno con 20g de bocadillo y galleta, sujeto a un alambre de 15cm de largo en forma de L invertida (Brown, 1982), estas trampas se instalan  por un período de 24 horas por localidad. Otra técnica utilizada fue la búsqueda activa o captura manual, que se basa en la inspección de microhábitats, donde pueden interactuar especies que notransiten mucho el suelo, como corteza de árboles, huecos en las rocas, ramas, etc. Con la ayuda de pinceles y pinzas entomológicas, esta búsqueda se realiza durante el día, por localidad.
+Los organismos colectados se fijan y conservan siguiendo las debidas labores curatoriales; se utilizan claves taxonómicas para géneros y especies de Coleoptera: Scarabaeidae (Vitolo 2000, Medina &amp; Lopera 2001); Lepidoptera (DeVries 1986, 1996) e Hymenoptera: Formicidae (Fernández 2003).
+
+Los datos de riqueza y abundancia de insectos, obtenidos durante el muestreo fueron organizados en matrices en excel, donde se aplicó estadística descriptiva para definir distribuciones de abundancia por especies y organismos representativos.
+Se utilizó el programa PAST para realizar análisis de similitud entre estaciones de muestreos, así mismo, se realizaron los índices ecológicos de diversidad, dominancia y equitatividad con este software de libre uso.
+Se realizaron curvas de estimación de número de especies en los sitios correspondientes a estaciones biosensoras y zonas en proceso de recuperación, utilizando el paquete ESTIMATE 6.0.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El muestreo se realizó en las áreas Biosensoras y en Proceso de Rehabilitación, ubicadas en el interior de la Mina Calenturitas (departamento de Cesar, municipios de La Jagua de Ibirico, El Paso y Becerril)</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la herpetofauna se realizaron caminatas de búsqueda libre al azar durante día y la noche, en un lapso comprendido entre las 8:00 y las 21:00 horas, las cuales se complementaron con la realización de parcelas de hojarasca de 5x5m. Para el estudio de la avifauna se llevaron a cabo transectos en franjas entre las 06:00 h a las 10:30 h y 15:30 h a las 17:30 h y también se instalaron redes de niebla, las cuales se mantuvieron abiertas en los periodos 05:30 h a 10:30 h y 15:30 h a 17:30 h. El inventario de la mastofauna se realizó mediante observación y captura, a través del uso de trampas Sherman, cámaras trampas, redes de niebla, colectas manuales, recorridos, registros indirectos y búsqueda de rastros. Para la caracterización de lepidoptera se realizaron capturas con la instalación de trampas Van Someren Rydon y transectos con el uso de jama; además, para la caracterización tanto de los hymenopteros como de los coleopteros, se utilizaron trampas de caída.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias</title>
+          <personnel>
+    <individualName>
+<givenName>Laura Maria</givenName>          <surName>Ramirez Hernandez</surName>
+    </individualName>
+    <role>CONTENT_PROVIDER</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/uecnoz">Ramirez Hernandez L M (2019). Estudio de Biodiversidad Mina Calenturitas, Temporada de Lluvias. INERCO Consultoría Colombia. Occurrence dataset https://doi.org/10.15472/uecnoz accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/logo-inerco.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

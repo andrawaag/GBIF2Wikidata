@@ -1,0 +1,342 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a1061ba5-2506-470f-a76c-ee978de78245"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/mt8cas</alternateIdentifier>
+        <alternateIdentifier>a1061ba5-2506-470f-a76c-ee978de78245</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=aves_sulu2</alternateIdentifier>
+    <title>Aves asociadas a las sabanas inundables de las cuencas de los ríos Bita, Manacacías y Cravo Sur - SULU II</title>
+    <creator>
+    <individualName>
+<givenName>Estefanía</givenName>          <surName>Izquierdo Gómez</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<phone>3167633461</phone><electronicMailAddress>niazurda@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Felipe</givenName>          <surName>Estela</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Ornitólogo</positionName>    <address>
+<deliveryPoint>Carrera 24 No. 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3152850997</phone><electronicMailAddress>felipe.estela@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Edgar Esteban</givenName>          <surName>Herrera Collazos</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Data Scientist</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638/</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Estefanía</givenName>          <surName>Izquierdo Gómez</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<phone>3167633461</phone><electronicMailAddress>niazurda@gmail.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Edgar Esteban</givenName>          <surName>Herrera Collazos</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Data Scientist</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638/</userId>
+    </metadataProvider>
+    <associatedParty>
+<organizationName>Fundación Omacha</organizationName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<phone>3203024740</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress>    <role>OWNER</role>
+    </associatedParty>
+    <associatedParty>
+<organizationName>WWF Colombia</organizationName>    <address>
+<deliveryPoint>Carrera 35 No. 4A-25</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jsusma@wwf.org</electronicMailAddress>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2019-03-14
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Se realizó una evaluación de campo para documentar las especies de aves asociadas a los ecosistemas de la Orinoquía colombiana, haciendo énfasis en las sabanas; para esto se realizaron caracterizaciones en tres ventanas, una en el departamento de Vichada en cercanías al río Bita (2 al 6 de junio de 2018), otra en el departamento del Meta en cercanías al río Manacacías (11 al 14 de julio de 2018) y otra en el departamento del Casanare, en cercanías al río Cravo Sur (17 al 20 de julio 2018).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>SULU II</keyword>
+              <keyword>Orinoquía</keyword>
+              <keyword>Avifauna</keyword>
+              <keyword>Sabanas</keyword>
+              <keyword>Heterogeneidad del paisaje</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La región de la Orinoquía tiene una variedad de hábitats, que se dan principalmente por condiciones relacionadas con su biogeografía, lo que la divide en las subregiones de piedemonte, llanuras inundables, altillanura, Sierra de la Macarena y zonas de transición (Acevedo-Charry et al., 2014), extendiéndose desde la cordillera oriental hasta el escudo guyanés a lo largo del río Orinoco (Lasso et al. 2011). La caracterización de la avifauna asociada a las sabanas de los Llanos de la Orinoquía fue realizada en tres ventanas de trabajo ubicadas en las cuencas de los ríos Bita (departamento del Vichada), Manacacías (departamento del Meta) y Cravo sur (departamento del Casanare).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-72.561</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-68.512</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.7</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.384</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-06-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-07-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Durante el muestreo en las tres ventanas de estudio se registraron 213 especies de aves agrupadas en 163 géneros, 52 familias y 25 órdenes, registradas por medio de observaciones, registros auditivos y redes de niebla. Los demás investigadores registraron cuatro especies adicionales que no fueron incluidas en los análisis y estas fueron: Thamnophilus nigrocinereus, Arremonops conirostris, Jabiru mycteria y Nyctibius griseus.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Opisthocomiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tinamiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Trogoniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Eurypygiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director Científico</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<phone>3203024740</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Edgar Esteban</givenName>          <surName>Herrera Collazos</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Data Scientist</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>edgarestebanhc@gmail.com</electronicMailAddress>      <userId directory="https://www.linkedin.com/profile/view?id=">edgar-esteban-herrera-collazos-71540638/</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Estefanía</givenName>          <surName>Izquierdo Gómez</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 84 #21-64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<phone>3167633461</phone><electronicMailAddress>niazurda@gmail.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Rincón</surName>
+    </individualName>
+<organizationName>WWF Colombia</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 35 No. 4A-25</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>NA</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sarincon@wwf.org</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Saulo</givenName>          <surName>Usma</surName>
+    </individualName>
+<organizationName>WWF Colombia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 35 No. 4A-25</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jsusma@wwf.org</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Observaciones ad libitum
+Se emplearon cinco jornadas de muestreo (tres mañanas y dos tardes) para la realización de recorridos  libres en cada ventana. Para la percepción de los individuos fueron utilizados binoculares de largo alcance y una grabadora de sonidos Tascam DR-40, y cuando fue posible se tomó registro fotográfico con una cámara fotográfica Nikon CoolPix P900. Por medio de los recorridos libres se perciben de manera visual y auditiva la mayor cantidad de individuos (Stiles &amp; Bohórquez, 2000), por lo que se empleó un mayor tiempo en la implementación de esta metodología en las horas pico de actividad de las aves, entre las 5:30 a.m. hasta las 10:30 a.m. y entre 3:30 p.m. hasta las 6:00 p.m. (Ralph et al., 1996). Además de las observaciones, se realizaron registros auditivos y grabaciones de cantos cuando fue posible para ser cotejados con los consignados en Xenocanto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla
+Para la operación de las redes de niebla se usaron tres días, uno en cada ventana de trabajo ya que permite el registro de especies poco conspicuas (Ralph et al., 1996; Villareal et al., 2004; NABC, 2001). Se manejaron ocho redes de niebla ECOTONE (dimensiones: 12 m x 2.5 m, 12 mm ojo de malla), color negro. Las redes fueron ubicadas en tándem o separadas por poca distancia y fueron ubicadas en ecotonos o corredores (Ralph et al., 1996). Las redes fueron operadas entre 5:30 a las 10:30 y 16:00 a las 18:00, cerrándose cuando las condiciones climáticas no permitieron su operación. A los individuos capturados se les determinó taxonómicamente y se tomaron medidas morfométricas y otras características observables, y finalmente les tomó fotografías.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Determinación taxonómica
+Para la identificación de los individuos tanto avistados como capturados se usaron las guías de campo: Birds of Colombia (Hilty y Brown, 1986), Field Guide to the Birds of Colombia (McMullan y Donegan, 2014) y La guía ilustrada de la Avifauna colombiana (Ayerbe-Quiñones, 2018). Cuando se tuvieron dudas se consultaron fuentes en línea como Neotropicalbirds: http://neotropical.birds.cornell.edu, Catálogo de especies del SIB (Sistema de información biológica) http://www.biodiversidad.co y Handbook of the Birds of the world alive http://www.hbw.com/species. La nomenclatura y secuencia taxonómica de las especies encontradas sigue a la propuesta por Remsen et al., 2018.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Orinoquía colombiana se extiende desde la cordillera oriental hasta el escudo guyanés a lo largo del río Orinoco (Lasso et al. 2011). La región posee una alta variedad de hábitats, generadas por condiciones relacionadas con su biogeografía, lo que la divide en las subregiones de piedemonte, llanuras inundables, altillanura, Sierra de la Macarena y  zonas de transición (Acevedo-Charry et al., 2014). Para esta caracterización se realizaron jornadas de muestreo en tres ventanas de trabajo en las cuencas del río Bita, el río Manacacías y el río Cravo Sur. La primera ventana se ubica en el municipio de Puerto Carreño, Vichada y presenta mosaicos de varios tipos de sabanas de altillanura y otras coberturas como ríos, caños y bosques de galería. La segunda ventana se ubica en el municipio de San Martín, Meta y cuenta con sabanas de altillanura, además de morichales y caños. La última ventana se encuentra ubicada en el municipio de Orocué, Casanare y a diferencia de las otras dos ventanas de muestreo presenta sabanas inundables además de bosques de vega, bosques inundables y bosques de galería.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la caracterización de la avifauna de las ventanas de trabajo se emplearon cuatro días en cada una, en donde tres fueron usados para los recorridos libres y la instalación de las redes de niebla, y el otro para la implementación de esta última metodología. Entre el 2 y el 6 de junio de 2018 se realizó la caracterización de la ventana del río Bita, entre el 11 y el 14 de julio la de la ventana del río Manacacías y entre el 17 el 20 de julio la de la ventana del río Cravo Sur.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>PLANEACIÓN TERRITORIAL CLIMÁTICAMENTE INTELIGENTE EN SABANAS, A TRAVÉS DE LA INCIDENCIA POLÍTICA, ORDENAMIENTO Y BUENAS PRÁCTICAS, SULU 2</title>
+          <personnel>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Saulo</givenName>          <surName>Usma</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sofía</givenName>          <surName>Rincón</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Dado el creciente interés en intervenir las sabanas de la Orinoquia para proyectos productivos, WWF ha venido recabando información sobre la importancia estratégica de estos ecosistemas, y cómo diseñar una estrategia de planeación para su intervención. Dicha iniciativa responde a los resultados obtenidos en el proyecto “Planeación territorial, producción sostenible de biomasa y conservación: una aproximación práctica a la planificación territorial para mitigación de cambio climático-Sulu” desarrollado en los años 2011 y 2014, a traves del cual se logró generar herramientas para la sostenibilidad de la agricultura en la Orinoquia y construir un marco metodológico para la Identificación Regional de Sabanas Biodiversas, combinando criterios de sostenibilidad de la EURED, el concepto de Altos Valores de Conservación (AVC) y la aproximación de la planificación sistemática de la conservación. 
+
+Uno de los criterios que se han seleccionado para caracterizar las sabanas es la riqueza de especies y su funcionalidad ecológica. Para cumplir con esto, la Fundación Omacha lideró el componente de evaluaciones biológicas en tres ventanas de trabajo localizadas en el Vichada, Casanare y Meta. Para esto se constituyó un equipo de profesionales de diferentes organizaciones: Omacha, Instituto Humboldt, Universidad del Tolima, Universidad del Quindío, Fundación Cunaguaro y Fundación Calidris. Los grupos evaluados fueron flora, macroinvertebrados, escarabajos coprófagos, peces, herpetos, aves y mamíferos.</para>
+          </abstract>
+          <funding>
+              <para>La financiación del proyecto se hizo a través de un convenio de cooperación con fondos proporcionados por WWF Colombia (TW80) y manejados por la Fundación Omacha. Igualmente contó con contrapartidas de las organizaciones participantes representadas en uso de equipos propios (cámaras, GPS, redes de niebla, desjarretadoras, cámaras trampa, trampas Sherman, etc).</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Se evaluaron la flora, macroinvertebrados acuáticos, escarabajos coprófagos, peces, herpetofauna, aves y mamíferos, en tres ventanas de trabajo seleccionadas bajo criterios de representatividad de coberturas naturales de sabanas y accesibilidad: sabanas asociadas a la cuenca del río Bita en el departamento del Vichada, evaluadas entre el 31 de mayo al 5 de junio de 2018, sabanas del Alto Manacacías en el municipio de San Martín, departamento del Meta evaluadas entre el 10 al 15 de Julio de 2018 y las sabanas de Cravo Sur en el municipio de Orocué, departamento del Casanare, las cuales fueron evaluadas entre el 16 al 21 de Julio de 2018. Dicho estudio, articula el trabajo conjunto de profesionales especialistas en diferentes grupos taxonómicos, asociados a instituciones como la Fundación Omacha, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt - IAvH, la Universidad del Quindío, la Universidad del Tolima, la Universidad Pedagógica y Tecnológica de Colombia, la Asosciación Calidris y la Fundación Cunaguaro.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:51Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/mt8cas">Izquierdo Gómez E, Estela F, Herrera Collazos E (2019). Aves asociadas a las sabanas inundables de las cuencas de los ríos Bita, Manacacías y Cravo Sur - SULU II. Version 1.1. Fundación Omacha. Occurrence dataset https://doi.org/10.15472/mt8cas accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Acevedo-Charry, O., Pinto-Gómez, A., &amp; Rangel-Ch, J. O. (2014). Las aves de la Orinoquía colombiana: una revisión de sus registros. Colombia Diversidad Biótica XIV. La región de la Orinoquía de Colombia, 691-750.</citation>
+      <citation>Lasso, C. A.; Rial, A.; Matallana, C.; Ramírez, W.; Señaris, J.; DíazPulido, A.; Corzo, G.; Machado-Allison, A. (Eds.). (2011). Biodiversidad de la cuenca del Orinoco. II Áreas prioritarias para la conservación y uso sostenible. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Ministerio del Ambiente, Vivienda y Desarrollo Territorial, WWF Colombia, Fundación Omacha, Fundación La Salle de Ciencias Naturales e Instituto de Estudios de la Orinoquia (Universidad Nacional de Colombia). Bogotá, D.C., Colombia. 304 pp.</citation>
+      <citation>Stiles, F. G. y Bohórquez, C. I.  (2000). Evaluando el estado de la biodiversidad: el caso de la avifauna de la Serranía de las Quinchas, Boyacá, Colombia. Caldasia,  22:61-92.</citation>
+      <citation>Ralph, C.J., Geupel, G. R., Pyle, P., Martin, T. E., DeSante, D. F., Milá, B. (1996). Manual de métodos de Campo para el monitoreo de aves terrestres. Gen. Tech. Rep. PSW-GTR-159. Albany, CA: Pacific Southwest Research Station, Forest Service, U.S. Department of Agriculture.</citation>
+      <citation>NABC (2001). The North American Bander’s Study Guide. The North American Banding Council. Point Reyes Station, California, US.</citation>
+      <citation>Villareal,H., M.Alvarez, S.Cordoba, F.Escobar, G.Fagua, F.Gast, H.Mendoza, M.Ospina y A.M. Umaña. (2004). Manual de métodos para el desarrollo de inventariosde biodiversidad.Programa de Inventarios deBiodiversidad. Instituto de Investigación de RecursosBiológicos Alexander von Humboldt. Bogotá, Colombia.236 pp</citation>
+      <citation>Hilty, S.L. &amp; Brown, W.L. (1986). A guide to the birds of Colombia. Princeton Univ. Press. Princeton, New Jersey.</citation>
+      <citation>McMullan, M. &amp; Donegan, T. (2014). Field guide to the birds of Colombia. Fundación Proaves. Bobotá, Colombia.</citation>
+      <citation>Ayerbe-Quiñones (2018). Guia ilustrada de la avifauna colombiana. WCS.</citation>
+      <citation>Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version (2018). A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-f-omacha.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

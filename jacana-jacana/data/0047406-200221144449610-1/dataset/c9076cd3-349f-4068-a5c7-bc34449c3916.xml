@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="c9076cd3-349f-4068-a5c7-bc34449c3916"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/fyumof</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=msb_bird</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=msb_bird</alternateIdentifier>
+        <alternateIdentifier>c9076cd3-349f-4068-a5c7-bc34449c3916</alternateIdentifier>
+        <alternateIdentifier>14901</alternateIdentifier>
+    <title>MSB Bird Collection (Arctos)</title>
+    <creator>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Witt</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Birds</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-8169</phone><electronicMailAddress>cwitt@unm.edu</electronicMailAddress><onlineUrl>http://biology.unm.edu/Witt/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Witt</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Birds</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-8169</phone><electronicMailAddress>cwitt@unm.edu</electronicMailAddress><onlineUrl>http://biology.unm.edu/Witt/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Russell</surName>
+    </individualName>
+<organizationName>VertNet</organizationName><positionName>VertNet Programmer</positionName><electronicMailAddress>larussell@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Bloom</surName>
+    </individualName>
+<positionName>VertNet Coordinator</positionName><electronicMailAddress>dbloom@vertnet.org</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John</givenName>          <surName>Wieczorek</surName>
+    </individualName>
+<organizationName>Museum of Vertebrate Zoology at UC Berkeley</organizationName><positionName>Information Architect</positionName><electronicMailAddress>tuco@berkeley.edu</electronicMailAddress>    <role>PROGRAMMER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Dusty</givenName>          <surName>McDonald</surName>
+    </individualName>
+<organizationName>University of Alaska Museum</organizationName><positionName>Arctos Database Programmer</positionName><electronicMailAddress>dlmcdonald@alaska.edu</electronicMailAddress><onlineUrl>http://arctos.database.museum</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Andrew</givenName>          <surName>Johnson</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Collection Manager, Birds</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-1359</phone><electronicMailAddress>ajohnson@unm.edu</electronicMailAddress><onlineUrl>http://msb.unm.edu/birds</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-04-11
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The MSB Division of Birds maintains an extensive research collection of over 40,000 bird specimens from western North America and around the world. Taxonomic coverage consists of all avian orders and approximately 85% of avian families. The oldest specimens are from the mid-1870’s, with most collected after the 1950’s. The collection has grown about 6-fold since 1989, and it continues to grow rapidly through salvage and research-driven collecting. Approximately 40% of the specimens have frozen tissues associated with them. Collection highlights include: Synoptic series of the Birds of New Mexico for ID reference and teaching; the personal collection of Dale Zimmerman, donated in 2004, which contributed significantly to the taxonomic and geographic scope of the collection; the collection of Amadeo Rea, upon which the book Once a River was based; raptors and game birds of J.M. Campbell; the J. Stokley Ligon collections (in part); and representative threatened, endangered and extinct species of North America. All but the most recent research specimens are published online via the database Arctos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://vertnet.org/resources/norms.html</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://msb.unm.edu/birds</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The geographical strength of the MSB bird collection is the American Southwest (Texas, Arizona, New Mexico). Worldwide, the collection has important holdings from Kenya, South Africa, and Peru, including modern Andean research collections sampled from elevational transects.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>The MSB bird collection is taxonomically broad, with 100% of avian orders and 85% of the bird families of the world represented.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Christopher</givenName>          <surName>Witt</surName>
+    </individualName>
+<organizationName>Museum of Southwestern Biology</organizationName><positionName>Curator of Birds</positionName>    <address>
+<deliveryPoint>University of New Mexico</deliveryPoint><city>Albuquerque</city><administrativeArea>NM</administrativeArea><postalCode>87131-0001</postalCode><country>UNITED_STATES</country>    </address>
+<phone>(505) 277-8169</phone><electronicMailAddress>cwitt@unm.edu</electronicMailAddress><onlineUrl>http://biology.unm.edu/Witt/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:43Z</dateStamp>
+      <citation>Witt C (2020). MSB Bird Collection (Arctos). Version 35.37. Museum of Southwestern Biology. Occurrence dataset https://doi.org/10.15468/fyumof accessed via GBIF.org on 2020-04-22.</citation>
+              <livingTimePeriod>1850 to present</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,850 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="df863040-ea71-49c2-940a-b346abe0a7b6"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/hr8ml2</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_paquilo_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>10.15468/yhq8r2</alternateIdentifier>
+        <alternateIdentifier>df863040-ea71-49c2-940a-b346abe0a7b6</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_paquilo_faunaflora_2015</alternateIdentifier>
+    <title>Caracterización biológica de la ventana Beltrán, corregimiento Paquiló, Municipio de Beltrán, Cundinamarca</title>
+    <creator>
+    <individualName>
+<givenName>Adriana María</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Director Ejecutivo</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>adrihurtadoguerra@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Adriana María</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Director Ejecutivo</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>adrihurtadoguerra@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Adriana María</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Director Ejecutivo</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 18118115</phone><electronicMailAddress>adrihurtadoguerra@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mateo</givenName>          <surName>Hernández Schmidt</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Flora</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>mahernz@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alejandro</givenName>          <surName>Lopera Toro</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Entomólogo</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>alejandro.lopera@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana Xamara</givenName>          <surName>Albarán Montoya</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Herpetóloga</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>dianaalbaran@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Sebastián</givenName>          <surName>León Lleras</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Ornitólogo</positionName>    <address>
+<deliveryPoint>Calle 127C No. 5A-74 Int 3</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>8118115</phone><electronicMailAddress>bestiasan79@gmail.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Javier</givenName>          <surName>Barriga Bernal</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Coordinador regional</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>jbarriga@humboldt.org.co</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jose</givenName>          <surName>Aguilar Cano</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Botánico</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>jose.aguilarcano@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Carlos</givenName>          <surName>Peña Briceño</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Ictiólogo</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>lcpenablc@gmail.com</electronicMailAddress><onlineUrl>http://humboldt.org.co/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Angélica</givenName>          <surName>Díaz Pulido</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora Vertebrados</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress><onlineUrl>http://humboldt.org.co/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lina María</givenName>          <surName>Mesa Salazar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora Peces</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>lmesa@humboldt.org.co</electronicMailAddress><onlineUrl>http://humboldt.org.co/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>En el marco del Proyecto “Planeación Ambiental para la Conservación de la Biodiversidad de las Áreas Operativas de Ecopetrol”, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt - IAvH y la Fundación Ecotrópico Colombia suscribieron un convenio de cooperación para caracterizar y describir los objetos de conservación de grano fino (flora y fauna) de la Ventana Beltrán (escala 1:25.000, municipio de Beltrán, Cundinamarca). Esta ventana fue seleccionada a partir del ejercicio de priorización de dicho proyecto, a escala 1:100.000, debido a la remanencia de fragmentos importantes de bosque seco, que constituye el ecosistema más amenazado del país. 
+
+En las caracterizaciones de biodiversidad, Ecotrópico centra los esfuerzos de muestreo en mosaicos de coberturas naturales, semi-naturales y productivas, considerando la heterogeneidad y configuración espacial de las mismas en el paisaje que involucra el territorio de estudio. Lo anterior, teniendo en cuenta que en paisajes altamente fragmentados las coberturas semi-naturales y productivas (áreas intervenidas y transformadas) dominan la matriz a través de la cual ocurre el flujo de especies y el mantenimiento de los procesos ecológicos que sustentan la biodiversidad y los servicios ecosistémicos del territorio. Avanzar en el entendimiento del flujo y la movilidad de las especies, y sobre las restricciones que a la misma impone la dinámica de transformación del paisaje natural, es fundamental para que los resultados de estudios como este aporten en la identificación de oportunidades viables de conservación y manejo integrado del territorio. 
+
+Con relación a la Ventana Beltrán, y con las limitaciones de obtención y análisis de la información que ofrece un solo momento de muestreo, los resultados que se presentan en este documento brindan “señales” de aproximación a la situación estructural y funcional actual de este paisaje y su matriz de bosque seco, matorrales subxerofíticos y vegetación herbácea y arbustiva asociada y en transición. El propósito de este estudio es aportar la línea base, en el nivel de especies, que apoye a las autoridades locales y regionales con lineamientos para sus procesos de ordenamiento territorial, la declaración de áreas protegidas relacionadas con el ecosistema bosque seco, la priorización de áreas para la implementación de compensaciones ambientales por pérdida de biodiversidad, entre otras estrategias y acciones de conservación y manejo. Todos los resultados se enmarcan en los protocolos y formatos establecidos dentro del proyecto “Planeación Ambiental para la Conservación de la Biodiversidad de las Áreas Operativas de Ecopetrol” del Instituto Humboldt, para la caracterización de las ventanas de trabajo a escala 1:25.000.
+
+Estos resultados corresponden a los datos obtenidos durante los muestreos realizados entre el 19 y 26 de noviembre de 2014, de los 2036 registros de fauna y flora, para un total de 324 especies de flora, 24 de escarabajos coprófagos, 10 de anfibios, 11 de reptiles, 162 de aves y 25 de peces.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>bosque seco</keyword>
+              <keyword>escarabajos</keyword>
+              <keyword>peces</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>flora</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>Beltrán</keyword>
+              <keyword>conservación</keyword>
+              <keyword>aves</keyword>
+              <keyword>río Magdalena</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociados a esta base de datos se se incorporó dentro de la Infraestructura Institucional de Datos (I2D) la &quot;Propuesta de lineamientos de manejo de los Objetos de Conservación (OdC) identificados, de acuerdo con las amenazas y oportunidades vistas en campo (Producto 5 del Convenio)&quot; y el informe final. Adicionalmente, el registro fotográfico de las especies, ecosistemas y sistemas de producción, recogido en campo (Producto 3 del Convenio).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_paquilo_faunaflora_2015</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Ventana Beltrán engloba un territorio de 15.000 a 20.000 hectáreas, principalmente en la margen oriental del río Magdalena, en los municipios de Beltrán y Pulí (Cundinamarca) y, un pequeño sector de los municipios de Ambalema y Venadillo (Tolima) en la margen occidental de este río. Comprende un gradiente altitudinal que se extiende entre los 180 y 1.400 msnm. Sus microcuencas drenan al río Magdalena (Cuenca Hidrográfica Río Magdalena - Sector Beltrán, sensu CAR 2001). Vale la pena destacar que la Ventana Beltrán corresponde a la zona media del valle del Alto Magdalena donde se desarrolla bosque seco, gracias a la combinación de sus condiciones climáticas y su ubicación en el sector de sotavento de la Cordillera Oriental. Esas condiciones climáticas involucran un régimen bimodal de lluvias con precipitaciones anuales menores a los 1.100 mm. El terreno corresponde a formaciones geológicas del cuaternario superior con ausencia de terrazas aluviales (García &amp; Dister 1990 citado por Villa-Navarro et al. 2006). Su bosque seco debió presentar una extensión considerable, pero hoy en día se limita a las áreas que presentan mayor pendiente (Galvis y Mesa 2014). 
+
+En general, la zona plana (más baja), o valle del río Magdalena, está muy degradada, como resultado de los procesos de transformación de más de 200 años (dominada por pastos). El bosque seco ripario, asociado a las márgenes del río Magdalena, se encuentra reducido a fragmentos muy pequeños, y las zonas de ladera y mayor pendiente presentan un mosaico continuo de bosque seco y matorral subxerofítico con importantes áreas de vegetación secundaria asociada, en recuperación o transición. Adicionalmente, en las partes más altas, por encima de los 1.200 m, se desarrollan bosques premontanos más húmedos. 
+Más en detalle, y de acuerdo con el mapa de Cobertura y Uso del Suelo construido para la ventana (Instituto Humboldt y 4D  Elements Consultores 2014, escala 1:25.000), la matriz está dominada en un 50% por las siguientes coberturas naturales y semi-naturales (en orden de extensión): bosque fragmentado, arbustal caducifolio (o matorral subxerofítico), bosque abierto caducifolio, vegetación secundaria o en transición, áreas con vegetación herbácea y/o arbustiva, y bosque de galería y ripario. Las coberturas productivas corresponden a un 40% del paisaje (pastos limpios y enmalezados, mosaico de cultivos, mosaico de pastos y cultivos, y cereales-arroz). 
+
+En la actualidad, el territorio no presenta una dinámica de ocupación humana y uso intensivos. De acuerdo con sus pobladores, la tendencia es buscar zonas de vivienda próximas a los centros urbanos y abandonar los terrenos, que en algún momento tuvieron dedicados a una producción agropecuaria intensiva. En general, la población local está dominada por los adultos de las familias. En general, al terminar el colegio los jóvenes se desplazan a otras ciudades a continuar sus estudios o a trabajar; sólo regresan a Paquiló por temporadas.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.82</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.744</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.784</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.6</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-11-19
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-02-02
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reino Plantae: Este conjunto de datos agrupa 33 órdenes, 76 familias, 221 géneros, para un total de 714 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Alismatales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Arecales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asparagales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Asterales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Boraginales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Brassicales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Capparales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caryophyllales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Celastrales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Commelinales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cucurbitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Dioscoreales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ericales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Fabales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gentianales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Lamiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Liliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Magnoliales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malphighiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Malvales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Myrtales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piperales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Poales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Polygonales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Polypodiales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Rosales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Santalales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sapindales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Saxifragales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Solanales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Vitales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Zingiberales</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Zygophyllales</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Escarabajos coprófagos: Este conjunto de datos agrupa individuos del Phyllum Arthropoda, Clase Insecta, Orden Coleoptera, Familia Scarabaeidae, con 10 géneros, para un total de 655 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Dichotomius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Ateuchus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Canthidium</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Canthon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Digitonthophagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Eurysternus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Onthophagus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Phanaeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Pseudocanthon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Uroxys</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Anfibios: Este conjunto de datos agrupa individuos del Phyllum Chordata, Clase Amphibia, Orden 	Anura, 3 familias, con 5 géneros. Para un total de 78 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Rhinella</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Leptodactylus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Engystomops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Hypsiboas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Leptodactylus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Scinax</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Reptiles: Este conjunto de datos agrupa individuos del Phyllum Chordata, Clase Reptilia, 3 Ordenes (Squamata, Crocodylia y Testudinata), 10 familias, con 11 géneros y 11 espécies. Para un total de 87 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Squamata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Crocodylia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Testudinata</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Aves: Este conjunto de datos agrupa individuos del Phyllum Chordata, Clase Aves, 21 Ordenes, 45 familias, con 141 géneros. Para un total de 438 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podecipediformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Peces: Este conjunto de datos agrupa individuos del Phyllum Chordata, Clase Peces, 5 Ordenes, 13 familias, con 23 géneros y 25 especies. Para un total de 64 registros biológicos.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Characiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cyprinodontiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gymnotiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Perciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Siluriformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Aunar esfuerzos técnicos y administrativos para caracterizar y describir los Objetos de Conservación de grano fino en la escala 1:25.000 que fueron priorizados a partir de la escala 1:100.000, grano grueso y otros emergentes y, definir lineamientos de manejo, así como los actores de conservación para  la ventana Beltrán (Cundinamarca), del Proyecto “Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol” N° 5211478 (IAvH 12-067), suscrito entre Ecopetrol y el Instituto Humboldt.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Germán</givenName>          <surName>Corzo Mora</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Biológicas Alexander von Humboldt</organizationName><positionName>Coordinador Proyecto Planeación Ambiental</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>gcorzo@humboldt.org.co</electronicMailAddress><onlineUrl>http://humboldt.org.co/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>FLORA 
+Se utilizaron tres métodos para caracterizar la flora de los bosques secos, matorrales subxerofíticos, bosques secos riparios y vegetación secundaria presente en los mosaicos asociados a los sitios seleccionados. Estos métodos fueron: recorridos libres sin colecta, recorridos libres con colecta y realización de un perfil de bosque ribereño.
+
+1. Recorridos libres sin colecta
+Muestreo
+Se hicieron recorridos al azar, cubriendo la mayor cantidad posible de las coberturas naturales remanentes, en proceso de regeneración y semi-naturales, realizando registros fotográficos de las especies observadas, con base en los cuales se realizó o confirmó posteriormente su determinación taxonómica.
+
+Toma de datos
+Fecha, coordenadas geográficas del registro, localidad, altitud, tipo de cobertura, datos taxonómicos (familia, género, especie), nombre común, usos (si los tiene), número(s) del(los) registro(s) fotográfico(s) correspondiente(s) y notas de campo respecto a asociaciones florísticas observadas.
+
+Identificación taxonómica y colección de especímenes
+La determinación taxonómica en el nivel de familia y género se realizó en campo, con base en el conocimiento del especialista que hizo el muestreo, Mateo Hernández, y con ayuda de la guía de Gentry (1993). Para el nivel de especie, se utilizaron claves taxonómicas de las diferentes familias.
+
+2. Recorridos libres con colecta
+Muestreo
+Estos recorridos también se realizaron al azar, cubriendo la mayor cantidad posible de las coberturas naturales remanentes, en proceso de regeneración y semi-naturales en los sitios de muestreo, llevando a cabo colecciones botánicas del material que se encontró en estado reproductivo (flor y/o fruto). Adicionalmente, se tomaron muestras de tejido y fotografías de los especímenes testigo de cada especie.
+
+Toma de datos
+Cada espécimen fue registrado en la libreta de campo con la siguiente información: 
+Fecha, colector, coordenadas geográficas del registro, localidad, altitud, datos taxonómicos (familia, género y especie), nombre común, usos (si los tiene), número de campo, número de duplicados, descripción de la especie, que incluye el hábito (árbol, hierba, liana o arbusto), hábitat (terrestre, acuática-enraizada o flotante, o epifita), altura y otras características que se pierden después del secado del material y, por último, información acerca de las muestras (datos de tejido, flores en alcohol y/o fotografías).
+
+Identificación taxonómica y colección de especímenes
+La determinación taxonómica fue realizada en campo, con base en el conocimiento de los especialistas Mateo Hernández y José Aguilar y, posteriormente confirmada, con la ayuda de la colección del herbario FMB del Instituto Humboldt (Villa de Leyva, Boyacá), donde también fueron depositados los ejemplares.
+Las muestras de tejido se hicieron siguiendo el protocolo del IAvH, lo cual implicó tomar láminas de hojas jóvenes, verificar que éstas estuvieran libres de señales de herbivoría, polen, suelo, líquenes u hongos, así como señales de daño causado por otros microorganismos, con el fin de evitar contaminación con material genético exógeno. Posteriormente, de cada lámina foliar se retiraron las nervaduras central y secundarias, en caso que estuvieran altamente lignificadas. Los fragmentos obtenidos se cortaron en cuadros de no más de 1 cm de lado y se depositaron en sobres de papel debidamente etiquetados, los cuales se almacenaron y preservaron en bolsas plásticas con silica gel, para ser depositadas en la Colección de Tejidos del IAvH-CIAT en Cali.
+
+3. Perfil de bosque ribereño
+Muestreo y toma de datos
+Se realizó una descripción de las plantas que componen la franja de bosque seco ripario a orillas del río Magdalena en la Hacienda San Francisco (50 m), mediante un perfil esquemático que ilustra los estratos, la altura y cobertura. Se recolectó material de referencia para cada una de las especies que se encontraban sobre la franja de estudio. 
+
+Total muestras de tejido: 190 registros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ESCARABAJOS COPRÓFAGOS
+Muestreo
+Se estableció un transecto lineal por cobertura (natural, semi-natural y productiva) en los mosaicos. En los fragmentos de coberturas naturales los transectos se ubicaron lo más lejos posible de sus límites, para disminuir el efecto de borde. En cada transecto se instalaron 10 trampas, separadas entre sí por 50 m, para una distancia total de 450 m. 
+Se utilizaron trampas de caída, cebadas con 35 gramos de excremento humano o con vísceras de pollo. Estas consistieron en dos vasos plásticos de 16 onzas, enterrados con el borde a ras del suelo. El vaso superior se llenó a la mitad con una solución de agua, jabón y sal. Sobre la boca de este vaso se suspendió el cebo envuelto en una gaza, sujetado a un palito por medio de una cuerda. Las trampas se cubrieron con un plato plástico de tamaño mediano para evitar daños por la lluvia. Las trampas fueron revisadas cada 24 horas, por un periodo de 96 horas. En cada revisión se colectaron los individuos capturados y se reemplazó la solución. 
+
+Toma de datos
+Los escarabajos capturados fueron depositados en bolsas ziplock, usando una bolsa por trampa, que fue etiquetada con los siguientes datos: fecha, coordenadas geográficas de la trampa, localidad, altitud, tipo de cobertura e información de la trampa (número de la trampa, hora de captura, tiempo de exposición del cebo, tipo de cebo, entre otros).
+
+Identificación taxonómica y colección de especímenes
+El material colectado y almacenado en las bolsas fue llevado a la estación de trabajo donde se limpió, se separó por especie y se identificó, siguiendo los criterios y conocimiento del investigador especialista. Una vez en Bogotá, el material fue limpiado de nuevo y se entregado al encargado de la Colección Entomológica del Instituto Humboldt (Villa de Leyva, Boyacá).  
+Así mismo, se realizaron muestras de tejido para las especies con más de un individuo. En el caso de especies pequeñas, se tomó como muestra entre uno y diez ejemplares completos. En el caso de especies grandes, se tomó la pata posterior izquierda. Este material se preservó en alcohol al 96% dentro de viales sellados y etiquetados respectivamente con el nombre de la especie contenida. Luego se almacenó en nevera a 0°C (grados Celsius) y posteriormente se depositó en la Colección Entomológica del Instituto Humboldt (Villa de Leyva, Boyacá). 
+La identificación de las especies se hizo con base en el material de referencia de la colección personal del especialista que realizó el muestreo (Alejandro Lopera, CECC, Registro 002) y el material de la Colección Entomológica del Instituto Humboldt (Villa de Leyva, Boyacá). 
+
+Total muestras de tejido: 18 registros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>ANFIBIOS Y REPTILES (HERPETOFAUNA)
+Realización del muestreo
+En cada uno de los mosaicos identificados se realizó un muestreo diurno y nocturno durante cuatro días (4 días netos sin contar desplazamientos e instalaciones del equipo), con énfasis en áreas cercanas a los cuerpos de agua, como fuentes potenciales de reproducción (de anfibios) y áreas abiertas o perchas donde llegaba el sol directamente (ideales para reptiles). Los muestreos diurnos tuvieron lugar entre las 8:00 y las 12:00 horas y los nocturnos entre las 19:00 y 23:00 horas, empleando un tipo de muestreo denominado Ad libitum (no implica ninguna limitación, dado que se registran los comportamientos de los individuos o grupos que se observan con facilidad dentro o alrededor de los macro-hábitats).
+En general, se realizó el registro visual y fotográfico de los individuos observados y/o capturados. Para el caso de los anuros, se registraron sus vocalizaciones y, para los ofidios se capturaron los ejemplares con ayuda de un gancho herpetológico, con el fin de asegurar su manipulación y evitar mordeduras accidentales. 
+
+Toma de datos
+Se realizó el registro en la libreta de campo de los individuos observados y/o capturados, teniendo en cuenta los siguientes datos:
+•	Datos generales: número del mosaico.
+•	Ubicación geográfica: coordenadas geográficas del registro. 
+•	Nombre científico (determinación taxonómica).
+•	Fecha y hora de observación.
+•	Datos biológicos y ecológicos: época lluviosa o seca, cobertura vegetal, micro-hábitat,  actividad (vocalizando, salto, reposo) y sexo.
+•	Hábitat en el que se hizo el registro. 
+•	Número(s) del(los) registro(s) fotográfico(s) correspondiente(s).
+•	En algunos casos, número de la grabación o registro acústico correspondiente, en el caso de anuros.
+•	Observaciones generales.
+
+Identificación taxonómica y colección de especímenes
+Se realizó la captura manual de los individuos y se registraron, entre otros datos, el morfotipo y número de bolsa en la cual fueron depositados. Se realizó la colecta de dos especímenes de la especie Gymnophthalmus speciosus (lagartija dorada), ya que el registro amplía su área de distribución reportada en la literatura. Estos fueron fijados y etiquetados, como ejemplares de referencia.  Igualmente, se colectó un caparazón de Kinosternon leucostomum (tapaculos) hallado durante el muestreo.  Posteriormente se etiquetó el material y se entregaron al al entregado de la Colección del Instituto Humboldt (Villa de Leyva), para ser depositadas en la colección de reptiles (IAvH-R).  
+La identificación o confirmación taxonómica se realizó a partir del conocimiento previo de las especies, listados de distribución de las especies, así como bibliografía especializada disponible, fotografías, claves taxonómicas y diferentes publicaciones científicas (p.e.  Pizano y García 2014, Medina-Rangel et al. 2011, Castaño 2002, Acosta-Galvis 2000) y en línea (p.e. batrachia.com y amphibiaweb.org).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVES
+Se utilizaron los siguientes tres métodos para caracterizar la avifauna presente en los mosaicos asociados a los sitios seleccionados: recorridos libres, transectos de amplitud fija y apertura de redes de niebla. 
+
+* Recorridos libres y transectos de amplitud fija
+Muestreo
+Al interior de los mosaicos de coberturas naturales, semi-naturales y productivas asociados a los sitios seleccionados, se trazaron transectos de 1.000 m de longitud y 100 m de ancho (muestreo estratificado y sistemático). Cada transecto fue georreferenciado en sus dos extremos y separado uno del otro por 200 m de distancia. En estos transectos se realizaron recorridos de observación durante dos días consecutivos, entre las 6:00 y 11:00 y las 15:00 y 18:00 horas. 
+El inicio y el final de los recorridos libres al interior de los mosaicos, se alternó empezando donde se terminó el día anterior. La velocidad de desplazamiento durante el recorrido fue de 1 km/hora aproximadamente. 
+
+Toma de datos
+En cada recorrido se anotó la hora inicial y final, así como las condiciones climáticas del mismo. Adicionalmente, se registraron los siguientes datos de las especies de aves observadas y  escuchadas, tanto en los recorridos libres como en los transectos:
+fecha, coordenadas geográficas y número del registro, localidad, altitud, tipo de cobertura, datos taxonómicos (familia, género, especie), número de individuos por especie, sexo, edad, hábitat en el que se hizo el registro, estrato (dosel, sotobosque) y sustrato (rocas, tronco), comportamiento, estrategia de forrajeo, tipo de alimento consumido y observaciones generales, número(s) del(los) registro(s) fotográfico(s) correspondiente(s) y, en algunos casos, número de la grabación o registro acústico correspondiente.
+
+* Apertura de redes de niebla 
+En cada sitio se colocaron 10 redes de niebla en dos sectores diferentes. Cada red de 12 y seis metros de largo (36 mm de ojo de malla), consecutivas o en parejas, de acuerdo a las condiciones del terreno. Las redes se ubicaron cerca a quebradas y en filos,  a lo largo de mosaicos de coberturas naturales, semi-naturales y/o productivas, incluyendo áreas de transición.
+Las redes se abrieron durante cuatro días, de las 6:00 a las 11:00 y de las 15:00 a las 18:00 horas. Los individuos capturados fueron introducidos en bolsas de tela de diferente tamaño, para luego ser procesados en el campamento base. 
+
+Toma de datos
+Se manipularon los individuos capturados en la redes para tomar sus medidas morfométricas (ala: longitud; cola: longitud; culmen expuesto; culmen desde las narinas; pico: longitud, altitud, ancho y color de mandíbula y maxila; tarso: longitud y color de las patas; longitud total: cuerpo y cola; longitud corporal: cuerpo sin la cola; peso; ojo: color; estado del plumaje: fresco, regular, gastado o de incubación; muda: cuerpo, ala, cola o total; grasa corporal: presencia o ausencia de parche de cría y nivel de grasa pectoral; cráneo: osificado, semiosificado, no osificado; y gónadas: diámetro y longitud de las gónadas. Igualmente, se evaluaron las características que permitieran identificar su edad (cráneo, ciclo de muda, tipo de muda), sexo y estado reproductivo (parche de cría, protuberancia cloacal). Finalmente, los individuos capturados fueron fotografiados y liberados. Es importante anotar que durante todos los días de muestreo gracias a la asistencia de personal de apoyo especializado se pudieron llevar a cabo las dos técnicas de muestreo (redes y transectos) prácticamente de forma simultánea, completando así seis horas diarias de captura por redes y aproximadamente siete de recorridos en transectos. 
+
+Identificación taxonómica y colección de especímenes
+La identificación taxonómica de los individuos observados y capturados se realizó en campo, con base en el conocimiento del especialista que realizó el muestreo (Juan Sebastián León) y con ayuda principalmente de las siguientes guías: 
+•	Guía de Aves de Colombia (Hilty &amp; Brown 1986), 
+•	Field Guide to the Birds of Colombia (McMulan &amp; Donegan 2014).
+En particular, para la nomenclatura de las familias y especies se siguió a Remsen et al. (2014), ya que recientemente se han realizado cambios en la taxonomía de ciertos grupos, especialmente al interior de los paseriformes.
+Fueron colectados y etiquetados los individuos que no pudieron identificarse en campo, individuos de especies no reportadas para la zona o especies para las cuales los registros realizados dentro del presente estudio ampliaran su área de distribución establecida en la literatura. Posteriormente, estos especímenes fueron depositados en la Colección del Instituto Humboldt (Villa de Leyva, Boyacá).  
+
+Total muestras de tejido: 19 registros.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PECES
+Sitios de muestreo: se seleccionaron tres cuerpos de agua para la caracterización de la ictiofauna: río Magdalena (en el tramo comprendido entre Paquiló y Beltrán, Cundinamarca), río Venadillo (Ambalema, Tolima) y quebrada Calacuta (Beltrán, Cundinamarca).
+
+*Sobre el río Magdalena se distribuyeron nueve de las 11 estaciones de muestreo, en un tramo comprendido entre el corregimiento de Paquiló (Beltrán,  Cundinamarca) y Ambalema (Tolima). El sustrato predominante era arenoso, con parches limosos y algunas playas con cantos rodados rocosos.
+*Sobre el río Venadillo se ubicó una estación de muestreo, 100 metros aguas arriba de su desembocadura sobre el río Magdalena. El sustrato era principalmente arenoso. La vegetación de la ribera era predominantemente arbustiva, con algunos parches aislados de plantas de plátano y guadua.
+*En la quebrada Calacuta se ubicó una estación de muestreo, al norte del municipio de Beltrán, 100 metros aguas arriba de su desembocadura sobre el río Magdalena. El sustrato era predominantemente arenoso-limoso en las zonas de empozadas, y rocoso en las zonas de mayor corriente. La vegetación de la ribera era espesa, con el estrato arbóreo dominante.
+
+Técnicas de muestreo
+Los muestreos se realizaron durante cuatro días (23 al 26 de Noviembre de 2014), en horarios de 7:00 a las 17:00 horas, empleando las siguientes artes de pesca, con esfuerzos de captura de 1 hora por cada una y por estación de muestreo, como se describe a continuación:
+
+*Atarraya: Se empleó una atarraya de 2,5 metros de radio y una (1) pulgada de entrenudo con esfuerzos de captura de 1 hora por cada estación de muestreo. Los lanzamientos se realizaron desde un bote que permitió el acceso a zonas con cauces y pozos amplios, con substratos libres de empalizadas y rocas de cantos rodados, tanto en biotopos cercanos a la ribera como centrales al cauce del cuerpo de agua. Se muestrearon 10 de las 11 estaciones con esta metodología y se obtuvo una captura total de 119 individuos y 3546 gramos de biomasa con un esfuerzo de muestreo de 10 horas. 
+*Chinchorro: Se utilizó un chinchorro de 5  metros  de longitud, 1 metro de altura y 1 mm de entrenudo. Se realizaron muestreos en zonas de playa, con fondos libres de empalizadas y rocas con barridos a favor de la corriente. Se muestrearon 6 estaciones y se capturaron 46 individuos y un total de 420 gramos de biomasa en un esfuerzo de muestreo de 6 horas. 
+*Salabardo: Se usó un salabardo de 50 cm de diámetro y 1 mm de entrenudo con barridos bajo la vegetación marginal y zonas de hojarasca. Se empleó en 1 estación de muestreo y se capturó 1 individuo con 15 gramos de biomasa en 1 hora de esfuerzo de muestreo. 
+
+Toma de datos
+En cada estación se llevaron a cabo los siguientes registros:
+Datos generales: tipo de fondo, vegetación circundante, coloración del agua, esfuerzo de captura, hora y fecha de muestreo. 
+Ubicación geográfica: Coordenadas geográficas, cuerpo de agua, departamento, municipio. 
+Datos biológicos: medición de la biomasa de cada lote de peces capturado y medición de longitud total de los individuos no preservados. Colección y preservación de tejido para análisis de ADN. 
+Datos fisicoquímicos: medición de pH, temperatura y conductividad, con un multiparámetro Hanna 98130 y un test kit de oxígeno disuelto HI3810.
+
+Identificación taxonómica y colección de especímenes
+Los individuos capturados fueron preservados en formol al 10 % en frascos de vidrio con la etiqueta correspondiente a cada estación de muestreo y arte de pesca empleada. Para cada morfoespecie se realizaron fotografías de los individuos, previo a su preservación en formol. Se tomó una muestra de tejido de un individuo, para esto se cortó aproximadamente un 1cm2 de la aleta pélvica derecha y se preservó en alcohol absoluto (al 96%) en viales con tapa removible de rosca. El material usado para el corte fue previamente limpiado con alcohol y sometido al fuego para evitar la contaminación por rastros de ejemplares diferentes al procesado. El ejemplar al que se le realizó la extracción de tejido fue preservado en formol al 10% y etiquetado con el mismo número de campo que la muestra de tejido. 
+Los ejemplares preservados fueron analizados en laboratorio, en donde se separaron todas las morfoespecies y se realizó su determinación taxonómica con ayuda de las siguientes claves y descripciones: peces del norte de Colombia (Dahl 1971),  los peces del río Magdalena (Miles 1971), peces de los Andes (Maldonado-Ocampo et al. 2005) y peces del Alto Magdalena (Villa-Navarro et al. 2006).
+Adicionalmente, a cada lote de organismos se le realizó una medición de la biomasa. 
+Los individuos preservados, procesados y etiquetados, fueron depositados en la colección del Instituto Humboldt (Villa de Leyva, Boyacá). 
+
+Total muestras de tejido: 1 registro.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los muestreos de flora y fauna terrestre (escarabajos, anfibios, reptiles y aves) se realizaron en tres sitios o predios del corregimiento de Paquiló, con diferentes coberturas y mosaicos de coberturas naturales, semi-naturales y productivas, a lo largo de un gradiente altitudinal entre los 230 y 695 msnm. El trabajo de campo se concentró primero en la finca Santa Ana. Allí la zona baja y plana se encuentra dedicada al pastoreo (ganadería extensiva pero no intensiva) y la zona de ladera, que constituye la mayor parte del predio, se encuentra dominada por matorral subxerofítico (aproximadamente de los 250 a 450 msnm, correspondiente a “áreas con vegetación herbácea y/o arbustiva” en el mapa de Cobertura y Uso del Suelo, Instituto Humboldt y 4D Elements Consultores 2014). A este matorral le sigue una cobertura de transición y sucesión a bosque seco, cuyos remanentes consolidados se expresan a partir de los 600 msnm (“bosque abierto caducifolio” en el mapa de Cobertura y Uso del Suelo, Instituto Humboldt y 4D  Elements Consultores 2014), en la zona de mayor pendiente y altitud. Esta finca cuenta con tres cuerpos de agua artificiales (lagunas) y un pozo de riego creado por el INCODER que nunca fue utilizado para este fin y que, posteriormente, fue colonizado por babillas e iguanas. En segundo lugar, los muestreos se realizaron en un pequeño fragmento de bosque seco ripario intervenido y asociado al área del casco urbano de Paquiló. Por último, aun cuando la Hacienda San Francisco se sale de la ventana en cuestión, fue objeto de muestreo debido a la presencia de un bosque de galería y ripario bastante conservado, dentro de un mosaico también con remanencia importante de matorral subxerofítico y bosque seco, todos inmersos en una matriz productiva dedicada al cultivo de arroz y pastoreo (ganado vacuno).   
+
+De acuerdo al mapa de uso del suelo (Instituto Humboldt y 4D  Elements Consultores 2014) se identificaron las siguientes coberturas para cada sitio, en parentesis se muestran su correspondencia según observación directa en campo: 
+1. Finca Santa Ana 
+- Bosque abierto caducifolio (bosque seco) 
+- Arbustal caducifolio (bosque seco)
+- Áreas con vegetación herbácea y/o arbustiva (matorral subxerofítico, cuerpos de agua, huertas, cercas vivas y pastizal)
+
+2. Paquiló, orilla del río Magdalena
+- Pastos limpios (pastizal) 
+- Mosaico de pastos y cultivo (pastizal, huertas, cercas vivas
+- Bosque fragmentado (bosque ripario)
+- Bosque de galería y ripario (bosque ripario)	
+
+3. Hacienda San Francisco
+- Este sitio se sale del mapa así que la imagen de las coberturas no fué interpretada, pero en campo se identificaron (arrozal, pastizal, cercas vivas, cuerpos de agua, matorral subxerofítico, bosque seco,  y bosque ripario).
+
+Adicionalmente, se realizaron muestreos de la ictiofauna en 11 estaciones. En particular, se seleccionaron los siguientes tres cuerpos de agua: el tramo del río Magdalena comprendido entre Paquiló y Beltrán, el río Venadillo (Ambalema, Tolima) y la quebrada Calacuta (Beltrán, Cundinamarca), en donde se realizaron las faenas de pesca con chinchorro y atarraya:
+
+Río Magdalena
+Sobre el río Magdalena se distribuyeron nueve de las 11 estaciones de muestreo en un tramo comprendido entre los municipios de Paquiló, Beltrán (Cundinamarca) y Ambalema (Tolima). En este tramo la vegetación ribereña presenta patrones mixtos, con un predominio de estratos arbustivos, alternados de parches de estratos arbóreos, con cultivos de plátano y maíz,  algunos sectores destinados a pastos para ganado y asentamientos humanos aislados. En los días de muestreo el nivel del río se encontraba alto con una escasa presencia de playas en la zona ribereña. El agua presentó una coloración café clara, con aspecto muy turbio, niveles de pH de 8, conductividad de 133 µS.cm-1  y una temperatura promedio de 27°C. El sustrato predominante es arenoso, con parches limosos y algunas playas con cantos rodados rocosos.
+
+Río Venadillo
+Sobre el río Venadillo se ubicó una estación de muestreo 100 metros aguas arriba de su desembocadura sobre el río Magdalena.  Este sector presenta baja profundidad (≤2 metros), sustrato principalmente arenoso y características fisicoquímicas del agua similares a las del río Magdalena, con un nivel de pH de 8, conductividad de 133 µS.cm-1  y una temperatura promedio de 27°C. La vegetación de la ribera es predominantemente arbustiva, con algunos parches de plantas de plátano y guadua aislados.
+
+Quebrada Calacuta
+En este cuerpo de agua se ubicó una estación de muestreo localizada al norte del municipio de Beltrán, 100 metros aguas arriba de la desembocadura de la quebrada sobre el río Magdalena. En días previos al muestreo se observó que los cuerpos de agua de menor tamaño ubicados en el área de interés se encontraban secos, a excepción de la quebrada Calicuta. La noche anterior al muestreo cayeron fuertes lluvias en la zona e hizo que la quebrada aumentara varias veces su caudal y nivel de turbidez. El agua presentó un pH de 7,95, conductividad de 301 133 µS.cm-1   y temperatura de 27 °C. Se apreció una coloración café y alto contenido de sólidos suspendidos, aunque en días previos al muestreo se había presenciado poca coloración y baja turbiedad. El sustrato es predominantemente arenoso-limoso en las zonas de empozadas, y rocoso en la zonas de mayor corriente. La vegetación de la ribera es espesa, con el estrato arbóreo dominante.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Entre los días 19 y 26 de noviembre de 2014 se realizó el muestreo y colecta de las plantas (que incluyó muestras de tejido), escarabajos coprófagos (que incluyó muestras de tejido), anfibios, reptiles y aves (que incluyó muestras de tejido) en los diferentes mosaicos en la Ventana Beltrán. Mientras que el muestreo de peces  (que incluyó una muestra de tejido) se realizó entre el 23 y 26 de noviembre de 2014. 
+
+Se utilizaron tres métodos para caracterizar la flora de los bosques secos, matorrales subxerofíticos, bosques secos riparios y vegetación secundaria presente en los mosaicos asociados a los sitios seleccionados. Estos métodos fueron: recorridos libres sin colecta, recorridos libres con colecta y realización de un perfil de bosque ribereño. El registro de escarabajos consistió en transectos lineales, instalando trampas de caída cebadas con excremento humano o con vísceras de pollo. La caracterización de anfibios y reptiles se basó en recorridos libres diurnos y nocturnos, buscando en cada uno de los microhábitats potenciales, además se realizó la grabación de las vocalizaciónes de anuros. En el caso de la caracterización de la avifauna se emplearon tres métodos: recorridos libres, transectos de amplitud fija y apertura de redes de niebla (para la captura y toma de medidas morfométricas). Para el caso de peces, las estaciones de muestreo se distribuyeron sobre los ríos Magdalena y Venadillo y la quebrada Calacuta en donde se realizaron las faenas de pesca con chinchorro, atarraya y nasa.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol</title>
+          <personnel>
+    <individualName>
+<givenName>Adriana María</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Instituto Humboldt - Ecopetrol S.A. (Convenio 5211478-IAvH 12-067). Convenio de cooperación No. 14-12-067-285CE entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Fundación Ecotrópico Colombia.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Este estudio se llevó a cabo en los mosaicos de coberturas naturales y productivas ubicadas en 1) Finca Santa Ana, 2) Paquiló, orilla del río Magdalena y 3) Hacienda San Francisco, en el corregimiento de Paquiló, municipio de Beltrán, Departamento de Cundinamarca. Allí se realizaron los muestreos entre el 19 y 26 de noviembre de 2014.
+Para el caso de peces se seleccionaron 11 estaciones de muestreo correspondientes a los ríos Magdalena (9 estaciones) y Venadillo (1 estacion) ubicados entre el corregimiento de Paquiló, municipio de Beltrán (Cundinamarca) y Ambalema (Tolima), y la quebrada Calacuta (1 estacion) en el municipio de Beltrán, los cuales se muestrearon del 23 al 26 de Noviembre de 2014.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>En el marco del Proyecto “Planeación Ambiental para la Conservación de la Biodiversidad de las Áreas Operativas de Ecopetrol”, el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt - IAvH y la Fundación Ecotrópico Colombia suscribieron un convenio de cooperación para caracterizar y describir los objetos de conservación de grano fino (flora y fauna) de la Ventana Beltrán (escala 1:25.000, municipio de Beltrán, Cundinamarca). Esta ventana fue seleccionada a partir del ejercicio de priorización de dicho proyecto, a escala 1:100.000, debido a la remanencia de fragmentos importantes de bosque seco, que constituye el ecosistema más amenazado del país. 
+
+El propósito de este estudio es aportar la línea base, en el nivel de especies, que apoye a las autoridades locales y regionales con lineamientos para sus procesos de ordenamiento territorial, la declaración de áreas protegidas relacionadas con el ecosistema bosque seco, la priorización de áreas para la implementación de compensaciones ambientales por pérdida de biodiversidad, entre otras estrategias y acciones de conservación y manejo. Todos los resultados se enmarcan en los protocolos y formatos establecidos dentro del proyecto “Planeación Ambiental para la Conservación de la Biodiversidad de las Áreas Operativas de Ecopetrol” del Instituto Humboldt, para la caracterización de las ventanas de trabajo a escala 1:25.000.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:48Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/hr8ml2">Hurtado Guerra A M (2019). Caracterización biológica de la ventana Beltrán, corregimiento Paquiló, Municipio de Beltrán, Cundinamarca. Version 2.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/hr8ml2 accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Bruton, M. 1995. Threatened fishes of the world: Latimeria chalumnae Smith, 1939 (Latimeridae). Environmental Biology of Fishes 43: 104-104</citation>
+      <citation>Villa-Navarro, F., Zuñiga-Upegui, P., Castro-Roa, D., García-Melo, J., García-Melo, l. &amp; Herrada-Yara, M.  2006. Peces del alto Magdalena, cuenca del río Magdalena, Colombia Biota Colombiana 7 (1): 3-21.</citation>
+      <citation>Suski, C. D., and Cooke, S. J. 2007. Conservation of aquatic resources through the use of freshwater protected areas: opportunities and challenges. Biodiversity and Conservation 16: 2015–2029</citation>
+      <citation>Román-Valencia, C. &amp; Perdomo, A. 2004. Ecología trófica de Argopleura magdalenensis (Pisces: Characidae) en la cuenca alta de los ríos Cauca y Magdalena, Colombia. Revista del Museo Argentino de Ciencias Naturales 6 (1): 175-182</citation>
+      <citation>Noble, R. &amp; Cowx, I. 2007. Assessing the health of European rivers using functional ecological guilds of fish communities: standardising species classification and approaches to metric selection. Fisheries Management and Ecology 14: 381–392</citation>
+      <citation>Moore, J. A., A. Lew, J. A. Cunningham &amp; M. Kachuba. 1997. Fish communities as indicators of environmental quality in the West River watershed. Bulletin of the Yale School of Forestry and Environmental Studies 100:178–196</citation>
+      <citation>Mojica, J. I.; J. S. Usma; R. Álvarez-León y C. A. Lasso (EDS). 2012. Libro rojo de peces dulceacuícolas de Colombia 2012. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, WWF Colombia y Universidad de Manizales Bogotá, D. C., Colombia, 319 pp.</citation>
+      <citation>Miles, C. 1971. Los peces del río Magdalena. Ministerio de Economía Nacional, Sección de piscicultura, pesca y caza. Bogotá, Colombia. 242 pp</citation>
+      <citation>Maldonado-Ocampo, J.A.; A. Ortega-Lara; J.S. Usma; G. Galvis; F.A. Villa-Navarro; L. Vásquez; S. Prada-Pedreros &amp; C. Ardila. 2005. Peces de los Andes de Colombia: guía de campo. 1. ed. Bogotá, D.C. 346p</citation>
+      <citation>Lopez-Casas, S. &amp; Jiménez-Segura, L. 2007. Reproducción y hábitos alimenticios del nicuro, Pimelodus blochii (Valenciennes, 1840) (Pisces: Pimelodidae), en la ciénaga de Cachimbero, río Magdalena, Colombia. Actualidades Biológicas 29 (87): 193-201.</citation>
+      <citation>Galvis, G. &amp; Mojica, J. 2007. The Magdalena river fresh water fishes and fisheries. Aquatic Ecosystem Health &amp; Management, 10(2):127–139.</citation>
+      <citation>Galvis, G. &amp; Mesa, L. 2014 Consideraciones históricas sobre la distribución actual del bosque seco en Colombia. pp 24-32. En: Pizano, C y H. García (Editores). 2014. El Bosque Seco Tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D.C. 349 p.</citation>
+      <citation>Dahl, G. 1971. Los peces del norte de Colombia. Ministerio de Agricultura, Instituto de Desarrollo de los Recursos Naturales Renovables (INDERENA). Talleres Litografía Arco. Bogotá D.C., Colombia. 391 pp.</citation>
+      <citation>INPA. 2002. Boletín estadístico de pesca. Instituto Nacional de Pesca y Acuicultura, Ministerio de Agricultura. Bogotá, Colombia.</citation>
+      <citation>McClain, M. &amp; Gann, D. 2009. South America. pp 352-361. En: Likens, G. 2009. River Ecosystem Ecology. Encyclopedia of Inland Waters. American Press. San Diego.</citation>
+      <citation>Cowx, I.G., Collares-Pereira, M.J. 2002. “Freshwater fish conservation: options for the future”. pp 443-452. En: Collares-Pereira, M.J., Cowx, I.G., Coehlo, M.M. (eds) Conservation of freshwater fishes: options for the future. Fishing News Books, Blackwell Science, Oxford.</citation>
+      <citation>UICN. Referencia en línea. (Noviembre 2014). Página web accesible en http://www.iucnredlist.org/</citation>
+      <citation>Species 2000 &amp; ITIS Catalogue of Life: 2014 Annual Checklist. Referencia en línea. (December 2014). Página web accesible en http://www.catalogueoflife.org/annual-checklist/2014/.</citation>
+      <citation>Quiroga, C. 2014. Serpientes de Colombia. Referencia en línea. (Noviembre 2014). Página web accesible en http://www.serpientesdecolombia.com/old/seripientes/.</citation>
+      <citation>MADS. 2014. Resolución 192 de 2014. “Por la cual se establece el litado de las especies silvestres amenazadas de la diversidad biológica colombiana que se encuentra en el territorio nacional, y se dictan otras disposiciones”. Referencia en línea. (Diciembre 2014). Accesible en https://www.minambiente.gov.co/images/normativa/resoluciones/2014/res_0192_2014.pdf</citation>
+      <citation>CITES. Referencia en línea. (Noviembre 2014). Página web accesible en http://www.cites.org/esp/disc/species.php</citation>
+      <citation>Torres-Suarez O. y F. Vargas-Salinas. 2014. Rhinella humboldti. Catálogo de reptiles y anfibios de Colombia, Volumen 2 (2): 19-23. Asociación colombiana de herpetología. Universidad de Antioquia, Instituto de Biología. Medellín, Colombia. En línea: SIB. Referencia en línea. (Noviembre 2014). Página web accesible en http://data.sibcolombia.net/departamentos/</citation>
+      <citation>Ruiz, P.; Ardila, M. y J. Lynch. 1996. Lista actualizada de la fauna Amphibia de Colombia. Revista de la Academia Colombiana de Ciencias Exactas, Físicas y Naturales 20 (77): 365-415.</citation>
+      <citation>Rueda-Almonacid J., Carr J., Mittermeier R., Rodríguez-Mahecha J., Mast R., Vogt R., Rhodin A., Ossa-Velásquez J., Rueda J. y C. Goettsch. 2007. Las tortugas y los cocodrilianos de los países andinos del trópico. Conservación internacional, serie guías tropicales de campo. Bogotá D.C. Colombia.</citation>
+      <citation>Rueda-Almonacid, J. V. 2010. Anfibios y reptiles de los bosques de La Aguadita, región del Salto de Tequendama y Puerto Salgar departamento de Cundinamarca. Corporación Autónoma Regional y Conservación Internacional Colombia. 86 p.</citation>
+      <citation>Pizano, C y H. García (Editores). 2014. El Bosque Seco Tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D.C., Colombia. 349. p.</citation>
+      <citation>Páez V., Restrepo A., Vargas M., Bock B. y N. Gallego. 2013. Podocnemis lewyana. Catálogo de reptiles y anfibios de Colombia, Volumen 1 (1): 1-5. Asociación colombiana de herpetología. Universidad de Antioquia, Instituto de Biología. Medellín, Colombia.</citation>
+      <citation>Medina-Rangél G., Cárdenas-Arévalo G. y O. Castaño-Mora. 2011. Anfibios y reptiles de los alrededores del complejo cenagoso de Zapatosa, departamento del Cesar, Colombia. Colombia Diversidad Biótica: Publicación Especial No. 1. Guía de campo. Universidad Nacional de Colombia. Bogotá D.C. Colombia.</citation>
+      <citation>Hernández-Ruz, E. J. 2006. Gymnophthalmus speciosus (Hallowell 1861) (Squamata, Gymnophthalmidae) in Colombia. Caldasia, Volúmen 28 (1) Bogotá. Colombia.</citation>
+      <citation>Grisales-Martínez F. y B. Rendón-Valencia. 2014. Cnemidophorus lemniscatus. Catálogo de reptiles y anfibios de Colombia, Volumen 2 (2): 43-47. Asociación colombiana de herpetología. Universidad de Antioquia, Instituto de Biología. Medellín, Colombia.</citation>
+      <citation>Giraldo A., Garcés-Restrepo M. y J. Carr. 2013. Kinosternon leucostomum. Catálogo de reptiles y anfibios de Colombia, Volumen 1 (1): 45-49. Asociación colombiana de herpetología. Universidad de Antioquia, Instituto de Biología. Medellín, Colombia.</citation>
+      <citation>Castaño, O. V. (Ed.). 2002. Libro rojo de reptiles de Colombia. Libros rojos de especies amenazadas de Colombia. Instituto de Ciencias Naturales–Universidad Nacional de Colombia, Ministerio del Medio Ambiente, Conservación Internacional–Colombia. Bogotá, Colombia. 160 p.</citation>
+      <citation>Bock, B. 2013. Iguana iguana. Catálogo de reptiles y anfibios de Colombia, Volumen 1 (1): 10-14. Asociación colombiana de herpetología. Universidad de Antioquia, Instituto de Biología. Medellín, Colombia.</citation>
+      <citation>Castro-Herrera, F. y F. Vargas-Salinas. 2008. Anfibios y reptiles en el departamento del Valle del Cauca, Colombia. Biota Colombiana 9 (2) 251-277.</citation>
+      <citation>Reptile-database. Referencia en línea. (Diciembre 2014). Página web accesible en (http://www.reptile-database.org).</citation>
+      <citation>Acosta-Galvis, A. R. 2000. Ranas, salamandras y caecilias (Tetrapoda: amphibia) de Colombia. Biota Colombiana 1(3): 289-319.</citation>
+      <citation>Acosta-Galvis, A. R. 2015. Lista de los Anfibios de Colombia: Referencia en línea V.05.2015.0 (Diciembre de 2014). Página web accesible en http://www.batrachia.com; Batrachia, Villa de Leyva, Boyacá, Colombia.</citation>
+      <citation>Zlonis, E.J., Niemi, G.J. 2014. Avian communities of managed and wilderness hemiboreal forests.  Forest Ecology and Management Volume 328, Pages 26-34.</citation>
+      <citation>Stattersfiled, A., M. J. Crosby, A. J. Long, y D. C. Wege. 1998. Endemic bird areas of the world: priorities for biodiverstiy conservation. BirdLife International, Cambridge Reino Unido.</citation>
+      <citation>Rytwinski, T. and L. Fahrig. 2012. Do species life history traits explain population responses to roads? A meta-analysis. Biological Conservation 147: 87-98.</citation>
+      <citation>Renjifo, L. M., A. M. Franco-Maya, J. D. Amaya-Espinel, G. H. Kattan y B. López-Lanús (eds.). 2002. Libro rojo de aves de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Ministerio del Medio Ambiente. Bogotá, Colombia.</citation>
+      <citation>McMullan, M. y T. Donegan. 2014. Field guide to the Birds of Colombia. Fundación Proaves de Colombia, 2014. 364p.</citation>
+      <citation>Pizano, C. y H. García (Editores). 2014. El Bosque Seco Tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH). Bogotá, D.C., Colombia.</citation>
+      <citation>Ibarra-Macías, A., W. D. Robinson and M. S. Gaines. 2010. Experimental evaluation of bird movements in a fragmented Neotropical landscape. Biological Conservation.</citation>
+      <citation>Hilty, S. y W. Brown. 1984. Guía de las aves de Colombia.  Princeton 1986. 1030 p.</citation>
+      <citation>Cracraft, J. 1985. Historical biogeography and patterns of differentiation within South American avifauna: areas of endemisms. Ornithological Monographs 36:49–84.</citation>
+      <citation>Álvarez, M. 2004. Manual de métodos para el desarrollo de inventarios de biodiversidad. Bogotá, Colombia: Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Programa de Inventarios de Biodiversidad, Grupo de Exploración y Monitoreo Ambiental (GEMA).</citation>
+      <citation>Bohorquez-Mieles, J.C. 2012. Aportes a la biología del escarabajo coprófago Dichotomius belus Harold, 1880 (Coleoptera: Scarabaeidae, Scarabaeinae). Revista Agricultura Tropical 35(1 y 2):43-51</citation>
+      <citation>Uribe-L., M. y L. F. Vallejo-E. 2013. Diversidad de escarabajos Carabidae y Scarabaeidae de un bosque tropical en el Magdalena medio Colombiano. Bol.cinet.mus.hist.nat. 17(2):174-196.</citation>
+      <citation>Escobar, F. 1997. Estudio de la comunidad de escarabajos coprófagos (Scarabaeidae) en un remanente de bosque seco al norte del Tolima, Colombia. Caldasia 19(3): 419:430</citation>
+      <citation>Bustos-Gómez L, Lopera-Toro, A. Preferencia por Cebo de los Escarabajos Coprófagos (Coleoptera: Scarabaeidae: Scarabaeinae) de un Remanente de Bosque Seco Tropical al Norte del Tolima (Colombia). En: Onore G., Reyes-Castillo P., Zunino M. (Comps.). Escarabaeidos de Latinoamérica: Estado del Conocimiento. M3m- Monografías Tercer Milenio, Vol. III. Sociedad Entomológica Aragonés (SEA), Zaragoza. 2003. p. 59-65</citation>
+      <citation>Agudelo-H., C.A. 2008. Amaranthaceae. Flora de Colombia No. 25. ICN, Universidad Nacional de Colombia. Bogotá. 138 pp.</citation>
+      <citation>Taylor, N.P. 1991. The genus Melocactus (Cactaceae) in Central and South America. Bradleya 9: 1-80.</citation>
+      <citation>Salinas, N.R. &amp; D. Cárdenas-L. 2006. Aspidosperma polyneuron. pp. 38-41. En: Cárdenas-L., D. &amp; N.R. Salinas (eds.) Libro rojo de plantas de Colombia. Especies maderables amenazadas, I parte. Instituto Amazónico de Investigaciones Científicas SINCHI. MAVDT. Bogotá. 169 pp.</citation>
+      <citation>Pizano, C., R. González-M., M.F. González, F.C. Lima, R. López, N. Rodríguez, A. Idárraga-Piedrahita, W. Vargas, H. Vergara-Varela, A. Castaño-Naranjo, W. Devia, A. Rojas, H. Cuadros &amp; J.L. Toro. 2014. Las plantas de los bosques secos de Colombia. Pp. 49-93. En: Pizano, C. &amp; H. García (eds.) El bosque seco tropical en Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá.</citation>
+      <citation>Parra-O., C. 2002. Dos nuevas especies de Myrtaceae de Colombia. Caldasia 24 (1): 96-99.</citation>
+      <citation>López-C., R. &amp; I. Montero. 2006. Cedrela odorata. Pp. 58-62. En: Cárdenas-L., D. &amp; N.R. Salinas, (eds.) Libro rojo de plantas de Colombia. Especies maderables amenazadas, I parte. Instituto Amazónico de Investigaciones Científicas SINCHI. MAVDT. Bogotá. 169 pp.</citation>
+      <citation>IUCN. 1998. Americas Regional Workshop (Conservation &amp; Sustainable Management of Trees, Costa Rica, November 1996) Aspidosperma polyneuron. The IUCN Red List of Threatened Species. Versión 2014.3. &lt;www.iucnredlist.org&gt;. Consultada el 03 de febrero de 2015.</citation>
+      <citation>Galeano, G. &amp; R. Bernal. 2005. Palmas (Familia Arecaceae o Palmae). Libro Rojo Pl. Colombia 2: 59–223.</citation>
+      <citation>Dugand, A. 1944. Una nueva Caparidácea (Steriphoma) de Colombia. Caldasia 3 (12): 149-153.</citation>
+      <citation>Dugand, A. 1941. El género Capparis en Colombia. Caldasia 1 (2): 29-54.</citation>
+      <citation>Calderón-S., E. 2007. Orquídeas, Primera Parte. Libro Rojo Pl. Colombia 6(1): 1–828.</citation>
+      <citation>Calderon, E. 1998. Mayna suaveolens. The IUCN Red List of Threatened Species. Versión 2014.3. &lt;www.iucnredlist.org&gt;. Consultada el 06 de febrero de 2015.</citation>
+      <citation>Instituto Humboldt y 4D  Elements Consultores. 2014. Mapa de Cobertura y Uso del Suelo de la Ventana Beltrán (Cundinamarca, escala 1:25.000), elaborado a partir de imágenes de satélite Rapideye.</citation>
+      <citation>Bernal, R., S.R. Gradstein &amp; M. Celis. (eds.). 2015. Catálogo de plantas y líquenes de Colombia. Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Bogotá. catalogoplantascolombia.unal.edu.co</citation>
+      <citation>Gentry, A. H. (1993). A field guide to the families and genera of woody plants of northwest South America (Colombia, Ecuador, Peru) with supplementary notes on herbaceous taxa. Washington, DC: Conservation International xxiii, 895p.-illus.</citation>
+      <citation>Acosta-Galvis, A. R. 2012. Anfibios de los enclaves secos en la ecorregión de La Tatacoa y su área de influencia, alto Magdalena, Colombia. Biota Colombiana 13: 182–210.</citation>
+      <citation>Llano-Mejía, J., Cortés-Gómez, Ángela. M y F. Castro-Herrera. 2010. Lista de anfibios y reptiles del departamento del Tolima, Colombia. Biota Colombiana, vol. 11, núm. 1-2, 2010, pp. 89-106.</citation>
+      <citation>AmphibiaWeb: Information on amphibian biology and conservation. Referencia en línea. (Noviembre 2014). Berkeley, California: AmphibiaWeb.  Página web accesible en: http://amphibiaweb.org/. (Accessed: Nov 17, 2014)</citation>
+      <citation>SIB. Referencia en línea. (Noviembre 2014). Página web accesible en http://data.sibcolombia.net/departamentos/</citation>
+      <citation>Ortega-Lara, A., Saulo-Usma, J., Bonilla, P.A. &amp; N.L. Santos. 2006. Peces de la cuenca alta del río Cauca, Colombia. Biota vol. 7, núm. 1pp. 39-54.</citation>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Pérez-Emon, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [November]. A classification of the bird species of South America. American Ornithologists&apos; Union. Página web accesible en http://www.museum.lsu.edu/~Remsen/SACCBaseline.html</citation>
+      <citation>Corporación Autónoma Regional-CAR. 2002. Atlas ambiental CAR 2001. Bogotá. 176 p.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Caracterización biológica de la ventana Beltrán, corregimiento Paquiló, Municipio de Beltrán, Cundinamarca</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_paquilo_faunaflora_2015</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>FMB, IAvH-R, IAvH-A, IAvH-P, IAvH-I,</collectionIdentifier>
+                <collectionName>Herbario Federico Medem, Colección de reptiles, anfibios, peces e insectos del Instituto Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

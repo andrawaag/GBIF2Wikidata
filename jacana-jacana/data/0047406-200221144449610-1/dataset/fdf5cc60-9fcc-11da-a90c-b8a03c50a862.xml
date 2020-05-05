@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="fdf5cc60-9fcc-11da-a90c-b8a03c50a862"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/go0am7</alternateIdentifier>
+        <alternateIdentifier>http://ipt.gbif.pl:8080/resource?r=pan_miiz_aves</alternateIdentifier>
+        <alternateIdentifier>fdf5cc60-9fcc-11da-a90c-b8a03c50a862</alternateIdentifier>
+        <alternateIdentifier>1450</alternateIdentifier>
+    <title>Bird Collection of Museum and Institute of Zoology PAS</title>
+    <creator>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Iwan</surName>
+    </individualName>
+<organizationName>Museum and Institute of Zoology, Polish Academy of Sciences</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>darek@miiz.waw.pl</electronicMailAddress><onlineUrl>http://www.miiz.waw.pl/miz/index.php?lang=iso-885</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Iwan</surName>
+    </individualName>
+<organizationName>Museum and Institute of Zoology, Polish Academy of Sciences</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>darek@miiz.waw.pl</electronicMailAddress><onlineUrl>http://www.miiz.waw.pl/miz/index.php?lang=iso-885</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Iwan</surName>
+    </individualName>
+<electronicMailAddress>darek@miiz.waw.pl</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-14
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The database of Aves includes information about specimens which are preserved in the Zoological Collection MIZ. Material was collected worldwide, identified to species level. Database includes data on historical materials collected during the expeditions in 19th century, for example by Branicki, Dybowski, Kalinowski, Chrostowski, Sztolzman. Bird collection comprises also type material, extinct and endangered taxa. The collection preserves eggs, mounted specimens and skins.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Dariusz</givenName>          <surName>Iwan</surName>
+    </individualName>
+<organizationName>Museum and Institute of Zoology, Polish Academy of Sciences</organizationName>    <address>
+<country>POLAND</country>    </address>
+<electronicMailAddress>darek@miiz.waw.pl</electronicMailAddress><onlineUrl>http://www.miiz.waw.pl/miz/index.php?lang=iso-885</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation>Iwan D (2017). Bird Collection of Museum and Institute of Zoology PAS. Museum and Institute of Zoology, Polish Academy of Sciences. Occurrence dataset https://doi.org/10.15468/go0am7 accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

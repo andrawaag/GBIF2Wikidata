@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="6c59699b-4c6f-402a-b174-0c318c104e31"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/yrjb5d</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_caribe_aves_2015</alternateIdentifier>
+        <alternateIdentifier>6c59699b-4c6f-402a-b174-0c318c104e31</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_caribe_aves_2015</alternateIdentifier>
+    <title>Aves de fragmentos de Bosque seco en la región del Caribe Colombiano</title>
+    <creator>
+    <individualName>
+<givenName>Juan Luis</givenName>          <surName>Parra</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Profesor</positionName>    <address>
+<deliveryPoint>Calle 67 No. 53-108 Oficina 7- 218</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2195605</phone><electronicMailAddress>juanluisparra@gmail.com</electronicMailAddress><onlineUrl>http://www.juanluisparra.com</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Juan Luis</givenName>          <surName>Parra</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Profesor</positionName>    <address>
+<deliveryPoint>Calle 67 No. 53-108 Oficina 7- 218</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2195605</phone><electronicMailAddress>juanluisparra@gmail.com</electronicMailAddress><onlineUrl>http://www.juanluisparra.com</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Luis</givenName>          <surName>Parra</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Profesor</positionName>    <address>
+<deliveryPoint>Calle 67 No. 53-108 Oficina 7- 218</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>2195605</phone><electronicMailAddress>juanluisparra@gmail.com</electronicMailAddress><onlineUrl>http://www.juanluisparra.com</onlineUrl>    <role>USER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juliana</givenName>          <surName>Sandoval-H</surName>
+    </individualName>
+<organizationName>Universidad de los Andes</organizationName><positionName>Estudiante</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Timothy Robert</givenName>          <surName>Forrester</surName>
+    </individualName>
+<organizationName>Independiente</organizationName><positionName>Asistente de campo</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mariana</givenName>          <surName>Cortés</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Estudiante</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fernanda Eloisa</givenName>          <surName>García</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Estudiante</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Llano</surName>
+    </individualName>
+<organizationName>Universidad Nacional</organizationName><positionName>Estudiante</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Contiene 1384 registros, correspondientes a capturas y aves detectadas por censos en 3 localidades del Caribe Colombiano ubicadas en los departamentos de Atlántico, Bolívar y La guajira.
+
+Lo anterior se hizo con el fin de conocer la riqueza y diversidad en cada una de las zonas muestreadas para monitorear el proceso de restauración de bosque seco en estas tres localidades del Caribe colombiano. Los métodos utilizados incluyen captura de individuos con redes de niebla y censos por puntos de conteo.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>bosque seco</keyword>
+              <keyword>caribe</keyword>
+              <keyword>restauración</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Hay documentos asociados al recurso que fueron incorporados a la I2D: Lista de las posibles especies para cada zona, Informe de las actividades realizadas (producto 4), listado de especies y registro fotográfico de las especies capturadas o detectadas (Producto 5), base de datos en formato Darwin core con el registro de las especies (Producto 6), Informe de análisis de los indicadores sintéticos (Productro 7), Informe que contiene los indicadores de diversidad (Producto 8),  propuesta de programa de monitoreo (Producto 9) e informe final (producto 10).</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_caribe_aves_2015</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos proceden de diferentes localidades del Caribe del territorio nacional de Colombia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-75.165</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.808</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.045</northBoundingCoordinate>
+                      <southBoundingCoordinate>9.917</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-08-05
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-08-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registraron 138 especies pertenecientes a 40 familias en 17 órdenes, en donde el mayor número de registros se detectaron para los Passeriformes.
+
+A continuación se listan los órdenes con su respectivo número de registros:
+
+Accipitriformes (6)
+Apodiformes (87)
+Caprimulgiformes (1)
+Cathartiformes (17)
+Charadriiformes (19)
+Columbiformes (107)
+ Coraciiformes (6)
+Cuculiformes (48)
+Falconiformes (20)
+Galbuliformes (14)
+Galliformes (8)
+Passeriformes (946)
+Pelecaniformes (4)
+Piciformes (21)
+Psittaciformes (78)
+Strigiformes (3)
+tinamiformes (1)</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tinamiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Fortalecer el estado del conocimiento de la biodiversidad en paisajes de bosque seco, y establecer un programa de monitoreo sobre las acciones de restauración que promueven la conservación de los bosques secos de la región</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Angélica</givenName>          <surName>Diaz-Pulido</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Avenida Paseo Bolivar 16-20</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Redes de niebla: En cada una de las zonas de cada localidad se muestrearon las tres coberturas diferentes por dos días y medio. 
+Se utilizaron 10 redes de 12 metros cada una. Las redes se abrieron durante todo el día de 6 am a 5 pm, sólo se cerraron antes si las condiciones climáticas eran muy desfavorables y en algunas ocasiones por exceso de pájaros capturados para el número de personas en las redes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Puntos de conteo: En cada localidad se censaron las aves en cada cobertura haciendo puntos de conteo cada 200 metros entre las 5:45 am y las 10 am. En cada punto se registraron las aves vistas y escuchadas durante 15 minutos. Se grabó todo el muestreo utilizando una grabadora Marantz y un micrófono omnidireccional Senheisser. Cada punto fue replicado mínimo 3 veces.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El estudio fue llevaod a cabo en tres localidades de la región del Caribe Colombiano: la primera fue la localidad de Hibácharo, en Atlántico; la segunda fue San Juan Nepomuceno en el departamento de Bolívar y la tercera fue la localidad de Hatonuevo en La Guajira.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>En cada una de las localidades (Hibácharo, San Juan Nepomuceno y Hatonuevo) se tomaron 3 áreas de muestreo con diferentes coberturas: Zona de reserva, zona de aislamiento y zona de uso (como ganadería o cultivos.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Programa paisajes de Conservación Caribe</title>
+          <personnel>
+    <individualName>
+<givenName>Juan Luis</givenName>          <surName>Parra</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Contrato No. 15-15-036-159PS entre el instituto de investigación de recursos &quot;Alexander von Humboldt&quot; y Juan Luis Parra Vergara</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Bosque seco tropical del caribe colombiano</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Este proyecto tiene como objetivo monitorear el proceso de restauración del bosque seco en tres localidades del Caribe colombiano.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:50Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/yrjb5d">Parra J L (2019). Aves de fragmentos de Bosque seco en la región del Caribe Colombiano. Version 1.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/yrjb5d accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Aves de fragmentos de Bosque seco en la región del Caribe Colombiano</objectName>
+                  <characterEncoding>utf-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                            <formatVersion>na</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_caribe_aves_2015</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>No aplica</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A</collectionIdentifier>
+                <collectionName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>pieles</jgtiUnitType>
+                      <jgtiUnitRange>
+                          <beginRange>1</beginRange>
+                          <endRange>13</endRange>
+                      </jgtiUnitRange>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,315 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="65fcc2fa-9c22-4e48-ab3d-9753f10b9ef1"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/uqcsnp</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca</alternateIdentifier>
+        <alternateIdentifier>10.15468/wcoleb</alternateIdentifier>
+        <alternateIdentifier>65fcc2fa-9c22-4e48-ab3d-9753f10b9ef1</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=herpetofauna-y-avifauna-de-villeta-guaduas-cundinamarca</alternateIdentifier>
+    <title>Herpetofauna y avifauna de los municipios de Villeta y Guaduas (Cundinamarca), en el contexto de la vulnerabilidad del territorio al cambio climático</title>
+    <creator>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>fundacionecotropicocolombia@gmail.com</electronicMailAddress><onlineUrl>https://www.ecotropico.org/</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Diana Xamara</givenName>          <surName>Albarán Montoya</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Investigadora Asociada</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>dianaalbaran@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Juan Miguel</givenName>          <surName>Ruiz Ovalle</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Investigador Asociado</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>susande.juanmiguel@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Chaparro Herrera</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Investigador Asociado</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>sergioupn@gmail.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Lesly Rocío</givenName>          <surName>Peña Baez</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Investigadora Asociada</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>roles-16@hotmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>fundacionecotropicocolombia@gmail.com</electronicMailAddress><onlineUrl>https://www.ecotropico.org/</onlineUrl>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Diana Xamara</givenName>          <surName>Albarán Montoya</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Investigadora Asociada</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>dianaalbaran@yahoo.com</electronicMailAddress><onlineUrl>https://www.ecotropico.org/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>fundacionecotropicocolombia@gmail.com</electronicMailAddress><onlineUrl>https://www.ecotropico.org/</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mauricio Andrés</givenName>          <surName>Valencia Camelo</surName>
+    </individualName>
+<organizationName>Centro Internacional de Física</organizationName><positionName>Director Grupo Biotecnología Ambiental</positionName>    <address>
+<deliveryPoint>Edificio Manuel Ancizar, Ciudad Universitaria, Universidad Nacional de Colombia</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111321</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3681517</phone><electronicMailAddress>mauricio.valencia@cif.org.co</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2019-04-08
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La biodiversidad en el nivel de paisaje y de especies fue uno de los seis componentes evaluados en el contexto de la vulnerabilidad a cambio climático del territorio Villeta-Guaduas (Cundinamarca) por el efecto combinado de la variabilidad, el cambio climático y la construcción del tramo 1 (sector 1 de la Ruta del Sol). El territorio analizado involucró las veredas de San Isidro, Cune y La Esmeralda en el municipio de Villeta, y las veredas de El Trigo, Raizal y Cajón y La Carbonera en el municipio de Guaduas (desde los 900 hasta los 1600 msnm). Dentro de este componente se seleccionaron seis mosaicos de coberturas naturales y productivas, representativos de la matriz de paisaje definida en el Mapa de Cobertura del Suelo elaborado por 4D Elements Consultores (2013) en el marco de esta consultoría. Específicamente estos mosaicos incluyeron las siguientes coberturas naturales remanentes de bosque andino (montano húmedo): bosque natural denso, bosque natural fragmentado y bosque de galería o ripario, y las coberturas productivas circundantes; en todas las cuales se realizaron caracterizaciones de la herpetofauna y avifauna.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Guaduas</keyword>
+              <keyword>Cundinamarca</keyword>
+              <keyword>Reserva Forestal Protectora de la Cuenca Hidrográfica del Río San Francisco</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>Villeta</keyword>
+              <keyword>Reserva Forestal La Esmeralda</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>cambio climático</keyword>
+              <keyword>cobertura del suelo</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Municipios de Villeta y Guaduas, vertiente occidental de la Cordillera Oriental, Quebrada Cune y ríos San Francisco y Guaduero, 900 a 2.000 msnm.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-74.641</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-74.401</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.124</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.962</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-03-19
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-09-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Herpetofauna: De la clase Amphibia se obtuvieron 126 registros, representados en su mayoría por el orden Anura con 92 registros de las familias Aromobatidae, Bufonidae, Centrolenidae, Craugastoridae, Hylidae y Leptodactylidae. Del orden Caudata se obtuvieron 32 registros, representados por la familia Plethodontidae, y del orden Gymnophiona 2 registros de la familia Caecilidae. 
+
+De la clase Reptilia se obtuvieron 68 registros, representados en su gran mayoría por el orden Squamata con 61 registros de las familias Colubridae, Dactyloidae, Elapidae y Gymnophthalmidae. Del orden Sauria se obtuvieron 5 registros de la familia Corytophanidae. Y del orden Testudines 2 registros de la familia Kinosternidae.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>De la clase aves se obtuvieron 3796 registros, representados en su mayoría por el orden Passeriformes con 3004 registros, seguidos por Apodiformes con 186 registros, Piciformes con 146, Columbiformes con 126, Cuculiformes con 77, Psittaciformes con 71, Accipitriformes con 44, Pelecaniformes con 44, Cathartiformes con 38, Tinamiformes con 30, Galliformes con 10, Gruiformes con 7, Charadriiformes con 6, Falconiformes con 4, Caprimulgiformes con 2 y por último Galbuliformes con 1 registro.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+<organizationName>Fundación Ecotrópico Colombia</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 127C Bis # 6-10</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111151</postalCode><country>COLOMBIA</country>    </address>
+<phone>+571 3879134</phone><electronicMailAddress>fundacionecotropicocolombia@gmail.com</electronicMailAddress><onlineUrl>https://www.ecotropico.org/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1. Selección de seis mosaicos de coberturas naturales y productivas representativos de la matriz de paisaje definida en el Mapa de Cobertura del Suelo (4D Elements Consultores, Fundación Ecotrópico Colombia y Centro Internacional de Física, 2013).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>2. Reconocimientos florísticos rápidos de las coberturas naturales boscosas remanentes en los seis mosaicos (Bosque Natural Denso, Bosque Natural Fragmentado y Bosque de Galería o Ripario).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>3. Registro de la herpetofauna asociada a las coberturas naturales y productivas de los seis mosaicos: En cada uno de los mosaicos se realizó la búsqueda por encuentro visual (VES), en horario diurno entre las 6:30 y 11:30 horas y nocturno entre las 18:30 y 23:30 horas, a un ritmo constante, registrando los ejemplares observados por el equipo de profesionales, el cual estuvo compuesto por dos herpetólogos con experiencia en campo. Se realizó el registro visual y fotográfico de los individuos observados y/o capturados, y de su comportamiento. Se registraron las vocalizaciones de los anuros y se capturaron los ejemplares de los ofidios, con ayuda de un gancho herpetológico. 
+Toma de datos: Se realizó el registro de datos de cada uno de los individuos observados y/o capturados en formatos de campo, completando la siguiente información: Geográfica: •Municipio •Vereda •Localidad •Coordenadas geográficas •Altitud •Tipo de cobertura. Muestreo: •Fecha •Método de captura •Esfuerzo de muestreo •Hora de registro •Número(s) del(los) registro(s) fotográfico(s) correspondiente(s). Biológica y ecológica: •Hábitat •Información taxonómica (hasta el nivel posible) •Etapa de vida •Actividad (p.e. vocalizando, percha, desplazamiento, entre otras) •Sustrato (p.e. si se encontraba sobre roca, tronco, borde de charca, dentro de la charca, suelo, hojarasca, entre otros) •Altura de la percha (o sustrato) •Morfometría (Longitud rostro-cloacal, longitud de la cola). Ambiental: •Temperatura ambiental •Humedad relativa ambiental. Identificación taxonómica: La identificación de las especies se realizó preliminarmente en campo (hasta el nivel taxonómico posible), con base en el conocimiento de las especialistas que realizaron el muestreo, y mediante su comparación y confirmación con bibliografía especializada: Acosta-Galvis 2000, 2013 y Castaño 2002. Posterior al muestreo, se realizó la confirmación o determinación taxonómica y búsqueda de información de las especies con ayuda de catálogos especializados en línea como: batrachia.com, amphibiaweb.org, catalogueoflife.org, y  otras fuentes especializadas como: iucnredlist.org, Rueda 1999 y Rueda et al., 2004.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>4. Registro de la avifauna asociada a las coberturas naturales y productivas de los seis mosaicos: En cada uno de los mosaicos se realizaron las siguientes metodologías. 
+Recorridos Libres en Transectos de Amplitud Fija: En cada uno de los sitios seleccionados se realizaron recorridos de observación entre las 6:00 y 11:00, y las 15:00 y 18:00 horas, a lo largo de un transecto con una longitud variable, de acuerdo al tamaño del parche y 100 m de ancho. El transecto fue georreferenciado en sus dos extremos. La velocidad de desplazamiento durante el recorrido fue de 1 km/hora aproximadamente.
+Apertura de Redes de Niebla: Fueron instaladas cinco redes de niebla cada una de 12 m. de largo (36 mm de ojo de malla), consecutivas o en parejas, de acuerdo a las condiciones del sitio. Las redes se abrieron durante todos los días de muestreo, desde las 5:30 a las 10:30 y de las 15:00 a las 18:00 horas. Los individuos capturados fueron introducidos en bolsas de tela de diferente tamaño, y posteriormente pesados, medidos e identificados.
+Toma de datos a lo largo del transecto: En cada recorrido se anotó la hora inicial y final, así como las condiciones climáticas del mismo. Adicionalmente, se registraron los siguientes datos de las especies de aves observadas y escuchadas: • Fecha • Coordenadas geográficas y altitud • Número del registro • Tipo de cobertura • Datos taxonómicos (familia, género, especie) • Número de individuos por especie, sexo, hábitat en el que se hizo el registro, comportamiento, tipo de alimento consumido y observaciones generales • Número(s) del(los) registro(s) fotográfico(s) correspondiente(s). 
+Toma de datos de aves en las redes de niebla: Se manipularon los individuos capturados para tomar sus medidas morfométricas (longitud de ala, longitud de cola, culmen expuesto, culmen desde las narinas, alto del pico, ancho del pico, comisura y tarso, peso y se evaluaron las características que permiten identificar su edad (cráneo, ciclo de muda, tipo de muda), sexo y estado reproductivo (parche de cría, protuberancia cloacal). Por último, se tomaron fotografías del individuo capturado [anotando número de la(s) fotografía(s)], antes de liberarlo.
+Identificación Taxonómica: La identificación taxonómica de los individuos se realizó en campo, con base en el conocimiento de los especialistas que realizaron el muestreo y con la ayuda de la Guía de Aves de Colombia (Hilty &amp; Brown 1986) y Field guide to the songbirds of South America (Ridgely R &amp; G. Tudor. 2009). Posterior al muestreo, se realizó la búsqueda de información de las especies con ayuda de catálogos especializados en línea como catalogueoflife.org, y otras fuentes especializadas como iucnredlist.org, Renjifo et al., 2002, Restall et al., 2006, Roskov et al., 2013, Snow 2004.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Cuenca de la Quebrada Cune y ríos San Francisco y Guaduero, Municipios de Villeta y Guaduas, vertiente occidental de la Cordillera Oriental, 900 a 2.000 msnm.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los reconocimientos florísticos y muestreos faunísticos se realizaron en seis mosaicos con diferentes tipos de coberturas naturales y productivas. Cada uno de estos mosaicos tiene un área promedio aproximada de 450 Ha, a lo largo de la cual se realizó un día de reconocimiento y cuatro días netos de muestreo, para un total de 30 días de trabajo de campo. En los muestreos de herpetofauna se realizaron recorridos libres diurnos y nocturnos registrando las especies de anfibios y reptiles, y haciendo especial énfasis en las áreas cercanas a los cuerpos de agua (como zona potencial de reproducción de anfibios), zonas asociadas a los bosques y corredores riparios, y áreas abiertas o perchas donde los reptiles pueden termo-regular. Se realizó el registro visual y fotográfico de los individuos, así como algunas grabaciones de las vocalizaciones para el caso de los anuros. Y se tomaron las medidas morfométricas de reptiles y salamandras. 
+En los muestreos de avifauna se realizaron muestreos diurnos con dos replicas por tipo de método (censos en punto de radio variable y redes de niebla) al interior de los seis mosaicos. Igualmente, se realizó el registro visual y fotográfico de los individuos, así como sus registros vocales.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Aproximación a la vulnerabilidad del territorio Villeta-Guaduas por el efecto combinado de la variabilidad, el cambio climático y la construcción del tramo 1 (trazado contractual) del sector 1 de la Ruta del Sol.</title>
+          <personnel>
+    <individualName>
+<givenName>Adriana</givenName>          <surName>Hurtado Guerra</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Diana Xamara</givenName>          <surName>Albarán Montoya</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Juan Miguel</givenName>          <surName>Ruiz Ovalle</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Chaparro Herrera</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Lesly Rocío</givenName>          <surName>Peña Báez</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para>La Ruta del Sol es una vía de importancia nacional proyectada para dar continuidad a la carretera de doble calzada entre Bogotá y Villeta (Cundinamarca) hasta Ciénaga (Magdalena), conectando la capital del país con la Costa Atlántica. Su construcción se dividió en tres sectores: Villeta-Guaduero-El Korán, El Korán-San Roque (km) y San Roque- Ciénaga. Mediante la Resolución No. 0227 del 17 de abril de 2012 la Agencia Nacional de Licencias Ambientales (ANLA) decidió no autorizar al Consorcio Vial HELIOS la ejecución del Tramo I del Sector I (Villeta-Guaduero-El Korán), debido principalmente a la inestabilidad geológica del área del trazado contractual original. Dicho tramo comprende los primeros 21,6 km (K0+000 a K21+600) de los 78,3 km que, originalmente, la Agencia Nacional de Infraestructura (ANI) contrató a HELIOS, y su trazado contractual original planteaba reemplazar la vía existente entre Villeta y Guaduas, conectando estas dos cabeceras municipales mediante un recorrido más al norte, que cruzaba las veredas de San Isidro, Cune y La Esmeralda en Villeta, y las veredas de El Trigo, Raizal y Cajón y La Carbonera en Guaduas (desde los 900 hasta los 1600 msnm). 
+
+El presente análisis se llevó a cabo con el objetivo de evaluar la vulnerabilidad de esta área por el efecto combinado de la variabilidad, el cambio climático y la construcción del tramo 1 (sector 1 de la Ruta del Sol). Desde el enfoque integral de los sistemas socio ecológicos, se evaluaron los siguientes componentes que dan cuenta de la estructura, función, dinámica y estado del territorio Villeta-Guaduas, conformado por las cuencas de la quebrada Cune, río San Francisco y río Guaduero: 1) clima, variabilidad climática y cambio climático; 2) geología y geomorfología; 3) hidrología e hidrogeología; 4) biodiversidad en el nivel de paisaje y de especies; 5) actores sociales y sistemas productivos agropecuarios más relevantes y; 6) servicios ecosistémicos estratégicos.</para>
+          </abstract>
+          <funding>
+              <para>Consorcio Vial HELIOS</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Bosques andinos (tropical húmedo) remanentes en los municipios de Villeta y Guaduas (Bosque Natural Denso, Bosque de Galería o Ripario y Bosque Natural Fragmentado) en el departamento de Cundinamarca, vertiente occidental de la Cordillera Oriental, Quebrada Cune y ríos San Francisco y Guaduero, de los 900 a 2.000 msnm. El área de estudio incluyó la Reserva Forestal Protectora de la Cuenca Hidrográfica del Río San Francisco y Reserva Forestal La Esmeralda.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Desde el enfoque integral de los sistemas socio ecológicos, se evaluaron los siguientes componentes que dan cuenta de la estructura, función, dinámica y estado del territorio Villeta-Guaduas, conformado por las cuencas de la quebrada Cune, río San Francisco y río Guaduero: 1) clima, variabilidad climática y cambio climático; 2) geología y geomorfología; 3) hidrología e hidrogeología; 4) biodiversidad en el nivel de paisaje y de especies; 5) actores sociales y sistemas productivos agropecuarios más relevantes y; 6) servicios ecosistémicos estratégicos. Se caracterizó su estado y tendencias de cambio, y se identificaron y valoraron algunos de los determinantes o factores que pueden aumentar su vulnerabilidad frente al efecto combinado de la variabilidad, el cambio climático y la construcción del Tramo I (Trazado Contractual) del Sector I de la Ruta del Sol. Lo anterior, con el objetivo de proporcionar argumentos para la mejor toma de decisiones, buscando un balance entre los diferentes intereses que la sociedad tiene frente al territorio, y el mantenimiento de los aspectos críticos para el bienestar humano. Para la valoración de los diferentes determinantes de la vulnerabilidad del territorio se construyó una escala numérica en un rango de 1 a 4, correspondientes a cuatro categorías de vulnerabilidad (baja, media-baja, media-alta y alta) de acuerdo con atributos intrínsecos (o propios de la naturaleza del componente) y atributos añadidos por la acción humana. Los atributos y el grado de vulnerabilidad fueron asignados por el equipo interdisciplinario que condujo el análisis, con base en la información disponible para la zona, la información generada en el marco del estudio, su conocimiento (criterio de experto) y las entrevistas y conversaciones con los actores sociales relevantes en el territorio.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:50Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/uqcsnp">Hurtado Guerra A, Albarán Montoya D X, Ruiz Ovalle J M, Chaparro Herrera S, Peña Baez L R (2019). Herpetofauna y avifauna de los municipios de Villeta y Guaduas (Cundinamarca), en el contexto de la vulnerabilidad del territorio al cambio climático. Version 2.2. Fundación Ecotrópico de Colombia. Occurrence dataset https://doi.org/10.15472/uqcsnp accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Acosta A. 2000. Ranas, salamandras y caecilias (Tetrapoda: Amphibia) de Colombia. Biota Colombiana 1 (3): 289-319.
+
+Acosta A. 2013. Lista de los Anfibios de Colombia. V.2013.0. Disponible en: www.batrachia.com (consultado el 22 de abril de 2013).
+
+BirdLife International. 2013. Endemic Bird Area factsheet: Colombian inter-Andean valleys.  Available at: http://www.birdlife.org (accessed 17 july 2013).
+
+BirdLife International. 2013. Endemic Bird Area factsheet: Colombian East Andes. Available at: http://www.birdlife.org (accessed 17 july 2013).
+
+BirdLife International. 2013. Endemic Bird Area factsheet: Colombian inter-Andean slopes. Available at: http://www.birdlife.org (accessed 17 july 2013).
+
+Castaño O. V. (Ed.). 2002. Libro rojo de reptiles de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Instituto de Ciencias Naturales - Universidad Nacional de Colombia y Ministerio del Medio Ambiente: Bogotá, Colombia.
+
+Hilty S &amp; W. Brown. 1986. A guide to the birds of Colombia. Princeton University Press. New Jersey. 836 p.
+
+International Union for Conservation of Nature-IUCN. The IUCN Red List of Threatened Species. 2011.2. Available at http://www.iucnredlist.org (accessed on 2013).
+
+International Union for Conservation of Nature-IUCN 2013. IUCN Red List of Threatened Species. Version 2013.1. Available at: www.iucnredlist.org (accessed on 2013).
+
+Renjifo L. M., A. M. Franco-Maya, J. D. Amaya-Espinel, G. H. Kattan y B. López-Lanús (Eds.). 2002. Libro rojo de aves de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Ministerio del Medio Ambiente. Bogotá, Colombia.
+
+Resolución No.383 del 23 de febrero de 2010. Ministerio de Ambiente, Vivienda y Desarrollo Territorial-MAVDT, &quot;Por la cual se declaran las especies silvestres que se encuentran amenazadas en el territorio nacional y se toman otras determinaciones&quot;. Disponible en: http://www.minambiente.gov.co/documentos/res_0383_230210.pdf (consultada el 24 de marzo de 2012).
+ 
+Restall R., C. Rodner &amp; M. Lentino. 2006. Bird of Northern South America: An identification guide. Volume 1: Species Accounts. Yale University Press. New Haven and London.
+
+Ridgely R &amp; G. Tudor. 2009. Field guide to the songbirds of South America. The passerines. University of Texas press. Austin, Texas, USA.
+
+Roskov Y., T. Kunze, L. Paglinawan, T. Orrell, D. Nicolson, A. Culham, N. Bailly, P. Kirk, T. Bourgoin, G. Baillargeon, F. Hernández &amp; A. De Wever. (Eds.). 2013. Species 2000 &amp; ITIS Catalogue of Life, 23rd May 2013. Available at: www.catalogueoflife.org/col/. Species 2000: Reading, UK.
+
+Rueda J. V. 1999. Anfibios y reptiles amenazados de extinción en Colombia. Revista de la Academia Colombiana de Ciencias exactas, físicas y naturales 23 (Suplemento especial): 475-498.
+
+Rueda J. V., J. D. Lynch &amp; A. Amézquita. (Eds). 2004. Libro Rojo de Anfibios de Colombia. Serie Libros Rojos de Especies Amenazadas de Colombia. Conservación Internacional Colombia, Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Ministerio del Medio Ambiente. Bogotá, Colombia. 384 p.
+
+Snow D.W. 2004. Family pipridae (Manakins). p. 110-169. In: Handbook of the birds of the world. Lynx Edicions. Barcelona, Spain.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Vulnerabilidad de la avifauna del territorio Villeta- Guaduas (Colombia) al cambio climático y su  acentuación por la construcción de una carretera</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>PDF</formatName>
+                            <formatVersion>2015</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">https://docs.wixstatic.com/ugd/3ef938_df21d85102ac49e3b537a254822f473c.pdf</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/logo-ecotropico.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="4a050d23-ef56-4024-9208-dcfc0717aa71"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/7hfty0</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/sib/resource?r=corredor_neotropical_2016</alternateIdentifier>
+    <title>Corredor neotropical de migración de aves en Colombia Temporada I-II/2016</title>
+    <creator>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>Asociación SELVA</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A #20-37</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111311</postalCode><country>COLOMBIA</country>    </address>
+<phone>2857286</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>    </creator>
+    <creator>
+    <individualName>
+<givenName>Angela Patricia</givenName>          <surName>Caguazango Castro</surName>
+    </individualName>
+<organizationName>Asociación SELVA</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Diagonal 42A #20-37</deliveryPoint><city>Bogotá</city><administrativeArea>Cundinamarca</administrativeArea><postalCode>111311</postalCode><country>COLOMBIA</country>    </address>
+<phone>3142093405</phone><electronicMailAddress>angela.caguazango@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>Asociación SELVA</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A #20-37</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111311</postalCode><country>COLOMBIA</country>    </address>
+<phone>2857286</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>Asociación SELVA</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A #20-37</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111311</postalCode><country>COLOMBIA</country>    </address>
+<phone>2857286</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-08-13
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Este set de datos es el resultado de los censos de ocupación realizados a través el norte de Colombia como parte del proyecto Corredor Neotropical de Migración (Neotropical Flyways Project). Involucran dos temporadas de muestreo durante las migraciones de primavera y otoño en el 2016. Los censos fueron llevados a cabo en 16 sitios, en los cuales se establecieron entre 8 y 16 transectos, los cuales fueron visitados 4 veces cada 10 días durante cada migración.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>aves migratorias</keyword>
+              <keyword>censos de ocupación</keyword>
+              <keywordThesaurus>na</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>16 sitios en el norte de Colombia, desde Sapzurro en el Darién hasta Camarones en la Guajira</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-77.498</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.51</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.394</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.25</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2016-03-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2016-11-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>Asociación SELVA</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A #20-37</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><postalCode>111311</postalCode><country>COLOMBIA</country>    </address>
+<phone>2857286</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Transectos de 100 m
+Observaciones durante 10 minutos en cada uno
+Se registra todas las aves migratorias escuchados o observados
+También se realiza un protocolo con playback, grabación de un buho que atrae las aves</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Caribe Colombiano - 16 sitios</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>8 a 16 transectos establecidos en cada sitio
+Se visita los transectos on 4 ocasiones cada 10 días durante cada migración
+Se registra todas las aves migratorias observados o escuchados durante 10 minutos</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Entrenamiento previa - datos revisados por investigador principal</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="NFP">
+          <title>Corredor Neotropical de Migración</title>
+          <personnel>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Las poblaciones de las aves migratorias Neotropicales han disminuido persistentemente en las últimas décadas y especies que hace 40 años eran comunes, hoy en día son cada vez más escasas. Las aves migratorias son fundamentales para el funcionamiento de múltiples ecosistemas a nivel global y prestan servicios esenciales como el control de plagas y la dispersión de semillas, por lo tanto, debemos intentar contrarrestar estas disminuciones de sus poblaciones. Para lograrlo se requiere un conocimiento profundo del ciclo de vida complejo de estas aves para entender sus necesidades, y para deducir donde y cuando actúan factores que contribuyen a la pérdida de individuos.
+
+Cerca de 300 especies de aves terrestres, cuyas poblaciones combinadas representan más de mil millones de individuos, migran entre el Neotropico y Norte América. El viaje de ida y vuelta supera los 10,000 km en muchas especies, y con frecuencia, son aquellas especies que migran más lejos las que estamos perdiendo más rápidamente. De todos los periodos del ciclo de vida, la etapa de migración es el menos conocido pero también es la etapa en la cual las aves migratorias sufren las tasas más altas de mortalidad. Para llenar este gran vació en nuestro conocimiento sobre las necesidades de las aves migratorias Neotropicales, este proyecto trabajará en seis países en Centro y Sur América para identificar las rutas de migración, las regiones donde las aves acumulan la energía para la migración y los hábitats de mayor calidad.</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La región Caribe</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>16 sitios de estudio
+8 a 16 transectos de 100 m en cada sitio
+Conteos de 10 minutos en cada transecto 
+4 repeticiones cada 10 dias en cada periodo de migración
+Cubren un gran rango de elevaciones y niveles de precipitación</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:52Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/7hfty0">Bayly N, Caguazango Castro A P (2019). Corredor neotropical de migración de aves en Colombia Temporada I-II/2016. Asociación SELVA: Investigación para la Conservación en el Neotrópico. Occurrence dataset https://doi.org/10.15472/7hfty0 accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-selva.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

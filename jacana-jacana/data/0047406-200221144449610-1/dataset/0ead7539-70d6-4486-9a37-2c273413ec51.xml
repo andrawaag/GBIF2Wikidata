@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0ead7539-70d6-4486-9a37-2c273413ec51"  system="http://gbif.org" scope="system"
+  xml:lang="pt">
+
+<dataset>
+      <alternateIdentifier>10.15468/ga2jww</alternateIdentifier>
+        <alternateIdentifier>https://ipt.sibbr.gov.br/mnrj/resource?r=mnrj_ornitologia</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibbr.gov.br/mnrj/resource?r=mnrj_ornitologia</alternateIdentifier>
+        <alternateIdentifier>0ead7539-70d6-4486-9a37-2c273413ec51</alternateIdentifier>
+    <title>Coleção de Aves do Museu Nacional / UFRJ</title>
+    <creator>
+    <individualName>
+<givenName>Gabriela</givenName>          <surName>Araujo</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Gerente de coleções</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><electronicMailAddress>gabrielag.araujo@ufrj.br</electronicMailAddress><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Gabriela</givenName>          <surName>Araujo</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Gerente de coleções</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><electronicMailAddress>gabrielag.araujo@ufrj.br</electronicMailAddress><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Marcos</givenName>          <surName>Raposo</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><electronicMailAddress>raposo@mn.ufrj.br</electronicMailAddress><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Gabriela</givenName>          <surName>Araujo</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Gerente de coleções</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><electronicMailAddress>gabrielag.araujo@ufrj.br</electronicMailAddress><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2017-07-28
+      </pubDate>
+    <language>PORTUGUESE</language>
+    <abstract>
+        <para>Criado por D. João VI em 6 de junho de 1818, o Museu Nacional constitui um dos maiores e mais tradicionais centros de pesquisa da América Latina, sendo detentor de um dos mais vastos e representativos acervos científicos sobre a biodiversidade neotropical existentes em todo o mundo.
+O Setor de Ornitologia ocupa hoje 500m² do prédio do Departamento de Vertebrados. A Coleção de Aves é fruto de mais de 100 anos de coletas, feitas por naturalistas como Emilie Snethlage, Alípio Miranda Ribeiro, Henrique Reinisch, Emil Stolle, Rudolph Pfrimer, Herbert Berla, Helmut Sick, Jorge Nacinovic e Dante Martins Teixeira, tendo um inquestionável valor científico, histórico e documental.
+Ao todo, essa coleção conta com mais de 60 mil espécimes cuja informação é, a todo o momento, requerida por pesquisadores brasileiros e estrangeiros, assim como por órgãos públicos e privados relacionados ao estudo da Biodiversidade brasileira e sua conservação. Essa informação tem aplicação direta em estudos sobre história da Ciência, zoologia e conservação. Essa coleção está dividida em aproximadamente 55.000 exemplares taxidermizados, 8.000 espécimens em meio líquido, 500 esqueletos, 1.200 ninhos e ovos, e mais de 4.000 tecidos.
+Atualmente, o Setor de Ornitologia tem elevada produção científica nas áreas de taxonomia, anatomia, biogeografia, história da Ciência e comportamento das aves, sendo hoje dirigido por dois professores do Museu Nacional / UFRJ: o Prof. Dr. Marcos André Raposo e o Prof. Dr. Dante Luiz Martins Teixeira.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>A coleção de Aves do Museu Nacional, Universidade Federal do Rio de Janeiro abriga exemplares da fauna de diversas partes do mundo, com foco principalmente na região Neotropical.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Figueira</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Gerente de coleções</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Lorian</givenName>          <surName>Straker</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Marcos</givenName>          <surName>Raposo</surName>
+    </individualName>
+<organizationName>Museu Nacional, Universidade Federal do Rio de Janeiro</organizationName><positionName>Curador</positionName>    <address>
+<deliveryPoint>Setor de Ornitologia, Departamento de Vertebrados, Quinta da Boa Vista s/n, São Cristóvão</deliveryPoint><city>Rio de Janeiro</city><administrativeArea>RJ</administrativeArea><postalCode>20940-040</postalCode><country>BRAZIL</country>    </address>
+<phone>55 21 3938-1219</phone><electronicMailAddress>raposo@mn.ufrj.br</electronicMailAddress><onlineUrl>http://www.ornitologia.mn.ufrj.br/</onlineUrl>      </contact>
+
+      <project >
+          <title>As Coleções Biológicas de Invertebrados e Vertebrados do Museu Nacional/MNRJ - digitalização, informatização e disponibilização dos dados no Sistema de Informação sobre a Biodiversidade Brasileira</title>
+          <personnel>
+    <individualName>
+<givenName>Marcos</givenName>          <surName>Raposo</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Conselho Nacional de Desenvolvimento Científico e Tecnológico (CNPq)</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Informatizar e disponibilizar os dados referentes aos exemplares do acervo da coleção de Aves do Museu Nacional, Universidade Federal do Rio de Janeiro.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation>Araujo G (2017). Coleção de Aves do Museu Nacional / UFRJ. Version 2.6. Museu Nacional / UFRJ. Occurrence dataset https://doi.org/10.15468/ga2jww accessed via GBIF.org on 2020-04-22.</citation>
+              <collection>
+                <parentCollectionIdentifier>Not applicable</parentCollectionIdentifier>
+                <collectionIdentifier>MN</collectionIdentifier>
+                <collectionName>Coleção de Aves do Museu Nacional / UFRJ</collectionName>
+              </collection>
+              <formationPeriod>Final do século XIX</formationPeriod>
+              <formationPeriod>1870 - atual</formationPeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

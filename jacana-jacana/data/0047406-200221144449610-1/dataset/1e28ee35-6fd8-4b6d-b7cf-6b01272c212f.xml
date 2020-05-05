@@ -1,0 +1,553 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1e28ee35-6fd8-4b6d-b7cf-6b01272c212f"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/cjxwuz</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=itm-001</alternateIdentifier>
+        <alternateIdentifier>10.15468/muz2pv</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=itm-001</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=itm-001</alternateIdentifier>
+        <alternateIdentifier>1e28ee35-6fd8-4b6d-b7cf-6b01272c212f</alternateIdentifier>
+    <title>Colección de Ornitología - Museo de Ciencias Naturales de La Salle</title>
+    <creator>
+    <individualName>
+<givenName>Danny</givenName>          <surName>Zurc</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de La Salle - Instituto Tecnológico Metropolitano</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Calle 54A No. 30-01. Blo. L. Of. 307</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><postalCode>050013</postalCode><country>COLOMBIA</country>    </address>
+<phone>(4)460 0727 ext 5512</phone><electronicMailAddress>curaduriamuseo@itm.edu.co</electronicMailAddress><onlineUrl>http://museo.tim.edu.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Bustca</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de La Salle - Instituto Tecnológico Metropolitano</organizationName><positionName>Curadora</positionName>    <address>
+<deliveryPoint>Calle 54A No. 30-01. Blo. L. Of. 307</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><postalCode>050013</postalCode><country>COLOMBIA</country>    </address>
+<phone>(054) 460 0727 ext 5512</phone><electronicMailAddress>curaduriamuseo@itm.edu.co</electronicMailAddress><onlineUrl>http://museo.tim.edu.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Instituto Tecnológico Metropolitano</givenName>          <surName>-ITM-</surName>
+    </individualName>
+<organizationName>Instituto Tecnológico Metropolitano</organizationName><positionName>Institución Universitaria anfitriona</positionName>    <address>
+<deliveryPoint>Calle 54A #30-01 - Campus Fraternidad</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea>    </address>
+<phone>4600727 ext 5603</phone><electronicMailAddress>direccionmuseo@itm.edu.co</electronicMailAddress><onlineUrl>http://www.itm.edu.co</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2018-01-17
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Contiene 3446 registros que corresponden a los datos de colecta de los individuos que hacen parte de la Colección Ornitológica realizada por los Hermanos de La Salle en el período 1910-2001. De éstos la mayor representatividad es avifauna local del departamento de Antioquia con un 67.4%, seguido por el Norte de Colombia (14.6%), Centro (5.0%), Occidente (3.5%), Sur (3.5%), Oriente (1.6%) y el Altiplano Cundiboyacense (1.5%) y el 0.7% procede por canje y donaciones de  otros países como Bélgica, EE.UU, Italia, Cánada, España, Ecuador y Costa Rica.
+
+El 100% de los ejemplares está identificado hasta especie y de éstos el 79.1% hasta subespecie. La curaduría taxonómica de los ejemplares ha sido revisada por reconocidos taxónomos nacionales e internacionales.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>paratipo</keyword>
+              <keyword>ITM</keyword>
+              <keyword>Rallidae</keyword>
+              <keyword>Ardeidae</keyword>
+              <keyword>Ramphastidae</keyword>
+              <keyword>Lasallistas</keyword>
+              <keyword>Psittacidae</keyword>
+              <keyword>preservación</keyword>
+              <keyword>Registro biológico</keyword>
+              <keyword>Trochilidae</keyword>
+              <keyword>migratorias</keyword>
+              <keyword>Ornitología</keyword>
+              <keyword>Parulidae</keyword>
+              <keyword>Colección</keyword>
+              <keyword>Fringilidae</keyword>
+              <keyword>Icteridae</keyword>
+              <keyword>Antioquia</keyword>
+              <keyword>Aves</keyword>
+              <keyword>La Salle</keyword>
+              <keyword>Thamnophilidae</keyword>
+              <keyword>Furnariidae</keyword>
+              <keyword>Colombia</keyword>
+              <keyword>Atlapetes blancae</keyword>
+              <keyword>Museo</keyword>
+              <keyword>taxidermia</keyword>
+              <keyword>Subespecie</keyword>
+              <keyword>Picidae</keyword>
+              <keyword>casi-endémica</keyword>
+              <keyword>conservación</keyword>
+              <keyword>Thraupidae</keyword>
+              <keyword>espécimen</keyword>
+              <keyword>Especie</keyword>
+              <keyword>amenazada</keyword>
+              <keyword>Tyrannidae</keyword>
+              <keyword>Accipitridae</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos proceden de diferentes localidades del territorio Colombiano y otros lugares del mundo Bélgica, Canadá, Ecuador, España, Costa Rica, Puerto Rico, entre otros</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-139.38</westBoundingCoordinate>
+                      <eastBoundingCoordinate>89.24</eastBoundingCoordinate>
+                      <northBoundingCoordinate>61.07</northBoundingCoordinate>
+                      <southBoundingCoordinate>-2.67</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1910-03-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2001-07-23
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Todos los ejemplares ornitológicos están identificados hasta nivel de especie y para algunos hasta subespecie. 
+
+Tyrannidae con 49 géneros es la familia con mayor representatividad, seguida por Trochilidae con 37, y Fringilidae y Thraupidae con 26 géneros cada una. 
+
+La colección alberga el Paratipo de Atlapetes blancae descrito por el inglés Thomas Donegan (2007), encontrado en San Pedro de los Milagros, departamento de Antioquia.
+
+También se encuentran ejemplares de las especies casi-endémica (Chaparro-Herrera et al. 2013), Hylocharis humboldtii y Xenopipo flavicapilla. Y especies amanezadas  (Renjifo et al. 2014)  Cryptorellus obsoletus castaneus, Pyrrhura calliptera,  Hypopyrrhus pyrohypogaster, Ampelion rufaxilla, Setophaga cerulea, Bangsia melanochlamys; y las especies casi amenazadas Andigena nigrirostris y Bucco noanamae.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rupicolidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corvidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sternidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrobatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Stercorariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fregatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Grallaridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podicipedidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strigidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tytonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Heliornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sturnidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trogonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Burhinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ramphastidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fringillidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cotingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Steatornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pelecanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phoenicopteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Capitonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phasianidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tinamidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprimulgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tersinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cinclidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dendrocolaptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pipridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alaudidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sylviidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rynchopidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bucconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rhinocryptidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cardinalidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Galbulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Numididae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strildidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctibiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Formicariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tityridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Momotidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Opisthocomidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Facilitar la información de la biodiversidad que el Museo de Ciencias Naturales custodia, para  todos aquellos ciudadanos interesados en la investigación de este recurso natural. Sumando así a la iniciativa nacional -Sistema de Información en Biodiversidad-.
+
+Esto como un primer paso a la documentación y publicación de las colecciones que el Museo alberga, las cuales corresponden a seis grupos zoológicos que de igual manera serán divulgados.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Lázaro Antonio</givenName>          <surName>Mesa Montoya</surName>
+    </individualName>
+<organizationName>Museo de Ciencias Naturales de La Salle - Instituto Tecnológico Metropolitano</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Calle 54A No. 30-01. Blo. L. Of. 307</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><postalCode>050013</postalCode><country>COLOMBIA</country>    </address>
+<phone>(4)460 0727 ext 5603</phone><electronicMailAddress>direccionmuseo@itm.edu.co</electronicMailAddress><onlineUrl>http://museo.tim.edu.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Revisión bases de datos.
+Verificación existencia de números de catálogo repetidos.
+Resolución de inconsistencias.
+Consolidación de bases de datos.
+Asignación de georreferencia e incertidumbre asociada.
+
+Con el fin de asignar un grado de confiabilidad se utilizaron dos criterios: 
+
+1.	Dependiendo de la cantidad de información disponible en la etiqueta para asignar la georreferencia; por ejemplo, un espécimen con “Colombia” como localidad tiene una mayor incertidumbre que un espécimen con localidad “Reserva La Romera, Municipio de Sabaneta, Antioquia, Colombia”. Entre más detallada sea la descripción de la localidad, mayor grado de confiabilidad será asignado a la georreferencia bajo este criterio.
+2.	El segundo criterio para asignar un grado de confiabilidad estará basado en relación con los rangos altitudinales y distribución geográfica establecidos en la literatura (e.g. Meyer de Schauensee 1952, Hilty &amp; Brown 1986, Restall et al. 2006, Proaves 2010, Natureserve) para las diferentes especies. Por ejemplo, si un registro se encuentra localizado dentro del rango de elevación y distribución conocido para la especie, se le asignará un mayor grado de confiabilidad que si el registro de altura o distribución del espécimen se encuentra por fuera de alguno de éstos. Para realizar este ejercicio, se identificarán aquellos puntos que se encuentren por encima o debajo del máximo y mínimo de elevación. El mayor grado de confiabilidad para este criterio se asignará cuando el registro se localice dentro del rango de elevación reportado. Los niveles de confiabilidad para este criterio disminuirán de acuerdo a qué tan lejos se encuentre el registro de los extremos del rango de elevación. Además, se harán mapas donde se ubiquen todos los especímenes dentro del departamento y puedan ser comparados con los rangos de distribución de Natureserve. Aquí se determinará si el registro se encuentra dentro o fuera del rango de distribución y a qué distancia de éste.
+  
+Con el fin de revisar y actualizar la taxonomía de los especímenes, se consultaron la versión más reciente de la SACC (Remsen et al. 2011) y se estableció una base de datos donde se relacionaron las especies en todas las versiones de las bases de datos con la taxonomía más reciente para así actualizar los registros de una manera más eficiente.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los países referidos de los especímenes en la colección ornitológica son Bélgica, Canadá, Costa Rica, Ecuador, España, Estados Unidos, Italia, Puerto Rico y Colombia, para este último los departamentos representados corresponden a Córdoba, Atlántico, Sucre, Bolívar, Guajira, Magdalena, César, Chocó, Cauca, Nariño, Valle del Cauca, Quindío, Nariño, Amazonas, Putumayo, Caquetá, Meta, Risaralda, Pereira, Caldas, Huila, Boyacá, Cundinamarca, Santander, Casanare, Arauca, Vichada y Norte de Santander.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>1. Colectas realizadas por los Hermanos de La Salle y colaboradores en campo. Método de captura escopeta de perdigones y redes de niebla.
+2. Preparación de especímenes en piel rellena.
+3. Revisión de ejemplares de la colección ornitológica del Museo
+4. Revisión de bases de datos</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Asignación de georreferencia e incertidumbre asociada.
+Revisión taxonómica por expertos nacionales e internacionales.
+Revisión detallada de la base de datos.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Curaduría y Georreferenciación de la Colección de Aves del Museo de Ciencias Naturales de la Salle, un Proyecto Cultural Del ITM</title>
+          <personnel>
+    <individualName>
+<givenName>Danny</givenName>          <surName>Zurc</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Instituto Tecnológico Metropolitano, Universidad de Antioquia, Universidad Nacional de Colombia</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Para el caso específico de la colección ornitológica del Museo de Ciencias Naturales de La Salle, es necesario comenzar con una revisión exhaustiva a nivel taxonómico (i.e. actualización taxonómica) y de localidades de cada uno de los ejemplares que ésta alberga, ya que se encontraron cuatro versiones de la base de datos de los especímenes de aves de este Museo, en las cuales se han identificado inconsistencias en cuanto a números de catálogo, género y especie, entre otros. Además, de realizar la georreferenciación de las localidades, dato fundamental de la procedencia de los especímenes consignados en la colección y su publicación online para la facilitación de consulta de todos aquellos interesados en información sobre biodiversidad. Así, el objetivo general de este proyecto fue “Realizar la curaduría taxonómica y la georreferenciación de la colección ornitológica del Museo de Ciencias Naturales de La Salle y hacer esta información disponible al público general a través del internet”.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/cjxwuz">Zurc D, Bustca A (2018). Colección de Ornitología - Museo de Ciencias Naturales de La Salle. Version 3.2. Instituto Tecnológico Metropolitano. Occurrence dataset https://doi.org/10.15472/cjxwuz accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>BirdLife International (2013) Species factsheet: Atlapetes blancae. Downloaded from http://www.birdlife.org on 21/11/2013. Recommended citation for factsheets for more than one species: BirdLife International (2013) IUCN Red List for birds. Downloaded from http://www.birdlife.org on 21/11/2013.</citation>
+      <citation>Hilty, S.L. &amp; Brown, W.L. 1986. A guide to the birds of Colombia. Princeton University Press. Princeton, New Jersey.</citation>
+      <citation>Meyer de Schauensee, M. (1948 – 1952).  The birds of the Republic of Colombia. Caldasia, 5(22-26), 251-1212.</citation>
+      <citation>Paynter, R. A. 1997. Ornithological gazetteer of Colombia. Cambridge, Mass. : Bird Dept., Museum of Comparative Zoology, Harvard University.</citation>
+      <citation>Remsen, J. V., Cadena, Jr., C. D., Jaramillo, A., Nores, M., Pacheco, J. F., Pérez-Emán, J.,  Robbins, M. B.  Stiles, F. G. , Stotz, D. F.  &amp; , K. J. Version [2 Diciembre 2013]. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.html</citation>
+      <citation>Restall, R., Rodner, C. &amp; Lentino, M. (2007). Birds of Northern South America: An Identification Guide, (1-2), Yale University Press. USA.</citation>
+      <citation>Roskov Y., Kunze T., Paglinawan L., Orrell T., Nicolson D., Culham A., Bailly N., Kirk P., Bourgoin T., Baillargeon G., Hernandez F., De Wever A., eds (2013). Species 2000 &amp; ITIS Catalogue of Life, 2013 Annual Checklist. Digital resource at www.catalogueoflife.org/annual-checklist/2013/. Species 2000: Reading, UK.</citation>
+      <citation>IUCN 2013. IUCN Red List of Threatened Species. Version 2013.2. &lt;www.iucnredlist.org&gt;. Downloaded on 21 November 2013.</citation>
+      <citation>Zoonomen Nomenclatural data. (2013) Alan P. Peterson http://www.zoonomen.net</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-itm.png</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>CSJ</parentCollectionIdentifier>
+                <collectionIdentifier>Registro nacional de colecciones: 184</collectionIdentifier>
+                <collectionName>Colección de Ornitología</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

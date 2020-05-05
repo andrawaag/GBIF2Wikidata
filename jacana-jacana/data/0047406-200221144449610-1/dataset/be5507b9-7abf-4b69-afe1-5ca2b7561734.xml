@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="be5507b9-7abf-4b69-afe1-5ca2b7561734"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/lns1qm</alternateIdentifier>
+        <alternateIdentifier>https://ipt.lsa.umich.edu/resource?r=ummz_birds</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource?r=ummz_birds</alternateIdentifier>
+        <alternateIdentifier>http://ipt.vertnet.org:8080/ipt/resource.do?r=ummz_birds</alternateIdentifier>
+        <alternateIdentifier>be5507b9-7abf-4b69-afe1-5ca2b7561734</alternateIdentifier>
+        <alternateIdentifier>14696</alternateIdentifier>
+    <title>University of Michigan Museum of Zoology, Division of Birds</title>
+    <creator>
+    <individualName>
+          <surName>UMMZ Birds Data Group</surName>
+    </individualName>
+<organizationName>UM Museum of Zoology Birds Division</organizationName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>Ann Arbor</city><administrativeArea>Michigan</administrativeArea><postalCode>48108</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>ummz-birds-data@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<organizationName>UM College of LSA</organizationName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Admins</givenName>          <surName>LSA IT</surName>
+    </individualName>
+<organizationName>UM College of LSA</organizationName>    <address>
+<country>UNITED_STATES</country>    </address>
+<electronicMailAddress>lsa-it-infra-ipt-admins@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/lsait/</onlineUrl>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+      <pubDate>
+      2020-03-25
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>Through the efforts of University of Michigan faculty-curators and staff, the Museum of Zoology (UMMZ) develops and maintains excellent zoological collections explicitly for use in research and education benefiting science, society, and the university.
+
+The faculty staff and various graduate students of the Birds Division conduct research on the phylogenetic relationships, evolution and behavior of a wide variety of birds using museum collections, molecular techniques, and captive and field studies.
+
+The skins collection consists of approximately 176,000 specimens (6th largest in North America; about 2/3 of the species of the world), housed in 224 cases (133 double, 190 single, 1 triple), approximately 5000 sq. feet. In addition to study skins, the collection also includes other special preparations such as 1457 flat pelts and 636 spread wings and tails.
+The skin collection contains 317 holotypes and 3 lectotypes. These are not available for loan. An annotated list is available (UMMZ Misc. Publ. No. 174, R. W. Storer, 1988). A list and images of our types are available electronically. Extinct species are represented also.
+
+The skeletons collection represents approximately 23,800 specimens, 3,500 species (4th largest in the world in number of specimens, 2nd in number of species after the U.S. National Museum) stored in 60 cases, approximately 700 sq. feet. The only families missing are: Mesoenatidae, Rhynochetidae, Dromadidae, Leptosomatidae, Oxyrunchidae, Acanthisittidae, Atrichornithidae, Hyposittidae, and Callaeidae. About 1/2 of the skeleton specimens are from the United States. Other geographic areas for which we have larger collections include: Argentina (830), Australia (485), Canada (435), Costa Rica (1000), Egypt (1000), Ghana (490), Mexico (650), New Caledonia (140), Paraguay (1160), Philippines (340), Surinam (370), and Tanzania (340).
+
+Additional collections include:
+Eggs and nests: 4,600 egg sets and 573 nests in 26 cases.
+Fluid collection: 4,250 specimens (18th largest in the world), 464 linear feet of shelving and 27 linear feet of floor space for tanks. Also available are 1100 fluid preserved syrinxes.
+Frozen tissues: Samples from about 4,800 individuals stored in an ultra-cold freezer.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.lsa.umich.edu/ummz/birds/</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>All geographic regions are represented, with specimens from 273 countries. About 109,000 specimens are from the United States, including 46,000 from Michigan. Other states which are well represented are Alaska, Arizona, the Dakotas, Florida, Kentucky, New Mexico, Tennessee, and Texas. Other areas of the world represented by large numbers of specimens are Canada, Labrador, Chiapas, Yucatan, Belize, Costa Rica, Panama, Paraguay, Egypt, sub-Saharan Africa, the Philippines, and southern Asia from Iran, Kashmir, and northern India to Assam.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Of 172 families of living birds, 169 are represented. Of approximately 2057 genera of birds, we have 1792. The collection contains about 6,557 species and 40 hybrids. Particular strengths are in the grebes (Podicipediformes), shorebirds and alcids (Charadriiformes), African waxbills (Estrildidae) and viduine finches (Viduinae) in both skin and skeletal collections.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podicipediformes</taxonRankValue>
+                          <commonName>grebes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                          <commonName>shorebirds and alcids</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Estrildidae</taxonRankValue>
+                          <commonName>African waxbills</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Viduidae</taxonRankValue>
+                          <commonName>viduine finches</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>monthly</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+          <surName>UMMZ Birds Data Group</surName>
+    </individualName>
+<organizationName>UM Museum of Zoology Birds Division</organizationName>    <address>
+<deliveryPoint>3600 Varsity Drive</deliveryPoint><city>Ann Arbor</city><administrativeArea>Michigan</administrativeArea><postalCode>48108</postalCode><country>UNITED_STATES</country>    </address>
+<electronicMailAddress>ummz-birds-data@umich.edu</electronicMailAddress><onlineUrl>http://www.lsa.umich.edu/ummz/birds</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para></para>
+                </description>
+            </methodStep>
+      </methods>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation>University of Michigan Museum of Zoology (2020). University of Michigan Museum of Zoology, Division of Birds. Version 14.20. Occurrence dataset https://doi.org/10.15468/lns1qm accessed via GBIF.org on 2020-04-22.</citation>
+              <formationPeriod>1830s-present</formationPeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

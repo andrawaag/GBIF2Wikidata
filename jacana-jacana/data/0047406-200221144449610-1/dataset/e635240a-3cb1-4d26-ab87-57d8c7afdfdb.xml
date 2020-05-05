@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e635240a-3cb1-4d26-ab87-57d8c7afdfdb"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/hlh5ud</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu:8080/ipt/resource?r=kubi_ornithology</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource?r=kubi_ornithology</alternateIdentifier>
+        <alternateIdentifier>http://ipt.nhm.ku.edu/ipt/resource.do?r=kubi_ornithology</alternateIdentifier>
+        <alternateIdentifier>e635240a-3cb1-4d26-ab87-57d8c7afdfdb</alternateIdentifier>
+        <alternateIdentifier>14479</alternateIdentifier>
+    <title>KUBI Ornithology Collection</title>
+    <creator>
+    <individualName>
+<givenName>Mark</givenName>          <surName>Robbins</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Dyche Hall, 1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785 864 3657</phone><electronicMailAddress>mrobbins@ku.edu</electronicMailAddress><onlineUrl>http://ornithology.biodiversity.ku.edu/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Mark</givenName>          <surName>Robbins</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Dyche Hall, 1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785 864 3657</phone><electronicMailAddress>mrobbins@ku.edu</electronicMailAddress><onlineUrl>http://ornithology.biodiversity.ku.edu/</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>A. Townsend</givenName>          <surName>Peterson</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator</positionName><phone>+01 785 864 3926</phone><electronicMailAddress>town@ku.edu</electronicMailAddress><onlineUrl>http://ornithology.biodiversity.ku.edu</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Robert</givenName>          <surName>Moyle</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Curator in Charge</positionName><phone>+01 785 864 1870</phone><electronicMailAddress>moyle@ku.edu</electronicMailAddress><onlineUrl>http://ornithology.biodiversity.ku.edu/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2020-01-07
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Ornithology group in the Biodiversity Institute at the University of Kansas conducts research and provides undergraduate and graduate education on the birds of the world. Research topics include the species limits and species diversity, evolution, geography, genetics and genomics, morphology, conservation, ecology, and behavior. This work is greatly enhanced by extensive research collections of world birds, numbering more than 107,000 specimens, many of which are recently collected as part of the group&amp;#39;s global bird sampling program.&lt;br /&gt; &lt;br /&gt;
+
+
+Ornithology&amp;#39;s study skin collections total about 60,000 specimens. The historical collections are strongest for the Great Plains of the United States and for Mexico, with additional holdings from Central and South America, Borneo, and Kenya. Recent large-scale collections have built significant recent holdings from Mexico, Dominican Republic, El Salvador, Panama, Guyana, Peru, Paraguay, Argentina, Sierra Leone, Ghana, Botswana, Democratic Republic of the Congo, Mongolia, China, Vietnam, Philippines, Malaysia, Papua New Guinea, Solomon Islands, Fiji, Palau, and others. Collections of special importance include series of more than 14,000 House Sparrow (Passer domesticus), which formed the basis for landmark scientific research by Richard Johnston and his students; extensive series of several North American species (Red-winged Blackbird Agelaius phoeniceus, meadowlarks Sturnella spp., Horned LarkEremophila alpestris); series documenting many of the Great Plains hybrid zones; and the feathers of an extinct moa (Dinornithidae). Recent additions include extensive series from Guyana, Mexico, Panama, Peru, and Paraguay, including many species otherwise poorly represented in scientific collections.&lt;br /&gt; &lt;br /&gt;
+
+The avian osteological collections are extensive, totaling over 32,500 specimens, and ranked third largest in the world (Wood and Schnell 1986). This component of the collection has important strengths from the Great Plains of the United States, Mexico, and northern South America. Important holdings include critical and unique Ecuadorian series, extensive recent Australian material, and a large series of steamer-ducks (Tachyeres sp.). Recent collecting activities have built South American skeletal holdings into an important collection, with material from poorly represented sectors such as the Atlantic Forest, the Yucatan Peninsula, Guyana, and montane Central America.&lt;br /&gt; &lt;br /&gt;
+ 
+Although fluid-preserved specimens were not an early focus of Ornithology activities, the collections at KU were ranked seventh in North America at the time of the last summary of anatomical holdings (Wood et al. 1982). More recently, as part of Prum&amp;#39;s research program, these collections have grown significantly, with important holdings of suboscine passeriform birds, among other groups. Now housed with ample space and ideal storage conditions in an NSF- and State of Kansas-funded addition, this collection is seeing increased research applications.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>http://biodiversity.ku.edu/research/university-kansas-biodiversity-institute-data-publication-and-use-norms</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by/4.0/legalcode"><citetitle>Creative Commons Attribution (CC-BY) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://biodiversity.ku.edu/ornithology/collections</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>The Division has an active, global collections program, which has created recent collections resources from all continents except Antarctica.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-180</westBoundingCoordinate>
+                      <eastBoundingCoordinate>180</eastBoundingCoordinate>
+                      <northBoundingCoordinate>90</northBoundingCoordinate>
+                      <southBoundingCoordinate>-90</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1841
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      1841
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>All birds.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mark</givenName>          <surName>Robbins</surName>
+    </individualName>
+<organizationName>KU Biodiversity Institute</organizationName><positionName>Collection Manager</positionName>    <address>
+<deliveryPoint>Dyche Hall, 1345 Jayhawk Blvd.</deliveryPoint><city>Lawrence</city><administrativeArea>KS</administrativeArea><postalCode>66045</postalCode><country>UNITED_STATES</country>    </address>
+<phone>+01 785 864 3657</phone><electronicMailAddress>mrobbins@ku.edu</electronicMailAddress><onlineUrl>http://ornithology.biodiversity.ku.edu/</onlineUrl>      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation>Robbins M (2020). KUBI Ornithology Collection. Version 10.25. University of Kansas Biodiversity Institute. Occurrence dataset https://doi.org/10.15468/hlh5ud accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

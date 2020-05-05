@@ -1,0 +1,644 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="8bc4f5d2-8e7a-430d-b219-6776c38f401a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/vcak6r</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=rrbb_humedal_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>10.15468/jm9ykq</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=rrbb_humedal_faunaflora_2015</alternateIdentifier>
+        <alternateIdentifier>8bc4f5d2-8e7a-430d-b219-6776c38f401a</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=rrbb_humedal_faunaflora_2015</alternateIdentifier>
+    <title>Caracterización de fauna y flora para el establecimiento de límites funcionales de humedales en tres ventanas piloto: Ciénaga de la Virgen,  Ciénaga Zapatosa y  Complejo de humedales Paz de Ariporo - Hato Corozal</title>
+    <creator>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director ejecutivo</positionName>    <address>
+<deliveryPoint>Calle 84 No 21 - 64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Johanna</givenName>          <surName>Velásquez Niño</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Contratista</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3102252005</phone><electronicMailAddress>jvelasqueznino@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Paola</givenName>          <surName>Mora Cabeza</surName>
+    </individualName>
+<organizationName>Independiente</organizationName><positionName>Investigadora</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>paolamorac@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Victor</givenName>          <surName>Luna Mora</surName>
+    </individualName>
+<organizationName>Fundación Herencia Natural</organizationName><positionName>Investigador</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>victorfl05@gmail.com</electronicMailAddress><onlineUrl>http://www.fundacionherencianatural.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Andrés Felipe</givenName>          <surName>García Londoño</surName>
+    </individualName>
+<organizationName>Fundación Bioethos</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cra. 26 No. 39-03</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1) 2447279</phone><electronicMailAddress>agarcialondono@gmail.com</electronicMailAddress><onlineUrl>http://www.freewebs.com/colombia-adlibitum/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco Antonio</givenName>          <surName>Villa-Navarro</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Profesor Asociado Grupo de Investigación en Zoología</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(8)2771212</phone><electronicMailAddress>favilla@ut.ed.co</electronicMailAddress><onlineUrl>http://www.ut.edu.co/</onlineUrl>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Margarita</givenName>          <surName>Roa</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Bióloga - Estudiante de maestria</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(8)2771212</phone><onlineUrl>http://www.ut.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Gabriel</givenName>          <surName>Albornoz Garzón</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Biólogo - Estudiante de maestria</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(8)2771212</phone><onlineUrl>http://www.ut.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jaime</givenName>          <surName>Leonardo Lozano</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Biólogo - Estudiante de maestria</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(8)2771212</phone><electronicMailAddress>nardolozano@gmail.com</electronicMailAddress><onlineUrl>http://www.ut.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Renzo</givenName>          <surName>Ávila Avilán</surName>
+    </individualName>
+<organizationName>Fundación Cunaguaro</organizationName><positionName>Gerente</positionName>    <address>
+<deliveryPoint>Cr 22 No 8 -28</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3108602629</phone><electronicMailAddress>renzo.avila@cunaguarolimitada.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Laura María</givenName>          <surName>Miranda Cortes</surName>
+    </individualName>
+<organizationName>Fundación Cunaguaro</organizationName><positionName>Directora de proyectos</positionName>    <address>
+<deliveryPoint>Cr 22 No 8 -28</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3108602629</phone><electronicMailAddress>fundacioncunaguaro@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Esther</givenName>          <surName>Vallejo Santamaría</surName>
+    </individualName>
+<organizationName>Fundación Cunaguaro</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cr 22 No 8 -28</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3108602629</phone><electronicMailAddress>evvallejos@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Norma Bibiana</givenName>          <surName>Garzón Cubillos</surName>
+    </individualName>
+<organizationName>Fundación Cunaguaro</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cr 22 No 8 -28</deliveryPoint><city>Yopal</city><administrativeArea>Casanare</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3108602629</phone>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>César</givenName>          <surName>Quiroga Giraldo</surName>
+    </individualName>
+<organizationName>Fundación Herpetario Nacional</organizationName><positionName>Director</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3123384817</phone><electronicMailAddress>cesarquirogagiraldo@serpientesdecolombia.org</electronicMailAddress><onlineUrl>http://www.serpientesdecolombia.com/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan</givenName>          <surName>Camilo Mantilla</surName>
+    </individualName>
+<organizationName>Fundación Herpetario Nacional</organizationName><positionName>Estudiante de biología</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jcamilomantilla@gmail.com</electronicMailAddress><onlineUrl>http://www.serpientesdecolombia.com</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Trujillo</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Calle 84 No 21 - 64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)2564682</phone><electronicMailAddress>fernando@omacha.org</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Catalina</givenName>          <surName>Osorio-Peláez</surName>
+    </individualName>
+<organizationName>Fundación Omacha</organizationName><positionName>Investigadora - Coordinadora del proyecto</positionName>    <address>
+<deliveryPoint>Calle 84 No 21 - 64</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)7536841</phone><electronicMailAddress>osorio_catalina@yahoo.com</electronicMailAddress><onlineUrl>http://www.omacha.org</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana Carolina</givenName>          <surName>Montoya Ospina</surName>
+    </individualName>
+<organizationName>Universidad del Tolima</organizationName><positionName>Biólogo - Estudiante de maestria</positionName>    <address>
+<deliveryPoint>Barrio Santa Helena Parte Alta</deliveryPoint><city>Ibagué</city><administrativeArea>Tolima</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(8)2771212</phone><onlineUrl>http://www.ut.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Benicia</givenName>          <surName>Watteijne Cerón</surName>
+    </individualName>
+<organizationName>Fundación Herpetario Nacional</organizationName><positionName>Investigadora</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>nicianis@gmail.com</electronicMailAddress><onlineUrl>http://www.serpientesdecolombia.com</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paola</givenName>          <surName>Martínez López</surName>
+    </individualName>
+<organizationName>Fundación Herpetario Nacional</organizationName><positionName>Investigadora</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>martinez.lopez711@gmail.com</electronicMailAddress><onlineUrl>http://www.serpientesdecolombia.com</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Daniel</givenName>          <surName>Alexander Sánchez</surName>
+    </individualName>
+<organizationName>Universidad Nacional de Colombia</organizationName><positionName>Biólogo - Estudiante de maestria</positionName>    <address>
+<deliveryPoint>Carrera 45 # 26-85</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)316 5000</phone><electronicMailAddress>dsanchez.bioimpacto@gmail.com</electronicMailAddress><onlineUrl>http://unal.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paola</givenName>          <surName>Ortíz Guerrero</surName>
+    </individualName>
+<organizationName>Universidad Nacional de Colombia</organizationName><positionName>Bióloga</positionName>    <address>
+<deliveryPoint>Carrera 45 # 26-85</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)316 5000</phone><electronicMailAddress>prortizg@gmail.com</electronicMailAddress><onlineUrl>http://unal.edu.co/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Lorena Pérez Pérez</surName>
+    </individualName>
+<organizationName>Independiente</organizationName><positionName>Bióloga</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>dianaperezlorena@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Álvaro Andrés</givenName>          <surName>Moreno Munar</surName>
+    </individualName>
+<organizationName>Independiente</organizationName><positionName>Biólogo</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>almorenomunar@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Milena María</givenName>          <surName>Moreno Rincón</surName>
+    </individualName>
+<organizationName>Independiente</organizationName><positionName>Ecóloga</positionName>    <address>
+<deliveryPoint>Cra 7 No. 42 -65</deliveryPoint><city>Bogota</city><country>COLOMBIA</country>    </address>
+<electronicMailAddress>milena.moreno@javeriana.edu.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-27
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Caracterización de comunidades hidrobiológicas, macroinvertebrados, plantas acuáticas, peces, anfibios, plantas terrestres, reptiles, aves y mamíferos bajo el contrato 14-13-014-237PS entre la Fundación Omacha y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Proyecto: Fondo Adaptación: aplicación de criterios biológicos y ecológicos para la identificación, caracterización y establecimiento de límites funcionales de humedales en tres ventanas piloto.
+El presente proyecto se desarrolló para la aplicación de criterios biológicos y ecológicos con miras a la caracterización, identificación y establecimiento de límites funcionales de los humedales continentales neotropicales en Colombia, requiriendo como insumo una aproximación en la caracterización biológica de grupos taxonómicos presentes en las ventanas de estudio: Ciénaga de La Virgen, Ciénaga Zapatosa y Complejo de humedales de Paz de Ariporo - Hato Corozal, y contribuyendo así a la definición de una metodología técnica de reconocimiento y delimitación de los humedales del país, así como herramienta de gestión y conservación de los ecosistemas acuáticos continentales. En total se documentaros 3027 registros biológicos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>cienaga la virgen</keyword>
+              <keyword>funcionalidad humedales</keyword>
+              <keyword>biodiversidad</keyword>
+              <keyword>macroinvertebrados</keyword>
+              <keyword>peces</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>zona transición acuático terresttre</keyword>
+              <keyword>plantas terrestres</keyword>
+              <keyword>hato corozal</keyword>
+              <keyword>plantas acuáticas</keyword>
+              <keyword>casanare</keyword>
+              <keyword>caracterización</keyword>
+              <keyword>amenaza</keyword>
+              <keyword>aves</keyword>
+              <keyword>comunidades hidrobiológicas</keyword>
+              <keyword>tipología de humedales</keyword>
+              <keyword>cienaga zapatosa</keyword>
+              <keyword>Orinoquia colombiana</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>fondo adaptación</keyword>
+              <keyword>conectividad hídrica</keyword>
+              <keyword>humedales</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado al recurso, se incorporó dentro de la Infraestructura Institucional de Datos del Instituto Humboldt, el catálogo de fotos y los documentos finales asociados al proyecto.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=rrbb_humedal_faunaflora_2015</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área de estudio fue en las tres ventanas piloto: Ciénaga de la Virgen (Bólivar),  Ciénaga Zapatosa (Cesar y Magdalena) y  Complejo de humedales de los municipios de Paz de Ariporo - Hato Corozal (Casanare).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-75.506</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-71.45</eastBoundingCoordinate>
+                      <northBoundingCoordinate>10.492</northBoundingCoordinate>
+                      <southBoundingCoordinate>5.901</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2014-11-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-03-03
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>3027 registros biológicos distribuidos en: 18 bacterias,  161 cromistas,  480 plantas, 67 protozoos, 25 amoebozoa, 20 anelidos, 543 artrópodos, 3 ciliforos, 35 moluscos, 2 nematodos, 123 Ochrophyta, 128 rotiferos, 519 peces óseos, 251 anfibios, 514 aves, 155 mamíferos y 106 reptiles.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Amoebozoa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Arthropoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Rotifera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Mollusca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Annelida</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Ciliophora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Nematoda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Phylum</taxonRankName>
+                        <taxonRankValue>Ochrophyta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Actinopterygii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Plantae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Bacteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Protozoa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Kingdom</taxonRankName>
+                        <taxonRankValue>Chromista</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Verificación de los criterios biológicos y ecológicos para la identificación, caracterización y establecimiento de límites de humedales en las tres ventanas seleccionadas.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carlos Andrés</givenName>          <surName>Lasso</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 28A #15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57(1)3202767</phone><electronicMailAddress>classo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>PAZ DE ARIPORO - HATO COROZAL
+Periodos de muestreo
+
+Los muestreos se llevaron a cabo durante la transición de dos temporadas hidroclimáticas definidas: al final del período de aguas altas e inicio de la época seca (mes de noviembre de 2014), y durante el periodo de aguas bajas, al final de la época seca (mes de febrero de 2015).  Esto permitió la comparación de los diferentes humedales, en cuanto a su llenado/presencia de agua, conectividad hídrica y productividad en biomasa. 
+
+CIENAGAS ZAPATOSA Y LA VIGEN
+Se realizaron muestreos durante la temporada seca, en el mes de enero de 2015.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de comunidades hidrobiológicas
+Plancton
+
+Para la caracterización de las comunidades de fitoplancton y zooplancton del complejo de humedales de Paz de Ariporo-Hato Corozal se realizaron dos muestreos, en época lluviosa en noviembre de 2014  y en época seca en febrero del 2015. En época de lluvias se realizó el muestreo de plancton en 10 cuerpos de agua 4 esteros, 2 caños y 4 cañadas de flujo lento, clasificados a partir de la propuesta de tipología de humedales por Lasso  et. al. 2014.  En época seca se realizó un muestreo de plancton en 12 cuerpos de agua; para la época dos de los cuerpos muestreados se encontraban secos, la cañada NN que alimenta el estero Mararabe y la cañada La Guafila 2, desagüe del estero Mararabe, y adicionalmente se integraron 2 madrevieja, 1 estero y un laguna de rebalse, laguna La corcovada, Guaratarito,  La Charraleta y el Encanto, respectivamente.
+
+Los muestreos de fitoplancton y zooplancton se realizaron filtrando volúmenes de 120 litros a través de una malla de plancton de 25 µm para fitoplancton y 55 µm para zooplacnton, fijándolas con solución transeau 6:3:1. Estas muestras de tipo semicualitativo permiten encontrar el porcentaje de abundancia de las diferentes especies, las cuales se obtienen a través del inventario de taxones. 
+
+Perifiton
+
+Para la caracterización de las comunidades de  perifiton del complejo de humedales de Paz de Ariporo- Hato corozal se realizaron dos muestreos, en época lluviosa en noviembre de 2014  y en época seca en febrero del 2015.  En época de lluvias se realizó el muestreo de plancton en 10 cuerpos de agua, 2 esteros, 4 caños y 4 cañadas, estero El Ruco, estero la Fortuna,  cañada La Guafila 1, caño El Oso, cañada La Roca, cañada La sultana, caño Aceites y caño La culebra. En época seca se realizó el muestreo en 4 ecosistemas de la zona norte del área de estudio, correspondiente a 2 madrevieja, 1 estero y una laguna de rebalse, laguna La corcovada, Guaratarito,  La Charraleta y el Encanto, respectivamente.
+
+Para el muestreo de la comunidad perifítica se buscaron sustratos adecuados para encontrar dicha comunidad, realizando raspados de 10 x 10 cm en sustratos duros y estables como rocas o vegetación. Para cada estación de muestreo se realizaron raspados de un área aproximada de 100 cm2, generando una muestra compuesta la cual fue fijada con solución transeau en concetración 6:3:1
+
+Fase de laboratorio
+
+Plancton
+
+Para la estimación de la densidad del fitoplancton se realizó un conteo utilizando microscopio invertido a partir del método de sedimentación propuesto por Lund et al., 1958, el cual consiste en tomar alícuotas en ml de volumen  variable, según el grado de turbidez del agua, y posteriormente se concentrarlas en cámaras tipo Utermöhl, 1 hora por cada ml de volumen sedimentado.
+
+Se realizaron conteos hasta alcanzar 400 células del morfotipo más abundante para asegurar un límite de confiabilidad de 0.95. El análisis cuantitativo de zooplancton se realizó mediante fraccionamiento en alícuotas de 10 mL de la muestra previa homogenización por burbujeo y revisión de campos en cámara de sedimentación bajo observación en microscopio invertido.
+
+Perifiton
+
+Se hicieron diluciones de las muestras con un volumen total de 2 ml, realizando conteos hasta alcanzar 100 células del morfotipo más abundante para asegurar un límite de confiabilidad de 0.95 identificando los organismos encontrados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de macroinvertebrados
+La selección de los puntos de muestreo estuvo determinada en primera medida por la presencia de un nivel mínimo de agua en donde fuera posible utilizar los métodos de colecta. Dicha colecta se realizó por medio de una red D entomológica, una Draga Ekman y un juego de tamices, monitoreando diferentes hábitats en los humedales teniendo en cuenta la presencia de macrófitas y otros tipos de sustrato (roca y grava/guijarro y hojarasca). También se tuvieron en cuenta criterios mencionados en la bibliografía sobre posibles microhábitats, en el cuerpo de agua o en las orillas, en donde es común el establecimiento de comunidades de macroinvertebrados acuáticos. El material se depositó en frascos plásticos debidamente etiquetados y se fijó con alcohol (96%) para su limpieza y determinación en el Laboratorio de Investigación en Zoología de la Universidad del Tolima. 
+
+En el Laboratorio se realizó la limpieza y separación de los organismos usando estereomicroscopio Motic SMZ-168(10X).  Finalmente los organismos fueron almacenados en alcohol (70%) e ingresados a la colección zoológica de la Universidad del Tolima (CZUT-Ma), y se destinaron duplicados para la colección del Instituto Alexander von Humboldt. Se estimó la diversidad alpha por medio los índices de riqueza de familias  y diversidad de Shannon-Wiener (H’) para estos cálculos se empleó el paquete PAST Program ®, version 2.14; también se estimó la composición de familias por estaciones con la ayuda del paquete estadístico Infostat. Por último se evaluó el ensamblaje de las comunidades de macroinvertebrados a través del paquete estadístico (PRIMER-E 6).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de plantas acuáticas
+El levantamiento de información primaria de la vegetación acuática presente en los humedales del área de estudio, se estableció a partir de la metodología planteada para coberturas con predominio de comunidades relativamente homogéneas, especialmente vegetación herbácea , en la cual se realizan transectos de 100 m. como eje central para la ubicación de cuadrantes de 1 x 1 m. (1 m2) cada diez metros, para un total de diez (10) cuadrantes por transecto.
+Esta metodología ha sido adaptada y modificada por los investigadores según las características del terreno, el tipo de ecosistema a muestrear y las condiciones de acceso, pero siempre utilizando como unidad básica de muestreo los cuadrantes de 1 x 1 m. (1 m2).
+
+Para el caso específico del presente estudio se tuvieron en cuenta los parámetros metodológicos mencionados anteriormente, y se analizaron las condiciones del área, el tipo de humedales a muestrear y la vegetación presente. De esta forma y teniendo en cuenta la importancia de muestrear los humedales en una distancia que permitiera evidenciar los cambios de la vegetación al interior de los mismos, se establecieron transectos de longitud variable dependiendo de las características del humedal, sobre el cual se instalaron cuadrantes de 1 x 1 m. (1 m2) cada 20 metros de longitud, con el fin de obtener información a lo largo del gradiente del humedal aumentando la distancia de los cuadrantes sobre el transecto.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de peces
+En cada uno de los cuerpos de agua se realizaron muestreos estandarizados con redes de arrastre para la colecta de los organismos.
+Los individuos se capturaron mediante muestreos estandarizados con redes de arrastre de 10 m de longitud, con ojo de malla de 2 mm y 1.5 m de altura. Finalmente se fijaron y se almacenaron los ejemplares.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de anfibios
+La evaluación ecológica y biológica de la herpetofauna del complejo de humedales siguió los protocolos establecidos por el IAvH, los cuales se basan en la integración y adaptación de las evaluaciones biológicas rápidas de la biodiversidad (RAP´s o AquaRAP`s); para este grupo de vertebrados se efectuó mediante la captura y observación directa utilizando la metodología VES (Visual Encounter Surveying), el cual consiste en la búsqueda de individuos en un área delimitada. Los recorridos se efectuaron en las horas del día 8-11:00 am y de la noche entre las 8-11:00 pm, con una duración de cuatro horas en cada jornada; registrando la hora de inicio, finalización, número de personas, y tipos de condiciones ambientales y climáticas por día. Cada espécimen observado se capturó manualmente y posteriormente se realizaron algunas mediciones morfológicas y morfométricas con la finalidad de obtener datos de gran importancia para la identificación del sexo, madurez y especie a la cual pertenece.
+Una vez finalizado el registro del espécimen, se procedía a la liberación de los individuos en el mismo lugar donde fueron observados. Finalmente se realizó la georeferenciación de cada transecto trabajado utilizando un GPS Garmin 62x.
+Del total de especímenes observados, se realizó una colección de referencia (máximo 5 individuos por especie) de las especies colectadas, excepto de las especies amenazadas y de individuos muy grandes (e.g. crocodílidos, a los cuales solo se les tomará tejido o escamas). La preparación de algunos de los individuos capturados como especímenes científicos, comienza con el sacrificio que se debe realizar con una inmersión en alcohol al 10% o cloretona al 10% hasta evidenciar paro del ritmo cardiaco, posteriormente se fijan en una posición ya preestablecida en una bandeja con formol al 10% y por último se etiquetan los individuos.
+De todos los individuos sacrificados se debe tomar muestras de tejido con fines moleculares previo a su preservación para museo, los cuales servirán para posteriores estudios filogenéticos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de plantas terrestres
+Se realizaron recorridos al azar, cubriendo la mayor cantidad posible de las áreas de muestreo, basados en la metodología de Colecciones generales de Plantas, a partir de lo cual se tomaron colecciones botánicas del material que se encontró en estado reproductivo (flor y/o fruto); a la vez, se tomaron muestras de tejido vegetal según los protocolos previamente establecidos, realizando una descripción preliminar del estado y características de cada muestra colectada.
+De esta forma en el presente estudio se realizó un total de 38 transectos Gentry de 50m x 2m, tanto para el bosque de rebalse como para el bosque arbustivo o matorral inundable. 
+
+Una vez establecido cada transecto se censaron todos los individuos cuyos tallos o peciolos (en caso de palmas acaules) tuvieran un diámetro a la altura del pecho (DAP) mayor o igual a 2.5 cm. o CAP mayor o igual a 7.8 cm., utilizando un metro o decámetro; adicionalmente se estimó la altura de cada uno de los individuos presentes y se realizó un registro escrito de cada individuo teniendo en cuenta su hábito, la distancia de ubicación con respecto al transecto y algunas características vegetativas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de reptiles
+La evaluación ecológica y biológica de la herpetofauna del complejo de humedales se efectuó mediante la captura y observación directa utilizando la metodología VES (Visual Encounter Surveying), el cual consiste en la búsqueda de individuos en un área delimitada. Los recorridos serán efectuaran en las horas del día y de la noche, con una duración de cuatro horas en cada jornada, la hora de inicio, finalización, número de personas y tipos de condiciones ambientales y climáticas encontradas el día del estudio serán registradas. Al momento de observar los especímenes se procedió a su captura manual a través de herramientas herpetológicas de los diferentes especímenes de este grupo taxonómico  y la toma de material fotográfico, además se registraron una gran cantidad de datos morfológicos y morfométricos con el fin de realizar la identificación del espécimen. Las variaciones diarias en el clima como la temperatura, la radiación, las corrientes de viento y la humedad son factores que pueden afectar la actividad de los reptiles. Posterior a esto se realizó la liberación de los individuos en el mismo lugar donde fueron observados. Finalmente se realizó la georeferenciación de cada transecto trabajado utilizando un GPS Garmin 62x.
+
+Se debe realizar un colección de referencia (máximo 5 individuos por especie) de las especies colectadas, excepto de las especies amenazadas y de individuos muy grandes (e.g. crocodílidos, a los cuales solo se les tomará tejido o escamas). De todos los individuos sacrificados se debe tomar muestras de tejido con fines moleculares previo a su preservación para museo. Se requiere elaborar etiquetas rigurosas, tanto para los individuos como para las muestras de tejido, contrastables con los datos de campo.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de aves
+Para el registro de la avifauna se desarrollaron dos métodos, puntos de observación y captura con redes de niebla. Los puntos de observación fueron propuestos teniendo en cuenta que este método permite concentrarse plenamente en las aves y los hábitats; el cual permite que exista una mayor probabilidad de detectar las especies crípticas y silenciosas, así como una mayor facilidad de  relacionar la aparición de aves a las características del hábitat. 
+
+De acuerdo a las tipologías de humedales , entre los sitios visitados se registraron nueve tipos de humedales. A continuación se describen los métodos aplicados por tipo de humedal o cobertura muestreada. Para el caso de los humedales descritos en algunas de estas categorías, se desarrolló una subdivisión por sectores y se crearon puntos de observación, conteo y identificación, por lo general no separados más de 200 a 300 metros.  En cada humedal se tuvo en cuenta el registro de la ubicación de las especies en el mismo, por lo tanto se incluyeron tanto las encontradas en el espejo de agua, la zona de transición, entendida esta última como el área de suelo entre seco y húmedo que posee en algunos sectores vegetación acuática en proceso de marchitamiento por la falta de humedad, así como zonas de playas que se forman por el decrecimiento del espejo del agua, lo cual deja expuesta un franja de terreno entre el espejo de agua y la vegetación arbustiva baja, media y alta que particularmente para esta zona rodeaba la mayoría de los humedales.  De la misma forma, se tuvieron en cuenta las aves que se encontraban en la franja arbustiva circundante y aquellas que era posible registrar en los doseles de árboles de gran tamaño que se ubicaban alrededor del humedal.
+
+Los puntos de observación se ubicaron circundantes a los humedales, teniendo en cuenta el esquema del sitio o forma del humedal para así definir cuáles eran los mejores sectores para la observación. En cada punto se tuvo en cuenta trazar un circunferencia de 180º para la observación de las aves que se ubicaban a menos de 150 metros de distancia. Una vez desarrollado el conteo y registro se pasaba a otro punto de observación, siempre teniendo la precaución de no volver a contar individuos ya registrados, así como de no espantar y hacer volar a las aves durante los recorridos.
+
+En algunos humedales las observaciones se desarrollaron por parte de dos profesionales, por lo que se aplicaban en algunos casos doble conteo para asegurar el número de individuos en especial para las especies congregatorias. Se tuvieron en cuenta no solo avistamientos visuales directos si no también registros auditivos. Los puntos de observación se realizaron en las horas de mayor actividad para aves, de las 6:00 horas a las 10:00 horas y de las 15:00 horas a las 18:00 horas.
+La captura con redes fue uno de los principales métodos para registrar la avifauna en este tipo de cobertura. En cada sitio de muestreo se utilizaron tres redes de niebla con una longitud de 12 m, altura de 3 m y un ojo de 30 mm., para un total de 36 m lineales de red /día; y se realizaron registros fotográficos de los individuos. Las redes estuvieron abiertas durante dos horas en promedio por día, durante las horas de mayor actividad para aves, entre las 6:30 horas y las 8:30 horas. Los individuos capturados fueron colectados por un funcionario del Instituto Humboldt quien tomó la información respectiva de cada individuo y posteriormente los sacrificó para desarrollar la taxidermia respectiva.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de mamíferos
+Los mamíferos, debido a la gran variedad de hábitos alimenticios, comportamientos, estrategias vitales, patrones de actividad, usos de hábitat y hábitos crípticos, son uno de los grupos más difíciles de inventariar y monitorear. Sin embargo, una correcta aplicación de diferentes técnicas pueden ayudar, en parte, a resolver inquietudes ecológicas de este grupo. 
+Los mamíferos, debido a la gran variedad de hábitos alimenticios, comportamientos, estrategias vitales, patrones de actividad, usos de hábitat y hábitos crípticos, son uno de los grupos más difíciles de inventariar y monitorear. Sin embargo, una correcta aplicación de diferentes técnicas pueden ayudar, en parte, a resolver inquietudes ecológicas de este grupo. 
+
+Mamíferos pequeños no voladores
+
+Para la captura de mamíferos pequeños no voladores se utilizaron 10 trampas Sherman (8x8x24 cm) con una intensidad de 48 horas por punto de muestreo ubicadas espacialmente en las diferentes coberturas vegetales presentes en cada punto teniendo en cuenta su relación con los humedales. Se colocaron cebos en cada trampa (mantequilla de maní, avena, esencia de vainilla y almendras) bajo sombra y a nivel del suelo, distribuidas al azar en áreas previamente establecidas como bordes de bosque, senderos en bosques de galería, áreas de cultivos, troncos caídos, árboles, hojarasca, orillas de los caños y rocas.
+
+Las trampas fueron colocadas el día uno (1) en la mañana, cebadas el mismo día y revisadas al día siguiente, repitiendo el proceso hasta cumplir las 48 horas por punto de muestreo. Los individuos capturados fueron fotografiados, medidos, pesados e identificados taxonómicamente hasta el máximo nivel posible y posteriormente liberados en el mismo sitio de captura. Los ejemplares que no pudieron ser identificados en campo se les tomaron fotografías detalladas que  fueron enviadas a un especialista para que colaborara con su identificación. Adicionalmente, cuando fue posible, se tomaron datos sobre edad, estado reproductivo y sexo. Cada trampa fue georreferenciada, descrita y asociada a un tipo de cobertura vegetal.
+
+Mamíferos terrestres medianos 
+
+Para la captura de mamíferos medianos se instalaron 3 trampas Tomahawk. Este método se aplicó con ayuda de cebos (mantequilla de maní, esencia de vainilla, fruta y pequeños trozos de carne). Las trampas permanecieron por 48 horas en cada punto de muestreo, y fueron camufladas someramente con vegetación circundante y bajo sombra en aquellos lugares donde previamente se detectó algún tipo de actividad como senderos, comederos, lugares de paso y rastros (huellas, heces, etc.).
+
+Las trampas se colocaron en la mañana del día unos (1) y cebadas por las tardes para ser revisadas en la mañana siguiente, repitiendo el proceso hasta cumplir las 48 horas por localidad. Los individuos capturados fueron fotografiados, pesados, medidos e identificados hasta los máximos niveles taxonómicos posibles y liberados en el sitio de captura. Los ejemplares que no pudieron ser identificados en campo se les tomaron fotografías detalladas que luego fueron enviadas a un especialista para que colaborara con su identificación. Adicionalmente, cuando fue posible, se registró información sobre edad, estado reproductivo y sexo de cada individuo capturado.
+
+Mamíferos voladores
+
+Este método consistió en instalar 3 redes de niebla (3x6 m, 3x12 m y 3x12 m) por  punto de muestreo de 0 a 3 metros del nivel del suelo en puntos que se consideraron relevantes en las coberturas de interés, tales como corredores de vuelo, bordes de las coberturas vegetales o las zonas de transición entre dos (2) coberturas y zonas húmedas. Las redes fueron colocadas en la mañana del día uno (1) y sólo fueron abiertas hasta las 17:30, hora aproximada en la cual los murciélagos comienzan su actividad de forrajeo y se cerraron  a las 22:00.
+
+Los individuos capturados fueron retirados cuidadosamente de las redes e introducidos en bolsas de tela, se les tomaron medidas morfométricas estándar, tales como: longitud total, longitud de la cola, longitud de la pata, longitud de la oreja y longitud del antebrazo. También, cuando fue posible, se tomaron datos como sexo, edad, estado reproductivo y algunos datos ecológicos adicionales (polen, parásitos, etc.). Se tomaron los registros fotográficos y fueron liberados en los mismos lugares de captura. Los ejemplares que no pudieron ser identificados en campo se les tomaron fotografías detalladas que luego fueron enviadas a un especialista para su correcta identificación.
+
+Mamíferos medianos y grandes
+
+Este método está conformado por un sistema de cámaras pasivas con un sensor de calor, que permite ver la distribución y la riqueza de especies. Este sistema evita las acciones directas en el medio en comparación a otros métodos y no requiere manipulación directa de los individuos en estudio, por lo que se recomienda especialmente para especies evasivas o de hábitos crípticos como los felinos. 
+
+Se ubicaron 15 cámaras trampa a lo largo de la zona de estudio, se consideró el grosor del árbol o el sustrato en el que se ubicaron (procurando que fueran rectos y de grosor medio). Se programaron las cámaras trampa para tomar 3 fotografías seguidas a partir del estímulo activador y con un intervalo de 30 segundos entre la primera y segunda ráfaga o hasta que apareciera un nuevo objetivo. Se tuvieron en cuenta las condiciones ambientales del punto de muestreo, ajustándose al patrón de movimiento de las  especies en estudio.
+
+Se realizaron un total de 336 horas de esfuerzo de muestreo por cámara ubicadas en las diferentes coberturas de interés y un total de 5040 horas para el set de 15 cámaras. Se colocaron en la mañana del día uno (1) de muestreo y fueron cebadas algunas con carne, fruta y fragancias comerciales. Se retiraron las cámaras al completar los días de muestreo y posteriormente se copió la información a un computador para su análisis e identificación.
+Mamíferos arborícolas y otros (recorridos de observación):
+
+Se realizaron recorridos ad libitum, de aproximadamente 3 km diarios, tanto diurnos como nocturnos, en los cuales se registraron las especies observadas. Se fotografiaron los animales cuando fue posible. Se georreferenció el punto y se registró la mayor cantidad de información ecológica y etológica (tamaño de grupo, interacciones, dieta, sustrato, tipo de árbol, comportamiento, vocalizaciones, etc.). Asimismo, durante los recorridos se registraron evidencias indirectas tales como vocalizaciones, tomando sólo aquellas que fueron claramente identificables y zonas de importancia ecológica para los animales como madrigueras, comederos, zonas de descanso, etc. Los ejemplares que no pudieron ser identificados en campo pero posean registro fotográfico o de vocalización, fueron remitidos a un especialista quien colaboró con su correcta identificación.
+
+Técnicas de detección indirecta (búsqueda de rastros y encuestas)
+
+Los métodos indirectos se basaron fundamentalmente en la identificación, interpretación y análisis de los rastros que dejan los mamíferos durante sus actividades. Los rastros son señales o pistas de la actividad de un animal en cualquier lugar, estos pueden ser voluntariamente ubicados por los animales tales como señales de marcaje (señales químicas, territorio, heces, orina), indicios de actividad reproductiva (estro, celo, feromonas), indicios de actividad física (uñas, cuernos, astas), entre otros, o pueden ser dejados involuntariamente por ellos, tales como heces, huellas, madrigueras, comederos, hozaderos, restos, etc.
+
+Los rastros proporcionan información valiosa sobre la presencia y estado de un individuo o una población particular, que de otra manera sería muy difícil de obtener, en ocasiones puede ser el único método que permite inferir la presencia de una especie de mamífero en la zona. Una vez detectado el rastro se procedió a fotografiar siempre con un objeto de medida conocida y a identificar hasta el máximo nivel taxonómico posible a través de guías especializadas, experiencia previa de los investigadores y de los auxiliares de campo.
+Finalmente, se hicieron encuestas con los pobladores locales con el objetivo de reconocer especies conspicuas faltantes en el muestreo, interacciones con humanos y de importancia para los humanos.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>CIÉNAGA DE LA VIRGEN
+Caracterización hidrobiológicos (fitoplancton, zooplancton, perifiton y macroinvertebrados acuáticos)
+Para la caracterización de las comunidades hidrobiológicas del plancton se seleccionaron cuatro estaciones de muestreo teniendo en cuenta las características del cuerpo de agua, su extensión, profundidad, áreas de alimentación por parte de afluentes y facilidades de acceso.
+
+Para las muestras de fitoplancton se realizaron filtraciones de 25 Lt, 50Lt, 100Lt, 200Lt y 120Lt para cada una de las estaciones a través de una red de plancton de 25 μm. El volumen final filtrado se fijó con solución transeau 6:3:1. Para la estimación de la densidad del fitoplancton se realizó un conteo utilizando microscopio invertido a partir del método de sedimentación propuesto por Lund, et al., 1958, el cual consiste en tomar alícuotas en ml de volumen variable, según el grado de turbidez del agua, y posteriormente concentrándolas en cámaras tipo Utermöhl 1 hora por cada ml de volumen sedimentado. Se realizaron conteos hasta alcanzar 400 células del morfotipo más abundante para asegurar un límite de confiabilidad de 0.95.
+
+Para las muestras de zooplancton se realizaron filtraciones de  25 Lt, 50Lt, 100Lt, 200Lt y 120Lt para cada una de las estaciones a través de una red de plancton de 55 μm. El volumen final filtrado se fijó con solución transeau 6:3:1. Para la estimación de la densidad, se midió el volumen final de la muestra colectada con el fin de determinar el número de individuos/ml, se tomó una alicuota de un mililitro depositándola en una cámara Sedgwick-Rafter dejando reposar la muestra en la cámara entre 10 y 30 minutos, se realizaron conteos de 300 individuos del taxa más común para las muestra de gran abundancia, en caso que la muestra presentara un bajo conteo de individuos se realizaron transeptos hasta obtener una estandarización de los individuos observados.
+
+La caracterización de la comunidad perifítica se realizó en las estaciones CV2S, CV3S y CV4S correspondientes también a los puntos de monitoreo para la comunidad planctónica y la estación CV1 Est 20mt asociada con la comunidad de macroinvertebrados acuáticos, con el fin de implementar un análisis de cadenas tróficas manteniendo el esquema de distribución en gradiente de salinidad y vegetación; se caracterizó a través del raspado de sustratos adecuados para encontrar dicha comunidad, realizando raspados en áreas 3 x 5 cm en 10 repeticiones de sustratos duros y estables como rocas o vegetación. Para cada estación de muestreo se realizaron raspados de un área aproximada de 150 cm2, generando finamente una muestra compuesta fijada con solución transeau en concentración 6:3:1. En el laboratorio se hicieron diluciones de las muestras con un volumen total de 2 ml, realizando conteos hasta alcanzar 100 células del morfotipo más abundante para asegurar un límite de confiabilidad de 0,95.
+
+Las muestras de macroinvertebrados acuáticos fueron colectadas teniendo en cuenta la asociación a sustratos, vegetación, raíces y playones, con el fin de generar mayor información sobre la distribución de estos organismos como indicadores de límites en humedales; las muestras se tomaron a través de una red de mano tipo D-frame de 30cm de base y un área de 0,803m2 con una apertura de ojo de malla de 300 μm (tamiz estándar N.60) (APHA AWWA WPCF, 1985), recolectando individuos asociados a bentos, playones, vegetación acuática y neuston realizando lavados manuales de las mismas a contracorriente. Adicionalmente, se hicieron muestreos de sustrato por medio de una red Thienneman. Las capturas se realizaron en cada punto hasta no observar nuevas familias cada vez que se sumergía la red, obteniendo así un muestreo de componentes máximos. 
+
+Las muestras fueron fijadas con etanol al 70% y tamizadas a través de tamices graduados de 4, 2.8, 1.7 y 1 mm y 250 μm para su separación y observación en el laboratorio.Para la identificación de los individuos se utilizó un estereoscopio. Posterior a la identificación y caracterización de la comunidad de macroinvertebrados se realizaron modelos 3D para complementar y realzar los perfiles realizados.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Caracterización de vegetación acuática y terrestre
+La caracterización de esta comunidad se basó la metodología propuesta por que se fundamentan en la estructura vertical y horizontal de los componentes del bosque a través del levantamiento de datos de densidad, altura y DAP. Conocer los componentes del bosque lleva a la generación de análisis de la riqueza y diversidad (cuando se incluye información por ejemplo de la densidad), la cual puede estar referida a una región geográficamente definida o a una superficie delimitada denominada transecto.
+La metodología del transecto fue en la cual en un área específica se toma medidas de densidad, altura y DAP, hace referencia a las simorfias, donde pueden distinguirse los estratos o partes de la comunidad con cierto rango de dominancia, según los enunciados de la fitosociología. Por su fundamentación teórica y sencillez esta metodología ha sido ampliamente usada, sin embargo, para este trabajo se optó por el Método de los Cuadrantes Centrados en un Punto (PCQM) para caracterizar comunidades boscosas adaptado por Rudas.
+Este método es uno de los más usados dentro de aquellos basados en la distancia como fuente para determinar la densidad de especies en comunidades de plantas en ambientes boscosos. Con este método se obtiene la menor variabilidad en los resultados para la determinación de las distancias, proporciona más datos por punto de muestreo, es el menos susceptible a la parcialidad subjetiva y proporciona la estimación más exacta de la densidad, por lo cual se apreció como acertada para determinar en el gradiente agua-tierra y la variación dominancia a medida que se pasa del ambiente acuático al de tierra firme.
+Los sitios en los cuales se realizaron los levantamientos o censos de la vegetación se seleccionaron con base en la homogeneidad fisionómica, procurando no incluir partes con marcados rastros de intervención humana. Se realizaron un total de 12 levantamientos con una superficie de muestreo de 0,1 ha, por lo que se obtuvo un área total de muestreo de 1,2 ha, realizando un trazado de una franja perpendicular al espejo de agua, siguiendo un gradiente ambiental agua-tierra. Se tomaron muestras botánicas (por triplicado) de las plantas no identificadas en campo para su identificación taxonómica y se depositaron en el herbario Nacional de Colombia (COL), siguiendo los estándares de recolecta del mismo.
+Además de los anteriores, se elaboraron perfiles de la vegetación los cuales son muy útiles para entender la estructura de la vegetación y determinar la distribución
+31
+de las especies desde el espejo de agua hacia la zona de tierra firme, por lo cual la línea de corte o línea guía siguió dicho gradiente agua-tierra. Para complementar y realzar las ilustraciones se llevó un registro fotográfico de los perfiles realizados, con los cuales se construyeron los modelos 3D de dichos perfiles.
+Adicional a los datos fisionómicos (densidad, altura y DAP), se identificaron áreas de interés y hábitats para las plantas, amenazas a la vegetación (antrópicas y naturales), usos por parte de las comunidades, especies introducidas, endémicas o en categorías de amenaza y demás información pertinente para la zonación de las comunidades vegetales y establecimiento de límites del humedal.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio fue en las tres ventanas piloto: Ciénaga de la Virgen (Bólivar),  Ciénaga Zapatosa (Cesar y Magdalena) y  Paz de Ariporo - Hato Corozal (Casanare). 
+
+La Ciénaga de la Virgen está definida por el límite de la ciénaga y se encuentra a los 10°26&apos;37.82&quot;N y 75°29&apos;24.14&quot;O como centroide de la ventana de estudio y tiene una superficie de 3.131,94 ha, con profundidad máxima de 1.5 m. Este humedal costero, se caracteriza por su forma triangular, con una anchura máxima de 4,5 Km, una longitud de 7 Km aproximadamente y un espejo de agua de 2250 ha. 
+
+La Cíenaga Zapatosa, tiene una superficie de 244.012,24 Ha y se encuentra ubicado entre tres departamentos (Bolívar, Magdalena y Cesar) a estos les corresponden nueve municipios distribuidos en los mismos, que son Hatillo de Loba, el Peñón y San Martin de Loba en el departamento de Bolívar; El Banco en el departamento de Magdalena; Chiriguaná, Chimichagua, Curumaní, Pailitas y Tamalameque en el Departamento del Cesar, La ventana localizada a los 9° 7&apos;58.44&quot;N y 73°49&apos;4.91&quot;O, como centro de la ventana de estudio; el sistema Cenagoso de Zapatosa comprende parte el sistema fluvial de los ríos Magdalena y el delta interior del río Cesar.
+
+La ventana de estudio del complejo de humedales de Paz de Ariporo-Hato Corozal fue la que mayor esfuerzo de muestreo tubo y se encuentra ubicada dentro de la llanura aluvial inundable del departamento del Casanare, haciendo parte de la macrocuenca hidrográfica del río Casanare. Tiene una superficie total de 136.456,057 ha, comprendiendo los municipios de Hato Corozal (86,18%) y Paz de Ariporo (13,82%).  El área de muestreo definida para el levantamiento de información primaria cubrió 20.766,53 ha, desde el río Chire hasta el río Ariporo, abarcando parte de las veredas Santa María del Chire, Matapalito y La Chapa; cuenta con un gran número de humedales observables, que debido a la dinámica de precipitaciones y de desborde del drenaje, varían en extensión</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>PAZ DE ARIPORO - HATO COROZAL
+Para la clasificación de humedales en la Orinoquia, se estudiaron en los principales tipos de humedales naturales como caños, cañadas, bosques de rebalse, matorrales inundables y cuerpos lénticos como esteros, lagunas de rebalse, bajos y madreviejas, la composición, estructura y uso del hábitat de los grupos biológicos asociados tanto a los cuerpos de aguas como en las zonas transicionales acuático terrestres.   Durante las estaciones hidroclimáticas de transición de aguas altas a bajas  (noviembre de 2014) y e aguas bajas a altas (febrero de 2015), se realizó un muestreo en 29 estaciones para la caracterización de las comunidades hidrobiológicas, macroinvertebrados, ictiofauna, plantas acuáticas, anfibios, plantas terrestres, reptiles, aves y mamíferos. Los ejemplares colectados fueron preparados de acuerdo a los protocolos de preparación para el ingreso a colecciones biológicas.
+
+CIÉNAGA DE LA VIRGEN Y CIÉNAGA ZAPATOSA
+Se realizó la caracterización física, limnológica (fisicoquímica, plancton, perifiton y macroinvertebrados) y de vegetación acuática y terrestre en los humedales durante el periodo hidroclimático seco.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los nombres científicos fueron validados con el Catálogo de la Vida y la herramienta i-Plant.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Fondo Adaptación_Insumos para la Delimitación de Ecosistemas Estratégicos: Páramos y Humedales</title>
+          <personnel>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Lasso</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenio 13-014 entre el Fondo de Adaptación y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Para este recurso, contrato No. 14-13-014-237PS.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Ecosistemas de páramos y humedales de Colombia</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Elaborar los insumos técnicos y una recomendación para la delimitación por parte del Ministerio de los ecosistemas estratégicos priorizados (páramos y humedales) como una estrategia indispensable que conlleve a la implementación de acciones de recuperación, rehabilitación y protección en zonas prioritarias para la regulación y la recarga hídrica, que contribuyan a prevenir y mitigar inundaciones, deslizamientos y avalanchas en territorios afectados, a través de la aplicación de criterios biológicos y ecológicos para la identificación, caracterización y establecimiento de límites de los humedales en tres ventanas piloto: Ciénaga de La Vírgen, Ciénaga de Zapatosa y Complejo de humedales de Paz de Ariporo- Hato Corozal.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/vcak6r">Trujillo F, Velásquez Niño J (2019). Caracterización de fauna y flora para el establecimiento de límites funcionales de humedales en tres ventanas piloto: Ciénaga de la Virgen,  Ciénaga Zapatosa y  Complejo de humedales Paz de Ariporo - Hato Corozal. Version 5.3. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/vcak6r accessed via GBIF.org on 2020-04-22.</citation>
+              <physical>
+                  <objectName>Caracterización de fauna y flora para el establecimiento de límites funcionales de humedales en tres ventanas piloto: Ciénaga de la Virgen, Ciénaga Zapatosa y Complejo de humedales Paz de Ariporo - Hato Corozal</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=rrbb_humedal_faunaflora_2015</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>CZUT-Ic, CZUT-Ma, FMB, IAvH-A, IAvH-Am, IAvH-I, IAvH-P, IAvH-R</collectionIdentifier>
+                <collectionName>Colecciones del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Herbario Federico Meden Bogotá, Colección Zoológica de la Universidad del Tolima</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

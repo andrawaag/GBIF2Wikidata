@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="53725322-b5f3-412f-87e6-5a1b4a36a702"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/v0phem</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=sanpedro_aves_2014</alternateIdentifier>
+        <alternateIdentifier>10.15468/bkl1il</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=sanpedro_aves_2014</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=sanpedro_aves_2014</alternateIdentifier>
+        <alternateIdentifier>53725322-b5f3-412f-87e6-5a1b4a36a702</alternateIdentifier>
+    <title>Caracterización de avifauna de la subcuenca del Río San Pedro, San Pedro, Valle del Cauca</title>
+    <creator>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Andrea</givenName>          <surName>Morales Rozo</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Investigadora-Ornitóloga</positionName>    <address>
+<deliveryPoint>Cr 82 No. 45C-50 Apto 502</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116344034</phone><electronicMailAddress>andreamoralesrozo1@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Caycedo Rosales</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora Asociada</positionName>    <address>
+<deliveryPoint>Calle 28A # 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>pcaicedo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co/investigacion/centro-de-analisis-y-sintesis/laboratorio-2</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Montoya Arango</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Asistente de Investigación</positionName>    <address>
+<deliveryPoint>Calle 67 No. 53 - 108</deliveryPoint><city>Medellín</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3046162530</phone><electronicMailAddress>sergioama123@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Fabio</givenName>          <surName>Lozano</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName><positionName>Coordinador del proyecto</positionName>    <address>
+<deliveryPoint>Calle 34 A No. 13 -42</deliveryPoint><city>Palmira</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3182618970</phone><electronicMailAddress>fabiohlozano@yahoo.com</electronicMailAddress><onlineUrl>http://www.paisajesrurales.com/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+      <pubDate>
+      2019-06-27
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>En Colombia la transformación y fragmentación del hábitat natural de la región Andina ha sido acelerada y es una las principales amenazas a la diversidad biológica. En la Cordillera Central se ha perdido probablemente más de 90% de la cobertura de bosque subandino continuo (Cavelier &amp;amp; Etter 1995). Los paisaje rurales son un mosaico de zonas productivas y fragmentos de bosque, que se han convertido en la única alternativa de conservación de un gran número de especies y de ecosistemas que ya no se encuentran debido a la transformación de los mismos (Lozano et al. 2009).
+
+En el marco del contrato No. 13-13-166-295PS (Corporación Autónoma Regional del Valle del Cauca CVC y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt), entre el 6 y 17 de Diciembre del 2013 se realizó la caracterización de avifauna de la subcuenca del Río San Pedro, municipio San Pedro, entre los corregimientos de Buenos Aires, Pocitos y Los Chancos, Valle del Cauca, como insumo para la identificación de oportunidades de conservación en una ventana de paisaje rural de 2703 Ha, priorizada por la Corporación Autónoma Regional del Valle del Cauca CVC en el marco del convenio con el Instituto Alexander von Humboldt - IAvH. Se seleccionaron cinco elementos del paisaje en un gradiente altitudinal desde los 1000 y 2100 m: cuatro bosques secundarios, cinco bosques riparios, tres parches de sucesión vegetal avanzada, cuatro mosaicos de potreros-cultivos y cuatro potreros arbolados. 
+
+En 40 puntos de conteo establecidos en cada elemento del paisaje, se realizaron dos repeticiones para un total de 80 muestras y 1390 registros. Observamos 156 especies de aves, de las cuales incluimos en el análisis 127 (997 individuos registrados dentro de los puntos) pertenecientes a 37 familias, de estas 10 especies son migratorias boreales es decir que vienen migrando desde Canadá y Estados Unidos . Encontramos: 3 especies endémicas o de rango restringido la Guacharaca (Ortalis columbiana), la Perdiz colorada (Odonthophorus hyperythrus), y el Toche enjalmado (Ramphocelus flammigerus). En la categoría de especies casi endémicas (Stiles 1998), encontramos la Amazilia andina (Amazilia franciae), el Batará carcajada (Thamnophilus multistriatus) y la Tangará rastrojera (Tangara vitriolina). Se registró una especie con alguna categoría de amenaza UICN, casi amenazada (NT): O. hyperythrus (BirdLife International 2013). De las 127 especies, el 51.96% de las especies registradas, presentan una vulnerabilidad baja; y 10.24% de las especies presentan una vulnerabilidad alta (13 son vulnerables).</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Valle del Cauca</keyword>
+              <keyword>occurrence</keyword>
+              <keyword>paisaje rural</keyword>
+              <keyword>conservación</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>conservation</keyword>
+              <keyword>observation</keyword>
+              <keyword>birds</keyword>
+              <keyword>rural landscape</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado al recurso, se incorporó dentro de la Infraestructura Institucional de Datos, el informe final del proyecto.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=sanpedro_aves_2014</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Corporación Paisajes Rurales con el apoyo del Laboratorio de Biogeografía Aplicada y Bioacústica y la Colección de Sonidos del Instituto Humboldt, en asocio con la CVC, seleccionaron un paisaje rural de 2703 Ha, ubicado en un gradiente altitudinal desde los 1000 y 2100 m de la cuenca del Río San Pedro, municipio San Pedro, entre los corregimientos de Buenos Aires, Pocitos y Los Chancos, en el Valle del Cauca. La cuenca del río San Pedro es afluente del río Cauca y se encuentra ubicada en la vertiente occidental de la cordillera Central. La zona ha sido clasificada como bosque tropical húmedo, con periodos de lluvia de marzo a junio y de septiembre a diciembre y una precipitación anual entre los 1000 y 1800 mm.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.57</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.04</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.1</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.61</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-12-06
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-12-17
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se realizaron 20 horas netas de observación, en los 40 puntos de conteo establecidos, cada punto con dos repeticiones para un total de 80 muestras y 1390 registros, de los cuales 920 fueron dentro de los puntos y 470 fuera del radio de los puntos. Observamos 156 especies de aves, pertenecientes a 42 familias:
+Thraupidae (21), Tyrannidae (19), Trochilidae (11), Furnariidae (9), Parulidae (9), Picidae (7), Turdidae (6,) Columbidae (5), Troglodytidae (5), Accipitridae (4), Fringillidae (4), Hirundinidae (4), Psittacidae (4), Thamnophilidae (4), Cuculidae (3), Emberizidae (3), Falconidae (3), Vireonidae (3), Caprimulgidae (2), Cardenalidae (2), Cathartidae (2), Grallaridae (2), Icteridae (2), Odonthophoridae (2), Thresquiornitidae (2), Apodidae (1), Ardeidae (1), Bucconidae (1), Capitonidae (1), Charadriidae (1), Corvidae (1), Cotingidae (1), Cracidae (1), Jacananidae (1), Momotidae (1), Phalacrocoracidae  (1), Ramphastidae (1), Rhynocryptidae (1), Tinamidae (1), Trogonidae (1), Tytiridae (1).
+
+De los 1390 registros 122 solo se pudieron identificar hasta orden, familia o género. En el resto de los registros todas las aves encontradas en los elementos del paisaje caracterizados, se identificaron hasta especie, utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2014).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyrpturellus soui</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colinus cristatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Odontophorus hyperythrus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ortalis columbiana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phimosus infuscatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Theristicus caudatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteo albonotatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteo platypterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Parabuteo leucorrhous</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rupornis magnirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caracara cheriway</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Falco femoralis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Columbina talpacoti</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptotila verreauxi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas fasciata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zenaida auriculata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bolborhynchus lineola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Forpus conspicillatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pionus menstruus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psittacara wagleri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga ani</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piaya cayanna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tapera naevia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caprimulgus logirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctidromus albicollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Streptoprogne zonaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aglaiocercus kingi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia franciae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia saucerrottei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia tzacatl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anthracotorax nigricollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Boissonneaua flavescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haplophaedia aureliae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Heliomaster longirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ocreatus underwoodii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaethornis guy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaethornis syrmatophorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trogon collaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Momotus aequatorialis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Malacoptila mystacalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eubocco bourcieri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aulacorhynchus haematopygus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colaptes puntigula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colaptes rivolli</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colaptes rubiginosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dryocopus lineatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Melanerpes formicivorus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Melanerpes rubricapillus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Picumnus olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anabacerthia striaticollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cranioleuca erythrops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lepidocolaptes lacrymiger</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Premnoplex brunnescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Synallaxis albescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Synallaxis azarae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Synallaxis brachyura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xenops minutus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xyphorhynchus susurrans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cercomacra nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dysithamnus mentalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Taraba major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thamnophilus multistriatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Grallaria guatimalensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Grallaria ruficapilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scytalopus atratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Camptostoma obsoletum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Empidonax virescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Legatus leucophaius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lophotriccus pileatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiarchus cephalotes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiodinates maculatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiozetetes cayennensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiozetetes similis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phyllomias plumbeiceps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phylloscartes poecilotis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Poecilotriccus sylvia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pyrocephalus rubinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sayornis nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Todirostrum cinereum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tolmomyias sulphurescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus melancholicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zimmerius chrysops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pipreola riefferii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pachyrhampus rufus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyclarhis gujanensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hylophilus semibrunneus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vireo olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyanocorax yncas</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hirundo rustica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Progne chalybea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pygochelidon cyanoleuca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Stelgidopterix ruficollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Henicorhina leucophrys</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Henicorhina leucosticta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Microcerculus marginatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pheugopedius mystacalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Troglodytes aedon</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus aurantiirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus minimus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Catharus ustulatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiadestes ralloides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Turdus fuscater</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Turdus ignobilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anisognathus somptuosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chlorophanes spiza</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chlorospingus canigularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coereba flaveola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Diglossa sittoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphocelus dimidiatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphocelus flammigerus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sicalis flaveola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporophila minuta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporophila nigricollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporophila schistacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara arthus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara cyanicollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara gyrola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara heinei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara vitriolina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tangara xanthocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tiaris olivaceus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Volatinia jacarina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saltator atripennis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saltator maximus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saltator striatipectus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Arremon bruneinucha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Atlapetes albinnucha</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zonotrichia capensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phecticus ludovicianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piranga rubra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Basileuterus trsitriatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cardelina canadensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Geothlypis philadelphia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leiothlypis peregrina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mnioltilta varia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myioborus miniatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiothlypis  fulvicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga fusca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga pitiayumy</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Icterus chrysater</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Molothrus bonariensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Astragalinus psaltria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Euphonia laniirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Euphonia xanthogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sporagra xanthogastra</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Identificar y diseñar estrategias de conservación y restauración a escala de cuenca 1:100.000 y una ventana a escala 1:5000, que oriente la priorización de las intervenciones a escala local, para la implementación de las Herramientas de Manejo del Paisaje en diecisiete (17) cuencas del Valle del Cauca identificadas por el Instituto Humboldt y ajustar el Plan de Acción en Biodiversidad de la CVC.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Wilson</givenName>          <surName>Ramirez</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Interventor del proyecto</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>wramirez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Trabajo de campo: Se seleccionaron cinco elementos del paisaje, distribuidas de la siguiente manera: cuatro bosques secundarios entre 1800 y 2113 m, con diferentes estados de conservación en su estructura y composición florística, con árboles mayores de 15 m y un DAP mayor a 20cm. Cinco bosques riparios entre 1093 y 2054 m, con bosques al lado del cuerpo de agua, en la parte alta las cañadas tiene mayor cobertura vegetal y va disminuyendo con la altura, en la parte baja es muy seco, este bosque ripario tiene una extensión de mas o menos 100 m a lado y lado de la cañada. Tres parches de sucesión vegetal avanzada entre 1954 y 2063 m, con hasta 15 años de edad y dominado por árboles pioneros, con DAP de 10 cm, y altura de 13 m de altura, con dominio de Palicurea sp., Miconia lehmannii y Trema micrantra. Cuatro mosaicos de potreros y cultivos entre 1262 y 1840 m, y cuatro potreros arbolados entre 1062 y 1837 m. 
+
+Se establecieron 40 puntos de radio fijo en el paisaje. En cada elemento del paisaje seleccionado para caracterizar, se realizan dos puntos de conteo con radio fijo de 50 m, es decir, se hizo distinción entre las aves que se observan y se escuchan dentro de una circunferencia con radio de 50m o fuera de esta. Esto permite concentrarse en las aves presentes en el elemento que se esté muestreando, debido a que es factible escuchar o ver aves que estén utilizando elementos vecinos. Estos puntos están separados por 150 m. 
+
+El trabajo en campo se realizó entre el 6 y 17 de diciembre del 2013, entre las 6:00 a.m. a 10:00 a.m. En cada punto de conteo se realizan observaciones y grabaciones durante 15 min, por lo tanto, en cada elemento el tiempo de muestreo fue de aproximadamente 45 minutos. Cada punto se repitió durante dos días diferentes.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Trabajo de laboratorio: Previa a la salida de campo se obtuvo una lista potencial de 743 especies de aves según el Sistema de Información en Biodiversidad (SIB) que incluye diferentes bases de datos con registros para el Valle del Cauca. A las grabaciones realizadas en campo se les hicieron sonogramas. Los sonogramas son gráficos del sonido, en este caso, el canto de las aves, en donde se relaciona la frecuencia del sonido con su duración en segundos (Lozano et al 2009). Este trabajo se realizó con el programa de análisis acústico RAVEN v1.4. De esta forma la identificación está apoyada tanto en la imagen como en el sonido.
+
+Para corroborar algunas identificaciones se compararon con los sonogramas de la colección de referencia de xenocanto (http://www.xeno-canto.org/), y de la Guía sonora de las aves de Aves de los Andes (Alvarez et al 2007). Para la determinación taxonómica utilizamos la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2014). Se realizó una colección de referencia de sonidos y sonogramas de 33 archivos con registros por identificar y 117 archivos con sonogramas de referencia para 60 especies de aves.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Análisis de la información: Mediante curvas de acumulación de especies y el uso del estimador ACE (Estimador de cobertura basado en abundancias), evaluamos el porcentaje de representatividad del muestreo (Colwell 2013) a nivel del paisaje y a nivel de elementos del paisaje. Así mismo, teniendo en cuenta que los elementos del paisaje no fueron muestreados con igual esfuerzo de muestreo, se hicieron curvas de rarefacción. Adicional a esto y con base en observaciones de campo y datos bibliográficos (Hilty &amp; Brown 2001) asignamos cada especie registrada a un grupo trófico conductual siguiendo la clasificación de Villareal et al., 2006: semillas (SE), frutas (FR), insectos pequeños (INPE), insectos grandes (INGR), vertebrados pequeños (VERPE), vertebrados grandes (VERGR), carroña (CA), néctar (NE). Determinamos rangos de abundancia para cada especie bajo el criterio de Parker (1991), con algunas modificaciones. La abundancia relativa fue representada utilizando el gráfico de rango-abundancia o curva de Whittaker. 
+
+El uso de índices que buscan estimar patrones de la biodiversidad como riqueza y el grado de similitud en cuanto a la composición de especies entre diferentes elementos del paisaje permite tener una idea del rol de ciertos elementos en el mantenimiento de la biodiversidad.
+En este trabajo medimos I) la riqueza de especies o diversidad alfa, a través del  el índice de Chao (Chao 1984), el cual estima el número absoluto de especies en un ensamble basado en el número de especies raras en una muestra (aquellas que presentan uno o dos individuos en la muestra) y, el índice de Jackknife (Krebs 1989), que emplea el número de especies que ocurren en una sola muestra para calcular el número de especies total en el ensamble. II) la diversidad beta, que es el grado de cambio o reemplazo en la composición de especies entre diferentes elementos del paisaje, utilizamos el índice de Jaccard que mide la proporción de especies compartidas entre comunidades como índice de similitud entre ellas; el índice de Bray-Curtis, mide la diferencia entre las abundancias de cada especie presente. III)  el índice de Whittaker (Whittaker 1972), basado en el número total de especies registradas en un conjunto de muestras (diversidad gama) y el número promedio de especies en las muestras (alfa promedio). Este índice describe la diversidad gamma a partir de la integración de las diversidades beta y alfa. Parece ser muy conveniente y robusto en sus resultados para medir el reemplazo de comunidades (Villareal et al 2006). Todos los índices fueron calculados con el paquete “VEGAN v.1.17-4” y Biodiversity-R para el programa y lenguaje de programación R-CRAN.
+
+La estructura de la comunidad la estimamos a través de índices de heterogeneidad que combinan los componentes riqueza y dominancia de especies: I) índice de equidad de Shannon-Wiener que expresa la uniformidad de los valores de importancia a través de todas las especies de la muestra y mide el grado promedio de incertidumbre en predecir a que especie pertenecerá un individuo escogido al azar de una colección y, II) índice de diversidad de Simpson (Simpson 1949), manifiesta la probabilidad de que dos individuos tomados al azar de una muestra sean de la misma especie; está fuertemente influenciado por la importancia de las especies más dominantes y parte de un valor igual a uno, que indica que no todos los individuos pertenecen a la misma especie. 
+
+No incluimos en los análisis a las especies nocturnas, registros de individuos en vuelo a gran altura, fuera del radio de 50 metros, fuera del muestreo (antes o después de los 15 minutos) y observaciones ad libitum. Y registros tanto visuales como auditivos que requieren revisión para confirmar especie o género.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Oportunidades de conservación: La construcción de la priorización de los elementos del paisaje incluyeron los siguientes criterios: No. de especies de aves, No. de especies endémicas y No. de especies vulnerables en cada replica. Determinamos las especies vulnerables regionalmente, usando el índice de vulnerabilidad sugerido por Kattan (1992). Este índice tiene en cuenta el rango geográfico (amplio o restringido), la especificidad de hábitat (alta o baja) y la abundancia de las especies (abundante o escasa), para determinar un grado de vulnerabilidad a la perturbación. Estos valores van de 1 (muy vulnerable) a 8 (poco vulnerable) y para nosotros las especies que tuvieron valores de 1 fueron consideradas vulnerables regionalmente. Usamos Infonatura (http://www.natureserve.org/infonatura ) para verificar el rango de distribución; Hilty y Brown (2001) para obtener datos del hábitat, y se revisaron datos de estudios anteriores y los datos de este estudio para definir abundancia regional.
+
+Posteriormente definimos el valor de conservación construyendo rangos mediante percentiles, a partir de los datos obtenidos para cada uno de los criterios considerados. Generamos tres rangos (alto, medio y bajo) por cada criterio y les asignamos peso relativo de cinco, tres y uno respectivamente. Al final, el valor conservación para cada elemento era alto (mayor a 10 puntos), medio (entre 6 y 9 puntos) y bajo (menor a 5 puntos).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Se seleccionó un paisaje rural de 2703 Ha, ubicado en un gradiente altitudinal desde los 1000 y 2100 m de la cuenca del río San Pedro , entre los corregimientos de Buenos Aires, Pocitos y Los Chancos, en el Valle del Cauca. La cuenca del río San Pedro es afluente del río Cauca y se encuentra ubicada en la vertiente occidental de la cordillera Central. La zona ha sido clasificada como bosque tropical húmedo, con periodos de lluvia de marzo a junio y de septiembre a diciembre y una precipitación anual entre los 1000 y 1800 mm</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Se seleccionaron cinco elementos del paisaje, distribuidas de la siguiente manera: cuatro bosques secundarios entre 1800 y 2113 m, con diferentes estados de conservación en su estructura y composición florística, con árboles mayores de 15 m y un DAP mayor a 20cm. Cinco bosques riparios entre 1093 y 2054 m, con bosques al lado del cuerpo de agua, en la parte alta las cañadas tiene mayor cobertura vegetal y va disminuyendo con la altura, en la parte baja es muy seco, este bosque ripario tiene una extensión de mas o menos 100 m a lado y lado de la cañada. Tres parches de sucesión vegetal avanzada entre 1954 y 2063 m, con hasta 15 años de edad y dominado por árboles pioneros, con DAP de 10 cm, y altura de 13 m de altura, con dominio de Palicurea sp., Miconia lehmannii y Trema micrantra. Cuatro mosaicos de potreros y cultivos entre 1262 y 1840 m, y cuatro potreros arbolados entre 1062 y 1837 m. 
+
+Se establecieron 40 puntos de radio fijo en el paisaje. En cada elemento del paisaje seleccionado para caracterizar, se realizan dos puntos de conteo con radio fijo de 50 m, es decir, se hizo distinción entre las aves que se observan y se escuchan dentro de una circunferencia con radio de 50m o fuera de esta. Esto permite concentrarse en las aves presentes en el elemento que se esté muestreando, debido a que es factible escuchar o ver aves que estén utilizando elementos vecinos. Estos puntos están separados por 150 m. 
+
+El trabajo en campo se realizó entre el 6 y 17 de diciembre del 2013, entre las 6:00 a.m. a 10:00 a.m. En cada punto de conteo se realizan observaciones y grabaciones durante 15 min, por lo tanto, en cada elemento el tiempo de muestreo fue de aproximadamente 45 minutos. Cada punto se repitió durante dos días diferentes.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los datos de observaciones, y grabaciones fueron revisados por ornitólogos expertos, teniendo en cuenta listados previos para el lugar y cantos de referencia, logrando identificar el 90% de los registros a nievel de especie, según la clasificación de aves de Suramérica de American Ornithologists&apos; Union, SACC, que es el listado más actualizado en el momento (Remsen et al. 2014)</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Identificación de oportunidades de conservación en una ventana de paisaje rural priorizada por la Corporación Autónoma Regional del Valle del Cauca CVC en el marco del convenio con el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</title>
+          <personnel>
+    <individualName>
+<givenName>Fabio</givenName>          <surName>Lozano</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Corporación Autónoma Regional del Valle del Cauca CVC y el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Contrato No. 13-13-166-295PS.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La Corporación Paisajes Rurales con el apoyo del Laboratorio de Biogeografía Aplicada y Bioacústica y la Colección de Sonidos del Instituto Humboldt, en asocio con la CVC, seleccionaron un paisaje rural de 2703 Ha, ubicado en un gradiente altitudinal desde los 1000 y 2100 m de la cuenca del río San Pedro, entre los corregimientos de Buenos Aires, Pocitos y Los Chancos, en el Valle del Cauca. La cuenca del río San Pedro es afluente del río Cauca y se encuentra ubicada en la vertiente occidental de la cordillera Central. La zona ha sido clasificada como bosque tropical húmedo, con periodos de lluvia de marzo a junio y de septiembre a diciembre y una precipitación anual entre los 1000 y 1800 mm.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Se realizó la caracterización de la avifauna de la subcuenca del Río San Pedro, como insumo para la identificación de oportunidades de conservación, a través del índice de valor de conservación que usa criterios biológicos como diversidad, endemismo y vulnerabilidad (Lozano et al., 2009), con el fin de generar una priorización que de los elementos del paisaje con el mayor número de especies de interés para la conservación y de esta manera enfocar sobre estos elementos las herramientas de manejo del paisaje, en una ventana de paisaje rural priorizada por la Corporación Autónoma Regional del Valle del Cauca CVC en el marco del convenio con el Instituto Alexander von Humboldt - IAvH.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:50Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/v0phem">Morales Rozo A (2019). Caracterización de avifauna de la subcuenca del Río San Pedro, San Pedro, Valle del Cauca. Version 9.3. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/v0phem accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Alvarez M., V.Caro, O. Laverde, y A.M. Cuervo. 2007. Guía Sonora de las Aves de las aves de los Andes colombianos/ A Guide to the Bird Sounds of the Colombian Andes. Instituto Humboldt and Cornell lab of Ornithology. 7 CDs.</citation>
+      <citation>Cavelier, J. y A. Etter. 1995. Deforestation of montane forests in Colombia as a result of ilegal plantations of Opium (Papaver somniferum). Pp. 541-550. En: Biodiversity and conservation of Neotropical montane forests. S. Churchil, H. Balslev, E. Forero, y J. Luteyn (Eds.), The New York Botanical Garden, NY, U.S.A.</citation>
+      <citation>Chao, A. 1984. &quot;Nonparametric estimation of the number of classes in a population.&quot; Scandinavian Journal of Statistics: 265-270.</citation>
+      <citation>Colwell, R. K. 2013. EstimateS: Statistical estimation of species richness and shared spacies from samples. Version 7.5. Persistent URL &lt;purl.oclc.org/estimates&gt;.</citation>
+      <citation>Kattan, G. H. 1992. Rarity and Vulnerability: The Birds of the Cordillera Central of Colombia. Conservation Biology, 6: 64–70. doi: 10.1046/j.1523-1739.1992.610064.x</citation>
+      <citation>Krebs, C. 1989. &quot;Ecological methods.&quot; Ecological methods.</citation>
+      <citation>Hilty, S. y W. Brown. 2001. A Guide to the Birds of Colombia. Princeton University Press&apos;s.</citation>
+      <citation>Lozano-Zambrano, F. H. (ed). 2009. Herramientas de manejo para la conservación de biodiversidad en paisajes rurales. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Corporación Autónoma Regional de Cundinamarca (CAR). Bogotá, D. C., Colombia. 238 p.</citation>
+      <citation>Remsen, J. V., Jr., C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Pérez-Emán, M. B. Robbins, F. G. Stiles, D. F. Stotz, y K. J. Zimmer. Version 14 Ene 2014. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen.</citation>
+      <citation>Stiles, F.G. 1998. Aves endémicas de Colombia. Pp 378-385, 428-432. En: Informe Nacional sobre el estado de la Biodiversidad en Colombia (Vol I) M.E. Chaves y N. Arango (Eds.) Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, PNUMA, Ministerio de Medio Ambiente. Bogotá.</citation>
+      <citation>Villarreal H., M. Álvarez, S. Córdoba, F. Escobar, G Fagua, F Gast, H. Mendoza, M. Ospina y A.M. Umaña. Segunda edición. 2006. Manual de médodos para el desarrollo de inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p.</citation>
+      <citation>Whittaker, R. H. 1972. &quot;Evolution and measurement of species diversity.&quot; Taxon: 213-251.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Caracterización de avifauna de la subcuenca del Río San Pedro, San Pedro, Valle del Cauca</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=sanpedro_aves_2014</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

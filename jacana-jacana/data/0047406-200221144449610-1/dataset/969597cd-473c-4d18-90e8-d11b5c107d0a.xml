@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="969597cd-473c-4d18-90e8-d11b5c107d0a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/yguqxm</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=cvc-003</alternateIdentifier>
+        <alternateIdentifier>10.15468/xyhnz4</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=cvc-003</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=cvc-003</alternateIdentifier>
+        <alternateIdentifier>969597cd-473c-4d18-90e8-d11b5c107d0a</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/valle/resource.do?r=cvc-003</alternateIdentifier>
+    <title>Fauna y flora asociada a 18 humedales del valle geográfico del río Cauca</title>
+    <creator>
+    <individualName>
+<givenName>Stella</givenName>          <surName>Sarria Salas</surName>
+    </individualName>
+<organizationName>Corporación Autónoma Regional del Valle del Cauca</organizationName><positionName>Bióloga-Contratista</positionName>    <address>
+<deliveryPoint>Carrera 56 No. 11-36 / Carrera 57  No. 11 –29</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+<phone>(57) 2-3181700 Ext. 1313</phone><electronicMailAddress>sarriastella@yahoo.es</electronicMailAddress><onlineUrl>http://www.cvc.gov.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Martha Cecilia</givenName>          <surName>Salazar Marín</surName>
+    </individualName>
+<organizationName>Corporación Autónoma Regional del Valle del Cauca</organizationName><positionName>Profesional Universitario</positionName>    <address>
+<deliveryPoint>Carrera 56 No. 11-36 / Carrera 57  No. 11 –29</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+<phone>(57) 2-3181700 Ext. 1313</phone><electronicMailAddress>martha-cecilia.salazar@cvc.gov.co</electronicMailAddress><onlineUrl>http://www.cvc.gov.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Hernández</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre anfibios y reptiles. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mario Fernando</givenName>          <surName>Garcés</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre anfibios y reptiles. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>María Juliana</givenName>          <surName>Bedoya Durán</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre aves y mamíferos. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Néstor Fabián</givenName>          <surName>Ospina Reina</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre aves y mamíferos.  Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Gian Carlos</givenName>          <surName>Sánchez Garcés</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre peces dulceacuícolas. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ximena</givenName>          <surName>Moreno Gutiérrez</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos sobre peces dulceacuícolas. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carmen Eugenia</givenName>          <surName>Benavidez S.</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Proveedor de datos componente flora. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John Alexander</givenName>          <surName>Posso Osorio</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Director General. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jefferson</givenName>          <surName>Martínez</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Asesor Técnico. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Becerra Acevedo</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Director Técnico. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Edwar Andrés</givenName>          <surName>Forero Ortíz</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Director Ambiental/Hidráulica. Diagramación y Edición. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Leandro</givenName>          <surName>Díaz</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Cartografía/SIG. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Marcela</givenName>          <surName>Peña Martínez</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Geología/Zonificación. Convenio 043-2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Milton Armando</givenName>          <surName>Reyes Gutiérrez</surName>
+    </individualName>
+<organizationName>Corporación Autónoma Regional del Valle del Cauca.  CVC</organizationName><positionName>Supervisor del Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+<electronicMailAddress>milton-armando.reyes@cvc.gov.co</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Giovany</givenName>          <surName>Bernal</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Ing. Agr. Hidroclimatología. Convenio  043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Jairo</givenName>          <surName>Rosero Narváez</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Ing. Agr. Cartografía. Convenio  043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Paola Andrea</givenName>          <surName>Tabarquino</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Ing. Topógrafa. Convenio  043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Alexandro</givenName>          <surName>Banda</surName>
+    </individualName>
+<organizationName>Fundación Agua y Paz</organizationName><positionName>Geógrafo. Cartografía. Convenio  043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Oikos</surName>
+    </individualName>
+<organizationName>Fundación Oikos</organizationName><positionName>Caracterización componente Biótico humedales El Avispal, Cocal, Guinea, Chiquique, Gota&apos;e Leche, Guarinó, Timbique y Videles. Convenio  043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<deliveryPoint>Carrera 65 No. 10-38</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>fundacion-oikos@colombia.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Ecoética</surName>
+    </individualName>
+<organizationName>Fundación Ecoética</organizationName><positionName>Caracterización componente social humedales Guinea y Gota&apos;e Leche. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Corporación Palenque 5</surName>
+    </individualName>
+<organizationName>Corporación Palenque 5</organizationName><positionName>Caracterización componente social humedal Guarinó. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Jamundí</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Escuela Ciudadana</surName>
+    </individualName>
+<organizationName>Fundación Escuela Ciudadana</organizationName><positionName>Caracterización componente social humedal Chiquique. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Funecorobles</surName>
+    </individualName>
+<organizationName>Fundación Funecorobles</organizationName><positionName>Caracterización componente social humedal El Avispal. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<city>Jamundí</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>funecorobles@hotmail.es</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Caósmosis</surName>
+    </individualName>
+<organizationName>Fundación Caósmosis</organizationName><positionName>Caracterización componente social humedal Timbique. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<deliveryPoint>Valle del Cauca</deliveryPoint><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Fundación Coragua</surName>
+    </individualName>
+<organizationName>Fundación Coragua</organizationName><positionName>Caracterización componente social humedal Videles. Convenio 043 de 2010 CVC-Fundación Agua y Paz</positionName>    <address>
+<administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-06-04
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Este recurso contiene 2075 registros biológicos asociados a 18 humedales del complejo hídrico del río Cauca, los cuales se encuentran localizados principalmente en 11 municipios del departamento del Valle del Cauca.  
+
+Los mencionados registros corresponden a los datos de flora y fauna (Mamíferos, aves, reptiles y anfibios) y son resultado del convenio 043 de 2010, suscrito entre la CVC y la Fundación &amp;#34;Agua y Paz&amp;#34;.  Como parte del proceso de depuración de los datos, se encontró que del total de registros, 1779 corresponden al componente fauna y 926 al componente flora.   En el mismo sentido, comprenden un total de 389 especies distribuidas en 141 familias y 309 géneros. A la vez, de los 309 géneros, 259 cuentan con identificación a nivel de especie. 
+
+Lo humedales incluidos en el convenio 043-2010 son: Avispal, Guarinó y Guinea en el municipio de Jamundí; Bocas de Tuluá en el municipio de Tuluá; Carambola en el municipio de Vijes; Cementerio y San Antonio en el municipio de Bugalagrande; Chiquique, Cocal y Gota&amp;#39;e Leche en el municipio de Yotoco; Conchal y La Trozada en el municipio de Buga; Ricaute o La Herradura en el municipio de Bolívar; Higuerón y Platanares en el municipio de Yumbo; Madrigal en el municipio de Riofrío; Timbique en el municipio de Palmira y Videles en el municipio de Guacarí.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>Fauna</keyword>
+              <keyword>Flora</keyword>
+              <keyword>valle geográfico</keyword>
+              <keyword>Valle del Cauca</keyword>
+              <keyword>Río Cauca</keyword>
+              <keyword>humedales</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El Departamento del Valle del Cauca está localizado al sur-occidente de Colombia, entre las cordilleras Occidental y Central ocupando 42 municipios, ubicados en su mayor parte en la región Andina, aunque también se tiene una porción del territorio en la región Pacífico.  Los humedales producto de la dinámica del sistema hídrico del río Cauca, se sitúan en la parte plana de 11 municipios de este departamento, en el denominado valle geográfico del río Cauca.  El conjunto de datos de este recurso corresponde a 18 de los 72 humedales del sistema corredor río Cauca, identificados en la jurisdicción de la CVC.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.589</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.161</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.307</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.113</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2009-05-04
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2011-10-24
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El componente flora está compuesto por 121 especies de plantas distribuidas en tres clases (Liliopsida, Magnoliopsida y Polypodiopsida), 27 órdenes y 48 familias. Los órdenes son Apiales, Alismatales, Arecales, Asterales, Boraginales, Capparales, Caryophyllales, Commelinales, Fabales, Gentianales, Lamiales, Laurales, Magnoliales, Malpighiales, Malvales, Myrtales, Nymphaeales, Pandanales, Piperales, Poales, Polygonales, Rosales, Salviniales, Sapindales, Solanales, Vitales, Zingiberales.  La organización  de los taxa se presenta a nivel de familias.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alismataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anacardiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apocynaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Araceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Arecaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Asteraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bignoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bromeliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cactaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Capparaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caricaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Convolvulaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyclanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fabaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Heliconiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lauraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malvaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Marantaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Meliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Moraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Muntingiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Musaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrtaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nymphaeaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Onagraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phyllanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Piperaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polygonaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pontederiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rutaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salicaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Salviniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapindaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Solanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Typhaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Verbenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vitaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El componente fauna está conformado por las clases Mammalia, Aves, Reptilia, Amphibia y Actinopterygii (Peces dulceacuícolas), cuya cobertura taxonómica se presenta por familia dentro de cada clase.
+
+La clase Mammalia, para este conjunto de datos está conformada por 36 especies distribuidas en 6 órdenes y 15 familias.  Los Órdenes son: Carnivora, Cingulata, Chiroptera, Didelphimorphia, Lagomorpha y Rodentia.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Canidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caviidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dasypodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dasyproctidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Didelphidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emballonuridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Felidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Leporidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Molossidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Muridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mustelidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Noctilionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phyllostomidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sciuridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vespertilionidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La clase Aves, en este conjunto de datos, está conformada por 150 especies distribuidas en 17 Órdenes y 44 familias.
+
+Los Órdenes son: Accipitriformes, Anseriformes, Accipitriformes, Charadriiformes, Columbiformes, Coraciiformes, Cuculiformes, Falconiformes, Galliformes, Gruiformes, Passeriformes, Pelecaniformes, Piciformes, Podicipediformes, Psittaciformes, Strigiformes y Suliformes.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caprimulgidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cardinalidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Coerebidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cotingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emberizidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Estrildidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Nyctibiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pandionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phalacrocoracidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Podicipedidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Strigidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La clase Reptilia, para este conjunto de datos, está conformada por 32 especies, tres órdenes y 11 familias.  Los Órdenes son: Crocodylia, Squamata y Testudines.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alligatoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chelydridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Colubridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corytophanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dactyloidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Elapidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gekkonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Gymnophthalmidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Iguanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sphaerodactylidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Teiidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La clase Amphibia para este conjunto de datos, está conformada por 2 Órdenes, 6 familias  y 12 especies.  Los órdenes son:  Gymnophiona y Anura.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bufonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Caeciliidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dendrobatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hylidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Leptodactylidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ranidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>La Clase Actinopterygii, en este conjunto de datos, está conformado por 6 Órdenes, 37 especies distribuidas en 17 familias.  Los Órdenes son: Characiformes, Cypriniformes, Cyprinodontiformes, Gymnotiformes, Perciformes y Siluriformes.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bryconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Callichthyidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Callichthyidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cichlidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ctenoluciidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cyprinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Heptapteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Loricariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mochokidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Osphronemidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pimelodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poeciliidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Prochilodontidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pseudopimelodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Serrasalmidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sternopygidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trichomycteridae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>El propósito de publicar este conjunto de datos, es que pueda ser consultado de forma virtual por los diferentes usurarios internos y externos. Principalmente investigadores y estudiantes universitarios.  Lo anterior, considerando que los humedales del valle geográfico corresponden a un ecosistema priorizado en el departamento y es de interés para diversidad de investigadores y amantes de la naturaleza.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Martha Cecilia</givenName>          <surName>Salazar Marín</surName>
+    </individualName>
+<organizationName>Corporación Autónoma Regional del Valle del Cauca</organizationName><positionName>Profesional Universitario</positionName>    <address>
+<deliveryPoint>Carrera 56 No. 11-36 / Carrera 57  No. 11 –29</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+<phone>(57) 2-3181700 Ext. 1313</phone><electronicMailAddress>martha-cecilia.salazar@cvc.gov.co</electronicMailAddress><onlineUrl>http://www.cvc.gov.co</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Martha Cecilia</givenName>          <surName>Salazar Marín</surName>
+    </individualName>
+<organizationName>Corporación Autónoma Regional del Valle del Cauca</organizationName><positionName>Profesional Universitario</positionName>    <address>
+<deliveryPoint>Carrera 56 No. 11-36 / Carrera 57  No. 11 –29</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>76001000</postalCode><country>COLOMBIA</country>    </address>
+<phone>(57) 2-3181700 Ext. 1313</phone><electronicMailAddress>martha-cecilia.salazar@cvc.gov.co</electronicMailAddress><onlineUrl>http://www.cvc.gov.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>En primera instancia, se seleccionaron los registros correspondientes a información primaria u observaciones en campo a partir del convenio 043-2010. No obstante lo anterior, se incluyeron algunas observaciones de 2003, 2005 y 2009, debido a la buena calidad de los datos y teniendo en cuenta que se obtuvieron en el marco de contratos con la CVC y/o con la participación del mismo observador de 2010-2011, cuyas fuentes se citan en las referencias. Posteriormente, los datos seleccionados se organizaron en el formato Darwin Core y se validó la información taxonómica consultando la base de datos &quot;The Catalogue of life&quot;.  En el caso de las plantas, cuando no fue posible encontrar información en esta base de datos, se acudió a www.tropicos.org.  Con la ayuda del portal GeoCVC de la CVC, se organizaron las coordenadas en el formato de geográficas decimales y sexagesimales y se corrigieron las localidades asociadas.  También se depuró la información referente a los nombres comunes y los comentarios.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>En términos generales,  el muestreo se realizó en las áreas forestales protectoras de los 18 humedales, los relictos boscosos, las áreas abiertas y la zona acuática.  Lo anterior,  en la medida que fue posible el acceso, pues este estudio tuvo lugar entre 2010 y 2011, coincidiendo con la fuerte época de lluvias que sufrió el departamento y el país.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>De acuerdo con la información reportada en los Planes de manejo de los 18 humedales, en cada humedal estudiado se presentaron variaciones en los métodos de muestreo aplicados.  Se deduce que esto dependió de las condiciones encontradas debido a que el estudio coincidió con la fuerte época de lluvias que se presentó en el departamento entre los años 2010 y 2011.  Por lo anterior, no es posible mencionar una metodología de muestreo estandarizada para todos los humedales, en relación con los diferentes grupos taxonómicos.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Para verificar la validez de la información biológica en los casos de duda, se realizó consulta con expertos en los diferentes grupos taxonómicos.  La información geográfica se depuró con la asesoría del Grupo Sistema de Información Geográfica de la CVC y las diferentes localidades se corroboraron a través del visor GeoCVC. La depuración de la información taxonómica fue realizada por la Bióloga Stella Sarria Salas MSc.  Toda la información registrada fue depurada, mejorada y complementada consultando tanto los Planes de Manejo de los 18 humedales, como otras fuentes de información secundaria.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Conservación y manejo integral de humedales lénticos prioritarios del Valle Del Cauca</title>
+          <personnel>
+    <individualName>
+<givenName>Martha Cecilia</givenName>          <surName>Salazar Marín</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>El convenio de asociación No. 043 de 2010, suscrito entre la CVC y la Fundación Agua y Paz, se derivó del proyecto corporativo No. 1512 titulado &quot;Conservación y manejo integral de humedales lénticos prioritarios del Valle Del Cauca&quot;.  El mencionado convenio tuvo por objeto &quot;Aunar esfuerzos técnicos y económicos para realizar el ajuste de 18 planes de manejo de humedales lénticos del Valle del Cauca&quot;.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Aunque en el valle geográfico del río Cauca en jurisdicción de la Corporación Autónoma Regional del Valle del Cauca-CVC, se han identificado 72 humedales lénticos asociados al sistema del río Cauca, el convenio 043 de 2010 se concentró en 18 de ellos, distribuidos en los municipios de Bolívar, Buga, Bugalagrande, Guacarí, Jamundí, Palmira, Riofrío, Tuluá, Vijes, Yotoco y Yumbo.  En el valle geográfico del río Cauca se han identificado dos biomas, el Helobioma del Valle del Cauca y el Zonobioma Alternohígrico del Valle del Cauca, cuyas características originales son de bosque seco inundable con alturas entre los 800 y 1100 msnm.  Según las zonas de vida de Holdridge, el valle geográfico del río Cauca corresponde a bosque seco tropical. La temperatura promedio anual es de 24oC y la precipitación varía entre 1000 y 2000 mm al año, con dos períodos secos (diciembre-febrero y julio-agosto) y dos lluviosos (marzo-mayo y septiembre-noviembre).  En esta zona los bosques son relativamente bajos y se distinguen dos zonas de árboles claramente diferenciables: el dosel y el sotobosque.  El dosel presenta alturas de aproximadamente 20 a 30 m y el sotobosque alcanza entre 10 y 20 m.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El Proyecto &quot;Conservación y manejo integral de humedales lénticos prioritarios del Valle Del Cauca&quot;, surgió en el proceso de ajuste del Plan de Acción de la CVC para el período 2009-2011, en atención a la Resolución 196 de 2006, emitido por el Ministerio de Ambiente Vivienda y Desarrollo Territorial de Colombia, en relación con la formulación y/o de Planes de Manejo de Humedales.  Además de lo anterior, en el marco de la Ley 165 de 1994, mediante la cual se ratificó el Convenio sobre Diversidad Biológica, aproximadamente desde el año 2000, la CVC priorizó los humedales entre los ecosistemas estratégicos del Valle del Cauca, teniendo en cuenta los diferentes servicios ecosistémicos que ofrece, entre ellos, sustento y alimento para las comunidades de pescadores, hábitat para aves acuáticas y para otros grupos de fauna y flora asociados.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:56Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/yguqxm">Sarria Salas S, Salazar Marín M C (2018). Fauna y flora asociada a 18 humedales del valle geográfico del río Cauca. Version 4.1. CRC - Corporación Autónoma Regional del Valle del Cauca. Occurrence dataset https://doi.org/10.15472/yguqxm accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Chiquique&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 348 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;El Cocal&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 334 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;El Avispal&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 334 p. Anexos.</citation>
+      <citation>FUNECOROBLES-CVC. Convenio de Asociación. 2005. Citado en: CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;El Avispal&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 334 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Guarinó&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 397 p.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;La Guinea&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 408 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Gota&apos;e leche&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 357 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Timbique&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 341 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Videles&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 376 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA-FUNDACION NATURA. 2003. Plan de manejo integral de las madreviejas La Trozada, Bocas de Tuluá, Madrigal, La Herradura y Cementerio. Contrato de consultoría No. 0139. Cali. Colombia. Citado en: CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA-FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Guarinó&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia.</citation>
+      <citation>RAMIREZ, J., G. VASQUEZ, A. NAVARRETE, M. VASQUEZ, J. OREJUELA. 2000. Determinación del estado sucesional de los humedales: Madrevieja Guarinó, Ciénaga La Guinea, Caño El Estero, Laguna Pacheco, Madrevieja Lili, Madrevieja Román (Gota E Leche), Madrevieja Chiquique, Madrevieja La Herradura y Laguna Bocas de Tuluá, localizados en los municipios de Cali, Jamundí, Bolívar y Tuluá, Departamento del Valle del Cauca. Santiago de Cali. Colombia. Citado en: CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Guarinó&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 397 p. Anexos. Cali. Colombia.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Platanares&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 349 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;El Higuerón&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 346 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Madrigal&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 386 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Carambola&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 349 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Bocas de Tuluá&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 376 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;La Herradura&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 344 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;La Trozada&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 356 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;San Antonio&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 333 p. Anexos.</citation>
+      <citation>CORPORACION AUTONOMA REGIONAL DEL VALLE DEL CAUCA. FUNDACION AGUA Y PAZ. 2011. Plan de manejo ambiental humedal &quot;Cementerio&quot;. Convenio de asociación CVC No. 043 de 2010. Cali, Colombia. 338 p. Anexos.</citation>
+      <citation>Salazar Ramírez M. I.; Gómez Hoyos, N. Vargas, W. G.; Reyes Gutiérrez, M.; Castillo Crespo, L. S.; Bolívar García, W. Bosques secos y muy secos del departamento del Valle del Cauca, Colombia.  Corporación Autónoma Regional del Valle del Cauca, CVC.  Subdirección Patrimonio Ambiental. Grupo Vida Silvestre y Áreas Protegidas. Santiago de Cali. 2002. 72 p. il.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-cvc.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

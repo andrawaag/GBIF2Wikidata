@@ -1,0 +1,206 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="63bcf8e4-3444-4a94-a993-f653c99b1758"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/7okxxe</alternateIdentifier>
+        <alternateIdentifier>10.15468/sk1kne</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=darienuraba</alternateIdentifier>
+        <alternateIdentifier>63bcf8e4-3444-4a94-a993-f653c99b1758</alternateIdentifier>
+    <title>Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá</title>
+    <creator>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>SELVA: Investigación para la Conservación en el Neotropico</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A No. 20-37</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>7027623</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.co/citations?user=8yrQshgAAAAJ&amp;hl=en</userId>
+    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>SELVA: Investigación para la Conservación en el Neotropico</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A No. 20-37</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>7027623</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.co/citations?user=8yrQshgAAAAJ&amp;hl=en</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>SELVA: Investigación para la Conservación en el Neotropico</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A No. 20-37</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>7027623</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.co/citations?user=8yrQshgAAAAJ&amp;hl=en</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2016-06-13
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Darién Colombiano es globalmente importante para la conservación de la biodiversidad y la región representa un corredor crítico para el movimiento de animales entre Central Y Sur América, incluyendo millones de aves migratorias. Entre su fauna residente y las especies migratorias que pasan por o llegan al Darién, como las tortugas marinas y miles de rapaces migratorias, la región tiene mucho para ofrecer al eco-turista. Al valorar la fauna de la región como una fuente de ingresos, esperamos asegurar la conservación de la gran riqueza de animales que se encuentra allá. En este proyecto se llevó a cabo una serie de actividades durante el 2014 con el objetivo de aumentar el conocimiento de la importancia de la fauna del Darién y de Urabá, y construir capacidades y productos para desarrollar el ecoturismo. Estas actividades involucraron censos para aves, anfibios, reptiles y mamíferos en conjunto con las siguientes comunidades que viven alrededor del Golfo de Urabá: Lechugal, Marimonda, Bocas del Atrato, San Francisco, Capurganá y Sapzurro. Además de los resultados de estos censos, este conjunto de datos incluye las observaciones que resultaron de un monitoreo de la migración de aves que se llevó a cabo alrededor de Sapzurro entre septiembre y noviembre del 2012. Los registros biológicos reportados aquí, formaron el base para un libro fotográfico de la fauna de la región, una guía impresa y en linea para conocer los mejores sitios para la observación de aves, y una página web www.faunadarien.co</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>6 sitios alrededor del Golfo de Urabá y el Golfo del Darién: las veredas/comunidades de: Lechugal y Marimonda, Necoclí; Bocas de Atrato, Turbo; San Francisco, Unguía; Capurganá y Sapzurro, Acandí.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-77.4</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.68</eastBoundingCoordinate>
+                      <northBoundingCoordinate>8.65</northBoundingCoordinate>
+                      <southBoundingCoordinate>7.9</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-09-01
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2014-07-01
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Birds</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mammals</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Reptiles</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Amphibians</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Nicholas</givenName>          <surName>Bayly</surName>
+    </individualName>
+<organizationName>SELVA: Investigación para la Conservación en el Neotropico</organizationName><positionName>Coordinador Especies Migratorias</positionName>    <address>
+<deliveryPoint>Diagonal 42A No. 20-37</deliveryPoint><city>Bogotá</city><administrativeArea>Bogotá D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>7027623</phone><electronicMailAddress>nick.bayly@selva.org.co</electronicMailAddress><onlineUrl>http://www.selva.org.co</onlineUrl>      <userId directory="http://scholar.google.com/citations?user=">https://scholar.google.com.co/citations?user=8yrQshgAAAAJ&amp;hl=en</userId>
+      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Todos las registros fueron resultado de observaciones o fotos tomadas con cameras trampas.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los alrededores de las siguientes veredas: Lechugal y Marimonda, Municipio Necoclí, Antioquia; Bocas del Atrato, Municipio Turbo, Antioquia; San Francisco, Municipio Unguia, Chocó; Capurganá y Sapzurro, Acandí, Chocó.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los conteos de aves migratorias entre septiembre y noviembre del 2012 se llevó a cabo utilizando puntos fijos y realizando observaciones por periodos definidos en la mañana y por la tarde. Las observaciones se realizó casi todos los días, especialmente en la mañana entre las 5:50 y 7:30 am. 
+Los censos en el 2014 involucraron búsquedas por área durante 5 o 6 días en cada sitio y la instalación de 5 cameras trampa en cada sitio durante una semana.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La identificación de especies se llevó a cabo por parte de expertos en cada grupo y se confirmó la identificación de especies inusuales o inesperadas con fotografías y grabaciones. En el caso de la identificación de mamíferos en fotos tomadas con cameras trampa, se contó con la revisión de José Vicente-Rodriguez.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="DarienUraba">
+          <title>Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá</title>
+          <personnel>
+    <individualName>
+<givenName>Sergio</givenName>          <surName>Cordoba</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Yeny</givenName>          <surName>Lopez-Perilla</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Laura</givenName>          <surName>Cardenas-Ortiz</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Valentina</givenName>          <surName>Gómez-Bahammon</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Marta</givenName>          <surName>Rubio</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Rufford Small Grants Fund</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Seis sitios localizados alrededor del Golfo de Urabá y el Golfo del Darién en el noroccidente de Colombia.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Los conteos de aves migratorias entre septiembre y noviembre del 2012 se llevó a cabo utilizando puntos fijos y realizando observaciones por periodos definidos en la mañana y por la tarde. Las observaciones se realizó casi todos los días, especialmente en la mañana entre las 5:50 y 7:30 am. 
+Los censos en el 2014 involucraron búsquedas por área durante 5 o 6 días en cada sitio y la instalación de 5 camaras trampa en cada sitio durante una semana.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/7okxxe">Bayly N (2016). Cruzando el Caribe - Construyendo la capacidad para el ecoturismo en el Darién y Urabá. Version 2.0. Asociación SELVA: Investigación para la Conservación en el Neotrópico. Occurrence dataset https://doi.org/10.15472/7okxxe accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Bayly, N.J., Cárdenas-Ortiz, L., Rubio, M. &amp; Gómez, C. (2014) Migration of raptors, swallows and other diurnal migratory birds through the Darién of Colombia. Ornitología Neotropical 25: 63-71.</citation>
+      <citation identifier="ISBN 978-958-58519-0-0">Bayly, N.J., Díaz-Bohórquez, A.M., López-Perilla, Y.R., &amp; Medina-Rangel, G.F. (2014) Darién y Urabá: Fauna al descubierto. SELVA: Investigación para la Conservación en el Neotrópico, Bogotá D.C. 56 pp. ISBN 978-958-58519-0-0</citation>
+      <citation identifier="http://www.faunadarien.co/wp-content/uploads/2014/09/Where-to-watch-birds-in-the-Dari%C3%A9n-and-Urab%C3%A1.pdf">Bayly, N.J. &amp; Díaz-Bohórquez, A.M. (2014) Where to watch birds in the Darién y Urabá. SELVA: Investigación para la Conservación en el Neotrópico, Bogotá D.C. 40 pp. ISBN 978-958-58519-1-7</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/IPT/img/logos/selva.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

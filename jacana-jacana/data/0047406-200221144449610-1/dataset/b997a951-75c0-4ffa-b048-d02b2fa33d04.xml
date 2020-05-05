@@ -1,0 +1,1269 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="b997a951-75c0-4ffa-b048-d02b2fa33d04"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/ysgktc</alternateIdentifier>
+        <alternateIdentifier>b997a951-75c0-4ffa-b048-d02b2fa33d04</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=lipa_faunaflora_2014</alternateIdentifier>
+    <title>Fauna y flora del municipio de Lipa, Arauca</title>
+    <creator>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15, Tame, Arauca</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 15403939</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Maribel</givenName>          <surName>Vasquez Valderrama</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Contratista</positionName>    <address>
+<city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>maribel.y.v@gmail.com</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Mijares</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 78887145</phone><electronicMailAddress>fjmijaress@gmail.com</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 13202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://humboldt.org.co/</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Francisco</givenName>          <surName>Castro</surName>
+    </individualName>
+<positionName>Consultor</positionName>    <address>
+<country>COLOMBIA</country>    </address>
+<phone>57 15403939</phone><electronicMailAddress>bojonawi@gmail.com</electronicMailAddress><onlineUrl>http://www.yoluka.org</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>María Fernanda</givenName>          <surName>González</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 72 # 12- 65</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 13202767</phone><electronicMailAddress>mgonzalez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lina</givenName>          <surName>Ortíz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 78887145</phone><electronicMailAddress>linaortiza@gmail.com</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>German</givenName>          <surName>Galvis</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Consultor</positionName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 13202767</phone><electronicMailAddress>ggal42@yahoo.es</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Lina Maria</givenName>          <surName>Mesa Salazar</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 72 # 12- 65</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 13202767</phone><electronicMailAddress>lmesa@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Angélica</givenName>          <surName>Diaz-Pulido</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 72 # 12- 65</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>adiaz@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mayra</givenName>          <surName>Villanueva</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 78887145</phone><electronicMailAddress>mayralejavilla88@gmail.com</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Catalina</givenName>          <surName>Quinche</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 78887145</phone><electronicMailAddress>mcqc86@yahoo.com</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Miguel</givenName>          <surName>Ruíz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Calle 15 No. 12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 78887145</phone><electronicMailAddress>susande.juanmiguel@gmail.com</electronicMailAddress><onlineUrl>http://www.orinoquiabiodiversa.org/</onlineUrl>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>John Jairo</givenName>          <surName>Ramírez Restrepo</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Coordinador</positionName>    <address>
+<city>Medellin</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Mario</givenName>          <surName>Medina</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Taxonomía y ecología de fitoplancton y ficoperifiton</positionName>    <address>
+<city>Medellin</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Peres Vera</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Taxonomía y ecología de macroinvertebrados</positionName>    <address>
+<city>Medellin</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Magnolia</givenName>          <surName>Longo</surName>
+    </individualName>
+<organizationName>Universidad de Antioquia</organizationName><positionName>Coinvestigadora asociada</positionName>    <address>
+<city>Medellin</city><administrativeArea>Antioquia</administrativeArea><country>COLOMBIA</country>    </address>
+    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2017-02-09
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Con el fin de integrar toda la información obtenida a partir de la primera etapa del proyecto Ecopetrol &amp;#34;Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol&amp;#34;, adelantado por el Instituto Humboldt y Ecopetrol, se realizó la integración de los diferentes componentes de investigación durante esta fase, obteniendo información, técnica y científica, que permitirá y apoyara la tomar decisiones pertinentes para la conservación de los Recursos Naturales.  Este proyecto consistió en la  búsqueda, caracterización y descripción en la ventana de Lipa (Arauca), a través de la caracterización de grupos de seres vivos (Aves, Peces, Anfibios, Herpetofauna, perifiton, Plantas y macroinvertebrados). Se realizó un reconocimiento del área de estudio y una vez seleccionadas las localidades de muestreo, se llevaron a cabo diferentes metodologías según el grupo biológico. Los resultados obtenidos incluyen un total de 3862 registros biológicos.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>muestreo</keyword>
+              <keyword>plantas vasculares</keyword>
+              <keyword>biodiversidad</keyword>
+              <keyword>peces</keyword>
+              <keyword>macroinvertebrados</keyword>
+              <keyword>Lipa</keyword>
+              <keyword>perifiton</keyword>
+              <keyword>aves</keyword>
+              <keyword>objetos de conservación</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>calidad de agua</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>herpetos</keyword>
+              <keyword>Arauca</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado a este recurso, se incorporó dentro de la Infraestructura Institucional de Datos del Instituto Humboldt (I2D), el informe de actividades de la ONG.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=lipa_faunaflora_2014</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área de estudio se encuentra en jurisdicción de los municipios de Arauca y Arauquita, al noreste del departamento de Arauca, entre las coordenadas geográficas 6° 51&apos; 44,529&quot; , 6° 46&apos; 19,067&quot; de latitud Norte y -70° 56&apos; 44,310&quot;, -71° 4&apos; 52,874&quot; de latitud oeste. Abarca un área total de 15042,63 hectáreas, tiene una altura sobre el nivel del mar inferior a los 150 m, temperatura promedio anual superior a los 24 °C. Se definieron para el área de estudio dos paisajes principales: sabana inundable y selvas del Lipa; en el paisaje de sabana inundable están presentes las matas de monte, los raudales, los esteros, los bajos y los bancos. La estacionalidad es bimoda, durante el año se presenta un periodo de lluvia y otro de sequía. La precipitación anual en el ecosistema de sabana se ubica alrededor de 2000 mm. En el sector occidental del área de estudio se encuentran fragmentos de las selvas del Lipa, mientras que en la parte oriental se encuentra el ecosistema de sabana inundable con una amplia zona de humedales conocida localmente como “Raudal de La Barquereña”. Los inventarios de biodiversidad se realizaron en los predios La Barquereña (sector oriental), La Tormenta y Los Laureles (sector occidental).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-71.08</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-70.95</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.86</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.77</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-03-08
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-04-10
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>PLANTAS VASCULARES: Se lograron identificar 358 especies de plantas vasculares pertenecientes a 264 géneros y a 96 familias.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Borreria  capitata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cosmarium laeve</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cosmarium circulare</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cosmarium pseudoconnatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cosmarium quadrum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cosmarium pseudoconnatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glinus radiatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eclipta prostrata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ludwigia octovalvis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Stemodia durantifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ficus pertusa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Capparis sola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tetrapterys discolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aphelandra scabra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Centrosema molle</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sida serrata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Triplaris weigeltiana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Guarea guidonia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mabea trianae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Senna cobanensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Odontocarya  tamoides </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Desmodium adscendens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Arrabidaea candicans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phoradendron quadrangulare</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phithirusa stelis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Securidaca coriacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhipsalis baccifera</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Inga ingoides</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hymatanthus articulatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tabebuia ochracea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Platymiscium pinnatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Licania apetala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Syngonium vellozianum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ischnosiphon leucophaeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Monstera pinnatipartita</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Costus scaber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Clusia minor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Iresine diffusa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Erythroxilum macrophyllum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Calathea inocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Piper</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Isertia haenkeana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Juanulloa  ochracea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Peperomia rotundifolia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Uncaria  tomentosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Canavalia brasiliensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tillandsia recurvata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Copaifera pubiflora</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crateva tapia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Desmodesmus  bicaudatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acanthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Acrochaetiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alismataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amaranthaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amphipleuraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anacardiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apocynaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Arecaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bignoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bixaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Boraginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Capparaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Chrysobalanaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Combretaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dictyosphaeriaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Dilleniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euphorbiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Flacourtiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrodictyaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lamiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lecythidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Lentibulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malpighiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Malvaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Melastomataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Molluginaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oedogoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Orchidaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phytolaccaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Poaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rubiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sapindaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Zygnemataceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Volvocaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Verbenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tiliaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sterculiaceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>MAMÍFEROS: Para mamíferos voladores se registraron 5 familias, 17 géneros y 17 especies, para mamíferos pequeños no voladores se obtuvo un solo registro perteneciente a la familia Didelphidae, especie Marmosa robinsoni robinsoni, y para mamíferos medianos y grandes se indentificaron a partir de los muestreos en campo y entrevistas 18 familias, 22 géneros y 23 especies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Molossus pretiosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eumops glaucinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vampyressa thyone</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tonatia bidens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Lophostoma brasiliensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Noctilio albiventris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Uroderma bilobatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Carollia perspicillata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Saccopteryx  bilineata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Puma  concolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pecari  tajaco</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhynchonycteris  naso</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Atelidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Canidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cebidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuniculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Didelphidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Emballonuridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Felidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mephitidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Molossidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Myrmecophagidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Noctilionidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Phyllostomidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Procyonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Sciuridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tayassuidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vespertilionidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>AVES: se registraron 194 especies incluyendo las capturadas en redes de niebla y las registradas en los recorridos distribuidas en 54 familias.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia fimbriata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazona ochrocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazona ochrocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazonetta brasiliensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Brachygalba lugubris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Brotogeris jugularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus anthracinus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cacicus cela</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cairina moscata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Camptostoma obsoletum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cyclarhis gujanensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna autumnalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna viduata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eudocymus ruber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Euphonia laniirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Fluvicola pica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Forpus conspicillatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gymnomystax mexicanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hirundo rustica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hylophilus flavipes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Icterus nigrogularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptopogon amaurocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megascops choliba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ortalis ruficauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Parkesia noveboracencis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Polytmus guainumbi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Quiscalus lugubris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphocelus carbo</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sakesphorus canadensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Setophaga ruticilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tapera naevia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tolmomyias flaviventris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Zenaida auriculata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Galbulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Donacobidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Vireonidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>PECES: Los peces fueron muetreados en cuatro áreas: esteros, ríos, caños, préstamos los cuales se escogieron en función de la presencia de agua. Se emplearon siete artes de pesca los cuáles se usaron según el tipo hábitat.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Acestrocephalus sardina</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aphyocharax alburnus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bujurquina mariae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caquetaia kraussii</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Farlowella vittata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hemigrammus barrigonae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Roeboides affinis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Serrasalmus rhombeus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vandellia cirrhosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Xenagoniates bondi</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>HERPETOFAUNA: Con relación a los anfibios y reptiles en total se registraron 14 especies de anfibios correspondientes a 5 familias y 18 especies de reptiles correspondientes a 9 familias.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scarthyla  vigilans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ameiva ameiva</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Engysptomops pustulosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas pugnax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus bolivianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodeira annulata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Oxyrhopus petola</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phyllomedusa  hypochondrialis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pleurodema brachyops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Relictivomer pearsei</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinella granulosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Scinax rostratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anolis tandai</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anolis auratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas pugnax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus fragilis</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>MACROINVERTEBRADOS: este  ccomponente fue realizado a apartir de estudios realizados por mienbros de la &lt;Universidad de Antioquia como una entidad socia para la investigacion en el marco del proyecto Planeación ambiental para la conservación de la biodiversidad en las áreas operativas de Ecopetrol; se encontro una densidad total de macroinvertebrados de 259.8 ind/min, distribuidos taxonómicamente en 80 Géneros, 49 Familias, 13 Órdenes, seis Clases y tres Fila. Arthropoda fue el Filo mejor representado (256.2 ind/min); los ordenes mas representativos fueron Diptera, Coleoptera y Hemiptera fueron los más representativos en la ventana Lipa, con densidades de 190.73, 20.4 y 18.03 ind/min, respectivamente.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Leptoceridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Noteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Belostomatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Naucoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ceratopogonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Corixidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Polymitarcyidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Palaemonidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trychodactylidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>PERIFITON: La falta de sustratos rocosos hace que las comunidades perifíticas propias del epiliton no predominen en este sistema, por el contrario las comunidades se asocian a las macrófitas (comunidades del epifiton). Así mismo, la falta de rocas y las altas temperaturas del agua (≥25°C) inhiben la presencia de musgo por tanto  el grado de imbibición del sustrato grueso sea pobre; el los cuerpos de agua donde se realizo el mueestreo se encuentran macrófitas como Eichornia sp., Echinodorus sp., Lemna sp. y Eichornia sp.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anomoeoneidaeceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fragilariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oedogoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Desmidiaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Stephanodiscaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Euglenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Fragilariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Amphipleuraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Bacillariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oedogoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Naviculaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scenedesmaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scenedesmaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aulacoseiraceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hydrodictyaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pinnulariaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pseudanabaenaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Oedogoniaceae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Pleurosigmataceae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>El conjunto de Datos &quot;Registros biológicos de Aves, herpetos, mamíferos, Peces, Plantas, Macroinvertebrados y Perifiton&quot; de la ventana Lipa-Arauca, se realizó con el fin de conocer la biodiversidad presente en el área de estudio, uniendo esfuerzos y trabajos de investigadores del Instituto (IAvH), Ecopetrol, Fundación Orinoquia biodiversa y la Universidad de Antioquia, quienes hicieron parte de la primera fase del proyecto Planeación Ambiental Para La Conservación De La Biodiversidad En Las Áreas Operativas De Ecopetrol. Pretendiendo que se tome como base para el conocimiento y el estudio de la biodiversidad; soportado en informes técnicos  y científicos, esperando que el conjunto de datos sea de gran aporte para consultores en diferentes ámbitos académicos y entidades tanto públicas como privadas que estén involucradas con el conocimiento de la biodiversidad, su uso sostenible, protección y conservación de hábitat, especies y biodiversidad en general.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Hernando</givenName>          <surName>García Martínez</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigador Titular</positionName>    <address>
+<deliveryPoint>Calle 72 # 12- 65</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>57 13202767</phone><electronicMailAddress>hgarcia@humboldt.org.co</electronicMailAddress><onlineUrl>http://http//www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>PECES: Se realizaron jornadas de campo estandarizadas en la jornada de la tarde (15 a 18:30), las cuales incluyeron seis artes de pesca, así: 1) Red de Arrastre o de playa (de 5 m de largo y altura de 2 m, entrenudo de 1 mm), para realizar arrastres de 1:30 h; 2) Atarraya, se realizaron lances por 1 h en cada estación; 3) Salabardos, en transectos de 100 m, se removió la vegetación de las orillas y la hojarasca por 1 h continua; 4) Espinel, se usaron cuatro anzuelos de dos números con carnada diferente, ubicados a dos profundidades por períodos de una hora; 5) Anzuelos, se usaron de dos números con carnada de pan y peces (sardinas); 6) trasmallo o red de ahorque de 3,5 cm de entrenudo, se puso al atardecer por 2 h. En campo el material íctico se determinó hasta el nivel taxonómico más específico posible, separándolo por especie y por estación. En el laboratorio se determinó certeramente hasta especie con el uso de claves taxonómicas protocolarias para el grupo. Los ejemplares preservados se encuentran depositados en la colección biológica de vertebrados del Instituto Alexander von Humboldt (IAVH) en Villa de Leyva</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>HERPETOS: La caracterización de herpetofauna se realizó mediante la aplicación de dos metodologías directas principales, las cuales corresponden a encuentros visuales libres (VES) y parcelas diurnas. Se realizaron parcelas de 1 m x 1 m aproximadamente, durante los recorridos diurnos, cada media hora. Las parcelas fueron exploradas de forma exhaustiva para evidenciar la presencia o ausencia de las especies objeto de conservación. Los muestreos de encuentro visual libre (VES) consistieron en una revisión exhaustiva de las zonas de muestreo realizando remoción de hojarasca, levantamiento de troncos y piedras en horas diurnas y solo observación directa sin remoción en horas nocturnas. El esfuerzo de muestreo correspondió a dos personas durante 9 noches y 8 días con una intensidad horaria de aproximadamente 4 horas y media (día y noche respectivamente). Los individuos capturados y sacrificados fueron procesados e ingresados a la colección biológica de vertebrados del Instituto Alexander von Humboldt (IAVH) en Villa de Leyva.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>AVES: Se utilizaron tres métodos, complementarios uno del otro para la caracterización de la avifauna en la ventana Lipa: apertura de redes de niebla para identificar especies típicas del sotobosque, crípticas y que no se detectan fácilmente, recorridos libres que permiten incluir especies difíciles de detectar que transitan por el dosel y registros de vocalizaciones que ayudan a identificar especies muy vocales que se observan con dificultad. Fueron colocadas ocho redes de niebla de 12 m de largo y 2,6 m de altura y dos redes de 6 m de largo y 2,6 m de altura, en parejas y separadas entre 50 m y 100 m de distancia, en una localidad por cada unidad de muestreo (sabana inundable y selvas del Lipa) y durante dos días consecutivos. El esfuerzo de muestreo en la sabana inundable fue de 159 horas/red, mientras que en el bosque de las selvas del Lipa fue de 160 horas/red. Los individuos capturados y sacrificados fueron procesados e ingresados a la colección biológica de vertebrados del Instituto Alexander von Humboldt (IAVH) en Villa de Leyva. En los recorridos libres fueron incluidos todos los registros visuales (observaciones) y auditivos (vocalizaciones) de las aves.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MAMIFEROS: Para la caracterización de la mastofauna en la zona, se utilizaron tres métodos: redes de niebla para murciélagos, trampeo para capturas de mamíferos pequeños y transectos para registro de indicios o avistamientos de mamíferos medianos y grandes en las diferentes coberturas vegetales. Adicionalmente se tuvo en cuenta los registros producto de entrevistas. Para el registro de mamíferos voladores se emplearon 5 redes de niebla (mist-nets) de 12 m de largo por 2,5 m de alto, las cuales fueron ubicadas en tres sitios de muestreo por ecosistema unidad de muestreo (sabana inundable y selvas del Lipa). El esfuerzo de muestreo fue de 3562,5 horas/m2 de red, distribuido en 2062,5 horas/m2 de red en la sabana inundable y 1500 horas/m2 de red en las selvas del Lipa. Para la captura de pequeños mamíferos no voladores se utilizaron en total 50 trampas Sherman®, distribuidas uniformemente en las unidades de muestreo. Se instalaron a una distancia promedio de 10 m entre cada una. Sin embargo, condiciones del terreno y la variedad de microhábitats usados por este grupo de mamíferos (troncos caídos, cerca de la base de árboles, cavidades formadas por las raíces, alrededor de huecos y madrigueras) infirió en la distancia entre algunas de las trampas instaladas. El esfuerzo de muestreo fue de 400 trampas/noche, distribuido en 200 trampas/noche en la sabana inundable y 200 trampas/noche en las selvas del Lipa. Los individuos capturados y sacrificados fueron procesados e ingresados a la colección biológica de vertebrados del Instituto Alexander von Humboldt (IAVH) en Villa de Leyva. Para el registro de mamíferos medianos y grandes se realizaron transectos donde se incluyeron indicios (huellas, excrementos, dormideros, comederos, etc.) y avistamientos durante los recorridos. Se realizaron 4 transectos por cada unidad de muestreo, para un total de 8 transectos para la ventana Lipa. Los transectos variaron en distancia y tiempo, por lo cual es esfuerzo de muestreo fue diferente en cada unidad. El esfuerzo de muestreo total fue de 17,09 horas/hombre distribuido en 6,66horas/hombre en la sabana inundable y 10,44 horas/hombre en las selvas del Lipa. Los indicios o avistamientos evidenciados en otro momento o lugar del muestreo también fueron incluidos, junto con los registros de las entrevistas.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PLANTAS: Flora Los métodos aplicados para la elaboración del inventario de plantas fueron: 1) recorridos libres para las selvas del lipa y para las matas de monte de la sabana inundable, teniendo como objetivo cubrir la mayor área posible, 2) muestreos en parcelas de 1mx1m en los bajos, loes raudales, los bancos y los esteros de la sabana inundable, 3) levantamientos del bosque ribereño en un transecto de 50m de longitud paralelo al curso del río, con los datos obtenidos del levantamiento se elaboró un perfil de vegetación para el bosque ribereño del cuerpo de agua conocido como “La Colorada” o “Caño Primores”, y 4) levantamientos de macrófitas, evaluando su presencia sobre la lámina de agua en un tramo de 10 m, perpendicular a la orilla del cuerpo de agua. Para todos los métodos se realizaron identificaciones directas en campo de diferentes plantas y colecciones botánicas de las plantas que se encontraban en estado reproductivo (flor o fruto). Los especímenes fueron depositados en el herbario FMB y algunos duplicados en los herbarios COL, de la Universidad Nacional sede Arauca y de la Universidad de los llanos. Para la corroboración y/o determinación de los especímenes se contó con literatura especializada y con la ayuda de algunos especialistas. Las familias de plantas se organizaron de acuerdo al sistema del APG III (2009).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>MACROINVERTEBRADOS ACUÁTICOS: Distintos métodos de colecta fueron utilizados de acuerdo con las características particulares de cada sistema, estos son: 1) Método semi-cuantitativo para colectas en sistemas lóticos de zonas bajas: Para la aplicación de los métodos de recolección se tuvieron en cuenta las recomendaciones de Wantzen &amp; Rueda-Delgado (2009) y de Ramírez (2010) para muestreos de tipo cualitativo y semi-cuantitativo en ríos tropicales, además de los criterios para la toma de muestras hidrobiológicas empleadas por el equipo de trabajo del grupo de investigación “LimnoBasE y Biotamar” de la Universidad de Antioquia, por dos métodos a. Colecta en la vegetación ribereña. Este método se empleó en la Ventana Lipa. En cada quebrada se seleccionó un tramo de 50 a 100 m de longitud a lo largo del cauce, en donde se muestreó la vegetación ribereña empleando una red triangula. Se realizaron recorridos cortos (15 minutos en total) con la red barriendo las plantas y las raíces sumergidas. El esfuerzo total de muestreo por tramo fue de 30 minutos. b. Colecta en macrófitos. Para muestrear bancos de macrófitos, tanto flotantes como enraizados (en sistemas lóticos y leníticos), también se empleó la red triangular. En ambos casos se realizó un mayor esfuerzo de captura en las macrófitas dominantes por su abundancia, durante un periodo de 15 minutos. Método semi-cuantitativo para sistemas lóticos de montaña. Se seleccionó un tramo entre 50 y 300 m de longitud a lo largo del cauce, dependiendo de las condiciones propias del terreno y/o de las intervenciones encontradas, en el que se utilizó también una red triangular, ubicándose ésta en sentido contrario al flujo de la corriente y removiendo el lecho de interés. 2) Análisis en laboratorio: Los organismos de los macroinvertebrados, fueron extraídos de cada muestra mediante remoción manual con pinzas de punta fina, y posteriormente fueron identificados hasta la menor categoría taxonómica posible, mediante la utilización de un estereoscopio ZEISS-Stemi VD4 y las claves taxonómicas de Roldán (1988), Machado y Rincón (1989), Wiggins (1996), Posada-García &amp; Roldán-Pérez (2003), Domínguez et al. (2006), Domínguez &amp; Fernández (2009), Merritt et al. (2008).</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>PERIFITO: Se muestrearon tramos de sistemas lóticos y leníticos en buen estado de conservación e intervenidos. Para escoger los sistemas y las estaciones se tuvieron en cuenta los gradientes latitudinal y de elevación. En cada estación se eligió un tramo de al menos 300 metros. En el caso de segmentos con intervenciones antrópica (ej., puentes, extracción de agua, carreteras) y/o con accidentes naturales (ej., derrumbes), el tramo a muestrear se ubicó 300 metros aguas arriba de estas intervenciones. los métodos de colecta de acuerdo con el tipo de sistema 1) Sustrato sumergido: Piedras y troncos (Ventanas Tame y Paipa). En cada tramo y siguiendo ambas orillas se seleccionaron 10 puntos de muestreo dentro de diferentes zonas: bien iluminadas, sombreadas, rápidos, pozos y remansos. Se muestrearon superficies parduzcas resbaladizas situadas en zonas sumergidas del lecho, tales como rocas, cantos rodados y troncos o partes de árboles. La unidad de área fue un cuadrante de 4x4 cm .  El contenido raspado se depositó en un frasco con 5 a 10 gotas de lugol y de 4 a 5 gotas de formalina. En el momento de remover el material de las piedras se utilizó un tamiz con un tamaño de poro menor a 20 m. 2) Vegetación acuática: En los tramos más lentos del río Lipa y en las quebradas afluentes de éste, donde la vegetación acuática fue muy abundante y sobresalían las algas filamentosas se muestrearon las algas epifíticas adheridas a  macrófitas, macroalgas sumergidas, partes sumergidas de helófitos y algas filamentosas, mediante el siguiente protocolo a) Macrófitos: macroalgas sumergidas y macrófitos emergentes. Las macrófitas pequeñas como Lenna sp., Azolla sp., Salvinia sp. y Lenteja sp., fuero recogidas completas; mientras que de las grandes como Eichornia sp. y Echinodorus sp. se cortaron los peciolos que estaban sumergidos y que se encontraban en estadio adulto, utilizando una tijera. Las plantas pequeñas y los peciolos se guardaron en frascos que contenían un poco de agua destilada. Se almacenaron 20 peciolos por estación. Se evitaron las partes sumergidas de las hojas flotantes (nenúfares) pues éstas no reciben luz directa b) Algas filamentosas (Ventana Lipa). Las algas filamentosas fueron altamente abundantes en la mayoría de las quebradas y en el río Lipa (Foto 5A). La toma de muestras se hizo siguiendo el método del escurrimiento. Este consiste en apretar y escurrir una alta cantidad de filamentos entre cuatro de los dedos de la mano (índice, medio, anular y meñique); el dedo restante (el pulgar) se dirige hacia el frasco en el que se depositará la muestra. Posteriormente se agregan los fijadores (5 a 10 gotas de lugol y 4 a 5 gotas de formalina). Además, se guardaron filamentos completos sin escurrir en frascos plásticos. 2) Análisis de laboratorio: Extracción del perifiton desde las macrófitas. Se limpiaron las raíces, los tallos y las hojas con un pincel muy fino. El removido se pasó por un tamiz con un tamaño de poro inferior a 20 m para evitar que la muestra contuviera arcillas y arenillas. El contenido remanente en el tamiz se vertió en un frasco que contenía diez gotas de lugol y cinco de formalina. Para la remoción del material del tamiz se utilizó agua destilada. Las muestras de ficoperifiton de los sustratos sumergidos, las del material adherido a las macrófitas, las del metafiton y las del sustrato rocoso de las quebradas, se homogenizaron mediante agitación manual para luego depositar una sub-muestra de 3 mL en una cámara de sedimentación del mismo volumen. El conteo se realizó en un microscopio invertido a una magnificación total de 500 X, siguiendo el método de campos al azar (30 campos) mediante una tabla de números aleatorios. Después de llevado a cabo el conteo de los 30 campos se recorrió en zig-zag el fondo de la cámara para registrar organismos poco abundantes. La densidad obtenida se reporta en individuos/5 min para las muestras adheridas a las macrófitas y al metafiton y en individuos/cm2 para las muestras del sustrato rocoso. Se considera como sustrato a las masas de algas flotantes donde se “posa” el metafiton, a las dos macrófitas y a las piedras que se rasparon en la quebrada. Para la determinación taxonómica de las algas se utilizaron las claves de Bicudo &amp; Menezes (2006), Bourrely (1966 y 1970), Cox (1996), Morgan (1920 y 1924), Prescott (1962), Prescott et al. (1975), Sant’Anna (1984).</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La región del Lipa se encuentra atravesada de norte a sur por el río Lipa, afluente del río Casanare, el cual divide el área en dos paisajes: del lado occidental las selvas del Lipa y del lado oriental la sabana inundable.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Entre los días 9 y 16 de marzo de 2013 se realizó el muestreo y colecta para seis grupos taxonómicos (flora, peces, anfibios, reptiles, aves y mamíferos) en la región del Lipa. Para los inventarios de flora se llevaron a cabo cuatro metodologías diferentes, entre las que se encuentran parcelas de 1mx1m, recorridos libres, perfiles de bosque ribereño y perfiles de macrofitas. Para realizar el inventario de los peces presentes en la cuenca del río Lipa, se realizaron muestreos en cuatro áreas: esteros, ríos, caños y préstamos (lagunas artificiales). Se emplearon diferentes aparejos de pesca que fueron usados en función de las posibilidades que se encontraron en los diferentes hábitats. En los muestreos para el registro de la herpetofauna se emplearon muestreos de encuentro visual libre (VES) y parcelas de 1x1m; para el registro de la avifauna se emplearon redes de niebla y recorridos libres donde se tuvieron en cuenta observaciones y vocalizaciones; y para el registro de la mastofauna se emplearon redes de niebla, trampas Shermman, transectos, recorridos libres y entrevistas.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Planeación Ambiental Para La Conservación De La Biodiversidad En Las Áreas Operativas De Ecopetrol</title>
+          <personnel>
+    <individualName>
+<givenName>Hernando</givenName>          <surName>García Martínez</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Recursos de financiación se enmarcan dentro del convenio N° Convenio N° 5211478 (IAvH 12-067) entre el Instituto Alexander von Humboldt y Ecopetrol.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio de este proyecto abarca aproximadamente el 60% del territorio colombiano y comprende las regiones Pacífico, Andes, Caribe, Orinoquía y Piedemonte amazónico.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Ecopetrol S.A. y el interés del Instituto Humboldt en apoyar con la construcción de información científica y la incorporación de la biodiversidad en las labores de planificación del desarrollo sectorial. Y es un paso adelante en la inclusión de programas de proyección ambiental con énfasis en biodiversidad. El estudio comprende el estudio de las áreas prioritarias para la conservación de la biodiversidad, Estas áreas parten de la planeación sistemática de la conservación y consulta permanente de expertos sobre las prioridades de mantenimiento de ecosistemas, complementadas con las de nivel de especies y su hábitat. Estas prioridades se evaluaron posteriormente en campo, mediante la aproximación de ventanas a la escala 1:25.000, sobre la cual se generaron lineamientos de manejo en forma de planes de acción en biodiversidad, desarrollados como proyectos interinstitucionales y mixtos, con fases secuenciales en las que se determinaron los actores, las fuentes de financiación y el alcance para la conservación de la biodiversidad.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:58Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/ysgktc">Pérez K, Vasquez Valderrama M (2017). Fauna y flora del municipio de Lipa, Arauca. Version 1.3. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/ysgktc accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation identifier="http://www.biovirtual.unal.edu.co/nombrescomunes/   ">APG III (THE ANGIOSPERM PHYLOGENY GROUP) .2009.An update of the Angiosperm Phylogeny Group classification for the orders and families of flowering plants: APG III. Botanical Journal of the Linnean Society. London. 17 pp.</citation>
+      <citation>BERNAL, R., G. GALEANO, A. RODRÍGUEZ, H. SARMIENTO Y M. GUTIÉRREZ. 2013. Nombres Comunes de las Plantas de Colombia.</citation>
+      <citation>CÁRDENAS L., D. &amp; N.R. SALINAS (eds). 2007. Libro rojo de plantas de Colombia. Volumen 4. Especies maderables amenazadas: Primera parte. Serie Libros Rojos de Especies Amenazadas de Colombia. Instituto Amazónico de Investigaciones Científicas SINCHI - Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Bogotá. 232 pp.</citation>
+      <citation>CASTAÑO-MORA, O. (ed.). 2002. Libro rojo de reptiles de Colombia. Libros rojos de especies amenazadas de Colombia. Instituto de Ciencias Naturales – Universidad Nacional de Colombia, Ministerio del Medio Ambiente, Conservación Internacional Colombia. Bogotá, Colombia. 160 pp.</citation>
+      <citation>DENIS, L. (ed.). 2013. Avibase, the world bird database.</citation>
+      <citation>ESCHMEYER, W. N. (ed). 2013. Genera, species, references. Electronic version 2013.</citation>
+      <citation>GALEANO, G. &amp; R. BERNAL. 2005. Palmas. Pp 59-224. En Calderón, E., G. Galeano &amp; N. García (eds). Libro rojo de plantas de Colombia. Volumen 2: Palmas, frailejones y zamias. Serie Libros Rojos de Especies Amenazadas de Colombia. . Instituto Alexander von Humboldt - Instituto de Ciencias Naturales de la Universidad Nacional de Colombia - Ministerio de Ambiente, Vivienda y Desarrollo Territorial, Bogotá. 232 pp.</citation>
+      <citation>&quot;MOJICA, J. I., J. S. USMA, R. ÁLVAREZ-LEÓN &amp; C. A. LASSO (eds). 2012. Libro rojo de peces dulceacuícolas de Colombia 2012. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt, Instituto de Ciencias Naturales de la Universidad Nacional de Colombia, WWF Colombia y Universidad de Manizales, Bogotá, D. C.- Colombia. 319 pp.
+&quot;</citation>
+      <citation>RENJIFO, L.M., A.M. FRANCO-MAYA, J.D. AMAYA-ESPINEL, G.H. KATTAN &amp; B. LÓPEZ-LANÚS. (eds). 2002. Libro rojo de aves de Colombia 2012. Serie libros rojo de especies amenazadas de Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Ministerio del Medio Ambiente. Bogotá, Colombia. 562 pp.</citation>
+      <citation>ODRÍGUEZ-MAHECHA, J.V., M. ALBERICO, F. TRUJILLO &amp; J. JORGENSON. 2006. Libro rojo de los mamíferos de Colombia. Serie libros rojos de especies amenazadas de Colombia. Conservación Internacional Colombia y Ministerio del Medio Ambiente, Vivienda y Desarrollo Territorial. Bogotá, Colombia. 433 pp.</citation>
+      <citation>ROSKOV Y., KUNZE T., PAGLINAWAN L., ABUCAY L., ORRELL T., NICOLSON D., CULHAM A., BAILLY N., KIRK P., BOURGOIN T., BAILLARGEON G., HERNANDEZ F., DE WEVER A., DIDŽIULIS V. (eds.). 2013. Species 2000 &amp; ITIS Catalogue of Life, 15th August 2013.</citation>
+      <citation>RUEDA-ALMONACID, J.V., J.D. LYNCH &amp; A. AMÉZQUITA. (eds.). 2004. Libro rojo de los anfibios de Colombia. Serie libros rojo de especies amenazadas de Colombia. Conservación Internacional Colombia, Instituto de Ciencias Naturales – Universidad Nacional de Colombia, Ministerio del Medio Ambiente. Bogotá, Colombia. 384 pp.</citation>
+      <citation>STEVENS, P. F. 2008. Angiosperm Phylogeny Website.Version 9.</citation>
+      <citation>THOMSON REUTERS. 2009. Index to Organism Names. World Wide Web electronic resource.</citation>
+      <citation>TROPICOS. 2010.Tropicos.org. Missouri Botanical Garden</citation>
+      <citation>Ramirez, J., Medina, M., Perez, C., &amp; M. Longo. 2013. Caracterización ecológica de los sistemas acuáticos muestreados en el año 2013 en las regiones orinoquía (ventanas lipa y tame) y andina (ventana paipa) en áreas operativas de ecopetrol. Universidad de Antioquia. Medellín, Colombia. 177 p.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Fauna y flora del municipio de Lipa, Arauca</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=lipa_faunaflora_2014</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>FMB, IAvH-P, IAvH-M, IAvH-R, IAvH-Am, IAvH-A, IAvH-I, IAvH-E</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH</collectionIdentifier>
+                <collectionName>Colecciones Biológicas Instituto Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

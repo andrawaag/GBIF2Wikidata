@@ -1,0 +1,467 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="799cba8b-badc-4bb2-b8f7-3e6b6d2e7b3c"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/dlyb6w</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=avescienagadebeteiiapmonitoreo2018</alternateIdentifier>
+    <title>Monitoreo de la avifauna de la ciénaga de Beté, municipio del Medio Atrato-Chocó -2018</title>
+    <creator>
+    <individualName>
+<givenName>Nelsy Sofia</givenName>          <surName>Bonilla</surName>
+    </individualName>
+<organizationName>IIAP</organizationName><positionName>Investigadora contratista</positionName>    <address>
+<deliveryPoint>Carrera 6a No 37-39, Barrio Huapango</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>sofibon@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Eric Yair</givenName>          <surName>Rios</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Investigador asociado II</positionName>    <address>
+<deliveryPoint>Carrera sexta numero 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>46709126</phone><electronicMailAddress>erenteria@iiap.org.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Instituto de Investigaciones Ambientales del Pacifico</givenName>          <surName>IIAP</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Institución investigativa</positionName>    <address>
+<deliveryPoint>Carrera sexta numero 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5746709126</phone><onlineUrl>http://www.iiap.org.co</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2019-11-10
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Los ecosistemas cenagoso de la cuenca del Atrato contituyen espacion de una excepcional riqueza faunística fundamentales para la region del Atrato, cumpliendo con importantes funciones como lugar de descanso y alimentación de numerosas especies, siendo destacadas como áreas de importancia para especies migratorias tanto de peces como de aves, hábitat tipico de especies de anfibios como reptiles e importantes mamíferos, sin embargo la importancia individual de estos sistemas cenagosos del medio atrato se hace invaluable cuando se tiene en consideración los bienes y servicios ambientales que esto ecosistemas brindan a las comunidades asentadas a sus alrededores, proveyendo las principales fuentes abastecedoras de materias primas, recursos económicos y proteína a dichas comunidades.
+
+Sin embargo, a pesar de la relevancia que poseen los complejos cenagoso para la fauna y para las comunidades que de ellos se benefician, actualmente se encuentran expuestos a poteciales amenaza antrópicas que ponen en riesgo la capacidad de dicho ecosistema para generar bienes y servicios a las poblaciones humanas, lo que sumado a los vacios de información acerca de su biodiversidad y ecología, crean la necesidad de desarrolar dirigidas a generar conocimiento sobre sus potenciales faunísticos, el papel que las especies desempeñan en la funcionalidad y mantenimiento de estos ecosistemas y como toda esta dinámica se desarrolla en el tiempo. El levantamiento de la anterior información es de gran utilidad para la consolidación de instrumentos de manejo, ordenamiento y planificación de estos ecosistemas. Por lo tanto el presente estudio tiene como propósito monitorear los procesos ecológicos de la fauna que permitan identificar la denamiaca del estado de conservacion y la riqueza fuanistica de la ciénaga de Bete.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Ciénaga</keyword>
+              <keyword>Checklist</keyword>
+              <keyword>Fauna del Atrato</keyword>
+              <keyword>Aves del Chocó</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Derivedfromoccurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://ipt.biodiversidad.co/iiap/resource?r=avescienagadebeteiiapmonitoreo2018</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La ciénaga Grande de Beté tiene un área aproximada de 81.379, a una altura de 74 msnm. Pertenece política y administrativamente al municipio de Medio Atrato, Chocó, y está localizada en el margen izquierdo del río Atrato, aproximadamente a un 1 km de distancia y se sitúa en las coordenadas 6º 1&apos; 16.25&quot;N y 76º 46&apos; 41.78&quot; W (IIAP 2008) (figura 1). Los principales accidentes orográficos, de la zona los constituyen la Serranía del Baudó, con su máxima altura en el Alto del Buey (1.810 m), la cual se origina en inmediaciones del río San Juan y sigue paralelamente a la costa Pacífica hasta unirse con la del Darién, en el norte, delimitando al Chocó y a Colombia de Panamá. El régimen de lluvias del área se prolonga durante todo el año, con registros de hasta 12.000 mm3 de precipitación. La Temperatura se encuentra entre los 28°C y 30°C, con un alto grado de humedad ambiental (Plan de desarrollo municipal del Medio Atrato 2016-2019). Este complejo cenagoso es considerado, como uno de los más importantes en cuanto a productividad pesquera y diversidad biológica nativa y migratoria, además de constituir una reserva patrimonial, que alberga dentro de los límites territoriales, el parque Nacional Ensenada de Utría, Parque Nacional Natural de Tatamá mientras que en la frontera con Panamá se ubica el Parque Nacional de los Katíos.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.778</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.778</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.021</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.021</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2018-10-04
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-10-06
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>En el presente monitoreo, se registraron 317 individuos, que representan a 74 especies de aves, distribuidas en 31 familias y 19 órdenes. Los dos órdenes mejor representados, son Passeriformes con siete familias y 20 especies y Pelecaniformes, con dos familias y siete especies.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Accipiter superciliosus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia tzacatl</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazona farinosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aramus guarauna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea herodias</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Brotogeris jugularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bucco noanamae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Busarellus nigricollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteo platypterus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus urubitinga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides virescens</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cacicus cela</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cairina moschata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Calidris minutilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ceratopipra erythrocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chauna chavaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Choloroceryle amazona</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Claravis pretiosa</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Choloroceryle americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colaptes punctigula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colonia colonus </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga ani </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna autumnalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta caeurela</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta thula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glaucis hirsutus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mesembrinibis cayennensi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megascops choliba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiothlypis fulvicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Notharchus tectus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myrmotherula axillaris </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiozetetes cayanensis </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas goodsoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Parkesia noveboracensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Penelope ortoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas subvinacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaethornis yaruqui</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocrorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Piranga rubra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porphyrio martinicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Poliocrania exsul </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Psarocolius wagleri</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pteroglossus torquatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pyrilla pulchra</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pyrilia pyrilia</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Spatula discors</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphastos ambiguus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ramphocelus dimidiatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Taraba major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachyphonus luctuosus </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachyphonus delatrii </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trogon chionurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis episcopus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Thraupis palmarum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trogon melanurus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trogon massena</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus tyrannus </taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus savana </taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Zulmary</givenName>          <surName>Valoyes</surName>
+    </individualName>
+<organizationName>IIAP</organizationName><positionName>Investigadora Principal Componente Ecosistémico</positionName>    <address>
+<deliveryPoint>Carrera 6a No 37-39, Barrio Huapango</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><country>COLOMBIA</country>    </address>
+<onlineUrl>http://www.iiap.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1.	Selección de Zonas de muestreo
+2.	Registro de Ejemplares (censos desde puntos de radio fijo)
+3.	Identificación de Especies
+4.	Análisis de datos</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La zona de muestreo estuvo siempre con asociada a la vegetación circundante a la cianaga de Bete y al sendero que desde el pueblo conduce a dicha cienga, que se vio dominado por un nivel arbustivo y arbóreo. Se identificó una arquitectura y estructura vegetal representada principalmente por vegetación arbustiva y vegetación herbácea, que puede favorecer la ocurrencia de especies de vertebrados de gran adaptabilidad, y de aquellos que depende de claros para procesos vitales como la termorregulación. Además presenta un dosel de aproximadamente 3 a 10 metros el cual aporta sustrato para aquellas especies de vertebrados de comportamientos arborícolas. Finalmente suelo se caracteriza por presentar una importante alfombra de materia orgánica en descomposición, como hojarasca, raíces y troncos de árboles que proporciona las condiciones ideales para que establezcan algunos grupos de herpetos y mamíferos, sin dejar de lado de una importante presencia de macrofitas y aplantas rivereñas ideales para la ocurrencia de un gran numero de especie de aves de comportamientos aacuaticos o semiacuaticos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Selección de Zonas. Se seleccionaron cuatro zonas dentro del área de estudio, para poder tener una buena representatividad de los ambientes presentes en el humedal y así una mayor posibilidad de registrar mayor riqueza de aves. 
+Ciénagas: Grande, Redondita, Caldero 
+Caños: Amé, Torrobón
+Sendero: Mojanalga y Desembarcadero
+Zona Insular: Bosque Largo y Bosque Pequeño
+
+Registro de Ejemplares. Para la identificación de la comunidad que habita o visita el humedal y zona de influencia, se empleó el método de censos por avistamientos y registros de sonidos. Los cuales se utilizaron para conocer cuántas especies de aves hay en las áreas a muestrear. Durante el censo, se tuvo en cuenta todas las aves que se veían o escuchen en un período de tiempo determinado y preferiblemente antes de las 10 am cuando las aves están más activas. 
+
+Censos desde puntos de radio fijo. Establecimos nueve puntos de radio fijo, donde nos situamos en el centro de un círculo imaginario de 5 metros de radio y realizamos conteos y grabaciones de aves durante 10 minutos con la ayuda de binoculares (10 x 40), entre cada punto se tomó una distancia mínima 100 m.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Identificación de Especies. La Determinación taxonómica se realizó mediante la revisión de guías ilustradas de campo de: Restall et al. (2006), Ayerbe (2018), y clasificadas de siguiendo la propuesta de Remsen et al. (2018). Finalmente se identificaron las especies amenazadas de extinción de acuerdo con Renjifo et al. (2014), endémicas de acuerdo con Chaparro-Herrera (2013) y migratorias de acuerdo a Naranjo et al. (2012).
+
+Análisis de datos. La abundancia relativa se determinó dividendo el número de individuos colectados de cada especie sobre el total de los individuos registrados, y se expresara en porcentajes. También se estimó la representatividad del muestreo, a través de las curvas de acumulación de especies, generada mediante el programa Stimates (Versión 6.0), utilizando estimadores no paramétricos (Chao 2, ICE Mean), los cuales presentan un índice de confianza de 95%. Los datos obtenidos fueron confrontados con los obtenidos por el IIAP en 2010.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Identificación, caracterización y monitoreo de humedales costeros y continentales del Chocó Biogeográfico</title>
+          <personnel>
+    <individualName>
+<givenName>Instituto de Investigaciones Ambientales del Pacífico</givenName>          <surName>IIAP</surName>
+    </individualName>
+    <role>OWNER</role>
+          </personnel>
+          <abstract>
+              <para>En las innumerables cuencas hidrográficas de la región del Chocó biogeográfico, se han identificado importantes sitios Ramsar por su gran abundancia de humedales, entre los que se encuentran las dos grandes cuencas hidrográficas Baudó y San Juan. En la región del Chocó Biogeográfico, por ejemplo, tan solo en el bajo y medio Atrato se ha inventariado un aproximado de 960.000 hectáreas representados principalmente por ciénagas y bosques inundados, distribuidos a través de la llanura aluvial del río Atrato (Corpourabá y Codechocó, 2006). La principal amenaza para la conservación y uso sostenible de estos ecosistemas en la región obedece principalmente a la desvalorización y que se le ha dado a estos ecosistemas, viéndose vulnerados por diferentes actividades socioeconómicas como agricultura, extracción forestal y minería; así como el desconocimiento de su dinámica ecológica. 
+
+En este sentido con el objetivo de contribuir a la conservación, manejo y aprovechamiento sostenible de estos ecosistemas, el Instituto de Investigaciones Ambientales del Pacífico (IIAP), en alianza con el MADS y otros organismos locales y nacionales, a fin de desarrollar estudios que contribuyan a su uso y aprovechamiento sostenible y en alineamiento con la Política Nacional para la gestión integral de la biodiversidad y servicios ecosistémicos (PNGIBSE), Política Nacional de Cambio Climático (PNC) y la Política Nacional para la Gestión Integral del Recurso Hídrico (PENIA), estable en su Plan Operativo Anual, el proyecto “Delimitación, Caracterización y Monitoreo de humedales costeros y continentales del Chocó Biogeográfico”, teniendo entres sus principales actividades generar conocimiento sobre los aspectos biológicos, ecológicos, físicos y socioculturales de los ecosistemas de humedales costeros y continentales en la región. Para el planteamiento y ejecución de actividades del proyecto se implementó una metodología de levantamiento de información directa mediante muestreos estandarizados orientados a caracterizar ecológicamente estos ecosistemas identificados como elemento importante para el bienestar y etnodesarrollo de comunidades étnicas asentadas en la región, todo esto ceñido a la metodología recomendada por la Convención Ramsar.
+
+Con la ejecución de este proyecto, se pretende avanzar en la construcción y aplicación de nuevos criterios para la delimitación de ecosistemas de humedal de la región, se espera también, además de su delimitación y caracterización, continuar con programas de monitoreo que permitan conocer su dinámica ecológica, así como su estado de conservación en el tiempo, y así mismo generar planes de uso y manejo sostenible de la oferta ambiental.</para>
+          </abstract>
+          <funding>
+              <para>IIAP</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Los monitoreos se realizaron en dos importantes ecosistemas cenagosos localizadas en los departamentos del Cauca y chocó., como es el complejo cenagoso de la Abuelita en el Municipio de Guapi (Cauca) y la ciénaga de Bete en el municipio del Medio Atrato (Chocó), las cuales se describen a continuación: 
+ 
+La ciénaga Grande de Beté tiene un área aproximada de 81.379, a una altura de 74 msnm. Pertenece política y administrativamente al municipio de Medio Atrato, Chocó, y está localizada en el margen izquierdo del río Atrato, aproximadamente a un 1 km de distancia y se sitúa en las coordenadas 6º 1&apos; 16.25&quot;N y 76º 46&apos; 41.78&quot; W (IIAP 2008) (figura 1). Los principales accidentes orográficos, de la zona los constituyen la Serranía del Baudó, con su máxima altura en el Alto del Buey (1.810 m), la cual se origina en inmediaciones del río San Juan y sigue paralelamente a la costa Pacífica hasta unirse con la del Darién, en el norte, delimitando al Chocó y a Colombia de Panamá. El régimen de lluvias del área se prolonga durante todo el año, con registros de hasta 12.000 mm3 de precipitación. La Temperatura se encuentra entre los 28°C y 30°C, con un alto grado de humedad ambiental (Plan de desarrollo municipal del Medio Atrato 2016-2019). Este complejo cenagoso es considerado, como uno de los más importantes en cuanto a productividad pesquera y diversidad biológica nativa y migratoria, además de constituir una reserva patrimonial, que alberga dentro de los límites territoriales, el parque Nacional Ensenada de Utría, Parque Nacional Natural de Tatamá mientras que en la frontera con Panamá se ubica el Parque Nacional de los Katíos.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El monitoreo y caracterización ecológica de las ciénagas Grande de Bete en el departamento del Chocó y la quebrada La Abuelita en el departamento del Cauca, se realizó mediante el desarrollo de dos aspectos, el primera estuvo comprendido por la elaboración de la línea base, mientras que el segundo consistió en el levantamiento de la información directa en el área de estudio y su posterior análisis, mediante la implementación de distintos muestreo e inventarios, que permitieron determinar el estado fisicoquímico de las fuentes abastecedoras de agua, así como el componente florístico y faunística asociada a estas. La investigación estuvo acompañadas por un proceso de socialización con la comunidad, donde se les informo sobre los objetivos del estudio y se tuvieron en cuenta sus consideraciones al respecto, y finalmente al concluir las fases de muestreo se procedió a la presentación preliminar de los resultados obtenidos.
+
+Levantamiento de línea base de referencia: La línea base describe y analiza la panorámica general en relación a la biodiversidad de los humedales objetos de estudios, y sus ecosistemas acuáticos, mediante la recolección de información bibliográfica existente en los diferentes planes de ordenamiento de la zona, así como las investigaciones desarrolladas por instituciones como: IIAP, CODECHOCO, CORPOURABÁ, CORPARIEN; a partir de esta información se pudo sintetizar y analizar la situación: Económica, social, cultural y biológica de la zona.
+
+Inventarios, estado fisicoquímico del agua, componente florístico y faunística: Para su desarrollo se trabajó en distintos enfoques: En primer lugar, para determinar los parámetros fisicoquímico del agua de estos ecosistemas de humedales, se tomaron muestras directas de los cuerpos de agua para análisis en laboratorio de parámetros fisicoquímicos y mediciones in situ de los mismos, para posterior análisis, el componentes florísticos se trabajó mediante la realización de transectos y muestreos a la zar de la vegetación presente en el bosque circundante y el espejo de agua, para determinar la estructura y composición de la comunidad vegetal y se analizó su de conservación en el ecosistema cenagoso mediante la revisión de libros rojos y categorías de amenaza UICN; el componente faunístico se trabajó mediante inventarios rápidos para determinar composición, estructura, y estado de conservación, los cuales fueron acompañados por entrevistas a personas claves de las comunidades, quienes con base en su vivencia permanente, aportaron elementos complementarios para el análisis in situ del equipo técnico.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/dlyb6w">Bonilla N S, Rios E Y (2019). Monitoreo de la avifauna de la ciénaga de Beté, municipio del Medio Atrato-Chocó -2018. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/dlyb6w accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-iiap.jpg</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,394 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="434d867c-713f-4f13-8d03-b7de4f3a0ab8"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15472/l3cboh</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=faunachcalima_2017</alternateIdentifier>
+    <title>Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima - 2017</title>
+    <creator>
+    <individualName>
+<givenName>Marco</givenName>          <surName>Villegas</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName>    <address>
+<deliveryPoint>Avenida 6 A norte # 25 N -116 Oficina 301</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle Del Cauca</administrativeArea><postalCode>760012</postalCode><country>COLOMBIA</country>    </address>
+<phone>3158397700</phone><electronicMailAddress>m.villegas@paisajesrurales.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alexandra</givenName>          <surName>Bolaños</surName>
+    </individualName>
+<electronicMailAddress>alexiajn@hotmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Leidy Johanna</givenName>          <surName>Bernal</surName>
+    </individualName>
+<organizationName>EPSA - CELSIA</organizationName><positionName>Analista Ambiental</positionName>    <address>
+<deliveryPoint>Cl. 15 #29b30, Yumbo, Arroyo Hondo,</deliveryPoint><city>Yumbo</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760502</postalCode><country>COLOMBIA</country>    </address>
+<phone>3210000</phone><electronicMailAddress>ljbernal@celsia.com</electronicMailAddress>    <role>OWNER</role>
+    </associatedParty>
+      <pubDate>
+      2017-12-05
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La Empresa de Energía del Pacifico S.A. (EPSA-CELSIA). dando cumplimiento al plan de manejo ambiental , monitoreo y Seguimiento a la Flora y Fauna, consistente en la realización del muestreo de fauna y flora dentro del AID y AII de la Central Hidroeléctrica Calima ,mediante la Auto 2811 de 2015,ha realizado el monitoreo de fauna en el área de influencia de la CH Calima.
+EPSA-CELSIA delimitó un área o polígono en el departamento del Valle del Cauca para el análisis en el monitoreo y seguimiento de fauna, Sobre esta área Paisajes Rurales avanzó en la prestación de servicio de para la campaña de monitoreo de flora y fauna, Análisis multitemporal de coberturas para la Central Hidroeléctrica Calima del Plan de Manejo Ambiental en un área de 42.000 has.
+
+Las doce (12) áreas monitoreadas, denominadas en el informe como ventanas, se les desarrollaron la metodología para caracterizar a través de Evaluaciones Ecológicas Rápidas (EER). La metodología de la Evaluación Ecológica Rápida (EER), conocido en inglés como Rapid Ecological Assessment (REA), fue desarrollada por TNC y sus socios, para poder adquirir, analizar y manejar información ecológica de una manera eficiente y eficaz en un corto lapso de tiempo y a bajo costo (Metodología de Sobrevilla &amp;amp; Bath, detallada en: Muchoney et al. 1994; Sayre et al. 2000; ver también Soto &amp;amp; Jiménez 1992 y Kappelle et al. 2002).
+
+En la base de datos se ingresó para el grupo de avifauna, se ingresó un total de 5064 registros de individuos, correspondientes a 188 especies de aves, de 49 familias,  de las cuales cinco (5) especies son endémicas (Habia cristata, Myiarchus apicallis, Odontophorus hyperythrus, Ortalis columbiana y Picumnus granadensis) y quince casi endémicas (15) son casi endémicas, una especie de interés especial (Coccycua pumila) y cinco especies migratorias (Contopus virenus, Mniotilta varia, Oporornis philadelphia, Piranga rubra, Setophaga fusca). Para la mastofauna se registró un total de 20 especies de mamíferos grandes y medianos. Estas especies están clasificadas en 9 órdenes, 15 familias y 20 géneros; la especie más abundante registrada fue Glossophaga soricina con 19 individuos. Y para la Herpetofauna, Para Anfibios se encontraron 5 especies con 83 individuos y 4 familias, en Reptiles se reportaron 8 especies con 11 individuos y 5 familias, para anfibios la especie más reportada fue 	Dendropsophus columbianus con un total de 65 individuos en 9 de las 12 ventanas estudiadas, para el caso de los reptiles la especie más vista fue Cercosaura vertebralis con 3 individuos en la ventana Cristalina.</para>
+    </abstract>
+        <keywordSet>
+              <keyword></keyword>
+              <keyword>seguimiento</keyword>
+              <keyword>Bosque andino</keyword>
+              <keyword>CH Calima; conservación</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>Monitoreo</keyword>
+              <keyword>Darién</keyword>
+              <keyword>Yotoco</keyword>
+              <keyword>Restrepo</keyword>
+              <keyword>aves</keyword>
+              <keyword>mamíferos</keyword>
+              <keyword>Observation</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>Lago Calima</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Corporación Paisajes Rurales (CPR) y la Empresa de Energía del Pacifico S.A. (EPSA-CELSIA), trabajaron el monitoreo y seguimiento de la fauna terrestre dentro del AID y AII de la Central Hidroeléctrica Calima, municipio de Calima-Darién. El municipio de Calima El Darién se localiza en el noroeste del Departamento del Valle del Cauca, asentado en el valle del río Calima que cuenta con un área de 411 Km2 hasta la confluencia con el río Bravo. Calima-Darién dista 100 km aproximadamente de la ciudad de Cali y se ubica a una altitud de 1487 msnm. La cuenca Hidrográfica del río Calima está ubicada en la vertiente occidental de la Cordillera Occidental. Dentro de la cuenca alta se ubica el embalse Calima, sobre una altura promedio de 1.400 msnm. El valle alto del río Calima tiene una longitud de 17 Km y en él se ubica El Darién, cabecera municipal del municipio. El embalse recibe aguas del río Calima y la desviación del río Bravo. Se extiende en una superficie de 1934 Ha abarcando aproximadamente 13 Km. de largo por 1,5 Km. de ancho. La capacidad total es de 581 Mm3 y una capacidad útil de 441 Mm3 (FAO 1993).
+
+La ventana 1 (Río Calima), se encuentra aproximadamente a 5 Km del casco urbano del municipio Calima-Darién (N 3°56’46,5’’ W 76°27’49,0’’ a 1472 m.s.n.m). En general, se caracteriza por presentar un alto número de pasturas naturales, cultivos (especialmente de plátano y banano) y algunos relictos de bosque nativo, los cuales están muy asociados a las riberas del río Calima. Entre los fragmentos de bosque nativo existen diferentes estados de conservación y fragmentación que en algunos casos requieren de prontas medidas de conservación y protección para conservar algunas especies de gran valor ecológico y botánico que aún subsisten en esta área de estudio. La ventana 2 (Cola de Embalse), se encuentra ubicada aproximadamente a 1 Km del casco urbano del municipio Calima – Darién (N 3°55’42,5’’ W 76°28’27,5’’ a 1469 m.s.n.m). En general, se caracteriza por presentar áreas con una fuerte intervención antrópica, pasturas naturales y coberturas vegetales en diferentes estados de conservación, especialmente con dominio de coberturas vegetales tempranas. El aislamiento de algunos relictos de bosque nativo que aún subsisten en esta área es un factor común que requiere de prontas medidas de conservación y protección. Un aspecto positivo que llama mucho la atención en la presente investigación es el cambio notorio en la “dinámica poblacional” que se ha venido registrando dentro de la “parcela de monitoreo de la vegetación” en este sector de la Hidroeléctrica, el cual ha sido “positivo o favorable para todo el ecosistema”.  Por tal motivo, se podría afirmar que este tipo de investigaciones en plantas es un paso muy importante para conocer la dinámica poblacional de los bosques tropicales en esta área del departamento del Valle del Cauca.
+
+La ventana 3 (Jiguales), está ubicada en la vereda Jiguales entre las coordenadas N 3°53’48,2’’ W 76°27’39,9’’  a 1481 m.s.n.m. En general, se caracteriza por presentar diferentes usos del suelo como son pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas (un alto número de viviendas en los alrededores del Lago Calima). La existencia de algunas pasturas es un factor negativo para algunos relictos de bosque nativo que se ven muy amenazados por el ingreso del ganado a su interior, por tal motivo, este ingreso del ganado es un factor negativo que contribuye poco a poco con la desaparición lenta de estos fragmento de bosque que aún subsisten en toda el área de estudio.  Sin embargo, también se deben resaltar aquellos fragmentos de bosque nativo en buen estado de conservación, los cuales están aislados y con especies de alto valor ecológico y botánico. La ventana 4 (Yotoco), está ubicada a N 3°53’01,0’’ W 76°26’32,1’ a 1701 m.s.n.m y corresponde a la zona de amortiguamiento entre el embalse de Calima y la Reserva Natural de Yotoco, esta área de estudio se caracteriza por presentar varios usos del suelo como pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas. Sin embargo, la mayoría de los relictos de bosque nativo están en buen estado de conservación y aislados para evitar el ingreso del ganado a su interior, el cual daña notoriamente el sotobosque.  
+
+La Ventana 5 (Parcelación El lago), está ubicado entre las coordenadas geográficas N 3°51’24,8’’ W 76°33’11,8’’ a 1614 m.s.n.m. En general, se caracteriza por presentar una fuerte intervención antrópica, pequeñas áreas de cultivos, pasturas naturales y algunos relictos de bosque nativo. Sin embargo, la fuerte intervención antrópica ha propiciado la tala indiscriminada de bosques y eso ha sido un factor negativo para la presente investigación científica, con este tipo de intervenciones antrópicas los más afectados se podría decir que es el mismo hombre y en otros casos las fuentes hídricas, el aire y la biodiversidad. La Ventana 6 (Rosa de los Vientos), está ubicada a N 3°53’04,8’’ W 76°30’54,1’’ a 1524 m.s.n.m en la vereda Puerto Buga. En general, se caracteriza por presentar varios usos del suelo como pasturas naturales (en su mayoría en mal estado de conservación), viviendas y algunos fragmentos de bosque nativo en diferentes estados de conservación. La presencia de pasturas naturales en mal estado de conservación, ingreso del ganado a los relictos de bosque nativo y los continuos incendios forestales, serían las principales causas que afectan a la biodiversidad en esta área de estudio; por tal motivo, entidades públicas y privadas deberían hacer mayores esfuerzos para poder conservar o cuidar lo que aún se conserva en recursos naturales (en especial especies de flora y fauna) en esta área de estudio.
+
+La Ventana 7 (Palermo), está ubicado entre las coordenadas geográficas N 3°53’45.5’’ y W 76°32’42.5’’ a 1445 m.s.n.m., en esta ventana es común las pasturas naturales (en algunos casos con árboles aislados), urbanizaciones y fragmentos de bosque en diferentes estados de conservación. El crecimiento urbanístico y la ganadería son los factores de mayor incidencia sobre los recursos naturales en esta área de estudio. La ventana 8 (Casa de Maquinas), está ubicado en la vereda Río Bravo en las coordenadas geográficas N  3°52’54,6’’  y W 76°35’18,9’’ a 1545 m.s.n.m., se caracteriza por presentar fragmentos de bosque en buen estado de conservación, algunas pasturas naturales y viviendas de forma aislada.
+
+La ventana 9 (El Vergel), está localizado entre las entradas 4 y 5 del Embalse entre las coordenadas geográficas N 3°54’43,6’’ y W 76°29’41,8’’ a 1471 m.s.n.m., se caracteriza por presentar algunas pasturas naturales, fragmentos de bosque en diferentes estados de conservación y una fuerte presión antrópica, un aspecto que llama mucho la atención en este punto de investigación es el daño causado por el ganado al aislamiento realizado en meses anteriores (aproximadamente en el año 2.015). La Ventana 10 (Cerbatana), está ubicado en la Serranía de la Cerbatana  entre las coordenadas geográficas N 3°56’04,1’’ y W 76°32’00,0’’ a  2390 msnm., se caracteriza por presentar fragmentos de bosque en buen estado de conservación con una alta biodiversidad en plantas.
+
+La Ventana 11 (Río Bravo), está en el área de la cuenca del Río Bravo se encuentra ubicada a 3°56’ 29,1’’ N y  076°33’46,9’’W a 1611m de altitud.  Es una zona de pocos asentamientos humanos rodeada de bosques primarios y secundarios bien conservados y con poca intervención antrópica. En general, se caracteriza por presentar fragmentos de bosque en buen estado de conservación y con una alta biodiversidad. La Ventana 12 (La Cristalina), se encuentra ubicada específicamente a N 4° 00’ 39,1’’   W 76°28’34,6’’ a 1929 m.s.n.m., se caracteriza por presentar fragmentos de bosque nativo en buen estado de conservación y con una alta diversidad en plantas y animales,  las viviendas o asentamientos humanos no es un factor común en el área de estudio.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.61</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.437</eastBoundingCoordinate>
+                      <northBoundingCoordinate>4.005</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.852</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-03-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-03-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Para el área de influencia directa (AID) y área de influencia indirecta (AII) de la Central Hidroeléctrica Calima, se realizaron 352 horas netas de observación, en las 12 ventanas de monitoreo y seguimiento establecidas, para un total de 5260registros, Observamos un total de 5064 individuos de 188 especies de aves, 102 individuos de 20 especies de mamíferos, 11 individuos de 20 especies de reptiles y 83 individuos de 5 especies de anfibios.
+
+Se identificaron hasta nivel de especie, utilizamos la clasificación de aves de Colombia a través de la guía de Campo de Aves de Colombia (Mc Mullan et al. 2015); www.acherpetologia.org, www.serpientesdecolombia.com, y Castro-Herrera F. &amp; F. Vargas. 2008. Para Herpetofauna y en mamíferos Alberico et al, 2000.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae, Tyrannidae, Parulidae, Emberizidae, Turdidae, Furnariidae, Accipitridae, Columbidae, Anatidae, Ardeidae, Apodidae, Capitonidae, Psittacidae, Trochilidae, Cardinalidae, Falconidae, Picidae, Thamnophilidae, Cracidae, Cuculidae, Hirundinidae, Icteridae, Troglodytidae, Vireonidae, Caprimulgidae, Cathartidae, Charadriidae, Scolopacidae, Falconidae, Podicipedidae,  Corvidae, Fringilidae, Grallaridae, Odontophoridae, Ramphastidae, Trogonidae, Coerebidae, Conopophagidae, Cotingidae, Mimidae, Momotidae, Pandionidae, Parulidae, Phalacrocoracidae, Picidae, Rallidae, Threskiornithidae, Tinamidae, Tityridae, Polychrotidae, Colubridae, Elapidae, Gymnoltamidae, Sphaerodactylidae, Sciuridae, Dasypodidae, Bradypodidae, Dasyproctidae, Ursidae, Procyonidae, Aotidae, Cebidae, Didelphidae, Mustelidae, Atelidae, Phyllostomidae, Bufonidae, Hylidae, Strabomantidae, Dendrobatidae, Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>Realizar el monitoreo y seguimiento de la fauna terrestre en las AID y AII de la Central Hidroeléctrica Calima. Para dar cumplimiento al Auto 2811 de 2015.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>asNeeded</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Marco Aarón</givenName>          <surName>Villegas</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName>    <address>
+<deliveryPoint>Avenida 6 A norte # 25 N -116 Oficina 301</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle Del Cauca</administrativeArea><postalCode>760012</postalCode><country>COLOMBIA</country>    </address>
+<phone>3158397700</phone><electronicMailAddress>m.villegas@paisajesrurales.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Fabio Herney</givenName>          <surName>Lozano Zambrano</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName>    <address>
+<deliveryPoint>Avenida 6 A norte # 25 N -116 Oficina 301</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle Del Cauca</administrativeArea><postalCode>760012</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5724850497</phone><electronicMailAddress>f.lozano@paisajesrurales.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Gustavo Javier</givenName>          <surName>Guerra Gonzalez</surName>
+    </individualName>
+<organizationName>Corporación Paisajes Rurales</organizationName>    <address>
+<deliveryPoint>Avenida 6 A norte # 25 N -116 Oficina 301</deliveryPoint><city>Santiago de Cali</city><administrativeArea>Valle Del Cauca</administrativeArea><postalCode>760012</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5724850497</phone><electronicMailAddress>g.guerra@paisajesrurales.com</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Trabajo de campo: El monitoreo y seguimiento se realizó en 12 ventanas (Areas) en el AID y AII de la CH Calima (Valle del Cauca), entre los 1400 y 2600 msnm: bosque denso alto, bosque ripario, vegetación secundaria y Pastos arbolados, se realizaron puntos de observación y transectos, estos transectos con distancia variable y con un ancho de 10 metros a cada lado. El trabajo en campo se realizó entre el 02 de marzo de 2017 y 31 de marzo del 2017, entre las 06:00 a 14:00 horas y entre 16:00 y 22:00 horas. En cada ventana de monitoreo se realizaron observaciones y se emplearon cuatro metodologías para el monitoreo de fauna: redes de niebla para la captura de aves y mamíferos voladores (quirópteros), transectos de observación visual y auditiva para anfibios, reptiles, mamíferos y aves. Además, de cámara trampas y trampas Sherman.  En las Ventanas de Rio Bravo, La Cristalina, Cola de Embalse y Casa de máquinas con 3 días efectivos de monitoreo en las restantes ocho ventanas de dos días efectivos de monitoreo.
+
+Trabajo de laboratorio: A las grabaciones realizadas en campo se les hicieron sonogramas. Los sonogramas son gráficos del sonido, en este caso el canto de las aves, en donde se relaciona la frecuencia del sonido con su duración en segundos (Lozano et al 2009). Este trabajo se realizó con el programa de análisis acústico RAVEN v1.4. Y AUDACITY V9.  De esta forma la identificación está apoyada tanto en la imagen como en el sonido. Para corroborar algunas identificaciones se compararon con los sonogramas de la colección de referencia de Xenocanto (http://www.xeno-canto.org/). Para la determinación taxonómica utilizamos la clasificación de aves de Colombia de Mc Mullan et al (2015). Se realizó una colección de referencia de sonidos y sonogramas.
+
+Análisis de la información: Mediante curvas de acumulación de especies y el uso del estimador ACE (Estimador de cobertura basado en abundancias), evaluamos el porcentaje de representatividad del muestreo (Colwell 2013), a nivel del paisaje y a nivel de cada ventana. Así mismo, teniendo en cuenta que las ventanas en total no fueron muestreados con igual esfuerzo de muestreo, se hicieron curvas de rarefacción. Determinamos rangos de abundancia para cada especie bajo el criterio de Parker (1991), con algunas modificaciones. La abundancia relativa fue representada utilizando el gráfico de rango-abundancia o curva de Whittaker. En este trabajo medimos I) la riqueza de especies o diversidad alfa, a través del índice de Chao (Chao 1984), y el índice de Jackknife (Krebs 1989). II) Para la diversidad beta, que es el grado de cambio o reemplazo en la composición de especies entre diferentes elementos del paisaje, utilizamos el índice de Jaccard y el índice de Bray-Curtis. III) Para la diversidad gama, utilizamos el índice de Whittaker (Whittaker 1972) que describe esta diversidad a partir de la integración de las diversidades beta y alfa. Parece ser muy conveniente y robusto en sus resultados para medir el reemplazo de comunidades (Villareal et al 2006). La estructura de la comunidad la estimamos a través de índices de heterogeneidad que combinan los componentes riqueza y dominancia de especies: índice de equidad de Shannon-Wiener y el índice de diversidad de Simpson (Simpson 1949). Todos los índices fueron calculados con el paquete “ESTIMATIE S 9”, PAST y Biological PRO.
+
+
+Índice de valor de conservación (IVC): Se utilizó el índice de valor de conservación (IVC), para la identificación de elementos del paisaje rural con valor de conservación (priorización). Este índice recoge e integra criterios biológicos (diversidad alfa, endemismo y amenaza) de los diferentes grupos biológicos objetivos utilizados en la caracterización (Mendoza et al. 2008), en este caso las aves. Se incluyeron los siguientes criterios: No. de especies de aves, No. de especies endémicas-casi endémicas y No. de especies vulnerables a nivel local en cada réplica, elegimos especies vulnerables a nivel local, debido a que no registramos especies amenazadas. 
+
+Para la priorización de especies vulnerables se tuvo en cuenta las especies referenciadas en la IUCN, CITES y la resolución 0192 de febrero 10 de 2014. La Abundancia (Definida a partir de las categorías de abundancia de las especies registradas en el estudio) 
+
+Se construyeron rangos mediante percentiles, a partir de los datos obtenidos para cada uno de los criterios considerados. Generamos tres rangos (alto, medio y bajo) por cada criterio y les asignamos peso relativo de cinco, tres y uno respectivamente. La suma de los criterios nos da el índice de valor de conservación, para la visualización de éste, generamos un mapa con elementos de paisaje cruzando coberturas con un mapa de alturas, categorizadas en tres categorías (Alta, Media y Baja generadas por percentiles para cada cuenca). Luego se cruzó este mapa de elementos del paisaje con los puntos de muestreo con valor de conservación de aves y plantas, asignando el mayor valor de IVC encontrado en casos donde hubiese más de un punto por elemento. Finalmente clasificamos en Alto, Medio y Bajo usando la clasificación por cuantiles de ArcGIS para cada cuenca de acuerdo al IVC asignado.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>La Corporación Paisajes Rurales (CPR) y la Empresa de Energía del Pacifico S.A. (EPSA-CELSIA), trabajaron el monitoreo y seguimiento de la fauna terrestre dentro del AID y AII de la Central Hidroeléctrica Calima, municipio de Calima-Darién. El municipio de Calima El Darién se localiza en el noroeste del Departamento del Valle del Cauca, asentado en el valle del río Calima que cuenta con un área de 411 Km2 hasta la confluencia con el río Bravo. Calima-Darién dista 100 km aproximadamente de la ciudad de Cali y se ubica a una altitud de 1487 msnm. La cuenca Hidrográfica del río Calima está ubicada en la vertiente occidental de la Cordillera Occidental. Dentro de la cuenca alta se ubica el embalse Calima, sobre una altura promedio de 1.400 msnm. El valle alto del río Calima tiene una longitud de 17 Km y en él se ubica El Darién, cabecera municipal del municipio. El embalse recibe aguas del río Calima y la desviación del río Bravo. Se extiende en una superficie de 1934 Ha abarcando aproximadamente 13 Km. de largo por 1,5 Km. de ancho. La capacidad total es de 581 Mm3 y una capacidad útil de 441 Mm3 (FAO 1993).
+
+La ventana 1 (Río Calima), se encuentra aproximadamente a 5 Km del casco urbano del municipio Calima-Darién (N 3°56’46,5’’ W 76°27’49,0’’ a 1472 m.s.n.m). En general, se caracteriza por presentar un alto número de pasturas naturales, cultivos (especialmente de plátano y banano) y algunos relictos de bosque nativo, los cuales están muy asociados a las riberas del río Calima. Entre los fragmentos de bosque nativo existen diferentes estados de conservación y fragmentación que en algunos casos requieren de prontas medidas de conservación y protección para conservar algunas especies de gran valor ecológico y botánico que aún subsisten en esta área de estudio. La ventana 2 (Cola de Embalse), se encuentra ubicada aproximadamente a 1 Km del casco urbano del municipio Calima – Darién (N 3°55’42,5’’ W 76°28’27,5’’ a 1469 m.s.n.m). En general, se caracteriza por presentar áreas con una fuerte intervención antrópica, pasturas naturales y coberturas vegetales en diferentes estados de conservación, especialmente con dominio de coberturas vegetales tempranas. El aislamiento de algunos relictos de bosque nativo que aún subsisten en esta área es un factor común que requiere de prontas medidas de conservación y protección. Un aspecto positivo que llama mucho la atención en la presente investigación es el cambio notorio en la “dinámica poblacional” que se ha venido registrando dentro de la “parcela de monitoreo de la vegetación” en este sector de la Hidroeléctrica, el cual ha sido “positivo o favorable para todo el ecosistema”.  Por tal motivo, se podría afirmar que este tipo de investigaciones en plantas es un paso muy importante para conocer la dinámica poblacional de los bosques tropicales en esta área del departamento del Valle del Cauca.
+
+La ventana 3 (Jiguales), está ubicada en la vereda Jiguales entre las coordenadas N 3°53’48,2’’ W 76°27’39,9’’  a 1481 m.s.n.m. En general, se caracteriza por presentar diferentes usos del suelo como son pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas (un alto número de viviendas en los alrededores del Lago Calima). La existencia de algunas pasturas es un factor negativo para algunos relictos de bosque nativo que se ven muy amenazados por el ingreso del ganado a su interior, por tal motivo, este ingreso del ganado es un factor negativo que contribuye poco a poco con la desaparición lenta de estos fragmento de bosque que aún subsisten en toda el área de estudio.  Sin embargo, también se deben resaltar aquellos fragmentos de bosque nativo en buen estado de conservación, los cuales están aislados y con especies de alto valor ecológico y botánico. La ventana 4 (Yotoco), está ubicada a N 3°53’01,0’’ W 76°26’32,1’ a 1701 m.s.n.m y corresponde a la zona de amortiguamiento entre el embalse de Calima y la Reserva Natural de Yotoco, esta área de estudio se caracteriza por presentar varios usos del suelo como pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas. Sin embargo, la mayoría de los relictos de bosque nativo están en buen estado de conservación y aislados para evitar el ingreso del ganado a su interior, el cual daña notoriamente el sotobosque.  
+
+La Ventana 5 (Parcelación El lago), está ubicado entre las coordenadas geográficas N 3°51’24,8’’ W 76°33’11,8’’ a 1614 m.s.n.m. En general, se caracteriza por presentar una fuerte intervención antrópica, pequeñas áreas de cultivos, pasturas naturales y algunos relictos de bosque nativo. Sin embargo, la fuerte intervención antrópica ha propiciado la tala indiscriminada de bosques y eso ha sido un factor negativo para la presente investigación científica, con este tipo de intervenciones antrópicas los más afectados se podría decir que es el mismo hombre y en otros casos las fuentes hídricas, el aire y la biodiversidad. La Ventana 6 (Rosa de los Vientos), está ubicada a N 3°53’04,8’’ W 76°30’54,1’’ a 1524 m.s.n.m en la vereda Puerto Buga. En general, se caracteriza por presentar varios usos del suelo como pasturas naturales (en su mayoría en mal estado de conservación), viviendas y algunos fragmentos de bosque nativo en diferentes estados de conservación. La presencia de pasturas naturales en mal estado de conservación, ingreso del ganado a los relictos de bosque nativo y los continuos incendios forestales, serían las principales causas que afectan a la biodiversidad en esta área de estudio; por tal motivo, entidades públicas y privadas deberían hacer mayores esfuerzos para poder conservar o cuidar lo que aún se conserva en recursos naturales (en especial especies de flora y fauna) en esta área de estudio.
+
+La Ventana 7 (Palermo), está ubicado entre las coordenadas geográficas N 3°53’45.5’’ y W 76°32’42.5’’ a 1445 m.s.n.m., en esta ventana es común las pasturas naturales (en algunos casos con árboles aislados), urbanizaciones y fragmentos de bosque en diferentes estados de conservación. El crecimiento urbanístico y la ganadería son los factores de mayor incidencia sobre los recursos naturales en esta área de estudio. La ventana 8 (Casa de Maquinas), está ubicado en la vereda Río Bravo en las coordenadas geográficas N  3°52’54,6’’  y W 76°35’18,9’’ a 1545 m.s.n.m., se caracteriza por presentar fragmentos de bosque en buen estado de conservación, algunas pasturas naturales y viviendas de forma aislada.
+
+La ventana 9 (El Vergel), está localizado entre las entradas 4 y 5 del Embalse entre las coordenadas geográficas N 3°54’43,6’’ y W 76°29’41,8’’ a 1471 m.s.n.m., se caracteriza por presentar algunas pasturas naturales, fragmentos de bosque en diferentes estados de conservación y una fuerte presión antrópica, un aspecto que llama mucho la atención en este punto de investigación es el daño causado por el ganado al aislamiento realizado en meses anteriores (aproximadamente en el año 2.015). La Ventana 10 (Cerbatana), está ubicado en la Serranía de la Cerbatana  entre las coordenadas geográficas N 3°56’04,1’’ y W 76°32’00,0’’ a  2390 msnm., se caracteriza por presentar fragmentos de bosque en buen estado de conservación con una alta biodiversidad en plantas.
+
+La Ventana 11 (Río Bravo), está en el área de la cuenca del Río Bravo se encuentra ubicada a 3°56’ 29,1’’ N y  076°33’46,9’’W a 1611m de altitud.  Es una zona de pocos asentamientos humanos rodeada de bosques primarios y secundarios bien conservados y con poca intervención antrópica. En general, se caracteriza por presentar fragmentos de bosque en buen estado de conservación y con una alta biodiversidad. La Ventana 12 (La Cristalina), se encuentra ubicada específicamente a N 4° 00’ 39,1’’   W 76°28’34,6’’ a 1929 m.s.n.m., se caracteriza por presentar fragmentos de bosque nativo en buen estado de conservación y con una alta diversidad en plantas y animales,  las viviendas o asentamientos humanos no es un factor común en el área de estudio.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Trabajo de campo: El monitoreo y seguimiento se realizó en 12 ventanas (Areas) en el AID y AII de la CH Calima (Valle del Cauca), entre los 1400 y 2600 msnm: bosque denso alto, bosque ripario, vegetación secundaria y Pastos arbolados, se realizaron puntos de observación y transectos, estos transectos con distancia variable y con un ancho de 10 metros a cada lado. El trabajo en campo se realizó entre el 02 de marzo de 2017 y 31 de marzo del 2017, entre las 06:00 a 14:00 horas y entre 16:00 y 22:00 horas. En cada ventana de monitoreo se realizaron observaciones y se emplearon cuatro metodologías para el monitoreo de fauna: redes de niebla para la captura de aves y mamíferos voladores (quirópteros), transectos de observación visual y auditiva para anfibios, reptiles, mamíferos y aves. Además, de cámara trampas y trampas Sherman.  En las Ventanas de Rio Bravo, La Cristalina, Cola de Embalse y Casa de máquinas con 3 días efectivos de monitoreo en las restantes ocho ventanas de dos días efectivos de monitoreo.
+
+Trabajo de laboratorio: A las grabaciones realizadas en campo se les hicieron sonogramas. Los sonogramas son gráficos del sonido, en este caso el canto de las aves, en donde se relaciona la frecuencia del sonido con su duración en segundos (Lozano et al 2009). Este trabajo se realizó con el programa de análisis acústico RAVEN v1.4. Y AUDACITY V9.  De esta forma la identificación está apoyada tanto en la imagen como en el sonido. Para corroborar algunas identificaciones se compararon con los sonogramas de la colección de referencia de Xenocanto (http://www.xeno-canto.org/). Para la determinación taxonómica utilizamos la clasificación de aves de Colombia de Mc Mullan et al (2015). Se realizó una colección de referencia de sonidos y sonogramas.
+
+Análisis de la información: Mediante curvas de acumulación de especies y el uso del estimador ACE (Estimador de cobertura basado en abundancias), evaluamos el porcentaje de representatividad del muestreo (Colwell 2013), a nivel del paisaje y a nivel de cada ventana. Así mismo, teniendo en cuenta que las ventanas en total no fueron muestreados con igual esfuerzo de muestreo, se hicieron curvas de rarefacción. Determinamos rangos de abundancia para cada especie bajo el criterio de Parker (1991), con algunas modificaciones. La abundancia relativa fue representada utilizando el gráfico de rango-abundancia o curva de Whittaker. En este trabajo medimos I) la riqueza de especies o diversidad alfa, a través del índice de Chao (Chao 1984), y el índice de Jackknife (Krebs 1989). II) Para la diversidad beta, que es el grado de cambio o reemplazo en la composición de especies entre diferentes elementos del paisaje, utilizamos el índice de Jaccard y el índice de Bray-Curtis. III) Para la diversidad gama, utilizamos el índice de Whittaker (Whittaker 1972) que describe esta diversidad a partir de la integración de las diversidades beta y alfa. Parece ser muy conveniente y robusto en sus resultados para medir el reemplazo de comunidades (Villareal et al 2006). La estructura de la comunidad la estimamos a través de índices de heterogeneidad que combinan los componentes riqueza y dominancia de especies: índice de equidad de Shannon-Wiener y el índice de diversidad de Simpson (Simpson 1949). Todos los índices fueron calculados con el paquete “ESTIMATIE S 9”, PAST y Biological PRO.
+
+
+Índice de valor de conservación (IVC): Se utilizó el índice de valor de conservación (IVC), para la identificación de elementos del paisaje rural con valor de conservación (priorización). Este índice recoge e integra criterios biológicos (diversidad alfa, endemismo y amenaza) de los diferentes grupos biológicos objetivos utilizados en la caracterización (Mendoza et al. 2008), en este caso las aves. Se incluyeron los siguientes criterios: No. de especies de aves, No. de especies endémicas-casi endémicas y No. de especies vulnerables a nivel local en cada réplica, elegimos especies vulnerables a nivel local, debido a que no registramos especies amenazadas. 
+
+Para la priorización de especies vulnerables se tuvo en cuenta las especies referenciadas en la IUCN, CITES y la resolución 0192 de febrero 10 de 2014. La Abundancia (Definida a partir de las categorías de abundancia de las especies registradas en el estudio) 
+
+Se construyeron rangos mediante percentiles, a partir de los datos obtenidos para cada uno de los criterios considerados. Generamos tres rangos (alto, medio y bajo) por cada criterio y les asignamos peso relativo de cinco, tres y uno respectivamente. La suma de los criterios nos da el índice de valor de conservación, para la visualización de éste, generamos un mapa con elementos de paisaje cruzando coberturas con un mapa de alturas, categorizadas en tres categorías (Alta, Media y Baja generadas por percentiles para cada cuenca). Luego se cruzó este mapa de elementos del paisaje con los puntos de muestreo con valor de conservación de aves y plantas, asignando el mayor valor de IVC encontrado en casos donde hubiese más de un punto por elemento. Finalmente clasificamos en Alto, Medio y Bajo usando la clasificación por cuantiles de ArcGIS para cada cuenca de acuerdo al IVC asignado.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima. 2017.</title>
+          <personnel>
+    <individualName>
+<givenName>Marco Aarón</givenName>          <surName>Villegas Trujillo</surName>
+    </individualName>
+    <role>AUTHOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Fabio Herney</givenName>          <surName>Lozano Zambrano</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Gustavo Javier</givenName>          <surName>Guerra Gonzalez</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para>La Empresa de Energía del Pacifico S.A. (EPSA-CELSIA). dando cumplimiento al plan de manejo ambiental , monitoreo y Seguimiento a la Flora y Fauna, consistente en la realización del muestreo de fauna y flora dentro del AID y AII de la Central Hidroeléctrica Calima ,mediante la Auto 2811 de 2015,ha realizado el monitoreo de fauna en el área de influencia de la CH Calima.
+EPSA-CELSIA delimitó un área o polígono en el departamento del Valle del Cauca para el análisis en el monitoreo y seguimiento de fauna, Sobre esta área Paisajes Rurales avanzó en la prestación de servicio de para la campaña de monitoreo de flora y fauna, Análisis multitemporal de coberturas para la Central Hidroeléctrica Calima del Plan de Manejo Ambiental en un área de 42.000 has.
+
+Las doce (12) áreas monitoreadas, denominadas en el informe como ventanas, se les desarrollaron la metodología para caracterizar a través de Evaluaciones Ecológicas Rápidas (EER). La metodología de la Evaluación Ecológica Rápida (EER), conocido en inglés como Rapid Ecological Assessment (REA), fue desarrollada por TNC y sus socios, para poder adquirir, analizar y manejar información ecológica de una manera eficiente y eficaz en un corto lapso de tiempo y a bajo costo (Metodología de Sobrevilla &amp; Bath, detallada en: Muchoney et al. 1994; Sayre et al. 2000; ver también Soto &amp; Jiménez 1992 y Kappelle et al. 2002).
+
+En la base de datos se ingresó para el grupo de avifauna, se ingresó un total de 5064 registros de individuos, correspondientes a 188 especies de aves, de 49 familias,  de las cuales cinco (5) especies son endémicas (Habia cristata, Myiarchus apicallis, Odontophorus hyperythrus, Ortalis columbiana y Picumnus granadensis) y quince casi endémicas (15) son casi endémicas, una especie de interés especial (Coccycua pumila) y cinco especies migratorias (Contopus virenus, Mniotilta varia, Oporornis philadelphia, Piranga rubra, Setophaga fusca). Para la mastofauna se registró un total de 20 especies de mamíferos grandes y medianos. Estas especies están clasificadas en 9 órdenes, 15 familias y 20 géneros; la especie más abundante registrada fue Glossophaga soricina con 19 individuos. Y para la Herpetofauna, Para Anfibios se encontraron 5 especies con 83 individuos y 4 familias, en Reptiles se reportaron 8 especies con 11 individuos y 5 familias, para anfibios la especie más reportada fue 	Dendropsophus columbianus con un total de 65 individuos en 9 de las 12 ventanas estudiadas, para el caso de los reptiles la especie más vista fue Cercosaura vertebralis con 3 individuos en la ventana Cristalina.</para>
+          </abstract>
+          <funding>
+              <para>EPSA-CELSIA</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La Corporación Paisajes Rurales (CPR) y la Empresa de Energía del Pacifico S.A. (EPSA-CELSIA), trabajaron el monitoreo y seguimiento de la fauna terrestre dentro del AID y AII de la Central Hidroeléctrica Calima, municipio de Calima-Darién. El municipio de Calima El Darién se localiza en el noroeste del Departamento del Valle del Cauca, asentado en el valle del río Calima que cuenta con un área de 411 Km2 hasta la confluencia con el río Bravo. Calima-Darién dista 100 km aproximadamente de la ciudad de Cali y se ubica a una altitud de 1487 msnm. La cuenca Hidrográfica del río Calima está ubicada en la vertiente occidental de la Cordillera Occidental. Dentro de la cuenca alta se ubica el embalse Calima, sobre una altura promedio de 1.400 msnm. El valle alto del río Calima tiene una longitud de 17 Km y en él se ubica El Darién, cabecera municipal del municipio. El embalse recibe aguas del río Calima y la desviación del río Bravo. Se extiende en una superficie de 1934 Ha abarcando aproximadamente 13 Km. de largo por 1,5 Km. de ancho. La capacidad total es de 581 Mm3 y una capacidad útil de 441 Mm3 (FAO 1993).
+
+La ventana 1 (Río Calima), se encuentra aproximadamente a 5 Km del casco urbano del municipio Calima-Darién (N 3°56’46,5’’ W 76°27’49,0’’ a 1472 m.s.n.m). En general, se caracteriza por presentar un alto número de pasturas naturales, cultivos (especialmente de plátano y banano) y algunos relictos de bosque nativo, los cuales están muy asociados a las riberas del río Calima. Entre los fragmentos de bosque nativo existen diferentes estados de conservación y fragmentación que en algunos casos requieren de prontas medidas de conservación y protección para conservar algunas especies de gran valor ecológico y botánico que aún subsisten en esta área de estudio. La ventana 2 (Cola de Embalse), se encuentra ubicada aproximadamente a 1 Km del casco urbano del municipio Calima – Darién (N 3°55’42,5’’ W 76°28’27,5’’ a 1469 m.s.n.m). En general, se caracteriza por presentar áreas con una fuerte intervención antrópica, pasturas naturales y coberturas vegetales en diferentes estados de conservación, especialmente con dominio de coberturas vegetales tempranas. El aislamiento de algunos relictos de bosque nativo que aún subsisten en esta área es un factor común que requiere de prontas medidas de conservación y protección. Un aspecto positivo que llama mucho la atención en la presente investigación es el cambio notorio en la “dinámica poblacional” que se ha venido registrando dentro de la “parcela de monitoreo de la vegetación” en este sector de la Hidroeléctrica, el cual ha sido “positivo o favorable para todo el ecosistema”.  Por tal motivo, se podría afirmar que este tipo de investigaciones en plantas es un paso muy importante para conocer la dinámica poblacional de los bosques tropicales en esta área del departamento del Valle del Cauca.
+
+La ventana 3 (Jiguales), está ubicada en la vereda Jiguales entre las coordenadas N 3°53’48,2’’ W 76°27’39,9’’  a 1481 m.s.n.m. En general, se caracteriza por presentar diferentes usos del suelo como son pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas (un alto número de viviendas en los alrededores del Lago Calima). La existencia de algunas pasturas es un factor negativo para algunos relictos de bosque nativo que se ven muy amenazados por el ingreso del ganado a su interior, por tal motivo, este ingreso del ganado es un factor negativo que contribuye poco a poco con la desaparición lenta de estos fragmento de bosque que aún subsisten en toda el área de estudio.  Sin embargo, también se deben resaltar aquellos fragmentos de bosque nativo en buen estado de conservación, los cuales están aislados y con especies de alto valor ecológico y botánico. La ventana 4 (Yotoco), está ubicada a N 3°53’01,0’’ W 76°26’32,1’ a 1701 m.s.n.m y corresponde a la zona de amortiguamiento entre el embalse de Calima y la Reserva Natural de Yotoco, esta área de estudio se caracteriza por presentar varios usos del suelo como pasturas naturales, cultivos, fragmentos de bosque nativo y viviendas. Sin embargo, la mayoría de los relictos de bosque nativo están en buen estado de conservación y aislados para evitar el ingreso del ganado a su interior, el cual daña notoriamente el sotobosque.  
+
+La Ventana 5 (Parcelación El lago), está ubicado entre las coordenadas geográficas N 3°51’24,8’’ W 76°33’11,8’’ a 1614 m.s.n.m. En general, se caracteriza por presentar una fuerte intervención antrópica, pequeñas áreas de cultivos, pasturas naturales y algunos relictos de bosque nativo. Sin embargo, la fuerte intervención antrópica ha propiciado la tala indiscriminada de bosques y eso ha sido un factor negativo para la presente investigación científica, con este tipo de intervenciones antrópicas los más afectados se podría decir que es el mismo hombre y en otros casos las fuentes hídricas, el aire y la biodiversidad. La Ventana 6 (Rosa de los Vientos), está ubicada a N 3°53’04,8’’ W 76°30’54,1’’ a 1524 m.s.n.m en la vereda Puerto Buga. En general, se caracteriza por presentar varios usos del suelo como pasturas naturales (en su mayoría en mal estado de conservación), viviendas y algunos fragmentos de bosque nativo en diferentes estados de conservación. La presencia de pasturas naturales en mal estado de conservación, ingreso del ganado a los relictos de bosque nativo y los continuos incendios forestales, serían las principales causas que afectan a la biodiversidad en esta área de estudio; por tal motivo, entidades públicas y privadas deberían hacer mayores esfuerzos para poder conservar o cuidar lo que aún se conserva en recursos naturales (en especial especies de flora y fauna) en esta área de estudio.
+
+La Ventana 7 (Palermo), está ubicado entre las coordenadas geográficas N 3°53’45.5’’ y W 76°32’42.5’’ a 1445 m.s.n.m., en esta ventana es común las pasturas naturales (en algunos casos con árboles aislados), urbanizaciones y fragmentos de bosque en diferentes estados de conservación. El crecimiento urbanístico y la ganadería son los factores de mayor incidencia sobre los recursos naturales en esta área de estudio. La ventana 8 (Casa de Maquinas), está ubicado en la vereda Río Bravo en las coordenadas geográficas N  3°52’54,6’’  y W 76°35’18,9’’ a 1545 m.s.n.m., se caracteriza por presentar fragmentos de bosque en buen estado de conservación, algunas pasturas naturales y viviendas de forma aislada.
+
+La ventana 9 (El Vergel), está localizado entre las entradas 4 y 5 del Embalse entre las coordenadas geográficas N 3°54’43,6’’ y W 76°29’41,8’’ a 1471 m.s.n.m., se caracteriza por presentar algunas pasturas naturales, fragmentos de bosque en diferentes estados de conservación y una fuerte presión antrópica, un aspecto que llama mucho la atención en este punto de investigación es el daño causado por el ganado al aislamiento realizado en meses anteriores (aproximadamente en el año 2.015). La Ventana 10 (Cerbatana), está ubicado en la Serranía de la Cerbatana  entre las coordenadas geográficas N 3°56’04,1’’ y W 76°32’00,0’’ a  2390 msnm., se caracteriza por presentar fragmentos de bosque en buen estado de conservación con una alta biodiversidad en plantas.
+
+La Ventana 11 (Río Bravo), está en el área de la cuenca del Río Bravo se encuentra ubicada a 3°56’ 29,1’’ N y  076°33’46,9’’W a 1611m de altitud.  Es una zona de pocos asentamientos humanos rodeada de bosques primarios y secundarios bien conservados y con poca intervención antrópica. En general, se caracteriza por presentar fragmentos de bosque en buen estado de conservación y con una alta biodiversidad. La Ventana 12 (La Cristalina), se encuentra ubicada específicamente a N 4° 00’ 39,1’’   W 76°28’34,6’’ a 1929 m.s.n.m., se caracteriza por presentar fragmentos de bosque nativo en buen estado de conservación y con una alta diversidad en plantas y animales,  las viviendas o asentamientos humanos no es un factor común en el área de estudio.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Se realizó el monitoreo y seguimiento de fauna silvestre en las AID y AII de la Central Hidroeléctrica Calima, con un rango altitudinal entre los 1400 a 2600 msnm. En el Marco Del Plan de Manejo Ambiental</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:45Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/l3cboh">Villegas M, Bolaños A (2017). Monitoreo y seguimiento de fauna terrestre para el AID y AII de la  Central Hidroeléctrica de Calima - 2017. Corporación Paisajes Rurales. Occurrence dataset https://doi.org/10.15472/l3cboh accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>1.	Alberico. M., Cadena. A., Hernández-Camacho. J &amp; Muñoz-Saba. Y. 2000. Mamíferos (Synapsida: Theria) de Colombia. Biota Colombiana 1(1): 43-75.
+
+2.	Bedoya-Montalvo. J. 2007. Valoración inicial Del potencial de conectividad de corredores biológicos por medio de mamíferos terrestres medianos y grandes en un bosque Subandino. Tesis pregrado. Bogotá-Colombia, Pontificia Universidad Javeriana, Facultad de ciencias. 78p.
+
+3.	Bioasesores. 2013. Compilación de los Estudios de fauna y flora desarrollados en el programa de investigación sobre hábitats y fauna asociada al área de influencia de la central hidroeléctrica de Calima. EPSA ESP.  Yumbo. 153 p. 
+
+4.	Bolívar. W., Echeverri. J., Reyes. M., Gómez. N., Salazar. M. I., Muñoz. L. A., Velasco. E., Castillo. L. S., Quiceno. M. P., García. R., Pfaiffer. A. M., Giraldo. A. &amp; Ruiz. S. L. 2004. Plan de acción en biodiversidad del Valle del Cauca: Propuesta técnica. Corporación Autónoma Regional del Valle del Cauca e Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia.166p.
+
+5.	Calle, Z, Méndez, LE. 2009. Estructura y composición de la vegetación arbórea en el agropaisaje del río La Vieja. Pp. 171-184. En: Rodríguez JM, Camargo JC, Niño J, Pineda AM, Arias LM, Echeverri MA, Miranda CL (eds.). Valoración de la biodiversidad en la Ecorregión del Eje Cafetero. CIEBREG. Pereira, Colombia. 238 p.
+
+6.	Carreño. P.C. 2016. La Etnobotánica Y Su Importancia Como Herramienta Para La Articulación Entre Conocimientos Ancestrales Y Científicos. Análisis de los estudios sobre las plantas medicinales usadas por las diferentes comunidades del Valle de Sibundoy, Alto Putumayo. Trabajo de Grado. Universidad Distrital Francisco Jose de Caldas.
+
+7.	Condit, R. S. Ashton, N. Manokaran, J. V. LaFrankie, S. P. Hubbell &amp; R. B. Foster. 1999. Dynamics of the forest communities at Pasoh and Barro Colorado: comparing two 50-ha plots. Philosophical Transactions of the Royal Society, B, 354: 1739-1748.
+
+8.	Connell, J. H. 1978. Diversity in tropical forests and coral reefs. Science 199: 1302-1310.
+
+9.	Colwell, R. K. 2013. EstimateS: Statistical estimation of species richness and shared spacies from samples. Version 7.5. Persistent URL &lt;purl.oclc.org/estimates&gt;.
+
+10.	Callow, P &amp; Ge Petts (eds.). 1994. The rivers handbook. Vol. 2. Blackwell Scientific, Oxford.
+
+11.	Casadinho, J.S. 1996 Plaguicidas y salud: una relación poco conocida. CEETAR – Facultad de Agronomía – UBA -, 26 de julio de 1996
+
+12.	Chao, A. 1984. &quot;Nonparametric estimation of the number of classes in a population.&quot; Scandinavian Journal of Statistics: 265-270.
+
+13.	Córdoba-Córdoba, Sergio, Echeverry-Galvis, María Ángela, Chaparro-Herrera, Sergio, Sua-Becerra, Adriana, Listado actualizado de las aves endémicas y casi-endémicas de ColombiaBiota Colombiana [en linea] 2013, 14 (Julio-Diciembre) : [Fecha de consulta: 16 de noviembre de 2016] Disponible en:&lt;http://www.redalyc.org/articulo.oa?id=49131094009&gt; ISSN 0124-5376.
+
+14.	Corporación Paisajes Rurales. CPR. 2013. Monitoreo De Flora Y Fauna Para La Central Hidroeléctrica  De Calima Y El Análisis Multitemporal De Coberturas, En Cumplimiento Al Plan De Manejo Ambiental, Programa De Monitoreo Y Seguimiento. EPSA.
+
+15.	Corporación Paisajes Rurales. CPR. 2014. Monitoreo De Flora Y Fauna Para La Central Hidroeléctrica  De Calima Y El Análisis Multitemporal De Coberturas, En Cumplimiento Al Plan De Manejo Ambiental, Programa De Monitoreo Y Seguimiento. EPSA.
+
+16.	Corporación Paisajes Rurales. CPR. 2015. Monitoreo De Flora Y Fauna Para La Central Hidroeléctrica  De Calima Y El Análisis Multitemporal De Coberturas, En Cumplimiento Al Plan De Manejo Ambiental, Programa De Monitoreo Y Seguimiento Y En Cumplimiento Al Requerimiento Del Auto 2811 De 21 De Julio De 2015 Emitido Por La Autoridad Nacional De Licencias Ambientales ANLA. EPSA.
+
+17.	Colwell, K. R., Chang, X. M. Y Chang, J. 2004 Interpolando, Extrapolando Y Comparando las Curvas de Acumulación De Especies Basadas en su Incidencia. Trabajo publicado originalmente en: Ecology, 85(10), 2004, pp. 2717-2727.
+
+18.	Cuarón. A.D. 2000. Effects of land-cover changes on mammals in a Neotropical region: a modeling approach. Conservation Biology, 14: 1676-1692.
+
+19.	Cuatrecasas. J. 1958. Aspectos de la vegetación natural de Colombia. Rev. Acad. Coloma. Ci. Exact. 10 (40): 221-260.
+
+20.	CVC-Corporación Autónoma Regional Del Valle Del Cauca &amp; Ut-Universidad Del Tolima. 2008. Caracterización de los bosques naturales y zonificación de las tierras forestales en 24 cuencas hidrográficas del área de jurisdicción de la C.V.C. 71p.
+
+21.	Fao. 2012. Evaluación del impacto ambiental directrices para los proyectos de campo de la FAO.
+
+22.	Fleming. T.H., Hooper. E &amp; Wilson. E. 1972. Three central American bat communities: structure, reproductive cycles, and movement patterns. Ecology, 53: 555-569.
+
+23.	Galeano, G. &amp; R.Bernal, 2010. Palmas de Colombia. Guía de campo. Editorial Universidad Nacional de Colombia. Instituto de Ciencias Naturales, facultad de Ciencias-Universidad Nacional de Colombia, Bogota, D.C., 688 P.
+
+24.	Gallina. S. González-Romero. A &amp; Manson. R. 2008. Mamíferos pequeños y medianos. Capitulo 12, pág: 161- 180. En: Manson. R. H., Hernández-Ortiz. V., Gallina. S &amp; Mehltreter. K. (eds.) 2008. Agroecosistemas cafetaleros de Veracruz, biodiversidad, manejo y conservación.Instituto de Ecología (INE-SEMARNAT), México. 348p.
+
+25.	Gentry, A. H. 1982. Patterns of Neotropical plant species diversity.  Evolutionary Biology 15: 1-85.
+
+26.	Gentry, Alwin, 1993. A field guide to the families and genera of woody plants of northwest South America. Washington, conservation international.
+
+27.	Graham, J; Ns Barret; Dj Graddon &amp; Pr Last. 2000. The conservation significance of estuaries: a classification of Tasmanian estuaries using ecological, physical and demographic attributes as a case study. Biol. Conserv., 92:383 -39.
+
+28.	Guzmán-Lenis. A &amp; Margo-Sanabria. A. 2004. Importancia de los rastros para la caracterización del uso de hábitat de mamíferos medianos y grandes en el bosque Los Mangos (Puerto López, Meta, Colombia). Acta biológica Colombiana 9(1): 11-22.
+
+29.	Herrera-Flores. J.C., Fredericsen. T.S &amp; Rumíz. D. 2002. Evaluación rápida de mamíferos en base a huellas para observar los impactos del manejo forestal. Ecología en Bolivia 37(1):3-13.
+
+
+30.	Hubbell S. P. &amp; R. B. Foster. 1990. Structure, dynamics, and equilibrium status of old-growth forest on Barro Colorado Island. Page 522-541 en A.H. Gentry (ed.) Four Neotropical Forests. Yale University Press, New Haven.
+
+31.	Hubbell, S. P. 2001. The Unified Neutral Theory of Biodiversity and Biogeography. Princeton University Press, Princeton.
+
+32.	Hilty, S. L. y W. L. Brown. 2001. Guía de las Aves de Colombia. Princeton. Univ. Press, Princeton, NJ.
+
+33.	IAvH, Instituto de Investigaciones de Recursos Biológicos Alexander von Humboldt. 2004. Listas rojas preliminares de plantas vasculares de Colombia. (0n-line). URL:  http://www.humboldt.org.co/conservacion/plantas-amenazadas.htm.
+
+34.	Kattan, G. H., H. Alvarez-López, M. Giraldo. 1994. Forest fragmentation and bird extinctions: San Antonio eighty years later. Conservation Biology 8 (1): 138-146.
+
+35.	Krebs, C. 1989. &quot;Ecological methods.&quot; Ecological methods.
+
+36.	Losos, E. &amp; E. G. Leigh, Jr. (eds). 2004. Tropical Forest Diversity and Dynamism: Findings from a large scale plot network. University of Chicago Press, Chicago.
+
+37.	Lozano-Zambrano, F. H. (ED). 2009. Herramientas de manejo para la conservación de biodiversidad en paisajes rurales. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y Corporación Autónoma Regional de Cundinamarca (CAR). Bogotá, D. C., Colombia. 238 p.
+
+38.	López-Meneses. W. F. 2007. Efecto del corredor vial Buga-Buenaventura, ubicado en la Reserva Natural Bosque de Yotoco (Valle del Cauca, Colombia) en la comunidad de mamíferos y fundamento para una propuesta de corredores artificiales. Tesis de pregrado. Bogotá-Colombia, Universidad Nacional de Colombia, Facultad de Ciencias. 68p.
+
+39.	Losos, E. &amp; E. G. Leigh, Jr. (eds). 2004. Tropical Forest Diversity and Dynamism: Findings from a large scale plot network. University of Chicago Press, Chicago.
+
+
+40.	Méndez, L.E. &amp; Z. CALLE. 2007. Árboles y arbustos de la Cuenca media del río La Vieja, Guía de campo. CIPAV y CIEBREG. Cali, Colombia.192 p. 
+
+41.	Méndez, L.E. &amp; Z. Calle. 2010. Plantas de la Cuenca media Del río la Vieja. Guía de campo. CIPAV y CIEBREG. Cali, Colombia.236 p.
+
+42.	Mendoza, H, et al. 2003. Rubiaceae de Colombia – Guía ilustrada de géneros. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt – Programa de inventarios de Biodiversidad, Grupo de Exploración y Monitoreo Ambiental - GEMA. Santafé de Bogotá, 351 p.
+
+43.	Mc Mullan, M., Donegan. T.M., Quevedo. A. 2015. Field Guide to The Birds Of Colombia. Proaves. Bogotá. 229 Pp. 
+
+44.	Morales-Rozo, A. y F. Ayerbe-Quiñones. 2014. Informe final de Caracterización de la avifauna de las subcuencas de los Ríos Aipe (Huila), Yaví (Tolima) y Dagua (Valle del Cauca) como insumo para la identificación de oportunidades de conservación.
+
+45.	Navarro-Arquez. E. 2005. Abundancia relativa y distribución de los indicios de las especies de mamíferos medianos en dos coberturas vegetales en el Santuario de Flora y Fauna Otún Quimbaya, Pereira-Colombia. Tesis pregrado. Bogotá-Colombia, Pontificia Universidad Javeriana, Facultad de Ciencias. 78p.
+
+46.	Pearson. D. 1994. Selection Indicator Taxa for the Cuantitative Assessment of Biodiversity. Phil. Trans. R. Soc. London. 345: 75-79.
+
+47.	Rios-Uzeda. B., Wallace. R., Aranibar.B &amp; Veitch. C. 2001. Evaluación de mamíferos medianos y grandes en el bosque semideciduo del alto Tuichi (PN y ANMI Madidi, Dpto. La Paz). Ecología en Bolivia, 36: 31-38.
+
+48.	Sánchez. R. 2009. Evaluación del ensamblaje de mesomamíferos terrestres en bosques naturales con y sin manejo forestal, Refugio Nacional de Vida Silvestre Mixto Maquenque, Costa Rica. Tesis de maestría. Instituo internacional en manejo y conservación de vida silvestre, Universidad Nacional, Heredia, Costa Rica.
+
+49.	Terborgh. J., Estes. J.A., Paquet. P., Ralls. K., Boyd-Heger. D., Miller.B.J &amp; Noss. R.F. 1999. The role of top carnivore in regulating terrestrial ecosystems. Pag: 39-64, En: Soulé. M &amp; Terborgh (eds.) Continental conservation. The Island Press. E.U.A. 227 p.
+
+50.	Tirira. D.G &amp; Boada. C. E. 2009. Diversidad de mamíferos en bosques de Ceja Andina alta del nororiente de la provincia de Carchi, Ecuador. Boletín Técnico, 8(4-5):1-24.
+51.	Richards, P. W. 1952. The Tropical Rain Forest. Cambridge University Press, Cambridge.
+
+52.	Tilman, D. 1994. Competition and biodiversity in spatially stuctured habitats. Ecology 75: 2-16.
+
+53.	Unión Internacional Para La Conservación De La Naturaleza. 2004. Lista Roja Preliminar de plantas vasculares, extintas, en peligro o en duda. 25 p. 
+
+54.	Vargas, W, et al, 1999. Manual de Caracterización de Áreas Silvestres. Organización Quindiana de Ambientalistas- ORQUIDEA. Armenia, 95 p. 
+
+55.	Vargas-Salinas. F., Delgado-Ospina. I &amp; López-Aranda. F. 2006. Efecto del corredor vial Buga-Buenaventura en la fauna de vertebrados terrestre de la Reserva Forestal Bosque de Yotoco, Valle del Cauca: pp 1-78, en: Implementación de acciones de manejo para la conservación del ecosistema Andino y Subandino de la cordillera Occidental: bosque la Albania y Reserva Forestal de Yotoco, departamento del Valle del Cauca. Volumen II. Informe final Convenio CVC-ASOYOTOCO 086 de 2005.
+
+56.	Willig. M.R., Kaufman. D.M &amp; Steven. R.D. 2003. Latitudinal gradients of biodiversity: Pattern, Process, Scalle and Synthesis. Anu. Rev. Ecol. Evol. Sys. 34:273-309.
+
+57.	Whittaker, R. H. 1972. &quot;Evolution and measurement of species diversity.&quot; Taxon: 213-251.
+
+58.	W3 Tropics / Missouri Botanical Garden. 2003. Momenclatural Data Base. Available from Internet: &lt; URL: http: // robot.mobot.org/W3T/Search / vast.html.
+
+59.	www.ifcndd.ifc.org
+
+60.	www.ingetec.com.co
+
+61.	www.celsia.com.co
+
+62.	www.siame.gov.co
+
+63.	www.iucnredlist.org
+
+64.	www.cites.org/esp/app/index.php
+
+65.	http://www.mbrs.org.bz
+
+66.	http://neotropical.birds.cornell.edu/portal/species 
+
+67.	http://ebird.org/ebird/eBirdReports?cmd=Start
+
+68.	http://avibase.bsc-eoc.org/species.jsp</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-paisajes-rurales.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

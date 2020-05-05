@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="0fae5c5d-346e-4751-a18b-1247dbd69326"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/fceqcy</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=avesacuaticasmetacasanare</alternateIdentifier>
+        <alternateIdentifier>10.15468/qfkss9</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=avesacuaticasmetacasanare</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=avesacuaticasmetacasanare</alternateIdentifier>
+        <alternateIdentifier>0fae5c5d-346e-4751-a18b-1247dbd69326</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/valle/resource.do?r=avesacuaticasmetacasanare</alternateIdentifier>
+    <title>Aves Acuáticas de las sabanas inundables del Meta y Casanare</title>
+    <creator>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse-González</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Coordinadora Sistema de Información</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>deusse@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse-González</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Coordinadora Sistema de Información</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>deusse@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Ruiz-Guerra</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>cjruiz@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Castillo-Cortés</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Director ejecutivo</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>calidris@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Johnston-González</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>rjohnston@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Cesar</givenName>          <surName>Arango</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>calidris@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>    <role>PUBLISHER</role>
+    </associatedParty>
+      <pubDate>
+      2018-06-01
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Las sabanas inundables de Colombia son ecosistemas de humedales importantes para la región y el país, se ubican en la margen occidental del río Meta en los departamentos de Meta, Casanare y Arauca. Presentan una topografía plana y casi plana, suelos mal drenados y con una delgada capa orgánica que favorece el mantenimiento de humedales permanentes o la formación de humedales estacionales. Dada la extensión y la alta diversidad de ecosistemas de humedales, las sabanas inundables de la Orinoquía en Colombia es un área con una alta biodiversidad y abundancia de aves acuáticas. Este conjunto de datos recoge registros de aves acuáticas de las sabanas inundables de Meta y Casanare, Colombia, en junio y noviembre de 2012 y marzo de 2013. Los conteos fueron realizaron mediante tres métodos: puntos de conteo de radio fijo, conteos aéreos por transectos y observaciones ocasionales. Registramos 81 especies de aves acuáticas de 29 familias y 13 órdenes y algunas especies terrestres. El objetivo de estos conteos fue estimar tamaños poblacionales de aves acuáticas e identificar sitios de concentración importantes para la conservación de este grupo de especies en la región.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Aves acuáticas</keyword>
+              <keyword>poblaciones</keyword>
+              <keyword>censos</keyword>
+              <keyword>Meta y Casanare</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área de estudio corresponde a las sabanas inundables del corredor fluvial alto del río Meta en el Orinoco colombiano. Recorrimos en total 67.220 kilómetros cuadrados. Está delimitado por el río Meta al sur y al oriente, al nororiente con el caño La Hermosa y el río Casanare y en el noroccidente por el piedemonte de la cordillera Oriental, entre 500 y 100 m de elevación. Esta área comprende los municipios de Aguazul, Hato Corozal, Maní, Monterrey, Nunchía, Orocué, Paz de Ariporo, Pore, Sabanalarga, San Luis de Palenque, Tauramena, Trinidad, Villanueva, Yopal en Casanare; Acacias, Barranca de Upía, Cabuyaro, Castilla La Nueva, Cumaral, Puerto Gaitán, Puerto López, San Carlos de Guaroa, San Martín,  y Villavicencio.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.7</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-70.18</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.11</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.55</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-07-24
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-07-31
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2012-11-06
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-11-19
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-03-12
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-03-20
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-04-02
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2013-04-06
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El conjunto de datos tiene registros de 81 especies de aves acuáticas de 29 familias y 13 órdenes y observaciones ocasionales de 123 especies de aves terrestres, que corresponden a 33 familias y 14 órdenes.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Actitis macularius</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazonetta brasiliensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anas discors</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhima cornuta</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aramides cajaneus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Aramus guarauna</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea herodias</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Arundinicola leucocephala</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bartramia longicauda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Burhinus bistriatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Busarellus nigricollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus urubitinga</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cairina moschata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Calidris melanotos</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Calidris minutilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cercibis oxycerca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Certhiaxis cinnamomea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Charadrius collaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle aenea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle amazona</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle inda</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chrysomus icterocephalus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ciconia maguari</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Circus buffoni</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna autumnalis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna bicolor</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dendrocygna viduata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Donacobius atricapilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta caerulea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Egretta thula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eudocimus albus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eudocimus ruber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eurypyga helias</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Fluvicola pica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gallinago paraguaiae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Himantopus mexicanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ixobrychus exilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jabiru mycteria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leucophaeus atricilla</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Limnodromus griseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mesembrinibis cayennensis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mycteria americana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Neochen jubata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctanassa violacea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nycticorax nycticorax</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Opisthocomus hoazin</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pandion haliaetus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Paroaria gularis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phaetusa simplex</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phimosus infuscatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phoenicopterus ruber</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pilherodius pileatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Platalea ajaja</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Plegadis falcinellus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Podilymbus podiceps</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porphyrio flavirostris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porphyrio martinicus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Progne tapera fusca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rostrhamus sociabilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rynchops niger</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sayornis nigricans</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Serpophaga cinerea</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sternula superciliaris</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Syrigma sibilatrix</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachycineta albiventer</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Theristicus caudatus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tigrisoma lineatum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa flavipes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa melanoleuca</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tringa solitaria</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tryngites subruficollis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus cayanus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse-González</surName>
+    </individualName>
+<organizationName>Asociación para el estudio y conservación de aves acuáticas de Colombia</organizationName><positionName>Coordinadora Sistema de Información</positionName>    <address>
+<deliveryPoint>Carrera 24 # 4-30</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><postalCode>760043</postalCode><country>COLOMBIA</country>    </address>
+<phone>57 2 5560455</phone><electronicMailAddress>deusse@calidris.org.co</electronicMailAddress><onlineUrl>http://www.calidris.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Conteos en radio fijo: Establecimos 296 puntos de censo de radio fijo, ubicados en su mayoría a lo largo de vías en coberturas de sabana inundable, sabana no inundable, bosque inundable, cuerpos de agua y cultivos de arroz. Nuestro método de conteo por punto se basó en el propuesto por North American Breeding Bird Survey (Robbins et al. 1986, Droege 1990) con algunas modificaciones. Registramos todas las aves presentes en el punto durante cinco minutos en un radio de 200 m y una distancia entre puntos de al menos 500 m. Las aves que estaban en vuelo, fueron registradas si provenían de una dirección elegida, para evitar el doble conteo de individuos. Además registramos como ocasionales, aquellos individuos fuera del radio de 200 m y fuera de los cinco minutos. Cada punto fue censado por al menos dos observadores y debido a la cantidad de puntos de censo y lo distante de cada sector, los puntos fueron visitados entre el amanecer y el atardecer. Evitamos realizar observaciones en horas cercanas al mediodía cuando la actividad de las aves es baja.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Conteos en dormideros o colonias reproductivas: Gracias a información proporcionada por pobladores y propietarios de predios, realizamos visitas a sitios con alta concentración de individuos que corresponden a colonias reproductivas o sitios de descanso en horas inmediatamente posteriores al amanecer o previas al anochecer. En cada uno de estos sitios invertimos en promedio dos horas de observación y en algunos casos recorrimos el sitio para hacer conteos desde diferentes puntos.   En algunos sitios de descanso, iniciamos los conteos antes del amanecer o antes del atardecer y contamos todos los individuos posados, así como los que llegaban al atardecer o salían al amanecer.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Sobrevuelos o conteos aéreos: Este método fue usado en noviembre de 2012 y marzo de 2013 y cubrió aquellas áreas no accesibles por caminos o muy distantes de los centros poblados.   Lo usamos solamente en las tres primeras horas de la mañana.   Cada ruta definida cubrió entre 300 a 350 km lineales y tuvo una duración máxima de tres horas. Estos conteos fueron hechos usandocon una avioneta en donde se ubicaba un observador a cada ladopor un observador a cada lado de la avioneta.   Las observaciones se realizaron entre 50 y 150 m sobre el terreno a una velocidad promedio de 150 a 200 Kph.</para>
+                </description>
+            </methodStep>
+            <methodStep>
+                <description>
+                    <para>Observaciones ocasionales: Durante los recorridos hacia los puntos de censo o hacia los sitios de altas concentraciones, registramos todos los individuos a cada lado de las carreterasvía. Para estas observaciones usamos un vehículo 4 x 4, a una velocidad promedio de 30 km/h. Con ayuda de una grabadora registramos todos los individuos observados y la hora de la observación. Adicionalmente usamos la función de track de un GPS, el cual nos permitió asignar coordenadas a cada registro usando la hora del mismo.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio comprende la ecorregión sabanas inundables de los departamentos de Meta y Casanare en Colombia, entre la base de la cordillera Oriental (500 m) hasta el rio Meta (100-180 m). La cuenca del río Orinoco tiene un clima tropical con dos épocas climáticas marcadas por cambios en el volumen de precipitación: la época lluviosa se extiende de marzo a noviembre con promedios mensuales entre 500 y 600 mm y un volumen de hasta el 95% de la precipitación anual, mientras que para la época seca, de noviembre a febrero, la precipitación alcanza valores máximos de 100 mm.  La temperatura oscila entre 24 y 28° C y la humedad relativa oscila entre 80% en época lluviosa y hasta 65% en época seca (Rawlins 1999, Rippstein et al. 2001). 
+Los ecosistemas de humedal de la región de la Orinoquía se ubican principalmente en zonas planas, entre 100 y 500 m y corresponden principalmente a sistemas lóticos, de origen andino y sistemas lénticos con influencia aluvial y eólica.  Entre los ecosistemas de humedal donde se registraron aves acuáticas están los bosques de galería y riparios, las sabanas inundables de tipo herbácea y arbustiva, morichales, lagunas, pantanos y ríos y caños.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Realizamos tres visitas al área de estudio: julio de 2012 (mitad de la época lluviosa), noviembre de 2012 (final de la época lluviosa) y marzo-abril (final de la época seca). Registramos aves acuáticas y algunas aves terrestres con una combinación de censos terrestres y aéreos. Los censos terrestres se basaron en el método de puntos de radio,  conteos en colonias y dormideros y observaciones ocasionales.  El método aéreo consistió en sobrevuelos por el área de estudio en rutas preestablecidas.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>El control de calidad de los datos consistió en revisar la información taxonómica, completar la información  geográfica y de ubicación y comparar la base de datos con las anotaciones en campo de bitácoras y planilla. Para verificar la información taxonómica usamos la Clasificación de las Aves de Sur América de Remsen et al. (2013) (http://www.museum.lsu.edu/~Remsen/SACCBaseline.html, acceso noviembre de 2013) y la Lista de Aves Acuáticas de Colombia  
+(http://ipt.sibcolombia.net/valle/resource.do?=aves_acuaticas_colombia, acceso noviembre 2013).  
+
+Para corroborar la información geográfica usamos un sistema de información geográfico con información de municipios y departamentos e información tomada en las jornadas de campo.  Adicionalmente corregimos la escritura de los departamentos y municipios Colombianos según los códigos de la división político administrativa de Colombia suministrada por el Departamento Administrativo Nacional de Estadística - DANE (http://190.25.231.237/dvpbuscar/dvpbuscar.html, acceso diciembre de 2013).</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>SITIOS DE IMPORTANCIA PARA LA CONSERVACIÓN DE LAS AVES ACUÁTICAS EN LOS DEPARTAMENTOS DE META Y CASANARE</title>
+          <personnel>
+    <individualName>
+          <surName>Asociación Calidris</surName>
+    </individualName>
+    <role>OWNER</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convocatoria Nacional para la Biodiversidad 2011 -Ecopetrol</para>
+          </funding>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:59Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/fceqcy">Eusse-González D (2018). Aves Acuáticas de las sabanas inundables del Meta y Casanare. Version 9.1. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Occurrence dataset https://doi.org/10.15472/fceqcy accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Canevari, P., G. Castro, M. Sallaberry y L. G. Naranjo. 2001. Guía de los Chorlos y Playeros de la Región Neotropical. American Bird Conservancy, WWF-US, Humedales para las Américas y Manomet Conservation Science, Asociación Calidris. Santiago de Cali, 141pp.</citation>
+      <citation>Droege, S. 1990. The North American breeding bird survey. Pp: 1-4. En: Sauer, J,R. y S. Droege,(Eds.). Survey designs and statistical methods for the estimation of avian populations trends. Biological report 90(1). Fish and wildlife service. Department of Interior,Washington, DC.</citation>
+      <citation>Hilty, S. y Brown, W. 2001. Guía de las aves de Colombia. Traducida al español por Humberto Álvarez-López. American Bird Conservancy. Imprelibros S.A. Colombia, 909pp.</citation>
+      <citation>Mc Nish, T. 2007. Las aves de los llanos de la Orinoquia. Colombia, 302 pp.</citation>
+      <citation>Remsen, J. V., Jr., C. D. Cadena, A. Jaramillo, M. Nores, J. F. Pacheco, J. Pérez-Emán, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [2013]. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.html</citation>
+      <citation>Restall, R., C. Rodner y M. Lentino. 2007. Birds of Northern South America: an identification guide. Yale University Press, EE.UU. 880pp.</citation>
+      <citation>Robbins, C. S., D. Bystrak, y P. H. Geissler. 1986. The breeding bird survey: Its first fifteen years, 1965-1979. U.S. Fish and Wildlife Service, Resource publication. Pp157.</citation>
+      <citation>Ruiz-Guerra, C. (2013). Lista de las Aves Acuáticas de Colombia, 284 registros, En línea, http://ipt.sibcolombia.net/valle/resource.do?=aves_acuaticas_colombia, publicado el 25/10/2013.</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-calidris.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

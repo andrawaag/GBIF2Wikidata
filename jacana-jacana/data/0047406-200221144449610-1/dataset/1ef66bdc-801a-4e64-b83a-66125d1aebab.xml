@@ -1,0 +1,751 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="1ef66bdc-801a-4e64-b83a-66125d1aebab"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/n2c9up</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=nciarauca_buron</alternateIdentifier>
+    <title>Caracterización de fauna para el establecimiento de nuevas Reservas Naturales de la Sociedad Civil en Arauca</title>
+    <creator>
+    <individualName>
+<givenName>Ángela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora Científica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-7844-1418</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez-Albarracín</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3212049943</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ángela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora Científica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-7844-1418</userId>
+    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez-Albarracín</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3212049943</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>    <role>OWNER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Maira</givenName>          <surName>Villanueva</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora Conservación Privada</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3134083000</phone><electronicMailAddress>mvillanueva@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Ángela</givenName>          <surName>Alviz</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora Científica</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3012338288</phone><electronicMailAddress>investigacion@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      <userId directory="https://orcid.org/">0000-0002-7844-1418</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-02-26
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Orinoquia Biodiversa (FOB) en convenio de cooperación con la ONG Naturaleza y Cultura Internacional (NCI) llevó a cabo el proceso de registro Reservas Naturales de la Sociedad Civil en el departamento de Arauca y la formulación de los planes de Manejo Ambiental (PMA. El interés por la conservación de la biodiversidad de Arauca facilita el proponer estrategias que favorezcan la sustentabilidad del componente biótico (micro fauna, fauna y flora) y el componente abiótico (suelos) al lograr un equilibrio con las actividades antrópicas desarrolladas al interior de los predios. Esta interacción positiva entre las actividades humanas y la diversidad, hacen que estas zonas cobren un valor adicional al servir como áreas amortiguadoras dentro del territorio al que pertenecen al mitigar el impacto de las actividades antrópicas en predios cercanos y servir de refugios o corredores para la fauna local asegurando no solo su sobrevivencia sino estabilidad en el tiempo.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>mamíferos</keyword>
+              <keyword>biodiversidad</keyword>
+              <keyword>NCI</keyword>
+              <keyword>reptiles</keyword>
+              <keyword>anfibios</keyword>
+              <keyword>RNSC</keyword>
+              <keyword>Arauca</keyword>
+              <keyword>conservación</keyword>
+              <keyword>Samplingevent</keyword>
+              <keyword>aves</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>En el área de estudio cabe resaltar la presencia de raudales y médanos en dos de los predios en proceso de declaración. La oferta de especies de plantas es diversa y comprende diferentes bioformas, apareciendo especies como el aceite (Copaifera pubiflora) y la palma real (Attalea butyracea).</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-72.18</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-69.675</eastBoundingCoordinate>
+                      <northBoundingCoordinate>7.188</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.097</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-03-20
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2017-11-26
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Mamíferos</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Didelphis marsupialis</taxonRankValue>
+                          <commonName>Chucha</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myrmecohaga tridactyla</taxonRankValue>
+                          <commonName>Palmero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tamandua tetradactyla</taxonRankValue>
+                          <commonName>Mielero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dasypus sabanicola</taxonRankValue>
+                          <commonName>Cachicamo sabanero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dasypus novemcinctus</taxonRankValue>
+                          <commonName>Cachicamo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Desmodus rotundus</taxonRankValue>
+                          <commonName>Vampiro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhynchonycteris naso</taxonRankValue>
+                          <commonName>Murciélago</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leopardus pardalis</taxonRankValue>
+                          <commonName>Cunaguaro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Herpailurus yagouaroundi</taxonRankValue>
+                          <commonName>Gato cervantes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Puma concolor</taxonRankValue>
+                          <commonName>León</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Panthera onca</taxonRankValue>
+                          <commonName>Tigre</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cerdocyon thous</taxonRankValue>
+                          <commonName>Zorro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nasua nasua</taxonRankValue>
+                          <commonName>Cusumbo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eira barbara</taxonRankValue>
+                          <commonName>Tayra</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pteronura brasiliensis</taxonRankValue>
+                          <commonName>Perro de agua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tapirus terrestris</taxonRankValue>
+                          <commonName>Danta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Odocoileus cariacou</taxonRankValue>
+                          <commonName>Venado cola blanca</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pecari tajacu</taxonRankValue>
+                          <commonName>Cajuche</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Alouatta seniculus</taxonRankValue>
+                          <commonName>Araguato</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coendou prehensilis</taxonRankValue>
+                          <commonName>Erizo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hydrochoerus hydrochaeris</taxonRankValue>
+                          <commonName>Chigüire</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cuniculus paca</taxonRankValue>
+                          <commonName>Lapa</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Dasyprocta fuliginosa</taxonRankValue>
+                          <commonName>Picure</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Herpetofauna</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinella humboldti</taxonRankValue>
+                          <commonName>Sapo granuloso</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Rhinella marina</taxonRankValue>
+                          <commonName>Sapo común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hypsiboas crepitans</taxonRankValue>
+                          <commonName>Platanera</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus fuscus</taxonRankValue>
+                          <commonName>Silvadora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus macrosternum</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodactylus fragilis</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Physalaemus fischeri</taxonRankValue>
+                          <commonName>Vaquera</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pleurodema brachyops</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elaschistocleis ovalis</taxonRankValue>
+                          <commonName>Tinguingo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ameiva praesignis</taxonRankValue>
+                          <commonName>Lobo pollero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tupinambis teguixin</taxonRankValue>
+                          <commonName>Mato</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Hemidactylus cf. palaichthus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Iguana iguana</taxonRankValue>
+                          <commonName>Iguana</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Boa constrictor</taxonRankValue>
+                          <commonName>Boa</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Corallus ruschenbergerii</taxonRankValue>
+                          <commonName>Macabrel</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eunectes murinus</taxonRankValue>
+                          <commonName>Güio</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chironius carinatus</taxonRankValue>
+                          <commonName>Lomo machete</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tantilla melanocephala</taxonRankValue>
+                          <commonName>Culebrita</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Leptodeira annulata</taxonRankValue>
+                          <commonName>Falsa mapaná</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Helicops angulatus</taxonRankValue>
+                          <commonName>Mapaná de agua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bothrops atrox</taxonRankValue>
+                          <commonName>Cuatro narices</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotalus durissus</taxonRankValue>
+                          <commonName>Cascabel</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caiman crocodilus</taxonRankValue>
+                          <commonName>Babo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chelonoidis carbonaria</taxonRankValue>
+                          <commonName>Morroco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Podocnemis vogli</taxonRankValue>
+                          <commonName>Galapaga</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Aves</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Neochen jubata</taxonRankValue>
+                          <commonName>Carretero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhima cornuta</taxonRankValue>
+                          <commonName>Aruco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crax daubentoni</taxonRankValue>
+                          <commonName>Paujil</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mitu tomentosum</taxonRankValue>
+                          <commonName>Pavón nagüirrojo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Colinus cristatus</taxonRankValue>
+                          <commonName>Perdiz común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jabiru mycteria</taxonRankValue>
+                          <commonName>Garzón soldado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ciconia maguari</taxonRankValue>
+                          <commonName>Gaván pionino</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                          <commonName>Pato aguja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tigrisoma lineatum</taxonRankValue>
+                          <commonName>Vaco colorado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubulcus ibis</taxonRankValue>
+                          <commonName>Garcita del ganado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                          <commonName>Garzón azul</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                          <commonName>Garza real</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Syrigma sibilatrix</taxonRankValue>
+                          <commonName>Garza silbadora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pilherodius pileatus</taxonRankValue>
+                          <commonName>Garza crestada</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cercibis oxycerca</taxonRankValue>
+                          <commonName>Tarotaro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Theristicus caudatus</taxonRankValue>
+                          <commonName>Coclí</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Platalea ajaja</taxonRankValue>
+                          <commonName>Espátula</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eudocimus albus</taxonRankValue>
+                          <commonName>Corocora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eudocimus ruber</taxonRankValue>
+                          <commonName>Corocora</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                          <commonName>Gallinazo común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus meridionalis</taxonRankValue>
+                          <commonName>Aguila sabanera</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Buteogallus urubitinga</taxonRankValue>
+                          <commonName>Cangrejero mayor</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus chilensis</taxonRankValue>
+                          <commonName>Pellar común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Vanellus cayanus</taxonRankValue>
+                          <commonName>Avefría</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                          <commonName>Gallito de ciénaga</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Patagioenas cayennensis</taxonRankValue>
+                          <commonName>Torcaza morada</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Opisthocomus hoazin</taxonRankValue>
+                          <commonName>Pava hedionda</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyto alba</taxonRankValue>
+                          <commonName>Lechuza común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Athene cunicularia</taxonRankValue>
+                          <commonName>Mochuelo terrero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Glaucidium brasilianum</taxonRankValue>
+                          <commonName>Pavita</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Bubo virginianus</taxonRankValue>
+                          <commonName>Búho real</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctibius griseus</taxonRankValue>
+                          <commonName>Bienparado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctidromus albicollis</taxonRankValue>
+                          <commonName>Guardacaminos común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia versicolor</taxonRankValue>
+                          <commonName>Amazilia pechiblanco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Amazilia fimbriata</taxonRankValue>
+                          <commonName>Amazilia ventriblanco</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                          <commonName>Martín pescador mayor</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle americana</taxonRankValue>
+                          <commonName>Martín pescador chico</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Galbula ruficauda</taxonRankValue>
+                          <commonName>Jacamar colirrufo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Melanerpes rubricapillus</taxonRankValue>
+                          <commonName>Carpintero habado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Campephilus melanoleucos</taxonRankValue>
+                          <commonName>Carpintero marcial</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caracara cheriway</taxonRankValue>
+                          <commonName>Caracara moñudo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Herpetotheres cachinnans</taxonRankValue>
+                          <commonName>Halcón reidor</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                          <commonName>Pigua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Falco sparverius</taxonRankValue>
+                          <commonName>Cernícalo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Eupsittula pertinax</taxonRankValue>
+                          <commonName>Perico carisucio</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ara macao</taxonRankValue>
+                          <commonName>Guacamaya bandera</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Brotogeris jugularis</taxonRankValue>
+                          <commonName>Periquito</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tyrannus savana</taxonRankValue>
+                          <commonName>Sirirí tijereta</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pitangus sulphuratus</taxonRankValue>
+                          <commonName>Bichofué gritón</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Myiarchus tyrannulus</taxonRankValue>
+                          <commonName>Atrapamoscas crestado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pipra filicauda</taxonRankValue>
+                          <commonName>Saltarín cola de alambre</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Mimus gilvus</taxonRankValue>
+                          <commonName>Sinsonte común</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sicalis columbiana</taxonRankValue>
+                          <commonName>Sicalis ribereño</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Tachyphonus rufus</taxonRankValue>
+                          <commonName>Tangara</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cacicus cela</taxonRankValue>
+                          <commonName>Arrendajo</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gymnomystax mexicanus</taxonRankValue>
+                          <commonName>Turpial lagunero</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Sturnella militaris</taxonRankValue>
+                          <commonName>Soldadito</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Karen</givenName>          <surName>Pérez-Albarracín</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Directora</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3212049943</phone><electronicMailAddress>karenperez@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      </contact>
+      <contact>
+    <individualName>
+<givenName>Maira</givenName>          <surName>Villanueva</surName>
+    </individualName>
+<organizationName>Fundación Orinoquia Biodiversa</organizationName><positionName>Coordinadora de Conservación Privada</positionName>    <address>
+<deliveryPoint>Calle 15 #12-15</deliveryPoint><city>Tame</city><administrativeArea>Arauca</administrativeArea><postalCode>00000</postalCode><country>COLOMBIA</country>    </address>
+<phone>3134083000</phone><electronicMailAddress>mvillanueva@orinoquiabiodiversa.org</electronicMailAddress><onlineUrl>https://www.orinoquiabiodiversa.org/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Para la identificación de las aves se utilizó la guía de Hilty y Brown (1986) y la asignación de gremios tróficos estuvo basada en lo propuesto por McNish y Stiles (1992) para las aves de los llanos orientales. Los anfibios y reptiles fueron determinados por medio de las claves elaboradas por Faivovich et al. (2005) y Rueda-Almonacid (2007). Los mamíferos que fueron registrados por medio de huellas y heces, fueron determinados siguiendo a Navarro y Muñoz (2000). El estatus de amenaza para cada uno de los grupos se estableció de acuerdo a la lista roja de especies amenazadas de la Unión Internacional para la Conservación de la Naturaleza (IUCN, 2016), así como la resolución 0192 de 2014 (Ministerio de Ambiente y Desarrollo Sostenible, 2014) y los libros rojos de Colombia para la categoría de amenaza a nivel nacional.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Predio El Povernir: se encuentra localizado en la vereda Cinaruco, en el municipio de Arauca - Arauca, georreferenciado en las siguientes coordenadas 6°44´10.1” Norte y 70°13´41.0” Oeste con una altitud de 108 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.La Ceibita: se encuentra ubicado en la vereda Matal de Flor Amarillo, en el municipio de Arauca - Arauca, georreferenciado en las coordenadas 6°40´36.4” Norte y 70°31´39.1” Oeste a una altitud de 122 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.El Guamito: en la vereda Matal de Flor Amarillo se encuentra localizado el predio El Guamito georreferenciado en las coordenadas 6°40´45.9” Norte y 70°28´01.9” Oeste con una altitud de 117 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño. Los Iguanitos: en la vereda Las Plumas se encuentra localizado el predio Los Iguanitos georreferenciado en las coordenadas 6°36´39.6” Norte y 70°31´50.7” Oeste con una altitud de 121 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para el registro de las especies pertenecientes a los diferentes grupos de fauna (aves, anfibios, reptiles y mamíferos), se empleó una Evaluación Ecológica Rápida (EER). Esta metodología consiste en recorridos aleatorios en la zona de estudio, donde se busca registrar la mayor cantidad de especies y aspectos relevantes de su ecología por medio de detecciones visuales y auditivas en un corto periodo de tiempo. Cada especie detectada fue registrada en la libreta de campo, en donde se anotó el tipo de cobertura donde se encontraba, aspectos ecológicos (hábito alimentario, sexo) y estatus (endémica, migratoria).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Revisión de especies por medio de recursos como Catalogue of Life e IUCN. Revisión de claves especializadas en cada grupo para la revisión de distribución y características generales.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project id="http://ipt.biodiversidad.co/sib/resource?r=nciarauca_buron">
+          <title>Establecimiento de nuevas Reservas de la Sociedad Civil en el departamento de Arauca-Colombia</title>
+          <personnel>
+    <individualName>
+<givenName>Maira</givenName>          <surName>Villanueva</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Angela</givenName>          <surName>Alviz</surName>
+    </individualName>
+      <userId directory="https://orcid.org/">0000-0002-7844-1418</userId>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Fueron priorizadas las sabanas inundables de las veredas Cinaruco y Matal de Flor Amarillo. Las sabanas inundables, a pesar de ser uno de los ecosistemas más representativos de la Orinoquia Colombia (González et al., 2015), no han sido incorporadas en áreas protegidas públicas, haciendo de este proyecto un aporte considerable en términos de conservación para el país. De acuerdo a lo reportado por Osorio et al., (2015), éste ecosistema es altamente vulnerable debido a la complejidad de su sistema ecológico, ya que al depender funcionalmente del régimen hidrológico y su geomorfología, cualquier modificación a dichas características ocasiona impactos considerables en la dinámica acuático-terrestre que termina por afectar las comunidades bióticas y el flujo energético de este gran ecosistema (Osorio et al., 2015). Por tal razón, consolidar RNSC que presentan este tipo de ecosistemas, constituyen una estrategia de conservación donde la inclusión de la comunidad cumple un papel esencial al ser parte de manera más activa y comprometida en acciones que permitan hacer uso sostenible de los recursos naturales para la protección de la biodiversidad y garantizar la provisión de servicios ambientales a las generaciones futuras.</para>
+          </abstract>
+          <funding>
+              <para>Naturaleza y Cultura Internacional (NCI)</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Predio El Povernir: se encuentra localizado en la vereda Cinaruco, en el municipio de Arauca - Arauca, georreferenciado en las siguientes coordenadas 6°44´10.1” Norte y 70°13´41.0” Oeste con una altitud de 108 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.La Ceibita: se encuentra ubicado en la vereda Matal de Flor Amarillo, en el municipio de Arauca - Arauca, georreferenciado en las coordenadas 6°40´36.4” Norte y 70°31´39.1” Oeste a una altitud de 122 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.El Guamito: en la vereda Matal de Flor Amarillo se encuentra localizado el predio El Guamito georreferenciado en las coordenadas 6°40´45.9” Norte y 70°28´01.9” Oeste con una altitud de 117 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño. Los Iguanitos: en la vereda Las Plumas se encuentra localizado el predio Los Iguanitos georreferenciado en las coordenadas 6°36´39.6” Norte y 70°31´50.7” Oeste con una altitud de 121 m.s.n.m. De acuerdo con Romero et al., (2004), el predio hace parte del bioma Anfiobioma de Arauca - Casanare, el cual limita al occidente con el piedemonte casanareño y aruacano, al norte con la margen izquierda del río Arauca, al oriente con el límite artificio con Venezuela y al sur con la margen derecha del río Meta hasta llegar nuevamente al piedemonte casanareño.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Para el registro de las especies pertenecientes a los diferentes grupos de fauna (aves, anfibios, reptiles y mamíferos), se empleó una Evaluación Ecológica Rápida (EER). Esta metodología consiste en recorridos aleatorios en la zona de estudio, donde se busca registrar la mayor cantidad de especies y aspectos relevantes de su ecología por medio de detecciones visuales y auditivas en un corto periodo de tiempo. Cada especie detectada fue registrada en la libreta de campo, en donde se anotó el tipo de cobertura donde se encontraba, aspectos ecológicos (hábito alimentario, sexo) y estatus (endémica, migratoria).</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:51Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/n2c9up">Alviz Á, Pérez-Albarracín K (2018). Caracterización de fauna para el establecimiento de nuevas Reservas Naturales de la Sociedad Civil en Arauca. Fundación Orinoquia Biodiversa (FOB). Occurrence dataset https://doi.org/10.15472/n2c9up accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Alves, R.D. y Filho, G. 2007. Commercialization and use of snakes in North and Northeastern Brazil: Implications for conservation and management. En: Hawksworth, D. y Bull, A. (Eds). Vertebrate Conservation and Biodiversity. Springer, Netherlands.</citation>
+      <citation>Alviz, A. y Pérez. A. K. 2015. Plan para la conservación de la danta de tierras bajas (Tapirus terrestris) en los departamentos de Casanare, Arauca y Vichada. Corporinoquia – Fundación Orinoquia Biodiversa. Yopal. 56 p.</citation>
+      <citation>Azihou A F, Glèlè Kakai R, Sinsin B. 2014. Importance of functional traits and regional species pool in predicting long-distance dispersal in savanna ecosystems. Plant Ecolology 215:651–660. DOI 10.1007/s11258-014-0330-2.</citation>
+      <citation>Barcelos, A.R., Bobrowiec, P.E.D., Sanaiotti, T.M. y Gribel, R. 2013. Seed germination from lowland tapir (Tapirus terrestris) fecal samples collected during the dry season in the northern Brazilian Amazon. Integrative Zoology, 8: 63–73.</citation>
+      <citation>BirdLife International. 2016.  La Lista Roja de la UICN de Especies Amenazadas 2016: e.T22726239A94915704. http://dx.doi.org/10.2305/IUCN.UK.2016-3.RLTS.T22726239A94915704.en . Consultado el 6 de abril del año 2017.</citation>
+      <citation>Bufalo, F.S., Galetti, M. y Culot, L. 2016. Seed Dispersal by Primates and Implications for the Conservation of a Biodiversity Hotspot, the Atlantic Forest of South America. Int J Primatol DOI 10.1007/s10764-016-9903-3.</citation>
+      <citation>Busack, S. D., y Pandya, S. 2001. Geographic variation in Caiman crocodilus and Caiman yacare (Crocodylia, Alligatoridae), systematic and legal implications. Herpetologica, 294-312.</citation>
+      <citation>Bravo, S.P. 2012. The impact of seed dispersal by black and gold howler monkeys on forest regeneration. Ecol. Res., 27: 311–321.</citation>
+      <citation>Camacho, I., dos Santos Honorato, R., Fernandes, B.C., Boechat, R.F., de Souza Filho, C. y Kanegae, M.F. 2012. Aves de rapina diurnas forrageando tanajuras (Atta sp.) em revoada em uma paisagem fragmentada de floresta atlântica, sudeste do Brasil. Revista Brasileira de Ornitologia, 20(1): 19‑21.</citation>
+      <citation>Correa-Gómez, D.F. y Stevenson, P.R. 2010. Estructura y diversidad de bosques de galería de una sabana estacional de los Llanos Orientales colombianos (Reserva Tomo Grande, Vichada). Orinoquía, 14(1): 31-48.</citation>
+      <citation>Cruz, P., Paviolo, A., Bó, R.F., Thompson, J.J. Y Di Bitetti, M.S. 2014. Daily activity patterns and habitat use of the lowland tapir (Tapirus terrestris) in the Atlantic Forest. Mammalian Biology 79: 376–383.</citation>
+      <citation>Diniz, M.F. y Brito, D. 2013. Threats to and viability of the giant anteater, Myrmecophaga tridactyla (Pilosa: Myrmecophagidae), in a protected Cerrado remnant encroached by urban expansion in central Brazil. Zoologia, 30 (2): 151–156.</citation>
+      <citation>Escalante, T., Rodríguez, G., Gámez, N., León-Paniagua, L., Barrera, O. y Sánchez-Cordero, V. 2007. Biogeografía y conservación de los mamíferos. Biodiversidad de la faja Volcánica Transmexicana. UNAM, México. Págs. 485 – 502.</citation>
+      <citation>Faivoich, J. Haddad, C. B., P. Garcia, D. Frost, J. A. Campbell y W. Wheeler. 2005. Systematic review of the frog family Hylidae, with special reference to Hylinae: Phylogenetic analysis and taxonomic revision. Bulletin of te American Museum of Natural History. 290 1-240.</citation>
+      <citation>Gardner, A.L. 2007. Mammals of South America. The University of Chicago Press. Chicago, Estados Unidos. 690 pp.</citation>
+      <citation>Green, A. y J. Figuerola. 2003. Aves acuáticas como bioindicadores en los humedales. En: Paracuellos M. Ecología, Manejo y conservación de los humedales. Instituto de Estudios Almerienses. Diputación de Almería.</citation>
+      <citation>Hilty, S. L. y Brown, W. L. 1986. A Guide to the Birds of Colombia. New Jersey, USA: Princeton University Press.</citation>
+      <citation>Kunz, T.H., Braun de Torres, E., Bauer, D., Lobova, T. y Fleming, T.H. (2011). Ecosystem services provided by bats. The Year in Ecology and Conservation Biology 1223 (2011) 1–38.</citation>
+      <citation>Lau, P. A. 2008. Patrones de utilización de los hábitats por parte de las aves, en una región de sabanas bien drenadas de los llanos orientales en Venezuela ECOTRÓPICOS 21(1):13-33.</citation>
+      <citation>McNish, T. 2007. Las Aves de los Llanos de la Orinoquía. Bogotá, Colombia: Colombo Andina de Impresos S.A.</citation>
+      <citation>Rangel. J. O., H. Sanchez-C., P. Lowly-C., M. Aguilar-P. &amp; A. Castillo-G., 1995. Región de la Orinoquia. Pp. 238-252. En: Colombia: Diversidad Biótica I. O. J. Rangel-Ch., H. Sánchez, P. Lowly, M. Aguilar, y A. Castillo (Eds.). Instituto de Ciencias Naturales, Universidad Nacional de Colombia, Santafé de Bogotá.</citation>
+      <citation>Solari, S. S., Y. Muñoz-Saba, J. V. Rodríguez-Mahecha, T. R. Defler, H, E. Ramírez-Chaves, y F. Trujillo. 2013. Riqueza, endemismo y conservación de los mamíferos de Colombia. Mastozoología Neotropical 20:301-365.</citation>
+      <citation identifier="doi:10.1016/j.tree.2005.04.005">Woodward G., Ebenman B., Emmerson M., Montoya J. M., Olesen J. M., Valido A., Warren P. H. 2005. Body-size in ecological networks. Trends Ecol. Evol. 20, 402–409</citation>
+              </bibliography>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-f-orinoquia-d.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

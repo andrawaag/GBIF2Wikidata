@@ -1,0 +1,232 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="365e1c3b-cbf4-49c4-a391-6b8a36bb7922"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/y9itpr</alternateIdentifier>
+        <alternateIdentifier>http://ipt.minam.gob.pe/ipt/resource?r=serfor-inffs-evaluacion-fauna</alternateIdentifier>
+    <title>Registro de Fauna Silvestre en el Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú</title>
+    <creator>
+    <individualName>
+<givenName>Alfonso</givenName>          <surName>Zuñiga Hartley</surName>
+    </individualName>
+<organizationName>Servicio Nacional Forestal y de Fauna Silvestre</organizationName><positionName>Especialista en Evaluaciones Poblacionales de Fauna</positionName>    <address>
+<deliveryPoint>Avenida Siete #229, Tel: (55-1) 2259005, Urb. Rinconada Baja</deliveryPoint><city>La Molina</city><administrativeArea>Lima</administrativeArea><postalCode>Lima 12</postalCode><country>PERU</country>    </address>
+<phone>+51 (1) 2259005 Anexo113</phone><electronicMailAddress>azuniga@serfor.gob.pe</electronicMailAddress><onlineUrl>http://www.serfor.gob.pe</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-3302-1268</userId>
+    </creator>
+    <creator>
+    <individualName>
+<givenName>Elvira</givenName>          <surName>Gómez Rivero</surName>
+    </individualName>
+<organizationName>Servicio Nacional Forestal y de Fauna Silvestre</organizationName><positionName>Directora (e) de la Dirección de Inventario y Valoración-SERFOR</positionName>    <address>
+<deliveryPoint>Avenida Siete #229, Tel: (55-1) 2259005, Urb. Rinconada Baja</deliveryPoint><city>La Molina</city><administrativeArea>Lima</administrativeArea><postalCode>Lima 12</postalCode><country>PERU</country>    </address>
+<phone>+51 (1) 2259005</phone><electronicMailAddress>egomez@serfor.gob.pe</electronicMailAddress><onlineUrl>http://www.serfor.gob.pe</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Alfonso</givenName>          <surName>Zuñiga Hartley</surName>
+    </individualName>
+<organizationName>Servicio Nacional Forestal y de Fauna Silvestre</organizationName><positionName>Especialista en Evaluaciones Poblacionales de Fauna</positionName>    <address>
+<deliveryPoint>Avenida Siete #229, Tel: (55-1) 2259005, Urb. Rinconada Baja</deliveryPoint><city>La Molina</city><administrativeArea>Lima</administrativeArea><postalCode>Lima 12</postalCode><country>PERU</country>    </address>
+<phone>+51 (1) 2259005 Anexo113</phone><electronicMailAddress>azuniga@serfor.gob.pe</electronicMailAddress><onlineUrl>http://www.serfor.gob.pe</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-3302-1268</userId>
+    </metadataProvider>
+      <pubDate>
+      2017-08-08
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Registros de presencia de especies de vertebrados de las clases Mammalia, Aves, Reptilia y Amphibia en 4 Ecozonas (Selva Baja, Hidromorfica, Sierra y Costa, que sirven de estratos para el muestreo) del Inventario Nacional Forestal y de Fauna Silvestre en el Perú.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Samplingevent</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Ave</keyword>
+              <keyword>Mammalia</keyword>
+              <keyword>Fauna Silvestre</keyword>
+              <keyword>Bosques</keyword>
+              <keyword>Amphibia</keyword>
+              <keyword>Perú</keyword>
+              <keyword>Reptilia</keyword>
+              <keyword>Presencia</keyword>
+              <keyword>Inventario Nacional Forestal</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://www.serfor.gob.pe/conoce/informe-del-primer-inventario-nacional-forestal-y-de-fauna-silvestre</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Los datos presentados en ésta publicación corresponden al registro de Fauna del Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú. Para ello se levanta información de unidades de muestreo distribuidas en zonas de bosque en todo el territorio peruano.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-81.475</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-68.555</eastBoundingCoordinate>
+                      <northBoundingCoordinate>0.088</northBoundingCoordinate>
+                      <southBoundingCoordinate>-18.48</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2013-01-29
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-10-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registra a todos los vertebrados silvestres identificándolos a nivel taxonómico de Especie y en su defecto a Género o Familia.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Mammalia</taxonRankValue>
+                          <commonName>Mamiferos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Amphibia</taxonRankValue>
+                          <commonName>Anfibios</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Reptilia</taxonRankValue>
+                          <commonName>Reptiles</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Alfonso</givenName>          <surName>Zuñiga Hartley</surName>
+    </individualName>
+<organizationName>Servicio Nacional Forestal y de Fauna Silvestre</organizationName><positionName>Especialista en Evaluaciones Poblacionales de Fauna</positionName>    <address>
+<deliveryPoint>Avenida Siete #229, Tel: (55-1) 2259005, Urb. Rinconada Baja</deliveryPoint><city>La Molina</city><administrativeArea>Lima</administrativeArea><postalCode>Lima 12</postalCode><country>PERU</country>    </address>
+<phone>+51 (1) 2259005 Anexo113</phone><electronicMailAddress>azuniga@serfor.gob.pe</electronicMailAddress><onlineUrl>http://www.serfor.gob.pe</onlineUrl>      <userId directory="http://orcid.org/">0000-0002-3302-1268</userId>
+      </contact>
+      <contact>
+    <individualName>
+<givenName>Elvira</givenName>          <surName>Gómez Rivero</surName>
+    </individualName>
+<organizationName>Servicio Nacional Forestal y de Fauna Silvestre</organizationName><positionName>Directora (e) de la Dirección de Inventario y Valoración-SERFOR</positionName>    <address>
+<deliveryPoint>Avenida Siete #229, Tel: (55-1) 2259005, Urb. Rinconada Baja</deliveryPoint><city>La Molina</city><administrativeArea>Lima</administrativeArea><postalCode>Lima 12</postalCode><country>PERU</country>    </address>
+<phone>+51 (1) 2259005</phone><electronicMailAddress>egomez@serfor.gob.pe</electronicMailAddress><onlineUrl>http://www.serfor.gob.pe</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los formularios de registros son llenados in situ por el especialista de fauna, en donde se toma la coordenada inicial (x, y, altitud) que hace referencia al lugar donde se empieza la caminata hacia la parcela forestal y se inicia el registro de avistamientos de fauna, lo cual generalmente ocurre desde el último centro poblado donde se hacen las coordinaciones finales para el acceso. Al terminar la evaluación se registra la coordenada final que hace referencia al punto central de la parcela forestal.
+
+  
+Los atributos considerados para cada registro de fauna son:
+
+-N°: Número de registro de la evidencia de fauna (directa o indirecta), debiendo efectuarse cada registro de manera correlativa. 
+
+-Fecha. Día, mes y año en que se toma el registro de fauna, en formato dd/mm/aa.
+
+-Hora: Hora en que se toma el dato de fauna, en formato de 24 horas.
+
+-Nombre científico: Nombre de la especie según la clasificación de taxonomía, éste consigna el género y la especie y en caso de duda se considera el género o hasta la familia.
+
+-Nombre común: idealmente el nombre conocido por la población local o en su defecto el conocido por el especialista de fauna.
+
+-Zona UTM: según corresponda
+
+-Referencia geográfica del punto de registro en coordenadas UTM en los campos del eje X y Y según corresponda.
+
+-Tipo de registro: El cual se denota el tipo de evidencia reportada en la zona de trabajo, según la siguiente clave: A=Avistamiento E=Escucha H=Huella O=Olor M=Madriguera S=Osamenta P=Piel L=Pluma F= Heces C=Cadáver
+
+-N° Foto Evidencia: Donde se consigna el código asignado a la foto que hace referencia a una evidencia de fauna. 
+
+-Características/Observaciones: Para ampliar la descripción de la presencia de fauna, directa o indirecta, observada en el campo. Este campo se llena con datos breves y precisos para ayudar a la clasificación taxonómica de las especies. 
+
+
+Sobre el Registro de evidencia directa e indirecta de fauna al interior de una unidad de muestreo:
+ 
+Al llegar a la parcela forestal se registra cualquier evidencia directa (visto o escuchado) o indirecta (huella, heces, nidos, madrigueras) de fauna silvestre. Para ello se diseñó un recorrido estandarizado en el cual el especialista camina por la parte central de cada subparcela  y al llegar al final se regresa haciendo un recorrido en zigzag.
+
+Toda la información de los formularios posteriormente es introducida a una base de datos digital para su revisión y validación previa a su uso para análisis descriptivos.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los datos presentados en ésta publicación corresponden al registro de Fauna del Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Peru. Para ello se levanta información de unidades de muestreo distribuidas en zonas de bosque en todo el territorio peruano.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Con la finalidad de tener mejor opción de registrar fauna silvestre, el especialista encargado y su personal de apoyo conforman el grupo de avanzada de la brigada forestal del INFFS, efectuando la navegación hacia la unidad de muestreo.
+
+Durante el trayecto se registran todos los avistamientos, definidos como todo contacto visual o auditivo con un espécimen de fauna silvestre durante la caminata de acceso. También se registra evidencias indirectas de la presencia de fauna silvestre, tales como, colpas, bebederos, bañaderos, comederos, plumas, pieles, osamentas, excretas, huellas, olores u otros que permitan registrar la presencia de la fauna en las zonas de trabajo. 
+
+Las observaciones son apuntadas considerando no retrasar el transito del grupo a las parcelas forestales.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Registro de Fauna Silvestre en el Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú</title>
+          <personnel>
+    <individualName>
+<givenName>Alfonso</givenName>          <surName>Zúñiga Hartley</surName>
+    </individualName>
+      <userId directory="http://orcid.org/">0000-0002-3302-1268</userId>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Elvira</givenName>          <surName>Gómez Rivero</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para>Registros de presencia de especies de vertebrados de las clases Mammalia, Aves, Reptilia y Amphibia en 4 Ecozonas (Selva Baja, Hidromorfica, Sierra y Costa, que sirven de estratos para el muestreo) del Inventario Nacional Forestal y de Fauna</para>
+          </abstract>
+          <funding>
+              <para></para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Se definió como área de estudio a todo el territorio peruano dividiéndolo en 6 ecozonas (Selva Baja, Hidromorfica, Selva Alta Accesible, Selva Alta Dificil, Sierra, Costa) basándose en el análisis de varios mapas (cobertura vegetal y uso, fisiográfico, altitudinal, vial, de accesibilidad entre otros). En cada Ecozona se definió unidades de muestreo para representar cada tipo de Ecozona y se levantó informacion de las Unidades de muestreo que se localizaban dentro de bosques. Hasta la fecha de publicación de los datos, todavía no se ha evaluado en las Ecozonas Selva Alta Accesible ni Selva Alta Dificil.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>La evaluación es continua y rotativa evaluándose 20% de cada una de las unidades de muestreo en cada estrato de manera anual completándose la evaluación después de 5 años para luego volver a realizar el ciclo de muestreo.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:55Z</dateStamp>
+      <citation>Zuñiga Hartley A, Gómez Rivero E (2017). Registro de Fauna Silvestre en el Inventario Nacional Forestal y de Fauna Silvestre-SERFOR, Perú. Servicio Nacional Forestal y de Fauna Silvestre. Sampling event dataset https://doi.org/10.15468/y9itpr accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>SERFOR. 2016. Marco metodológico del Inventario Nacional Forestal y de Fauna Silvestre. MINAGRI. SERFOR- MINAM- FAO. Ministerio de Relaciones Exteriores de Finlandia.62 p</citation>
+      <citation>SERFOR. 2016. Primer Informe Parcial del Inventario Nacional Forestal y de Fauna Silvestre. 268 p</citation>
+              </bibliography>
+              <resourceLogoUrl>http://ipt.minam.gob.pe/ipt/logo.do?r=serfor-inffs-evaluacion-fauna</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

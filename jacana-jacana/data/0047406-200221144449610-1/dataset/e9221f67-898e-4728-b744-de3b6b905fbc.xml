@@ -1,0 +1,294 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="e9221f67-898e-4728-b744-de3b6b905fbc"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/c0zdjn</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iiap/resource?r=avescienagademontanoiiap2016</alternateIdentifier>
+    <title>Avifauna Presente en la Ciénaga de Montaño, Municipio del Carmen del Darién, Chocó</title>
+    <creator>
+    <individualName>
+<givenName>Nelsy Sofia</givenName>          <surName>Urrutia</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Investigadora contratista</positionName>    <address>
+<deliveryPoint>Carrera sexta numero 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5746709126</phone><electronicMailAddress>sofibon@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Luis Eladio</givenName>          <surName>Renteria Moreno</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Investigador asociado</positionName>    <address>
+<deliveryPoint>Carrera sexta numero 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5746709126</phone>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Instituto de Investigaciones Ambientales del</givenName>          <surName>IIAP</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Institución investigadora</positionName>    <address>
+<deliveryPoint>Carrera 6 # 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>46709126</phone><electronicMailAddress>iiap@iiap.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-28
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Los humedales del Chocó Biogeográfico son considerados ecosistemas estratégicos, por su fragilidad y su valor promisorio, dado de que son poco conocidos y presentan una alta diversidad biológica, que se constituye en la fuente abastecedora de bienes y servicios para un sin número de personas que dependen de estos ecosistemas, los cuales son aprovechados de manera extractiva y que han sufrido alteraciones en sus diferentes componentes, producto de explotación forestal y minería, por falta de control y vigilancia de los entes encargados de salvaguardarlos, sumado al hecho de que se desconoce mucho de sus funcionalidad y de los ecoservicios que prestan, siendo muchas veces ignorados por el hombre que convive con ellos, con el afán de obtener un servicio inmediato de estos, que en muchos casos encuentran espacios en una sociedad que todo lo cifra en la  rentabilidad económica y en donde todavía, no se valora en términos contables los servicios ambientales, recreativos, culturales y educativos que albergan estos ambientes.
+
+Es aquí donde el Instituto de Investigaciones del Pacífico, mediantes sus diferentes estrategias y líneas de acción, ha contribuido de manera directa sobre la generación de conocimientos y ha valorado estos ecosistemas, que aunque su presión sea alta son un elemento valioso para los aspectos socioeconómicos y culturales de las la región. Por tales razones se caracterizó ecológica y socioabientalmente la Ciénaga Montaño, Bajo Atrato, donde se identificaron, priorizaron sus problemáticas y se diagnosticaron sus componentes, todos estos como ruta que garanticen su protección y sean el soporte para la elaboración de planes de manejo de los mismos y de esta manera garantizar la sostenibilidad en estos territorios del Chocó Biogeográfico.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>aves del Chocó</keyword>
+              <keyword>Humedales del Atrato</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>IIAP</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">https://ipt.biodiversidad.co/iiap/resource?r=avescienagademontanoiiap2016</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La Ciénaga de Montaño se encuentra a la margen izquierda del brazo de Montaño del rio Atrato, con una extensión de 16,171,660ha hace parte del complejo cenagoso del bajo Atrato, La ciénaga se ubica en el municipio de Carmen de Darien, localizado a los 6°55’55.87” latitud Norte y 76°58’22.96” Longitud Oeste (Ver figura 1 ), El área posee una temperatura promedio de 28º y 30° C, y una precipitación anual de 12.000 mm. Caracterizada geográficamente por ser un área plana y selvática en las proximidades del río Atrato con numerosas ciénagas; el municipio del Darien limita por el Norte, con los Municipios Río Sucio y Belén de Bajirirá, por el Oriente con el departamento de Antioquia (Municipios de Mutatá y Dabeiba), por el Sur con los Municipios de Bojayá y Bahía Solano y por el occidente con el Municipio de Río Sucio. En la región la influencia de los ríos y de las áreas de ciénagas dejan su clara influencia en el clima húmedo que prevalece, estas condiciones de ubicación y clima, son la base del hábitat de una variada y rica gama de recursos de flora y fauna, que la convierten en una importante reserva patrimonial de la biodiversidad.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.973</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-76.973</eastBoundingCoordinate>
+                      <northBoundingCoordinate>6.932</northBoundingCoordinate>
+                      <southBoundingCoordinate>6.932</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2015-07-05
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2015-07-09
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se registró un total de 237 individuos, pertenecientes a 19 familias y 27 especies; donde las familias más representativas a nivel de riqueza fueron Ardeidae, Tyrannidae y Pandionidae, con 3 especies cada una.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Anhinga anhinga</taxonRankValue>
+                          <commonName>Ardilla</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea alba</taxonRankValue>
+                          <commonName>Chigüiro</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Ardea cocoi</taxonRankValue>
+                          <commonName>Guagua</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Busarellus nigricollis</taxonRankValue>
+                          <commonName>Guatín</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Butorides striata</taxonRankValue>
+                          <commonName>Perezoso</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cairina moschata</taxonRankValue>
+                          <commonName>Sahino</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Caracara cheriway</taxonRankValue>
+                          <commonName>Venado</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Cathartes aura</taxonRankValue>
+                          <commonName>Marteja</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Certhiaxis cinnamomeus</taxonRankValue>
+                          <commonName>Mono capuchino</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chauna chavaria</taxonRankValue>
+                          <commonName>Mono aullador</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chloroceryle aenea</taxonRankValue>
+                          <commonName>Nutria</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Chrysomus icterocephalus</taxonRankValue>
+                          <commonName>Tigre</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Conopias albovittatus</taxonRankValue>
+                          <commonName>Manatí</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Coragyps atratus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Crotophaga major</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Donacobius atricapillus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Elaenia flavogaster</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Fluvicola pica</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Jacana jacana</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Megaceryle torquata</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvago chimachima</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Genus</taxonRankName>
+                        <taxonRankValue>Myrmotherula</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Notharchus tectus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Nyctibius griseus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Phalacrocorax brasilianus</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Platalea ajaja</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Porphyrio martinica</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Zulmary</givenName>          <surName>Valoyes</surName>
+    </individualName>
+<organizationName>Instituto de Investigaciones Ambientales del Pacifico</organizationName><positionName>Investigadora principal componente Ecosistemico</positionName>    <address>
+<deliveryPoint>Carrera 6 # 37-39</deliveryPoint><city>Quibdó</city><administrativeArea>Chocó</administrativeArea><postalCode>+57</postalCode><country>COLOMBIA</country>    </address>
+<phone>+5746709126</phone><electronicMailAddress>zvaloyes@iiap.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>1. Avistamiento de individuos
+2. Determinación taxonómica
+3. Determinación de los gremios tróficos
+4. Identificación del estado de conservación de la avifauna registrada</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los muestreos directos para la caracterización faunística de la ciénaga de Montaño comprendió el conjunto de ecosistemas asociados a esta, como son vegetación circundante y sistema hídrico: cuerpo de agua, caños, quebradas y rio (figura xx).  
+
+Este cuerpo de agua se caracterizó por poseer una profundidad promedio cerca de los 3.2mtrs, su espejo de aguas es negro con abundante fango y sedimento. Él área se denota por presentar una buena iluminación producida por la radiación solar, que elevaba considerablemente la temperatura del agua lo cual se veía favorecido por la coincidencia del estudio con las aguas bajas; dentro de la ciénaga, se observó una importante vegetación macrofita, que sirve de refugio y alimento a peces y grandes mamíferos como el manati (Trichechus manatus) y la lancha (Hidrochaeris isthmius); alrededor de la ciénaga el suelo se caracterizó por presentar una importante alfombra de materia orgánica en descomposición, como hojarasca y troncos de árboles que terminan cumpliendo el papel ecológico de establecerse como refugios potenciales e ideales para pequeños y medianos vertebrados.
+
+Se identificó una arquitectura y estructura vegetal representada principalmente por vegetación arbustiva que puede favorecer la ocurrencia de importante número de especies de vertebrados, lo cual se ve aún más favorecidos debido a la presencia de algunas asociaciones ecológicas de interés especial, como aracachales, cativales y sajales, que aporta sustrato para aquellas especies de vertebrados de comportamientos arborícolas o voladoras.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la identificación de la comunidad  que habita o visita la ciénaga de Montaño, se empleó el método de censo por avistamiento. Donde se observaron los individuos a partir de puntos de radio fijo y Censos aleatorios, con la ayuda de binoculares (10 x 40), en un lapso de tiempo que comprendió de las 08:00 horas a las 12:00, Horario de mayor actividad de la ornitofauna. Esto con base a la metodología propuesta por Castaño Villa (2001).</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La determinación taxonómica de las aves observadas se realizó in-situ mediante la revisión de guías ilustradas de campo de: Restall et al. (2006) y McMullan (2011). 
+
+Para determinar los gremios tróficos, las especies identificadas fueron agrupadas en 10 grupos tróficos de acuerdo con Olivares (1973), Meyer de Schauensee &amp; Phelps (1978), Hilty &amp; Brown (1986), McNish et al. (1992), Kattan et al. (1996), así: Insec (Insectivoros), Fru-Insec (Frugívoros Insectívoros), Pis (Piscivoros), Ins-Gra (Insectívoros Granivoros), Carr (Carroñeros), Car (carnívoros), Omn (Omnívoros).
+
+El estado de conservación o nivel de amenaza de la avifauna que habita o frecuenta el humedal se analizó basado en la revisión literaria y las bases de datos de BirdLife International (2013), Lista Roja de la UICN y apéndices del CITES (2015)</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Identificacion, caracterización y monitoreo de humedales costeros y continentales del chocó biogeografico</title>
+          <personnel>
+    <individualName>
+<givenName>Zulmary</givenName>          <surName>Valoyes</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para>Los humedales son ecosistemas de suma importancia, tanto para las comunidades vegetales y animales que habitan estas áreas, como también para las poblaciones humanas que interactúan con los recursos que estos le proveen (bienes y servicio), pues son fundamentales para la provista de agua dulce prevención de introducción de agua salada, recarga de acuíferos, retención de sedimentos y nutrientes, remoción de tóxicos, estabilización de microclimas, transporte, amortiguamiento de inundaciones y sequias y juegan un papel importante en el ciclo de bionutrientes. Es claro entonces que el uso racional y adecuados de los humedales brinda demasiados beneficio a las comunidades y economías locales, siendo estos beneficios mucho más importantes y notorios en aquellas áreas donde el su desarrollo las hace dependientes de lo que su entorno les brinda como es el caso de muchas de regiones del departamento del Chocó.
+
+Lo anterior advierte la importancia de realizar observaciones ecosistémicas enmarcadas y estudios exhaustivos que permitan evaluar la estructura y funcionamiento de estos sistemas como áreas potenciales de desarrollo ecológico-ambiental, esto consiste en la descripción estructural y funcional de sus componentes bióticos así como físicos, estableciendo matrices de interacción que muestren los elementos que han permitido el sostenimiento y desarrollo iterativo y transitorio de comunidades de peces, aves, anfibios reptiles y mamíferos, entre otros. 
+
+Dado lo anterior se identificó y caracterizo la ciénaga de Montaño, con el fin de evaluar el los principales componentes bióticos que esta presenta y de esta manera generar un diagnóstico previo que permita conocer el estado de este importante ecosistemas, además de establecer las pautas para iniciar con los procesos de monitoreos que permitan entender la dinámica ecológica que en esta ciénaga ocurre, a fin de proveer información fundamental para establecer posibles planes de manejos que garanticen en el tiempo y el espacio la permanencia de estos ecosistemas, su gran riqueza biológica y los bienes y servicios que esta presta a las comunidades de la región.</para>
+          </abstract>
+          <funding>
+              <para>IIAP</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>La Ciénaga de Montaño se encuentra a la margen izquierda del brazo de Montaño del rio Atrato, con una extensión de 16,171,660ha hace parte del complejo cenagoso del bajo Atrato, La ciénaga se ubica en el municipio de Carmen de Darien, localizado a los 6°55’55.87” latitud Norte y 76°58’22.96” Longitud Oeste (Ver figura 1 ), El área posee una temperatura promedio de 28º y 30° C, y una precipitación anual de 12.000 mm. Caracterizada geográficamente por ser un área plana y selvática en las proximidades del río Atrato con numerosas ciénagas; el municipio del Darien limita por el Norte, con los Municipios Río Sucio y Belén de Bajirirá, por el Oriente con el departamento de Antioquia (Municipios de Mutatá y Dabeiba), por el Sur con los Municipios de Bojayá y Bahía Solano y por el occidente con el Municipio de Río Sucio. En la región la influencia de los ríos y de las áreas de ciénagas dejan su clara influencia en el clima húmedo que prevalece, estas condiciones de ubicación y clima, son la base del hábitat de una variada y rica gama de recursos de flora y fauna, que la convierten en una importante reserva patrimonial de la biodiversidad.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:56Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/c0zdjn">Urrutia N S, Renteria Moreno L E (2019). Avifauna Presente en la Ciénaga de Montaño, Municipio del Carmen del Darién, Chocó. Instituto de Investigaciones Ambientales del Pacífico John Von Neumann - IIAP. Occurrence dataset https://doi.org/10.15472/c0zdjn accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-iiap.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,286 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="34ca7b9c-6a2f-465e-9cac-7d71c792c670"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/w2sefh</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=uis-mhn-o</alternateIdentifier>
+        <alternateIdentifier>10.15468/wmj77u</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/sib/resource?r=uis-mhn-o</alternateIdentifier>
+        <alternateIdentifier>34ca7b9c-6a2f-465e-9cac-7d71c792c670</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/sib/resource.do?r=uis-mhn-o</alternateIdentifier>
+    <title>Colección Ornitológica de la Universidad Industrial de Santander</title>
+    <creator>
+    <individualName>
+<givenName>Mauricio</givenName>          <surName>Torres</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Investigador</positionName>    <address>
+<city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>mauriciotorresmejia@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Gregorio</givenName>          <surName>Moreno</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Docente</positionName>    <address>
+<city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>jomoreno@uis.edu.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Mauricio</givenName>          <surName>Torres</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Investigador</positionName>    <address>
+<city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>mauriciotorresmejia@gmail.com</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2018-08-13
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>Datos de ejemplares de la Colección Ornitológica del Museo de Historia Natural de la Universidad Industrial de Santander, Bucaramanga, Santander, Colombia. Comprende pieles y unos pocos especímenes preservados en alcohol. Los ejemplares fueron capturados en Santander y en el Nororiente Colombiano. Las colecciones comenzaron en los años 1970s y siguen activas hasta el presente.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Colombia</keyword>
+              <keyword>Chordata</keyword>
+              <keyword>Aves</keyword>
+              <keyword>birds</keyword>
+              <keywordThesaurus>http://www.cabi.org/cabthesaurus/</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Specimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.sibcolombia.net/sib/resource.do?r=uis-mhn-o</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Colombia, principalmente del nororiente colombiano (Santander con el 68% de los especímenes, Cesar con el 24.2% y Norte de Santander con el 4%). En menor proporción también hay especímenes de Boyacá, Meta, Magdalena, Arauca, Antioquia, Valle del Cauca, Casanare y La Guajira. De los 47 municipios con especímenes en la colección, los 10 mejor representados son, en orden de abundancia, Sabana de Torres, Bucaramanga, San Martín, Chimichagua, Bolívar, Agustín Codazzi, Rionegro, Cáchira, Lebrija, Suratá y Floridablanca.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-76.317</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-70.947</eastBoundingCoordinate>
+                      <northBoundingCoordinate>11.21</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.439</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1968-02-28
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2012-05-30
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>En la colección de ornitología se registraron 1581 especímenes que se encuentran distribuidos en 23 órdenes, 61 familias, 266 géneros y 443 especies y subespecies. Los órdenes mejor representados son Passeriformes (55.9 % de los especímenes), Apodiformes (5.1%), Accipitriformes (4.9%), Piciformes  (4.7%) y Psittaciformes (3.8%). Las familias mejor representadas son Tyrannidae (13.8 % de los especímenes), Thraupidae  (12.1%), Icteridae  (5.3%), Accipitridae  (4.9%) y Trochilidae  (4.9%).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                          <commonName>Rapaces</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                          <commonName>Aves canoras</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                          <commonName>Cucos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                          <commonName>Loros, guacamayas, pericos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                          <commonName>Rapaces nocturnas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                          <commonName>Patos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                          <commonName>Garzas y otros</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                          <commonName>Carpinteros y tucanes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                          <commonName>Fragatas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                          <commonName>Halcones</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                          <commonName>Gallinetas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                          <commonName>Palomas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                          <commonName>Guardacaminos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                          <commonName>Pelícanos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                          <commonName>Jacamaras</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                          <commonName>Cigüeñas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Trogoniformes</taxonRankValue>
+                          <commonName>Trogones y quetzales</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                          <commonName>Gallinazos</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                          <commonName>Colibríes</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podicipediformes</taxonRankValue>
+                          <commonName>Zambullidores</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                          <commonName>Gallináceas</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                          <commonName>Martines pescadores</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tinamiformes</taxonRankValue>
+                          <commonName>Perdices</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Mauricio</givenName>          <surName>Torres</surName>
+    </individualName>
+<organizationName>Universidad Industrial de Santander</organizationName><positionName>Investigador</positionName>    <address>
+<city>Bucaramanga</city><administrativeArea>Santander</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>mauriciotorresmejia@gmail.com</electronicMailAddress><onlineUrl>http://ciencias.uis.edu.co/museocolecciones/</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>No se dispone de información respecto a los pasos específicos usados para cada metodología.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El origen de la gran mayoría de los especímenes es Santander, en menor medida hay colectas del Cesar, Antioquia, Arauca, Valle del Cauca, Casanare, Meta, Magdalena, Boyacá, La Guajira  y Norte de Santander. Las localidades únicas son en total 137, la mayoría del Magdalena Medio y de la vertiente occidental de la cordillera Oriental de Colombia, incluyendo bosques tropicales secos y húmedos.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>La gran mayoría de las aves es atraparon con redes de niebla. Entre los ejemplares más antiguos hay algunos que se colectaron con armas de fuego.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Convenio de Cooperación No. 13-13-014-234CE</title>
+          <personnel>
+    <individualName>
+<givenName>Mauricio</givenName>          <surName>Torres</surName>
+    </individualName>
+    <role>CUSTODIAN_STEWARD</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Convenio de Cooperación No. 13-13-014-234CE entre el Instituto de Investigación de Recursos Biológicos Alexander von Humboldt y la Universidad Industrial de Santander</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Nororiente colombiano</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Sistematización y actualización de la colección ornitológica de la UIS.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:54Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/w2sefh">Torres M, Moreno G (2018). Colección Ornitológica de la Universidad Industrial de Santander. Version 6.1. Universidad Industrial de Santander. Occurrence dataset https://doi.org/10.15472/w2sefh accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>http://ipt.biodiversidad.co/sib/logo.do?r=uis-mhn-o</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>MHN-UIS</parentCollectionIdentifier>
+                <collectionIdentifier>Registro Nacional de Colecciones Biológicas: 42</collectionIdentifier>
+                <collectionName>Colección Ornitológica de la Universidad Industrial de Santander</collectionName>
+              </collection>
+                <specimenPreservationMethod>MOUNTED</specimenPreservationMethod>
+                  <jgtiCuratorialUnit>
+                      <jgtiUnitType>Especímen</jgtiUnitType>
+                      <jgtiUnits>1</jgtiUnits>
+                  </jgtiCuratorialUnit>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

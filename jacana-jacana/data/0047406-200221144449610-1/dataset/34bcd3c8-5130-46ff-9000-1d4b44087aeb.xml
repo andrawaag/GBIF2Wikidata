@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="34bcd3c8-5130-46ff-9000-1d4b44087aeb"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/93xpud</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/sib/resource?r=aves_asociadas_arrozales_casanare_meta_2009</alternateIdentifier>
+        <alternateIdentifier>10.15468/ikkiik</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/valle/resource?r=aves_asociadas_arrozales_casanare_meta_2009</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/valle/resource.do?r=aves_asociadas_arrozales_casanare_meta_2009</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/valle/resource.do?r=aves_asociadas_arrozales_casanare_meta_2009</alternateIdentifier>
+        <alternateIdentifier>34bcd3c8-5130-46ff-9000-1d4b44087aeb</alternateIdentifier>
+    <title>Aves Playeras y Otras Aves Asociadas a Arrozales en los Departamentos de Casanare y Meta en 2009 - 2010</title>
+    <creator>
+    <individualName>
+<givenName>Jeisson Andres</givenName>          <surName>Zamudio</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Creador del recurso</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>jzamudio@calidris.org.co</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>deusse@calidris.org.co</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Castillo</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>calidris@calidris.org.co</electronicMailAddress>    <role>POINT_OF_CONTACT</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Diana</givenName>          <surName>Eusse</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<electronicMailAddress>deusse@calidris.org.co</electronicMailAddress>    <role>CONTENT_PROVIDER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Richard</givenName>          <surName>Johnston</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Ruiz</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>cruiz@calidris.org.co</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-05-31
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El conjunto de datos compuesto por 1894 registros corresponde a los censos realizados por la Asociación Calidris en los arrozales de nueve municipios de los departamentos de Casanare y Meta con el fin de conocer las aves que se encuentran asociadas a estos cultivos. Los datos fueron obtenidos entre el 9 y 15 de octubre de 2009 y el 4 y 11 de marzo de 2010. Aunque el objetivo principal fueron las aves playeras, también se registraron otras especies asociadas a este hábitat.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Abundancia</keyword>
+              <keyword>Orinoquia</keyword>
+              <keyword>Aves</keyword>
+              <keyword>Hábitat</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>VALLE_DEL_CAUCA</keyword>
+              <keywordThesaurus>SiB Colombia</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>To the extent possible under law, the publisher has waived all rights to these data and has dedicated them to the <ulink url="http://creativecommons.org/publicdomain/zero/1.0/legalcode"><citetitle>Public Domain (CC0 1.0)</citetitle></ulink>. Users may copy, modify, distribute and use the work, including for commercial purposes, without restriction.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>El área geográfica de donde proviene conjunto de datos abarca los municipios de Castilla, Granada, Puerto López y San Carlos de Guaro en el departamento del Meta y los municipios de Aguazul, Nunchía, Tauramena, Villanueva y Yopal en el departamento de Casanare.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-73.715</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-72.133</eastBoundingCoordinate>
+                      <northBoundingCoordinate>5.492</northBoundingCoordinate>
+                      <southBoundingCoordinate>3.339</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2009-10-09
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2010-03-11
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>El conjunto de datos incluye 96 especies de aves pertenecientes a 37 familias de 18 ordenes.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Charadriidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Accipitridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Alcedinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anatidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Anhingidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Apodidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Aramidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ardeidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Burhinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cathartidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Ciconiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Columbidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Cuculidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Donacobiidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Falconidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Furnariidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Hirundinidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Icteridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Jacanidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Laridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Mimidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Odontophoridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Opisthocomidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Parulidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Picidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Psittacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Rallidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Recurvirostridae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Scolopacidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thamnophilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Thraupidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Threskiornithidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Trochilidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Troglodytidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Turdidae</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Family</taxonRankName>
+                        <taxonRankValue>Tyrannidae</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Luis Fernando</givenName>          <surName>Castillo</surName>
+    </individualName>
+<organizationName>Asociación Calidris</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Cr 24 # 4-20</deliveryPoint><city>Cali</city><administrativeArea>Valle del Cauca</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>5560455</phone><electronicMailAddress>calidris@calidris.org.co</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Los censos se planearon para octubre y marzo, coincidiendo con las épocas donde se esperaba una mayor disponibilidad de estadios favorables para aves playeras (preparación, plántula), y probablemente períodos de mayor tránsito de estas aves en el área de estudio. 
+
+Los predios a muestrear fueron seleccionados intentado contar con la mayor representatividad de toda la franja arrocera de los departamentos de Meta y Casanare (mayor número de municipios y predios). También se tuvo en cuenta facilidades de acceso y contactos previos con los dueños de las fincas. Se realizaron recorridos en carro intentando cubrir la mayor parte de lotes dentro de cada predio y en cada lote se realizó uno y ocasionalmente hasta dos puntos de censo. Los métodos de campo se basan en Blanco et al. (2006).
+
+En cada punto se contó durante 10 minutos todos los chorlos y playeros dentro de un radio de 150m. Se emplearon binoculares para el censo y un telescopio para la identificación de especies a grandes distancias. Todos los conteos se realizaron entre 6:00-10:00, con excepción de  seis puntos que no pudieron ser revisados antes de las 12m.
+
+Luego de contar los chorlos y playeros se contaron otras aves acuáticas y no acuáticas (rapaces, palomas, paseriformes, etc.) presentes en el área del punto. Esto con el fin de obtener un listado total de las aves que visitan el arroz. Al finalizar los diez minutos también se contabilizaron otras aves presentes en el mismo lote de arroz, pero por fuera del área del punto.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>El área de estudio corresponde a la porción de los llanos orientales de Colombia en los departamentos de Meta y Casanare. Los muestreos se desarrollaron entre el 9 y 15 de octubre de 2009 y el 4 y 11 de marzo de 2010.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Para la obtención del conjunto de datos, se realizaron conteos en puntos de radio variable en 84 lotes en más de 25 predios arroceros y 9 municipios de la región. En cada punto se contó durante 10 minutos todas las aves playeras dentro de un radio de 150 metros. Se emplearon binoculares para el censo y un telescopio para la identificación de individuos a grandes distancias. Los conteos se realizaron entre las 06:00 y 10:00 horas, con excepción de seis puntos que no pudieron ser revisados antes de las 12:00 horas.</para>
+                </samplingDescription>
+            </sampling>
+      </methods>
+
+      <project >
+          <title>Plan de conservación de aves playeras en Colombia. Alianzas para la conservación de especies y hábitat</title>
+          <personnel>
+    <individualName>
+<givenName>Fernando</givenName>          <surName>Castillo</surName>
+    </individualName>
+    <role>POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>NEOTROPICAL MIGRATORY BIRD CONSERVATION ACT‐ GRANT 4550</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>El área de estudio se encuentra ubicada al oriente de la cordillera oriental en la Orinoquía colombiana, una zona amplia de llanuras con una gran riqueza de humedales, bosques de galería y ecosistemas de origen antrópico como cultivos de arroz, de palma africana y potreros, etc.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>El conjunto de datos se tomó durante octubre de 2009 y marzo de 2010, mediante un muestreo de radio variable para aves playeras y otras aves acuáticas, cubriendo 84 lotes en más de 25 predios arroceros y 9 municipios de la región. El objetivo del proyecto fue evaluar el uso de los arrozales por parte de las aves playeras.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/93xpud">Zamudio J A, Eusse D (2018). Aves Playeras y Otras Aves Asociadas a Arrozales en los Departamentos de Casanare y Meta en 2009 - 2010. Version 11.1. Asociación para el estudio y conservación de las aves acuáticas en Colombia - Calidris. Occurrence dataset https://doi.org/10.15472/93xpud accessed via GBIF.org on 2020-04-22.</citation>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/portal-sib/Logo-calidris.png</resourceLogoUrl>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

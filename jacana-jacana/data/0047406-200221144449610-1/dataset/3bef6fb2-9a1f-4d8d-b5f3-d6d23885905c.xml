@@ -1,0 +1,323 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="3bef6fb2-9a1f-4d8d-b5f3-d6d23885905c"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/maeoiz</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=aves_iavh</alternateIdentifier>
+        <alternateIdentifier>doi:10.15472/zzsgci</alternateIdentifier>
+        <alternateIdentifier>10.15472/zzsgci</alternateIdentifier>
+        <alternateIdentifier>10.15472/zzsgci</alternateIdentifier>
+        <alternateIdentifier>10.15468/xphb1v</alternateIdentifier>
+        <alternateIdentifier>http://ipt.biodiversidad.co/iavh/resource?r=aves_iavh</alternateIdentifier>
+        <alternateIdentifier>http://data.biodiversidad.co/iavh/resource.do?r=aves_iavh</alternateIdentifier>
+        <alternateIdentifier>http://ipt.sibcolombia.net/iavh/resource.do?r=aves_iavh</alternateIdentifier>
+        <alternateIdentifier>3bef6fb2-9a1f-4d8d-b5f3-d6d23885905c</alternateIdentifier>
+        <alternateIdentifier>14431</alternateIdentifier>
+    <title>Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A)</title>
+    <creator>
+    <individualName>
+<givenName>David</givenName>          <surName>Ocampo-Rincón</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Curador colección de aves</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>docampo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Administrador Datos Colecciones Biológicas</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>kborja@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Socorro</givenName>          <surName>Sierra</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>msierra@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humborldt.org.co</onlineUrl>    <role>PROCESSOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>David</givenName>          <surName>Ocampo-Rincón</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Curador colección de aves</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>docampo@humboldt.org.co</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-10-16
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>La colección originalmente perteneció al INDERENA (Instituto Nacional de los Recursos Naturales Renovables y del Medio Ambiente), y posteriormente pasó, junto con las demás colecciones existentes en esa institución, al Instituto Humboldt cuando este fue creado por ley en 1993. Estas colecciones fueron transportadas en 1995 desde Bogotá hasta Villa de Leyva – Boyacá, a la casa de la Real Fabrica de Licores, en  donde momentáneamente funciono el Instituto; y posteriormente, en 1996, al Claustro de San Agustín una vez fue restaurado, en donde residen actualmente.
+
+La Colección Ornitológica del Instituto Alexander von Humboldt fue fundada en 1971 por Jorge Ignacio Hernández Camacho, y sus primeros especímenes depositados desde finales de los años 1960s, fueron catalogados en marzo de 1973. Actualmente, la colección cuenta con 15.407 especímenes catalogados de 1.285 especies, que representan el 67% del total de especies registradas para Colombia. Si bien el espécimen más antiguo es de 1907, la mayoría corresponden a recolectas desde 1940 a la actualidad.</para>
+    </abstract>
+        <keywordSet>
+              <keyword></keyword>
+              <keyword>Colombia</keyword>
+              <keyword>Humboldt</keyword>
+              <keyword>Aves</keyword>
+              <keywordThesaurus>n/a</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>espécimen</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>registro biológico</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource.do?r=aves_iavh</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La clasificación departamental y municipal de Colombia sigue la clasificación del DANE, contiene muestras de aves de los 32 departamentos, y especialmente de las regiones Andina, y Orinoco.
+
+Incluye 61 especímenes de otros países incluidos el Reino Unido, Estados Unidos, Canadá, México, El Salvador, Guatemala, Nicaragua, Ecuador, Perú, Bolivia, Brasil y Australia.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-81.723</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-67.86</eastBoundingCoordinate>
+                      <northBoundingCoordinate>9.994</northBoundingCoordinate>
+                      <southBoundingCoordinate>0.074</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      1907-01-13
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2019-11-15
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los especímenes están determinados a Clase, Orden, Familia, Género, Especie y Subespecie. La clasificación taxonómica hasta el nivel de especie sigue la propuesta del South American Classification Committee - American Ornithologists&apos; Union a Abril de 2018 (http://www.museum.lsu.edu/~Remsen/SACCBaseline.html). Los ejemplares determinados a subespecie de acuerdo a Zoonomen Nomenclatural data (2002-2009) Alan P. Peterson (http://www.zoonomen.net/avtax/frame.html).</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Accipitriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Charadriiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Apodiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Strigiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Pelecaniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Passeriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Psittaciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Anseriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Piciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Suliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Caprimulgiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Gruiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Coraciiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Galbuliformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Falconiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cathartiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Ciconiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Columbiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Cuculiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Tinamiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Eurypygiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Nyctibiiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Procellariiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Opisthocomiformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Trogoniformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Phoenicopteriformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Podicipediformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Sphenisciformes</taxonRankValue>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Order</taxonRankName>
+                        <taxonRankValue>Steatornithiformes</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Carolina</givenName>          <surName>Gómez-Posada</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</organizationName><positionName>Coordinadora</positionName>    <address>
+<deliveryPoint>Carrera 8 # 15-08</deliveryPoint><city>Villa de Leyva</city><administrativeArea>Boyacá</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>cgomez@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Transcripción de catálogos físicos en Hoja de Excel (Archivo de Migración), validación de información geográfica de registros por parte de I2D, verificación de número de ejemplares por registro e identificación taxonómica hasta el nivel más detallado posible, ingreso de nuevos Números de Catálogo directamente en el Archivo de Migración, migración de registros desde Archivo de Migración a Specify y generación de archivo Darwin Core desde Specify.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para></para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Los ejemplares de la colección han sido capturados con métodos como: redes de niebla, escopeta.</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>La información mínima asociada a los ejemplares incluye (para el caso de ejemplares provenientes de Colombia): datos completos de localidad de captura (departamento, municipio, nombre o descripción de la localidad específica, coordenadas geográficas), fecha de captura, nombres completos de los colectores e información detallada del permiso de colecta que avala la captura de los ejemplares. Información adicional (ejemplo hora de captura, método de captura, descripción del hábitat, medición de parámetros biológicos de los ejemplares (ver Villarreal et al. 2006)) es también documentada.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Colecciones Biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</title>
+          <personnel>
+    <individualName>
+<givenName>Kevin-Giancarlo</givenName>          <surName>Borja-Acosta</surName>
+    </individualName>
+    <role>ADMINISTRATIVE_POINT_OF_CONTACT</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</para>
+          </funding>
+            <designDescription>
+                <description>
+                    <para>Ejemplares depositados en las colecciones biológicas del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="https://doi.org/10.15472/maeoiz">Ocampo-Rincón D, Borja-Acosta K (2019). Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A). Version 30.2. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Occurrence dataset https://doi.org/10.15472/maeoiz accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>Remsen, J. V., Jr., J. I. Areta, C. D. Cadena, S. Claramunt, A. Jaramillo, J. F. Pacheco, J. Pérez-Emán, M. B. Robbins, F. G. Stiles, D. F. Stotz, and K. J. Zimmer. Version [Apr 2017 ]. A classification of the bird species of South America. American Ornithologists&apos; Union. http://www.museum.lsu.edu/~Remsen/SACCBaseline.htm</citation>
+      <citation>&quot;Zoonomen Nomenclatural data&quot; (2013) Alan P. Peterson http://www.zoonomen.net&quot;.</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A)</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                            <formatVersion>NA</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=aves_iavh</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>IAvH-A</collectionIdentifier>
+                <collectionName>Colección de Aves del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt (IAvH-A)</collectionName>
+              </collection>
+                <specimenPreservationMethod>DRIED</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

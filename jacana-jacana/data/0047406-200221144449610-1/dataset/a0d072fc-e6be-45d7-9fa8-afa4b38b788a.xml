@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="a0d072fc-e6be-45d7-9fa8-afa4b38b788a"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15468/rcvppj</alternateIdentifier>
+        <alternateIdentifier>http://ipt.mincyt.gob.ar/resource?r=ornitologica</alternateIdentifier>
+    <title>Colección Ornitológica del IADIZA-CCT CONICET Mendoza: IADIZA-COI</title>
+    <creator>
+    <individualName>
+<givenName>Benjamin</givenName>          <surName>Bender</surName>
+    </individualName>
+<organizationName>IADIZA CCT CONICET Mendoza</organizationName><positionName>Técnico Adjunto</positionName>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Ruben</givenName>          <surName>Soria</surName>
+    </individualName>
+<organizationName>IANIGLA - CCT CONICET Mendoza</organizationName><electronicMailAddress>rsoria@mendoza-conicet.gob.ar</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Sergio Alberto</givenName>          <surName>Roig Juñent</surName>
+    </individualName>
+<organizationName>IADIZA - CCT CONICET Mendoza</organizationName>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Ruben</givenName>          <surName>Soria</surName>
+    </individualName>
+<electronicMailAddress>rsoria@mendoza-conicet.gob.ar</electronicMailAddress>    <role>USER</role>
+    </associatedParty>
+      <pubDate>
+      2017-10-04
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>2.365 registros que corresponden a la Colección Ornitológica del IADIZA CCT CONICET Mendoza (IADIZA-COI). La Colección incluye datos de aves. El Curador de esta colección es Paulo Emilio Llambias, Dr. Ciencias Naturales.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>La información proviene principalmente de localidades de Argentina y algunos países limítrofes.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-71.647</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-53.735</eastBoundingCoordinate>
+                      <northBoundingCoordinate>-46.02</northBoundingCoordinate>
+                      <southBoundingCoordinate>-22.25</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Los datos pertenecen a ejemplares actuales del reino Animalia; phylum Cordata;  Clase Aves</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>notPlanned</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Paulo Emilio</givenName>          <surName>Llambias</surName>
+    </individualName>
+<organizationName>IADIZA-CCT CONICET Mendoza</organizationName><positionName>Curador Colección</positionName>    <address>
+<country>ARGENTINA</country>    </address>
+      </contact>
+
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:53Z</dateStamp>
+      <citation>Bender B, Soria R, Roig Juñent S A (2017). Colección Ornitológica del IADIZA-CCT CONICET Mendoza: IADIZA-COI. Ministerio de Ciencia, Tecnología e Innovación Productiva. Occurrence dataset https://doi.org/10.15468/rcvppj accessed via GBIF.org on 2020-04-22.</citation>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

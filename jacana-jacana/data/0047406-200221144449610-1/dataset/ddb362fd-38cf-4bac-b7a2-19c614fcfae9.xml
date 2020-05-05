@@ -1,0 +1,278 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="ddb362fd-38cf-4bac-b7a2-19c614fcfae9"  system="http://gbif.org" scope="system"
+  xml:lang="en">
+
+<dataset>
+      <alternateIdentifier>10.15468/scshii</alternateIdentifier>
+        <alternateIdentifier>ddb362fd-38cf-4bac-b7a2-19c614fcfae9</alternateIdentifier>
+        <alternateIdentifier>http://ipt-nigeria.gbif.fr/resource?r=nigeria_birds-1000-ncf</alternateIdentifier>
+    <title>Nigerian Conservation Foundation (NCF) Database of Birds from Nigeria</title>
+    <creator>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Director Technical Programmes</positionName>    <address>
+<deliveryPoint>Lekki-Epe Expressway</deliveryPoint><city>Lagos</city><administrativeArea>Lagos State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8069211645</phone><electronicMailAddress>joseph.onoja@ncfnigeria.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Boyi</givenName>          <surName>Mohammed</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Senior Consevation Manager</positionName>    <address>
+<city>Abuja</city><administrativeArea>FCT</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8036111821</phone><electronicMailAddress>boyi.mohammed@ncfnigeria.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Joshua</givenName>          <surName>Dazi</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Project Volunteer</positionName>    <address>
+<deliveryPoint>Lekki-Epe Expressway</deliveryPoint><city>Lagos</city><administrativeArea>Lagos State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8060761260</phone><electronicMailAddress>joshua.dazi@ncfnigeria.org</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    </creator>
+    <creator>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    </metadataProvider>
+    <metadataProvider>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Director Technical Programmes</positionName>    <address>
+<deliveryPoint>Lekki-Epe Expressway</deliveryPoint><city>Lagos</city><administrativeArea>Lagos Stae</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8069211645</phone><electronicMailAddress>joseph.onoja@ncfnigeria.org</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>    <role>PRINCIPAL_INVESTIGATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Director Technical Programmes</positionName>    <address>
+<deliveryPoint>Lekki-Epe Expressway</deliveryPoint><city>Lagos</city><administrativeArea>Lagos State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8069211645</phone><electronicMailAddress>joseph.onoja@ncfnigeria.org</electronicMailAddress>    <role>CURATOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>    <role>PUBLISHER</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Marie-Elise</givenName>          <surName>Lecoq</surName>
+    </individualName>
+<organizationName>GBIF France</organizationName><positionName>IT Engineer</positionName><phone>+33140798065</phone><electronicMailAddress>melecoq@gbif.fr</electronicMailAddress>    <role>DISTRIBUTOR</role>
+    </associatedParty>
+      <pubDate>
+      2019-02-24
+      </pubDate>
+    <language>ENGLISH</language>
+    <abstract>
+        <para>The Nigerian Conservation Foundation (NCF) is the premier Non-Governmental Organization (NGO) dedicated to nature conservation and sustainable development in Nigeria. Years in action, NCF has maintained the lead in promoting biodiversity conservation, with repository data record ranging from birds to other flora and fauna: The sources of NCF Bird data, are basically from it conservation activities across Nigeria; thus, making NCF an institutional symbol of natural resource management in Nigeria. Through its conservation projects, the foundation is managing unique nature conservation sites, that provide flora and fauna resource materials for biological research and evidence on ecosystem service and stability. NCF has it National Secretariat located at the Lekki Conservation Centre in Lagos Nigeria. The dataset presently holds 2475 records of birds collected between 1993-2018 which consist of 96 families, 407 genera and 1167 species with 28 image links</para>
+    </abstract>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keyword>Birds</keyword>
+              <keyword>Nigerian Conservation Foundation</keyword>
+              <keyword>Nigeria</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Observation</keyword>
+              <keyword>Birds</keyword>
+              <keyword>Nigerian Conservation Foundation</keyword>
+              <keyword>Nigeria</keyword>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Subtype Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_subtype.xml</keywordThesaurus>
+        </keywordSet>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>Birds observations were conducted within Nigeria.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>2.856</westBoundingCoordinate>
+                      <eastBoundingCoordinate>14.59</eastBoundingCoordinate>
+                      <northBoundingCoordinate>13.667</northBoundingCoordinate>
+                      <southBoundingCoordinate>4.741</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Birds observed were identified to species rank</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Polyboroides typus</taxonRankValue>
+                          <commonName>African Harrier-hawk</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Haliaeetus vocifer</taxonRankValue>
+                          <commonName>AFRICAN FISH-EAGLE</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Terathopius ecaudatus</taxonRankValue>
+                          <commonName>BATELEUR</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Pandion haliaetus</taxonRankValue>
+                          <commonName>OSPREY</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Gyps africanus</taxonRankValue>
+                          <commonName>AFRICAN WHITE-BACKED VULTURE</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Trigonoceps occipitalis</taxonRankValue>
+                          <commonName>WHITE-HEADED VULTURE</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Necrosyrtes monachus</taxonRankValue>
+                          <commonName>HOODED VULTURE</commonName>
+                    </taxonomicClassification>
+                    <taxonomicClassification>
+                          <taxonRankName>Species</taxonRankName>
+                        <taxonRankValue>Milvus migrans</taxonRankValue>
+                          <commonName>BLACK KITE</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Oluwaseun</givenName>          <surName>Osiyemi</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Chief Research Officer</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8023626443</phone><electronicMailAddress>osinyemi2004@yahoo.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+<organizationName>Forestry Research Institute of Nigeria</organizationName><positionName>Director/Curator Forest Herbarium Ibadan (FHI)</positionName>    <address>
+<deliveryPoint>Jericho Hill, Dugbe</deliveryPoint><city>Ibadan</city><administrativeArea>Oyo State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8032236876</phone><electronicMailAddress>omokafeugbogu@yahoo.com</electronicMailAddress>      </contact>
+      <contact>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+<organizationName>Nigerian Conservation Foundation</organizationName><positionName>Director Technical Programmes</positionName>    <address>
+<deliveryPoint>Lekki-Epe Expressway</deliveryPoint><city>Lagos</city><administrativeArea>Lagos State</administrativeArea><country>NIGERIA</country>    </address>
+<phone>+234 8069211645</phone><electronicMailAddress>joseph.onoja@ncfnigeria.org</electronicMailAddress>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>In the research design, records of birds observed were digitized directly into Darwin Core spreadsheet by project team. The data cleaning was done using OpenRefine software. In the process of digitization, images of birds sighted were taken with camera and GPSmap76CSx 2008 / Garmin Etrex2016 was used for Georeferencing of localities. Validation of taxonomic records was done using Global Names Resolver and other online resources.</para>
+                </description>
+            </methodStep>
+      </methods>
+
+      <project id="BID-AF2017-0210-NAC">
+          <title>Capacity Advancement for the Nigeria node of GBIF</title>
+          <personnel>
+    <individualName>
+<givenName>Omokafe</givenName>          <surName>Ugbogu</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Okedeji</givenName>          <surName>Okeyiyin</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Joseph</givenName>          <surName>Onoja</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Peter</givenName>          <surName>Nnabude</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <personnel>
+    <individualName>
+<givenName>Zaccheaus</givenName>          <surName>Egbewole</surName>
+    </individualName>
+    <role>CURATOR</role>
+          </personnel>
+          <abstract>
+              <para>The objective of this project is to initiate mobilization of biodiversity data from Nigerian data holders, custodians, and institutions, estimated to hold more than 700,000 data records related to plants and animals within protected areas and likewise invasive, threatened and endemic species.
+While educating biodiversity data stakeholders across Nigeria on the benefits of biodiversity data mobilization and sharing, the project will also disseminate and demonstrate best practices for digitizing natural history collections through training workshops and thereby mobilize biodiversity data from Nigeria.
+Project activities will be coordinated by Forestry Research Institute of Nigeria (FRIN) and executed in collaboration with project partners at Nigeria National Park Service, Nigerian Conservation Foundation (NCF), Nnadi Azikiwe University, Awka, Nasarawa State University, and University of Kansas.
+Through this project, previously undigitized data from herbarium/museum collections and species in the protected areas in each geo-ecological zone of Nigeria will be mobilized and shared through GBIF.org, complementing data that the Nigerian GBIF node is already mobilizing.
+In addition to helping policy makers prioritize conservation investments, the mobilized data will be used to identify potential habitats for threatened species, which in turn will aid park managers to focus long-term conservation efforts. The project is expected to increase capacity for biodiversity information management within the GBIF node in Nigeria.</para>
+          </abstract>
+          <funding>
+              <para>The project was funded by European Union and GBIF. It was co funded by Forestry Research Institute of Nigeria, Nigeria National Park Service, Nigerian Conservation Foundation (NCF), Nnadi Azikiwe University Awka and Nasarawa State University.</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>The project occurred in the six geoecological zones across Nigeria. The records mobilized are those of herbarium specimens, insect collections and animals in parks and protected areas across Nigeria.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>In the research design, specimens were digitized directly into Darwin Core spreadsheet by project team. The data cleaning was done using OpenRefine software. In the process of digitization, Google Maps (GPS finder) was used for Georeferencing of localities on specimen’s records. Validation of taxonomic records was done using Global Names Resolver and other online resources.
+
+The goal of the research design is digitization of over  10000 biodiversity data and information on threatened species, invasive alien species and species in the protected areas in each geoecological zone in Nigeria</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:44Z</dateStamp>
+      <citation>Onoja J, Mohammed B, Dazi J, Ugbogu O, Osiyemi O (2019). Nigerian Conservation Foundation (NCF) Database of Birds from Nigeria. Version 1.5. Forestry Research Institute of Nigeria. Occurrence dataset https://doi.org/10.15468/scshii accessed via GBIF.org on 2020-04-22.</citation>
+              <collection>
+                <parentCollectionIdentifier></parentCollectionIdentifier>
+                <collectionIdentifier></collectionIdentifier>
+                <collectionName>Database of Birds from Nigeria</collectionName>
+              </collection>
+              <livingTimePeriod>1993-2018</livingTimePeriod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>

@@ -1,0 +1,240 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.1/eml.xsd"
+        packageId="48249f10-4b89-4b56-a1d8-83a6297bd0c7"  system="http://gbif.org" scope="system"
+  xml:lang="es">
+
+<dataset>
+      <alternateIdentifier>10.15472/19hqfw</alternateIdentifier>
+        <alternateIdentifier>https://ipt.biodiversidad.co/iavh/resource?r=puntoconteo_mojana_2018</alternateIdentifier>
+    <title>Aves de tres Macro Hábitats en la región de la Mojana, Sucre, Colombia</title>
+    <creator>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Caicedo</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 46 # 15-08</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138433913</phone><electronicMailAddress>paula.caycedo@gmail.com</electronicMailAddress>    </creator>
+    <metadataProvider>
+    <individualName>
+<givenName>Paula</givenName>          <surName>Caicedo</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>Calle 46 # 15-08</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3138433913</phone><electronicMailAddress>paula.caycedo@gmail.com</electronicMailAddress>    </metadataProvider>
+    <associatedParty>
+    <individualName>
+          <surName>Infraestructura Institucional de Datos</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName>    <address>
+<deliveryPoint>Calle 28A No. 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>i2d@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>    <role>CUSTODIAN_STEWARD</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Carlos</givenName>          <surName>Gonzalez</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Investigador</positionName>    <address>
+<deliveryPoint>Carrera 6 # 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3116976284</phone><electronicMailAddress>paula.caycedo@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+    <associatedParty>
+    <individualName>
+<givenName>Juan Carlos</givenName>          <surName>Linares</surName>
+    </individualName>
+<organizationName>Universidad de Córdoba</organizationName><positionName>Profesor</positionName>    <address>
+<deliveryPoint>Carrera 6 # 76-103</deliveryPoint><city>Montería</city><administrativeArea>Córdoba</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3205490459</phone><electronicMailAddress>paula.caycedo@gmail.com</electronicMailAddress>    <role>AUTHOR</role>
+    </associatedParty>
+      <pubDate>
+      2018-10-25
+      </pubDate>
+    <language>SPANISH</language>
+    <abstract>
+        <para>El Instituto Humboldt y la Universidad de Cordoba firmaron el convenio N°17-16-075-027CE para aunar esfuerzos técnicos, administrativos y financieros con la Universidad de Córdoba, para realizar el levantamiento y análisis de la información sobre ecología de hábitats acuáticos y percepción de servicios ecosistémicos; monitoreo a los humedales rehabilitados y actividades de divulgación y apropiación del proceso de rehabilitación de humedales, en los municipios de San Marcos, Sucre, en la región de la Mojana. 
+
+Los censos fueron hechos durante dos periodos. En aguas subiendo del 11 al 28 de noviembre del 2017 y en aguas bajas del 19 de enero al 7 de febrero del 2018.  El área de muestreo está comprendida entre los 8.548 latitud,  -75.208 longitud y 8.561 latitud, -75.096. Dentro de los 115 eventos de muestreo, se reportan 5429 registros pertenecientes a 138 especies de aves, 111 géneros, 48 familias y 20 órdenes.</para>
+    </abstract>
+        <keywordSet>
+              <keyword>zapal</keyword>
+              <keyword>caños</keyword>
+              <keyword>ríos</keyword>
+              <keyword>ciénaga</keyword>
+              <keyword>comunidad de aves</keyword>
+              <keyword>región de la Mojana</keyword>
+              <keywordThesaurus>N/A</keywordThesaurus>
+        </keywordSet>
+        <keywordSet>
+              <keyword>Occurrence</keyword>
+              <keywordThesaurus>GBIF Dataset Type Vocabulary: http://rs.gbif.org/vocabulary/gbif/dataset_type.xml</keywordThesaurus>
+        </keywordSet>
+      <additionalInfo>
+          <para>Asociado a este recurso se cuenta los informes finales en el Repositorio de Documentación Científica del IAvH y fotografías en el Banco de Imágenes Institucional.</para>
+      </additionalInfo>
+      <intellectualRights>
+        <para>This work is licensed under a <ulink url="http://creativecommons.org/licenses/by-nc/4.0/legalcode"><citetitle>Creative Commons Attribution Non Commercial (CC-BY-NC) 4.0 License</citetitle></ulink>.</para>
+      </intellectualRights>
+      <distribution scope="document">
+          <online>
+              <url function="information">http://ipt.biodiversidad.co/iavh/resource?r=puntoconteo_mojana_2018</url>
+          </online>
+      </distribution>
+      <coverage>
+            <geographicCoverage>
+                  <geographicDescription>En el área de la Mojana, Departamento de Sucre, Municipio de San Marcos, Veredas El Torno y las Flores.</geographicDescription>
+                  <boundingCoordinates>
+                      <westBoundingCoordinate>-75.208</westBoundingCoordinate>
+                      <eastBoundingCoordinate>-75.096</eastBoundingCoordinate>
+                      <northBoundingCoordinate>8.561</northBoundingCoordinate>
+                      <southBoundingCoordinate>8.548</southBoundingCoordinate>
+                  </boundingCoordinates>
+            </geographicCoverage>
+          <temporalCoverage>
+            <rangeOfDates>
+              <beginDate>
+                <calendarDate>      2017-11-12
+</calendarDate>
+              </beginDate>
+              <endDate>
+                <calendarDate>      2018-02-07
+</calendarDate>
+              </endDate>
+            </rangeOfDates>
+          </temporalCoverage>
+              <taxonomicCoverage>
+                    <generalTaxonomicCoverage>Se reportan  5429 registros pertenecientes a 138 especies de aves, 111 géneros, 48 familias, 20 órdenes.</generalTaxonomicCoverage>
+                    <taxonomicClassification>
+                          <taxonRankName>Class</taxonRankName>
+                        <taxonRankValue>Aves</taxonRankValue>
+                          <commonName>Aves</commonName>
+                    </taxonomicClassification>
+              </taxonomicCoverage>
+      </coverage>
+      <purpose>
+          <para>El Objetivo del proyecto fue hacer  el levantamiento y análisis de la información sobre la avifauna de los principales macrohábitats de la región de San Marcos, Sucre, en la región de la Mojana.  Los censos fueron hechos durante dos periodos:  En aguas subiendo del 11 al 28 de noviembre del 2017 y en aguas bajas del 19 de enero al 7 de febrero del 2018, entre los 8.548 latitud,  -75.208 longitud y 8.561 latitud, -75.096. Se reportan 5429 registros pertenecientes a 138 especies de aves, 111 géneros, 48 familias y 20 órdenes.</para>
+      </purpose>
+      <maintenance>
+          <description>
+              <para></para>
+          </description>
+          <maintenanceUpdateFrequency>unkown</maintenanceUpdateFrequency>
+      </maintenance>
+      <contact>
+    <individualName>
+<givenName>Ursula</givenName>          <surName>Jaramillo</surName>
+    </individualName>
+<organizationName>Instituto de Investigación de Recursos Biológicos Alexander Von Humboldt</organizationName><positionName>Investigadora</positionName>    <address>
+<deliveryPoint>calle 28 nro 15-09</deliveryPoint><city>Bogotá, D.C.</city><administrativeArea>Bogotá, D.C.</administrativeArea><country>COLOMBIA</country>    </address>
+<phone>3202767</phone><electronicMailAddress>ujaramillo@humboldt.org.co</electronicMailAddress><onlineUrl>http://www.humboldt.org.co</onlineUrl>      </contact>
+      <methods>
+            <methodStep>
+                <description>
+                    <para>Paso 1:
+Revisión de listas de especies y audios reportados en colecciones de sonidos de esas especies
+Paso 2:
+Grabación de puntos de conteo con micrófono direccional audiotécnica y grabadora Tascam
+Paso 3
+Revisión de las grabaciones en el programa Raven Pro 5.1, para etiquetado de las vocalizaciones de las especies de aves que estuviesen cantando
+Paso 4. 
+Uso del programa BirdWare para la organización en el lenguaje Darwin Core, revision de coordenadas,  corrección de errores de digitalización de los nombres científicos y complementar  la información taxonómica por especie de cada registro.</para>
+                </description>
+            </methodStep>
+            <sampling>
+                <studyExtent>
+                    <description>
+                        <para>Los datos fueron colectados en el sector de la Mojana, Departamento de Sucre, Municipio de San Marcos, Veredas El Torno y las Flores. Se tomaron muestras en 3 macro hábitats (Zapal, Caños y Ríos y Ciénagas) y la interacción de los zapales con los principales agro ecosistemas a nivel del paisaje: ganadería con vacas, ganadería con búfalos y arroz. Estos dos últimos agrosistemas están en realidad inmersos entre las ciénagas. 
+
+Zapal:  Los zapales es el hábitat más diverso entre lo que sobrevive en la zona. Es el reto más grande, pero el de mayor valor en el proceso de rehabilitación. Su diversidad está dictada por la complejidad estructural de la vegetación, asociada a la diversidad de especies vegetales y de sus formas de crecimiento. Los árboles de porte alto que crecen en los bordes, son remplazados por árboles de porte medio y bajo que son capaces de permanecer buena parte del año en la inundación, algunos de ellos muy especializados y desarrollando formas de crecimiento que les permiten crecer mediante clones alrededor de una planta madre. 
+
+Ciénagas. Las ciénagas retienen grandes cantidades de agua, regulan caudales de ríos, maximizan los procesos de decantación y depósitos de materiales. Se produce la re oxigenación de las aguas. Sirven como albergue de variedades de especies de flora y fauna, brindando refugio, alimento y protección de especies migratorias de peces y aves. La ciénaga es diversa en profundidades, pero se encuentra sedimentada, altamente contaminada por metales pesados e invadida por plantas como Eichhornia crassipes, que avanza en su colonización.
+
+Ríos y caños: Vegetación boscosa riparia que bordea caños y ríos. La acumulación de sedimentos genera taponamientos y la colonización de plantas pioneras y colonizadoras nativas que se establecen sobre los bordes y sectores menos húmedos. Los caños son importantes por que permiten el movimiento de  semillas, plantas y fragmentos de plantas acuáticas que colonizarán nuevos sitios, actúan como fuente de recursos,  propician el intercambio genético entre las poblaciones y el bienestar de los pobladores. En términos generales, la cobertura boscosa de los caños y los ríos han sufrido de deforestación casi completa por actividades agropecuarias y la construcción de viviendas. 
+
+Los censos fueron hechos durante dos periodos. En aguas subiendo del 11 al 28 de noviembre del 2017 y en aguas bajas del 19 de enero al 7 de febrero del 2018. 
+
+El área de muestreo está comprendida entre los 8.548 latitud,  -75.208 longitud y 8.561 latitud, -75.096.
+
+Se reportan 138 especies de aves, 111 generos, 48 familias, 20 órdenes.</para>
+                    </description>
+                </studyExtent>
+                <samplingDescription>
+                    <para>Utilizamos  puntos de conteo con radio de 50m y duración de 15 minutos. Se reportan las especies observadas y escuchadas en cada punto (Villareal et al. 2006). Cada punto estaba separado entre 100 y 150 m para evitar contar el mismo individuo dos veces. Los conteos se hicieron de 6 a 11 y de 16 a 18.  Cada punto fue muestreado 4 veces, dos mañana y dos tardes. Los principales resultados al seguir esta metodología son la estimación de las abundancias relativas, riqueza de especies, preferencias de hábitat y patrones de diversidad  (alfa y beta)</para>
+                </samplingDescription>
+            </sampling>
+            <qualityControl>
+                <description>
+                    <para>Los puntos de conteo fueron grabados en su totalidad y cada audio fue posteriormente procesado en el programa Raven Pro 5.1 (cita), con el fin de etiquetar las identificaciones entre el corte.</para>
+                </description>
+            </qualityControl>
+      </methods>
+
+      <project >
+          <title>Estrategias de rehabilitación de humedales de la región de la Mojana</title>
+          <personnel>
+    <individualName>
+<givenName>Ursula</givenName>          <surName>Jaramillo</surName>
+    </individualName>
+    <role>PRINCIPAL_INVESTIGATOR</role>
+          </personnel>
+          <abstract>
+              <para></para>
+          </abstract>
+          <funding>
+              <para>Acuerdo de cooperación 16-075 entre el Instituto Humboldt y el Programa de las Naciones Unidas para el Desarrollo (PNUD)
+Convenio N°17-16-075-027CE entre el Instituto Humboldt y la Universidad de Córdoba</para>
+          </funding>
+            <studyAreaDescription>
+                <descriptor name="generic" citableClassificationSystem="false">
+                    <descriptorValue>Comprende la región de La Mojana en jurisdicción del departamento de Sucre.</descriptorValue>
+                </descriptor>
+            </studyAreaDescription>
+            <designDescription>
+                <description>
+                    <para>Implementar estrategias de rehabilitación de humedales de la región de la Mojana buscando recomponer el suministro de servicios ecosistémicos, aumentando así el bienestar de sus habitantes, a través de la adaptación a las dinámicas naturales de una planicie de inundación.
+
+El proyecto realizado en la región de La Mojana tuvo como propósitos:
+1. Caracterizar la dinámica temporal de un ciclo hidrológico y la biodiversidad asociada a las transiciones de macrohábitats naturales (Zapal-Ciénaga, Zapal-Caño, Zapal-Río y Zapal-Aislado) e intervenidos (Zapal-Búfalo, Zapal-Potrero, Zapal-Cultivos y Ciénaga-Arroz). 
+ 2. Caracterizar la variación espacial de los macrohábitats y microhábitats de los humedales: Zapal, Caño, Ciénaga, Río y Arroyo, en la transición de ambiente húmedo a seco.</para>
+                </description>
+            </designDescription>
+      </project>
+</dataset>
+
+<additionalMetadata>
+    <metadata>
+      <gbif>
+        <dateStamp>2020-04-22T16:08:57Z</dateStamp>
+      <citation identifier="http://doi.org/10.15472/19hqfw">Caicedo P (2018). Aves de tres Macro Hábitats en la región de la Mojana, Sucre, Colombia. Instituto de Investigación de Recursos Biológicos Alexander von Humboldt. Sampling event dataset https://doi.org/10.15472/19hqfw accessed via GBIF.org on 2020-04-22.</citation>
+              <bibliography>
+      <citation>VILLARREAL H., M. ÁLVAREZ, S. CÓRDOBA, F. ESCOBAR, G. FAGUA, F. GAST, H. MENDOZA, M.
+OSPINA y A.M. UMAÑA. Segunda edición. 2006. Manual de métodos para el desarrollo de
+inventarios de biodiversidad. Programa de Inventarios de Biodiversidad. Instituto de Investigación
+de Recursos Biológicos Alexander von Humboldt. Bogotá, Colombia. 236 p</citation>
+              </bibliography>
+              <physical>
+                  <objectName>Aves de tres Macro Hábitats en la región de la Mojana, Sucre, Colombia</objectName>
+                  <characterEncoding>UTF-8</characterEncoding>
+                  <dataFormat>
+                      <externallyDefinedFormat>
+                          <formatName>txt</formatName>
+                            <formatVersion>NA</formatVersion>
+                      </externallyDefinedFormat>
+                  </dataFormat>
+                  <distribution>
+                      <online>
+                          <url function="download">http://i2d.humboldt.org.co/ceiba/resource.do?r=puntoconteo_mojana_2018</url>
+                      </online>
+                  </distribution>
+              </physical>
+              <resourceLogoUrl>https://s3.amazonaws.com/sib-resources/images/logos-socios/ipt/Logo-humboldt.jpg</resourceLogoUrl>
+              <collection>
+                <parentCollectionIdentifier>N/A</parentCollectionIdentifier>
+                <collectionIdentifier>BSA</collectionIdentifier>
+                <collectionName>Colección de Sonidos Ambientales del Instituto de Investigación de Recursos Biológicos Alexander von Humboldt</collectionName>
+              </collection>
+                <specimenPreservationMethod>OTHER</specimenPreservationMethod>
+        </gbif>
+    </metadata>
+</additionalMetadata>
+
+</eml:eml>
