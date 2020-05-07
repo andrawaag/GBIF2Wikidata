@@ -11,8 +11,6 @@ if "WDUSER" in os.environ and "WDPASS" in os.environ:
 else:
   raise ValueError("WDUSER and WDPASS must be specified in local.py or as environment variables")
 
-
-
 wikibase = "https://jacana-jacana.semscape.org/"
 api = wikibase+"w/api.php"
 sparql = wikibase+"query/sparql"
@@ -52,9 +50,11 @@ multimediaSelection.to_csv("multi.txt")
 
 for index, row in WDselection.iterrows():
     item_data = []
+
     # gbifID
     print(row["gbifID"])
-    if row["gbifID"] in existing_observsations.keys():
+    if str(row["gbifID"]) in existing_observsations.keys():
+        print("found!!!")
         continue
     item_data.append(wdi_core.WDExternalID(str(row["gbifID"]), prop_nr="P2"))
 
@@ -90,13 +90,15 @@ for index, row in WDselection.iterrows():
                                    prop_nr="P45"))
 
     for index2, row2 in multimediaSelection[multimediaSelection["gbifID"]==row["gbifID"]].iterrows():
+        qualifiers = []
         creatorQID = wdi_core.WDItemEngine.get_wd_search_results(search_string=row2["creator"], mediawiki_api_url=api)
         if len(creatorQID) == 0:
             creator_item = wdi_core.WDItemEngine(new_item=True, mediawiki_api_url=api, sparql_endpoint_url=sparql)
             creator_item.set_label(row2["creator"], lang="en")
             try_write(creator_item, record_id=row2["creator"], record_prop="", edit_summary="Add a creator", login=login)
             creatorQID.append(creator_item.wd_item_id)
-        creator = wdi_core.WDItemID(creatorQID[0], prop_nr="P21", is_qualifier=True)
+        if creatorQID[0] != "":
+            qualifiers.append(wdi_core.WDItemID(creatorQID[0], prop_nr="P21", is_qualifier=True))
 
         publisherQID = wdi_core.WDItemEngine.get_wd_search_results(search_string=row2["publisher"], mediawiki_api_url=api)
         if len(publisherQID) == 0:
@@ -104,8 +106,9 @@ for index, row in WDselection.iterrows():
             publisher_item.set_label(row2["publisher"], lang="en")
             try_write(publisher_item, record_id=row2["publisher"], record_prop="", edit_summary="Add a publisher", login=login)
             publisherQID.append(publisher_item.wd_item_id)
-        publisher = wdi_core.WDItemID(publisherQID[0], prop_nr="P46", is_qualifier=True)
-        qualifiers = [creator, publisher]
+        if publisherQID[0] != "":
+            qualifiers.append(wdi_core.WDItemID(publisherQID[0], prop_nr="P46", is_qualifier=True))
+
         item_data.append(wdi_core.WDUrl(row2["identifier"], prop_nr="P47", qualifiers=qualifiers))
 
     item = wdi_core.WDItemEngine(data=item_data, mediawiki_api_url=api, sparql_endpoint_url=sparql)
